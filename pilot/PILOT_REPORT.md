@@ -129,3 +129,21 @@ dataset-size table, by opening files) agree to within a tenth of a point. Applyi
 census papers gives about 6,170 papers; applying the observed 2.3 dataset files per paper gives about 14,000
 files. The essay quotes the more conservative 11,000 to 12,000, derived from the census's 21,186 spreadsheet
 files times the 70% of spreadsheet files that met the dataset threshold in the samples.
+
+## Hand check, round two (added 2026-09-23)
+
+45 more files from the breast, colorectal and leukemia samples (10 machine-positive and 5 machine-negative per cancer,
+seed 77; list in `data/handcheck_sample2.json`), opened and judged by a person with `peek.py`.
+
+- **30 files called "dataset": 30 are genuine data tables.** Roughly 13 primary (a 231-patient colorectal cohort
+  table with stage, age, sex and disease-free survival; peptide hits; protein abundance; mutation tables; raw and
+  normalized counts; a 5,000 × 99 phosphoproteomics matrix) and 15 derived (pathway enrichment, gene lists, Cox
+  regression, dN/dS). Two are weak (a reagent list; a meta-analysis quality-assessment table in a PDF).
+- **15 files called "not dataset": 12 correct.** The 3 misses were small results tables inside PDFs (17 and 20 rows;
+  a one-page GEE estimates table; a GO-term list rendered as text), none of dataset size.
+- One dataset appeared twice under two filenames in the same paper (Blood, PMC8532198), which is why the pipeline
+  de-duplicates by content before deposit.
+
+**Combined across both rounds (105 files): 60 of 60 "dataset" calls were real data tables; 26 of 30 rejections were
+correct, and every miss was a table under 50 rows.** By content, about half of rescued tables are primary measurements
+and half derived results.

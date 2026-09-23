@@ -5,7 +5,7 @@ import sys, zipfile, io, os, csv
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import openpyxl
 pmc, fn = sys.argv[1], sys.argv[2]; n = int(sys.argv[3]) if len(sys.argv) > 3 else 6
-z = zipfile.ZipFile(os.path.join("data", "zips", pmc + ".zip"))
+z = zipfile.ZipFile(os.path.join(os.environ.get("PILOT_DATA","data"), "zips", pmc + ".zip"))
 name = next(x for x in z.namelist() if os.path.basename(x) == fn); b = z.read(name); ext = os.path.splitext(fn.lower())[1]
 def show(rows, label):
     rows = [r for r in rows if any(c not in (None, "") for c in r)]

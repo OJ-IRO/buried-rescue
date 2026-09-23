@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Supporting Evidence</title>
+<style>
+@page{size:Letter;margin:0.45in 0.5in}
+body{font-family:Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.18;color:#111;margin:0}
+h1{font-size:14pt;margin:0 0 2pt}
+.sub{font-size:11pt;color:#333;margin:0 0 8pt}
+h2{font-size:11pt;margin:6pt 0 2pt;text-transform:uppercase;letter-spacing:.04em}
+table{border-collapse:collapse;width:100%;font-size:11pt}
+th,td{border-bottom:1px solid #bbb;padding:1pt 4pt;text-align:left;vertical-align:top}
+th{font-weight:bold;border-bottom:1.5px solid #111}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+ul{margin:2pt 0 0 14pt;padding:0}
+li{margin:0 0 1.5pt}
+.two{display:flex;gap:14pt}
+.two>div{flex:1}
+a{color:#0a4a80;text-decoration:none}
+.small{font-size:11pt;color:#333}
+</style></head><body>
+<h1>Supporting Evidence</h1>
+<p class="sub">Attachment Rescue · Track 1 (Ideas). All figures reproducible from public data with the linked code.</p>
+
+<h2>1. Census of the full population (files listed by name, nothing downloaded)</h2>
+<table>
+<tr><th>NCI-funded open-access papers, 2016–2022, with supplementary files and no data-repository accession</th><th class="n">Count</th></tr>
+<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no GEO/SRA/dbGaP/EGA/ArrayExpress/PRIDE/BioProject/MetaboLights/PDB accession)</td><td class="n">30,376</td></tr>
+<tr><td>Papers whose full text was readable · attachments listed</td><td class="n">28,949 · 89,820</td></tr>
+<tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>6,130 (21.2%)</b></td></tr>
+<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 19,818; 15.3 GB)</td><td class="n"><b>21,186</b></td></tr>
+<tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">4,673 (76%)</td></tr>
+<tr><td>Share of papers with a spreadsheet attachment, by year 2016 → 2022</td><td class="n">17% · 20% · 22% · 23% · 22% · 22% · 21%</td></tr>
+</table>
+
+<h2>2. Four random samples of 300 papers, every attachment downloaded and opened</h2>
+<table>
+<tr><th>Cancer type</th><th class="n">Population</th><th class="n">Papers with a dataset*</th><th class="n">Share</th><th class="n">CC BY / CC0</th><th class="n">Dataset files</th></tr>
+<tr><td>Glioblastoma</td><td class="n">630</td><td class="n">61 / 300</td><td class="n">20.3%</td><td class="n">46</td><td class="n">121</td></tr>
+<tr><td>Breast cancer</td><td class="n">3,104</td><td class="n">65 / 300</td><td class="n">21.7%</td><td class="n">60</td><td class="n">155</td></tr>
+<tr><td>Colorectal cancer</td><td class="n">888</td><td class="n">67 / 300</td><td class="n">22.3%</td><td class="n">58</td><td class="n">157</td></tr>
+<tr><td>Leukemia</td><td class="n">1,272</td><td class="n">63 / 300</td><td class="n">21.0%</td><td class="n">43</td><td class="n">148</td></tr>
+<tr><td><b>Pooled</b></td><td class="n"></td><td class="n"><b>256 / 1,200</b></td><td class="n"><b>21.3%</b> (95% CI 19.0–23.7%)</td><td class="n"><b>207 (81%)</b></td><td class="n"><b>581</b></td></tr>
+</table>
+<p class="small">*Dataset = largest table ≥ 50 rows × 3 columns, or ≥ 1,000 rows; PDF/Word tables count only as numeric grids; peer-review files, reporting summaries and figures excluded. Largest table: 152,683 rows. Hand check of 105 machine decisions: 60/60 "dataset" calls were real data tables; 26/30 rejections correct, every miss a table under 50 rows. About half of rescued tables are primary measurements, half derived results.</p>
+
+<div class="two">
+<div>
+<h2>3. Two live examples a reviewer can open</h2>
+<ul>
+<li><b>121-patient glioblastoma cohort table</b> (case, sex, age, location, IDH/TERT status, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, file 40478_2018_613_MOESM2_ESM.xlsx. CC BY. Listed in no catalogue.</li>
+<li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391, file 41467_2019_10912_MOESM4_ESM.xlsx. CC BY. Listed in no catalogue.</li>
+</ul>
+<h2>4. Deposit-ready packages</h2>
+<ul>
+<li>8 datasets from CC BY papers, unmodified, each with DataCite-style metadata.json (title, creators, license, article DOI, PMC ID, funder, format, size, sheet names) and README. Not yet uploaded; see governance in Prompt 4.</li>
+</ul>
+</div>
+<div>
+<h2>5. Code, data, site (open, MIT)</h2>
+<ul>
+<li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — census and classification code, raw census output, per-cancer results, packages.</li>
+<li>Public page with searchable list of the 581 dataset files and plain-language descriptions: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>
+</ul>
+<h2>6. Prior work cited</h2>
+<ul>
+<li>Gobeill et al., <i>Bioinformatics Advances</i> 2025 — 36.2 M PMC supplementary files extracted and indexed (PMC12371329).</li>
+<li>Federer et al., <i>PLOS ONE</i> 2018 (doi 10.1371/journal.pone.0194768); Colavizza et al., <i>PLOS ONE</i> 2020 (10.1371/journal.pone.0230416); Federer, 2022 (PMC9401135).</li>
+<li>Ghosh et al., <i>JNCI</i> 2025 (PMC12782234); Boja et al., <i>JCO CCI</i> 2026 (PMC13479720); Boyd et al., <i>JNCI</i> 2026 (10.1093/jnci/djag199).</li>
+<li>CBIIT INS-Data pipeline: github.com/CBIIT/INS-Data; INS disease-code mapper: github.com/CBIIT/ccdi-ins-icdo-mapping-llm.</li>
+</ul>
+</div>
+</div>
+</body></html>
