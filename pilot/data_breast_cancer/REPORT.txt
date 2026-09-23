@@ -1,0 +1,38 @@
+
+CANCER: breast cancer | population 3104 papers | sample 300 | supplements retrieved for 291
+
+PER PAPER (what is the best thing in its attachments)
+  no_tabular_data       188  62.7%
+  dataset_medium         40  13.3%
+  dataset_large          25   8.3%
+  small_table            25   8.3%
+  tables_only            13   4.3%
+  no_supp_retrieved       9   3.0%
+
+  => papers with at least one real dataset file (>=50 rows x 3 cols, or >=1000 rows): 65 of 300 = 21.7%
+  => of papers whose supplements were retrieved: 22.3%
+
+PER FILE
+  document               347  51.7%
+  dataset_medium         102  15.2%
+  small_table             90  13.4%
+  dataset_large           53   7.9%
+  other                   32   4.8%
+  tiny_table              21   3.1%
+  media                   15   2.2%
+  figure_image             7   1.0%
+  empty_or_text            4   0.6%
+
+DATASET FILES: 155; kinds: {'mixed': 38, 'omics': 65, 'numeric': 44, 'clinical': 8}
+  largest-table rows: median 322, p90 6310, max 28831
+  by extension: {'.xlsx': 123, '.pdf': 16, '.xls': 7, '.docx': 4, '.csv': 4, '.txt': 1}
+  papers with a NATIVE spreadsheet/csv dataset: 49 (16.3% of sample) | dataset only as a table inside a PDF/DOCX: 16 (5.3%)
+  papers with a PRIMARY-looking dataset (measurements, cohort/sample tables): 58 (19.3%) | only DERIVED result tables (enrichment, DEG lists, stats): 7 (2.3%)
+  licenses of dataset papers: {'untagged': 65} | freely re-depositable (cc by / cc0): 0 of 65
+
+LICENSES of sampled papers: {'unknown': 300}
+
+TOP JOURNALS among dataset papers: [('Oncotarget', 11), ('Sci Rep', 8), ('PLoS One', 5), ('Breast Cancer Res', 5), ('NPJ Breast Cancer', 4), ('Commun Biol', 2), ('BMC Med Genomics', 2), ('Nat Commun', 2)]
+
+EXTRAPOLATION (rough): 21.7% of 3104 breast cancer papers ~= 673 papers with rescuable datasets in this cancer alone;
+  applied to the ~32,000 NCI-funded papers with supplements and no accession -> ~6,933 papers (upper-bound heuristic, needs validation)

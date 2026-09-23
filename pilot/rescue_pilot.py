@@ -15,7 +15,7 @@ Everything uses public APIs; no credentials.
 import argparse, csv, io, json, os, random, re, statistics, sys, time, zipfile, urllib.request, urllib.parse, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(HERE, "data")
+DATA = os.path.join(HERE, os.environ.get("PILOT_DATA", "data"))
 EPMC = "https://www.ebi.ac.uk/europepmc/webservices/rest"
 UA = {"User-Agent": "ods-rescue-pilot/1.0 (research; contact via github)"}
 ACC = "(ACCESSION_TYPE:gen OR ACCESSION_TYPE:sra OR ACCESSION_TYPE:dbgap OR ACCESSION_TYPE:ega OR ACCESSION_TYPE:arrayexpress OR ACCESSION_TYPE:pride OR ACCESSION_TYPE:bioproject OR ACCESSION_TYPE:metabolights OR ACCESSION_TYPE:pdb)"

@@ -1,0 +1,723 @@
+pmcid,journal,year,license,file,ext,bytes,class,kind,native,n_tables,max_rows,max_cols,numfrac,genefrac,tcga_ids,derived,header
+PMC6857297,Breast Cancer Res,2019,,13058_2019_1209_MOESM1_ESM.docx,.docx,46451,small_table,numeric,False,1,31,18,0.59,0.0,0,False,Table S1: Characteristics of DISC participants in childhood and as young adults by quartiles of thelarche to menarche tempo duration. Table S1: Characteristics of DISC participants in childhood and as
+PMC7004948,Adv Radiat Oncol,2020,,mmc1.docx,.docx,19103,document,,False,0,,,,,,,
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM3_ESM.xlsx,.xlsx,9467,small_table,mixed,True,1,18,2,0.46,0.0,0,False,Table 2S: Enriched pathways from downregulated genes
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM7_ESM.xlsx,.xlsx,87572,dataset_large,mixed,True,14,302,4,0.5,0.0,0,True,© 2000-2019 QIAGEN. All rights reserved.
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM8_ESM.xlsx,.xlsx,25093,dataset_medium,omics,True,1,294,6,0.25,0.91,0,False,Gene names Protein names wt+mut WT only MUT only  -Log (p-value)
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM6_ESM.xlsx,.xlsx,57816,dataset_medium,omics,True,14,178,3,0.66,1.0,0,False,Gene_name Pvalue_w__vs__e_m FC_w__vs__e_m
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM1_ESM.pdf,.pdf,185195,document,,False,0,,,,,,,
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM2_ESM.xlsx,.xlsx,105849,dataset_large,omics,True,3,1333,5,0.4,0.0,0,True,Probeset ID Gene Symbol p-value (w [G3] vs. ev and m [G1]) Fold-Change (w [G3] vs. ev and m [G1])  Description of comparison 
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM5_ESM.xlsx,.xlsx,174199,dataset_medium,numeric,True,3,735,17,0.94,0.0,0,True,Detector Mean.G3 Mean.G1 SD.G3 SD.G1 P.val FoldChange.G3/G1 FoldChange.G3 vs G1 G1-Empty-1  G1-Empty-2  G1-Empty-3  G1-Mutant-1  G1-Mutant-2  G1-Mutant-3  G3-Wox-1  G3-Wox-2  G3-Wox-3 
+PMC7162874,Signal Transduct Target Ther,2020,,41392_2020_136_MOESM4_ESM.xlsx,.xlsx,9589,small_table,mixed,True,1,26,2,0.47,0.0,0,False,Table 3S: Enriched pathways from upregulated genes
+PMC9065442,Front Oncol,2022,,DataSheet_1.pdf,.pdf,782219,document,,False,0,,,,,,,
+PMC8515661,Part Fibre Toxicol,2021,,12989_2021_430_MOESM1_ESM.pdf,.pdf,725761,document,,False,0,,,,,,,
+PMC6033363,Oncotarget,2018,,oncotarget-09-28612-s001.pdf,.pdf,1511965,document,,False,0,,,,,,,
+PMC6521536,J Ovarian Res,2019,,13048_2019_516_MOESM1_ESM.docx,.docx,1275585,document,,False,0,,,,,,,
+PMC6521536,J Ovarian Res,2019,,13048_2019_516_MOESM2_ESM.docx,.docx,1228863,document,,False,0,,,,,,,
+PMC6516124,Oncologist,2019,,onco12638-sup0001-Appendix01.pdf,.pdf,162262,document,,False,0,,,,,,,
+PMC9691121,Genes (Basel),2022,,genes-13-02159-s001.zip,.zip,468391,other,,False,0,,,,,,,
+PMC6343755,Oncotarget,2019,,oncotarget-10-30-s003.pdf,.pdf,2169534,document,,False,0,,,,,,,
+PMC6343755,Oncotarget,2019,,oncotarget-10-30-s001.pdf,.pdf,5033554,document,,False,0,,,,,,,
+PMC6343755,Oncotarget,2019,,oncotarget-10-30-s002.xlsx,.xlsx,490860,dataset_large,omics,True,3,1778,11,0.86,0.99,0,False,High.mean Low.mean logFC t P.Value adj.P.Val
+PMC5191868,Aging (Albany NY),2016,,aging-08-2754-s002.xlsx,.xlsx,14799,dataset_medium,mixed,True,1,218,4,0.0,0.02,0,False,Luminal_Up Luminal_Down Basal_Up Basal_Down
+PMC5191868,Aging (Albany NY),2016,,aging-08-2754-s001.pdf,.pdf,1177189,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s006.xlsx,.xlsx,157460,dataset_medium,omics,True,1,411,27,0.68,1.0,0,False,Table EV5. Identified phosphosites in the immunoprecipitated proteasomes after 4h treatments with palbociclib or torin-1. 
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s004.xlsx,.xlsx,33631,dataset_medium,numeric,True,1,194,10,0.7,0.0,0,False,Table EV3. Identified kinase subset from the thermal profiling data.
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s002.xlsx,.xlsx,38950,small_table,numeric,True,1,35,65,0.96,0.0,0,False,Table EV1. Stable and abundant proteins used for normalisation of the thermal profiling data.
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s005.xlsx,.xlsx,455645,dataset_large,omics,True,1,1245,25,0.78,1.0,0,False,Table EV4. Protein level data for immunoprecipitated proteasomes after 4h treatments with palbociclib or torin-1. 
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s001.pdf,.pdf,3462264,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s003.xlsx,.xlsx,1344000,dataset_large,numeric,True,1,3709,36,0.92,0.0,0,False,Table EV2. Normalised thermal profiling data.
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s007.pdf,.pdf,535132,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s010.pdf,.pdf,3489150,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s008.pdf,.pdf,3231271,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s009.pdf,.pdf,1068124,document,,False,0,,,,,,,
+PMC5978322,EMBO J,2018,,EMBJ-37-e98359-s011.pdf,.pdf,584138,document,,False,0,,,,,,,
+PMC6899165,Nat Biomed Eng,2019,,NIHMS1530693-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
+PMC4882782,BMC Cancer,2016,,12885_2016_2372_MOESM6_ESM.docx,.docx,13534,document,,False,0,,,,,,,
+PMC4882782,BMC Cancer,2016,,12885_2016_2372_MOESM2_ESM.docx,.docx,12157,document,,False,0,,,,,,,
+PMC7301155,J Natl Cancer Inst,2020,,djz174_supplementary_data.pdf,.pdf,1144059,dataset_medium,numeric,False,1,217,17,0.56,0.01,0,False,"Study Recruitment
+area Controls Cases Years of
+diagnosis
+(cases) Age of
+cases,
+years Control group
+composition Genotyping
+Platform Genotyping site Imputation
+Reference"
+PMC7749086,Front Digit Health,2020,,Table_1.DOCX,.docx,33768,document,,False,0,,,,,,,
+PMC7200934,iScience,2020,,mmc1.pdf,.pdf,4476997,document,,False,0,,,,,,,
+PMC9526500,Oncologist,2022,,oyac159_suppl_supplementary_material.docx,.docx,22137,document,,False,0,,,,,,,
+PMC8756518,HGG Adv,2022,,mmc3.pdf,.pdf,3244518,document,,False,0,,,,,,,
+PMC8756518,HGG Adv,2022,,mmc2.xlsx,.xlsx,175079,dataset_medium,numeric,True,2,460,33,0.84,0.0,0,False,Table 4. Effect sizes for variants included in the IVW meta-analysis for 16 types of cancer and breast cancer overall and subtypes
+PMC8756518,HGG Adv,2022,,mmc1.pdf,.pdf,1752668,document,,False,0,,,,,,,
+PMC9101795,Cancers (Basel),2022,,cancers-14-02168-s001.zip,.zip,1378076,other,,False,0,,,,,,,
+PMC7051945,Front Bioeng Biotechnol,2020,,Data_Sheet_1.zip,.zip,633960,other,,False,0,,,,,,,
+PMC9629447,NAR Cancer,2022,,zcac035_supplemental_files.zip,.zip,11679509,other,,False,0,,,,,,,
+PMC5346660,Oncotarget,2016,,oncotarget-07-78566-s001.pdf,.pdf,1539772,document,,False,0,,,,,,,
+PMC7832892,Cancers (Basel),2021,,cancers-13-00344-s001.zip,.zip,539418,other,,False,0,,,,,,,
+PMC5514148,NPJ Breast Cancer,2017,,41523_2017_27_MOESM6_ESM.pdf,.pdf,47188,dataset_medium,mixed,False,1,72,4,0.34,0.0,0,True,Probe p.value Gene Symbol Associated Pathway
+PMC5514148,NPJ Breast Cancer,2017,,41523_2017_27_MOESM1_ESM.docx,.docx,115640,document,,False,0,,,,,,,
+PMC5514148,NPJ Breast Cancer,2017,,41523_2017_27_MOESM4_ESM.pdf,.pdf,252560,dataset_medium,omics,False,1,801,3,0.61,0.9,0,False,Gene Symb oFlold Chang eq m-VeatlMue-W%nt/
+PMC5514148,NPJ Breast Cancer,2017,,41523_2017_27_MOESM5_ESM.pdf,.pdf,445353,document,,False,0,,,,,,,
+PMC9385763,Breast Cancer,2022,,12282_2022_1366_MOESM1_ESM.xlsx,.xlsx,4092593,dataset_medium,numeric,True,12,277,54,0.94,0.0,0,False,Supplementary Table 2. Allele (A1) frequency and info score of HLA.  
+PMC9385763,Breast Cancer,2022,,12282_2022_1366_MOESM2_ESM.docx,.docx,15609,document,,False,0,,,,,,,
+PMC5787462,Oncotarget,2018,,oncotarget-09-249-s001.pdf,.pdf,1050819,document,,False,0,,,,,,,
+PMC5787462,Oncotarget,2018,,oncotarget-09-249-s002.avi,.avi,2551950,media,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s006.pdf,.pdf,47360,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s002.pdf,.pdf,59823,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s004.pdf,.pdf,121906,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s008.pdf,.pdf,115716,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s005.pdf,.pdf,57131,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s003.pdf,.pdf,118913,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s007.pdf,.pdf,136076,document,,False,0,,,,,,,
+PMC5986154,PLoS One,2018,,pone.0197702.s001.pdf,.pdf,74898,document,,False,0,,,,,,,
+PMC6419430,BMC Cancer,2019,,12885_2019_5382_MOESM1_ESM.pptx,.pptx,38436,figure_image,,False,0,,,,,,,
+PMC5253704,Nat Commun,2017,,ncomms14351-s1.pdf,.pdf,3063672,document,,False,0,,,,,,,
+PMC5253704,Nat Commun,2017,,ncomms14351-s2.pdf,.pdf,207790,document,,False,0,,,,,,,
+PMC6021239,Oncotarget,2018,,oncotarget-09-27736-s001.pdf,.pdf,3357349,document,,False,0,,,,,,,
+PMC6021239,Oncotarget,2018,,oncotarget-09-27736-s002.docx,.docx,20744,small_table,omics,False,1,31,11,0.35,0.97,0,False,  C4-12 C4-12 C4-12 MCF-7 MCF-7 MCF-7        
+PMC6814774,NPJ Breast Cancer,2019,,41523_2019_131_MOESM1_ESM.pdf,.pdf,1858727,document,,False,0,,,,,,,
+PMC6814774,NPJ Breast Cancer,2019,,41523_2019_131_MOESM2_ESM.pdf,.pdf,1361733,document,,False,0,,,,,,,
+PMC8547038,Nat Cancer,2021,,NIHMS1697171-supplement-Numerical_Source_Data_for_Extended_Data_Figure_6_.csv,.csv,0,empty_or_text,,True,0,,,,,,,
+PMC8096837,Sci Rep,2021,,41598_2021_89131_MOESM1_ESM.xlsx,.xlsx,30840806,dataset_large,omics,True,6,14158,8,0.75,0.01,0,True,Gene Fold change   (log2) Average Expression t P-value FDR B Significant
+PMC8096837,Sci Rep,2021,,41598_2021_89131_MOESM3_ESM.docx,.docx,1621920,document,,False,0,,,,,,,
+PMC8096837,Sci Rep,2021,,41598_2021_89131_MOESM2_ESM.xlsx,.xlsx,4381435,dataset_large,numeric,True,7,18866,13,0.69,0.0,0,True,S. No Feature name Genes Target row Distance to feature Feature strand Chromosome Start End Strand P-Value q-value Methylation difference
+PMC6117344,Sci Rep,2018,,41598_2018_30989_MOESM1_ESM.docx,.docx,24966,document,,False,0,,,,,,,
+PMC7865280,Int J Mol Sci,2021,,ijms-22-01275-s001.pdf,.pdf,1047495,document,,False,0,,,,,,,
+PMC9233847,BMC Health Serv Res,2022,,12913_2022_8193_MOESM1_ESM.pdf,.pdf,99055,document,,False,0,,,,,,,
+PMC9270695,JAMA Netw Open,2022,,jamanetwopen-e2220908-s001.pdf,.pdf,228484,document,,False,0,,,,,,,
+PMC7362578,Oncogene,2019,,NIHMS1502567-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8447690,Clin Epigenetics,2021,,13148_2021_1167_MOESM2_ESM.xlsx,.xlsx,473791,dataset_large,mixed,True,2,8123,4,0.38,0.0,0,False,common MCF7_2D MCF7_3D
+PMC8447690,Clin Epigenetics,2021,,13148_2021_1167_MOESM4_ESM.xlsx,.xlsx,1003975,dataset_large,omics,True,2,4319,13,0.85,0.99,0,True,Gene Name baseMean log2FoldChange lfcSE pvalue padj MCF7_3D_rep1 MCF7_3D_rep2 MCF7_3D_rep3 MCF7TR_3D_rep1 MCF7TR_3D_rep2 MCF7TR_3D_rep3 significant
+PMC8447690,Clin Epigenetics,2021,,13148_2021_1167_MOESM1_ESM.docx,.docx,7718030,small_table,numeric,False,3,19,4,0.71,0.0,0,False,Cell type Replicates Raw read counts Uniquely mapped read counts
+PMC8447690,Clin Epigenetics,2021,,13148_2021_1167_MOESM3_ESM.xlsx,.xlsx,485809,dataset_large,numeric,True,4,4366,5,0.8,0.0,0,False,MCF7_2D MCF7TR_2D P-TR TR-P gene
+PMC4833667,NMR Biomed,2016,,NBM-29-631-s003.docx,.docx,3385896,document,,False,0,,,,,,,
+PMC8564454,Adv Sci (Weinh),2021,,ADVS-8-2101796-s001.pdf,.pdf,1996052,document,,False,0,,,,,,,
+PMC8793384,Integr Cancer Ther,2022,,sj-docx-1-ict-10.1177_15347354211073163.docx,.docx,34435,document,,False,0,,,,,,,
+PMC8793384,Integr Cancer Ther,2022,,sj-1-ict-10.1177_15347354211073163.mp4,.mp4,38512410,media,,False,0,,,,,,,
+PMC5991460,BMC Genomics,2018,,12864_2018_4580_MOESM1_ESM.xlsx,.xlsx,17464,tiny_table,mixed,True,2,4,6,0.0,0.0,0,False,BRCA Proteins GEs CNAs
+PMC5697861,PLoS One,2017,,pone.0187630.s001.xlsx,.xlsx,20867,dataset_medium,mixed,True,1,72,9,0.5,0.0,0,False,Supplementary table 1. Prevalence of pathogenic mutations in the cohort according to different testing criteria and performance of each criteria.
+PMC5697861,PLoS One,2017,,pone.0187630.s002.xlsx,.xlsx,14195,dataset_medium,mixed,True,1,93,5,0.48,0.02,0,False,"Supplementary Table 2. BRCA1 and BRCA2 pathogenic variants identified in our cohort, and personal history of cancer of each carrier. "
+PMC9050993,Nanomicro Lett,2022,,40820_2022_861_MOESM1_ESM.pdf,.pdf,834831,document,,False,0,,,,,,,
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM5_ESM.xlsx,.xlsx,18326,small_table,numeric,True,1,43,26,0.89,0.0,0,False,Batch Sample ID Parity status 18S_Ct APOBEC3G_Ct APOBEC3G_ΔCt BHLHE22_Ct BHLHE22_ΔCt DSC3_Ct DSC3_ΔCt EAF2_Ct EAF2_ΔCt EGR3_Ct EGR3_ΔCt FOXQ1_Ct FOXQ1_ΔCt FZD8_Ct FZD8_ΔCt KRT5_Ct KRT5_ΔCt RASGRP1_Ct 
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM1_ESM.xlsx,.xlsx,104132,dataset_medium,numeric,True,1,418,20,0.78,0.0,0,True,Differentially expressed probesets
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM4_ESM.xlsx,.xlsx,21072,dataset_medium,numeric,True,1,111,10,0.6,0.0,0,False,GOBPID Pvalue OddsRatio ExpCount Count Size Term Process Genes
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM2_ESM.xlsx,.xlsx,23929,dataset_medium,numeric,True,1,107,10,0.59,0.0,0,False,GOBPID Pvalue OddsRatio ExpCount Count Size Term Process Genes
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM3_ESM.xlsx,.xlsx,17380,dataset_medium,numeric,True,1,69,10,0.59,0.0,0,False,GOBPID Pvalue OddsRatio ExpCount Count Size Term Process Genes
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM7_ESM.xlsx,.xlsx,62751,dataset_medium,numeric,True,1,322,10,0.62,0.01,0,True,GO terms enriched by genes with higher expression in the epithelial cells
+PMC6438043,Breast Cancer Res,2019,,13058_2019_1128_MOESM6_ESM.xlsx,.xlsx,194450,dataset_large,numeric,True,1,1022,15,0.55,0.0,0,False,Genes with higher expression in the stroma Genes with higher expression in the epithelium
+PMC8616148,Cells,2021,,cells-10-03008-s001.zip,.zip,168565,other,,False,0,,,,,,,
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s001.pdf,.pdf,2751283,document,,False,0,,,,,,,
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s005.docx,.docx,126890,document,,False,0,,,,,,,
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s006.docx,.docx,73537,document,,False,0,,,,,,,
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s004.xlsx,.xlsx,32672,dataset_medium,omics,True,1,412,6,0.24,0.0,0,False,Gene ID Ensembl annotation Description
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s002.xlsx,.xlsx,20337,dataset_medium,omics,True,1,216,8,0.26,0.0,0,False,Gene ID Ensembl annotation
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s003.xlsx,.xlsx,1671745,dataset_large,mixed,True,1,6310,34,0.27,0.0,0,False,Variants identified in P65 by WES
+PMC5731933,Oncotarget,2017,,oncotarget-08-102033-s007.docx,.docx,159138,document,,False,0,,,,,,,
+PMC5694825,Front Hum Neurosci,2017,,Table_1.docx,.docx,128830,tiny_table,numeric,False,1,6,6,0.71,0.2,0,False, Left calcarine Left lingual Right insula Right middle temporal Right olfactory
+PMC5627654,Int J Cancer Res Mol Mech,2017,,NIHMS859913-supplement-supplement_1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8627106,Breast Cancer Res,2021,,13058_2021_1489_MOESM1_ESM.docx,.docx,29574,document,,False,0,,,,,,,
+PMC8627106,Breast Cancer Res,2021,,13058_2021_1489_MOESM2_ESM.pdf,.pdf,78920,document,,False,0,,,,,,,
+PMC9537519,Commun Biol,2022,,42003_2022_3978_MOESM1_ESM.pdf,.pdf,3885320,document,,False,0,,,,,,,
+PMC9537519,Commun Biol,2022,,42003_2022_3978_MOESM4_ESM.xlsx,.xlsx,949581,dataset_large,mixed,True,18,26084,50,0.25,0.0,0,False,Supplementary Data 13: List of BRCA1/2 pathogenic variants in study participants
+PMC9537519,Commun Biol,2022,,42003_2022_3978_MOESM5_ESM.pdf,.pdf,1711804,document,,False,0,,,,,,,
+PMC9537519,Commun Biol,2022,,42003_2022_3978_MOESM2_ESM.pdf,.pdf,555499,document,,False,0,,,,,,,
+PMC9537519,Commun Biol,2022,,42003_2022_3978_MOESM3_ESM.pdf,.pdf,514228,document,,False,0,,,,,,,
+PMC5256100,Sci Rep,2017,,srep40773-s1.pdf,.pdf,1453400,dataset_medium,numeric,False,1,135,9,0.73,0.36,0,False,"System ESI Detected
+Peaks Technical
+Filters FC>2 % Real Peaks Changing
+/Filtered Peaks"
+PMC5384279,Sci Rep,2017,,srep45828-s1.pdf,.pdf,2254873,dataset_medium,omics,False,1,188,23,0.83,0.53,0,False,E-TABM-158 129 101 27 89 39   99 29 53 74 60 68   11
+PMC5384279,Sci Rep,2017,,srep45828-s2.xls,.xls,4269568,dataset_large,clinical,True,2,4802,62,0.56,0.85,0,False, id dataset3 dataset4 tbig302 age node size grade er pr her2 e.dmfs t.dmfs e.rfs t.rfs e.os e.dss t.os hormonal.treatment chemo.treatment pam50.robust.1 pCR.vs.no e.met.lung e.met.brain e.met.bone bce
+PMC6219670,Sci Data,2018,,sdata2018245-isa1.zip,.zip,2450,other,,False,0,,,,,,,
+PMC4863200,Organometallics,2016,,om6b00051_si_002.xyz,.xyz,32275,other,,False,0,,,,,,,
+PMC4863200,Organometallics,2016,,om6b00051_si_001.pdf,.pdf,7204005,document,,False,0,,,,,,,
+PMC4863200,Organometallics,2016,,om6b00051_si_003.cif,.cif,5477,other,,False,0,,,,,,,
+PMC5472485,Oncogene,2017,,NIHMS830628-supplement-2.docx,.docx,0,document,,False,0,,,,,,,
+PMC7147091,Oncotarget,2020,,oncotarget-11-1257-s001.pdf,.pdf,1595459,document,,False,0,,,,,,,
+PMC8069710,Pharmaceutics,2021,,pharmaceutics-13-00530-s001.pdf,.pdf,844938,document,,False,0,,,,,,,
+PMC11401740,Breast J,2022,,9533461.f1.zip,.zip,491307,other,,False,0,,,,,,,
+PMC5686836,Mol Cancer,2017,,12943_2017_740_MOESM1_ESM.pptx,.pptx,553018,figure_image,,False,0,,,,,,,
+PMC6470828,Int J Mol Sci,2019,,ijms-20-01419-s001.zip,.zip,219515,other,,False,0,,,,,,,
+PMC8062684,Sci Rep,2021,,41598_2021_88229_MOESM1_ESM.pdf,.pdf,1207576,document,,False,0,,,,,,,
+PMC9050725,NPJ Breast Cancer,2022,,41523_2022_420_MOESM3_ESM.xlsx,.xlsx,19648,small_table,mixed,True,1,22,4,0.0,0.0,0,False,"Supplementrary Table 2. Summary for eligibility criteria of the COMET, LORIS and LORD DCIS active surveillance trials "
+PMC9050725,NPJ Breast Cancer,2022,,41523_2022_420_MOESM2_ESM.xlsx,.xlsx,71765,dataset_medium,mixed,True,2,380,27,0.21,0.0,0,False,Supplementray Table 2. Individual demographic and clinical parameters of DCIS cases
+PMC9050725,NPJ Breast Cancer,2022,,41523_2022_420_MOESM1_ESM.pdf,.pdf,916897,document,,False,0,,,,,,,
+PMC7870153,PLoS One,2021,,pone.0225869.s003.docx,.docx,225731,document,,False,0,,,,,,,
+PMC7870153,PLoS One,2021,,pone.0225869.s004.docx,.docx,2488837,document,,False,0,,,,,,,
+PMC7870153,PLoS One,2021,,pone.0225869.s002.docx,.docx,97742,document,,False,0,,,,,,,
+PMC7870153,PLoS One,2021,,pone.0225869.s005.docx,.docx,1151157,document,,False,0,,,,,,,
+PMC7870153,PLoS One,2021,,pone.0225869.s001.docx,.docx,340267,document,,False,0,,,,,,,
+PMC6997081,Am J Clin Nutr,2020,,nqz302_supplemental_file.pdf,.pdf,696088,document,,False,0,,,,,,,
+PMC6169574,Oncoimmunology,2018,,koni-07-10-1484982-s001.zip,.zip,2134510,other,,False,0,,,,,,,
+PMC8230452,Cancers (Basel),2021,,cancers-13-02909-s001.zip,.zip,941640,other,,False,0,,,,,,,
+PMC8600133,Front Oncol,2021,,DataSheet_1.docx,.docx,46408,small_table,omics,False,3,30,6,0.46,0.97,0,False, AGATA AGATA TCGA TCGA 
+PMC6009543,BMJ Open,2018,,bmjopen-2018-022138supp001.pdf,.pdf,38152,document,,False,0,,,,,,,
+PMC6009543,BMJ Open,2018,,bmjopen-2018-022138.reviewer_comments.pdf,.pdf,248447,document,,False,0,,,,,,,
+PMC6009543,BMJ Open,2018,,bmjopen-2018-022138.draft_revisions.pdf,.pdf,1882927,document,,False,0,,,,,,,
+PMC4791069,Nat Cell Biol,2016,,NIHMS742992-supplement-8.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8278587,BMC Med Genomics,2021,,12920_2021_1032_MOESM9_ESM.xlsx,.xlsx,55176,dataset_medium,omics,True,3,96,11,0.72,0.97,0,False,"gene % Unique Variants that are C->T N Unique Variants SKAT-O p SKAT-O p, weighted Logistic Regression OR Logistic Regression CI Logistic Regression p Logistic Regression OR, weighted Logistic Regress"
+PMC8278587,BMC Med Genomics,2021,,12920_2021_1032_MOESM7_ESM.xlsx,.xlsx,53622,dataset_medium,omics,True,3,96,11,0.72,0.97,0,False,"gene % Unique Variants that are C->T N Unique Variants SKAT-O p SKAT-O p, weighted Logistic Regression OR Logistic Regression CI Logistic Regression p Logistic Regression OR, weighted Logistic Regress"
+PMC8278587,BMC Med Genomics,2021,,12920_2021_1032_MOESM6_ESM.xlsx,.xlsx,19635,dataset_medium,numeric,True,1,97,7,0.85,0.0,0,False,category QGR_signature FFPE_signature denovo_signatureA denovo_signatureB denovo_signatureC denovo_signatureD
+PMC8278587,BMC Med Genomics,2021,,12920_2021_1032_MOESM8_ESM.xlsx,.xlsx,53248,dataset_medium,omics,True,3,96,11,0.72,0.97,0,False,"gene % Unique Variants that are C->T N Unique Variants SKAT-O p SKAT-O p, weighted Logistic Regression OR Logistic Regression CI Logistic Regression p Logistic Regression OR, weighted Logistic Regress"
+PMC8278587,BMC Med Genomics,2021,,12920_2021_1032_MOESM3_ESM.xlsx,.xlsx,41921,dataset_medium,numeric,True,1,211,18,0.71,0.02,0,False,anon_id_unique group plate excluded.sample grp total N. Excluded Variants N. Non-Excluded Variants N. Not PASS variants N. PASS variants N. Total Variants Mean UMT Mean MT Mean DP Mean UMT/Mean DP Gen
+PMC7853173,JNCI Cancer Spectr,2021,,pkaa125_supplementary_data.pdf,.pdf,129886,document,,False,0,,,,,,,
+PMC9633499,Breast Cancer Res Treat,2022,,10549_2022_6743_MOESM1_ESM.docx,.docx,40264,document,,False,0,,,,,,,
+PMC7938033,Cancer Causes Control,2021,,10552_2021_1409_MOESM1_ESM.docx,.docx,71040,small_table,mixed,False,4,12,6,0.36,0.0,0,False, Google Trends data Google Trends data Google Trends data Google Trends data Google Trends data
+PMC7593621,Breast,2020,,mmc1.docx,.docx,623262,document,,False,0,,,,,,,
+PMC5239492,Oncotarget,2016,,oncotarget-07-51503-s001.pdf,.pdf,699958,document,,False,0,,,,,,,
+PMC5239492,Oncotarget,2016,,oncotarget-07-51503-s002.docx,.docx,19519,dataset_medium,numeric,False,1,50,4,0.72,0.0,0,False,Probe ID  2D 3D Fold
+PMC8494188,JNCI Cancer Spectr,2021,,pkab032_supplementary_data.pdf,.pdf,122059,document,,False,0,,,,,,,
+PMC5348311,Oncotarget,2016,,oncotarget-07-80164-s001.pdf,.pdf,1997186,document,,False,0,,,,,,,
+PMC9314348,Nat Commun,2022,,41467_2022_32017_MOESM3_ESM.pdf,.pdf,321613,document,,False,0,,,,,,,
+PMC9314348,Nat Commun,2022,,41467_2022_32017_MOESM4_ESM.xlsx,.xlsx,729376,dataset_large,omics,True,51,60,201,0.98,0.98,0,False,Supplementary Note 2
+PMC9314348,Nat Commun,2022,,41467_2022_32017_MOESM1_ESM.pdf,.pdf,12579935,document,,False,0,,,,,,,
+PMC9314348,Nat Commun,2022,,41467_2022_32017_MOESM2_ESM.pdf,.pdf,4090059,document,,False,0,,,,,,,
+PMC7544215,Nucleic Acids Res,2020,,gkaa733_supplemental_files.zip,.zip,5742813,other,,False,0,,,,,,,
+PMC6267911,BMC Cancer,2018,,12885_2018_5088_MOESM1_ESM.docx,.docx,16156,tiny_table,numeric,False,2,9,8,0.78,0.0,0,False,Marker Age Ethnicity BMI Hormone use Smoking Parity NSAID use
+PMC8244801,J Natl Cancer Inst,2021,,djab100_supplementary_data.pdf,.pdf,431089,document,,False,0,,,,,,,
+PMC9523704,Nano Lett,2022,,nl2c01327_si_003.avi,.avi,526408,media,,False,0,,,,,,,
+PMC9523704,Nano Lett,2022,,nl2c01327_si_001.pdf,.pdf,9758830,document,,False,0,,,,,,,
+PMC9523704,Nano Lett,2022,,nl2c01327_si_002.avi,.avi,1615758,media,,False,0,,,,,,,
+PMC4868715,Oncotarget,2016,,oncotarget-07-5702-s001.xlsx,.xlsx,17683,dataset_medium,clinical,True,1,73,18,0.39,0.0,67,False,Table S1. Information of paired Invasive breast cancer samples from TCGA database.
+PMC4868715,Oncotarget,2016,,oncotarget-07-5702-s003.pdf,.pdf,93102,document,,False,0,,,,,,,
+PMC4868715,Oncotarget,2016,,oncotarget-07-5702-s004.xlsx,.xlsx,25402,dataset_medium,clinical,True,2,206,5,0.6,0.0,204,False,Table S4. Invasive breast carcinoma samples in which expression levels of both miR-100 and mTOR are available in the TCGA database.
+PMC4868715,Oncotarget,2016,,oncotarget-07-5702-s002.pdf,.pdf,83088,document,,False,0,,,,,,,
+PMC6930663,Molecules,2019,,molecules-24-04385-s001.zip,.zip,1391731,other,,False,0,,,,,,,
+PMC9446134,JMIR Cancer,2022,,cancer_v8i3e36889_app2.pdf,.pdf,110959,document,,False,0,,,,,,,
+PMC9446134,JMIR Cancer,2022,,cancer_v8i3e36889_app3.pdf,.pdf,92866,document,,False,0,,,,,,,
+PMC9446134,JMIR Cancer,2022,,cancer_v8i3e36889_app1.pdf,.pdf,102679,document,,False,0,,,,,,,
+PMC9446134,JMIR Cancer,2022,,cancer_v8i3e36889_app4.pdf,.pdf,4394771,document,,False,0,,,,,,,
+PMC7939353,PLoS One,2021,,pone.0248220.s002.docx,.docx,350107,document,,False,0,,,,,,,
+PMC7939353,PLoS One,2021,,pone.0248220.s001.docx,.docx,557632,document,,False,0,,,,,,,
+PMC5192436,Metabolites,2016,,metabolites-06-00030-s001.pdf,.pdf,114665,document,,False,0,,,,,,,
+PMC8449801,Clin Pharmacol Ther,2021,,CPT-110-1038-s002.pdf,.pdf,1145125,dataset_medium,mixed,False,1,65,15,0.45,0.02,0,False,"SNP Chr BP CA MA geno.
+type Key.
+ANA Key.
+EXE Key.Int
+eractio
+n RefGene Func.RefGene"
+PMC8449801,Clin Pharmacol Ther,2021,,CPT-110-1038-s001.xlsx,.xlsx,146491,dataset_medium,numeric,True,1,263,45,0.82,0.0,0,False,Table S2: Validating top interaction results of the SNP-by-drug analysis forbreast cnacer recurrence for two aromatase inhibiors comparison in the anastrozole GWAS (N=2226) and Exemestane GWAS (N=2239
+PMC8449801,Clin Pharmacol Ther,2021,,CPT-110-1038-s003.xlsx,.xlsx,2855497,dataset_large,omics,True,2,20116,18,0.6,0.99,0,False,Supplemental Table 6: LY75 co-expressed genes in TCGA ER+ breast cancer sample set.
+PMC8449801,Clin Pharmacol Ther,2021,,CPT-110-1038-s004.xlsx,.xlsx,169382,dataset_medium,numeric,True,1,889,20,0.75,0.0,0,False,Table S1: Top interaction results of the SNP-by-drug analysis for breast cancer recurrence for two aromatase inhibitor comparison. NT5C3A SNPs DFNA5 SNPs NPLOC4 SNPs
+PMC4854653,Nature,2016,,NIHMS742790-supplement-supp_table1.xlsx,.xlsx,0,empty_or_text,,True,0,,,,,,,
+PMC7801129,Cell Adh Migr,2021,,KCAM_A_1868694_SM2990.docx,.docx,1903266,document,,False,0,,,,,,,
+PMC6208406,Nat Commun,2018,,41467_2018_7002_MOESM1_ESM.pdf,.pdf,13671959,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM2_ESM.pdf,.pdf,141783,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM5_ESM.pdf,.pdf,17402,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM1_ESM.pdf,.pdf,217318,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM4_ESM.pdf,.pdf,106780,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM6_ESM.pdf,.pdf,28273,document,,False,0,,,,,,,
+PMC7160960,Breast Cancer Res,2020,,13058_2020_1270_MOESM3_ESM.pdf,.pdf,535425,document,,False,0,,,,,,,
+PMC6405439,JNCI Cancer Spectr,2018,,pky078_supp.docx,.docx,392362,document,,False,0,,,,,,,
+PMC6220360,Mol Pharm,2018,,mp8b00388_si_001.pdf,.pdf,577636,document,,False,0,,,,,,,
+PMC8238238,Oncotarget,2021,,oncotarget-12-1230-s002.docx,.docx,19428,document,,False,0,,,,,,,
+PMC8238238,Oncotarget,2021,,oncotarget-12-1230-s001.pdf,.pdf,616344,document,,False,0,,,,,,,
+PMC8263909,Front Oncol,2021,,Table_1.docx,.docx,249828,document,,False,0,,,,,,,
+PMC4718995,Front Immunol,2016,,Data_Sheet_1.DOCX,.docx,79739,document,,False,0,,,,,,,
+PMC7017236,Cancers (Basel),2020,,cancers-12-00128-s001.pdf,.pdf,1069468,document,,False,0,,,,,,,
+PMC4799943,Cancer Med,2016,,CAM4-5-558-s001.doc,.doc,50688,document,,False,0,,,,,,,
+PMC7578759,iScience,2020,,mmc1.pdf,.pdf,7033467,document,,False,0,,,,,,,
+PMC9076612,Sci Rep,2022,,41598_2022_11478_MOESM1_ESM.docx,.docx,20127,document,,False,0,,,,,,,
+PMC5739415,PLoS One,2017,,pone.0189756.s001.docx,.docx,19850,document,,False,0,,,,,,,
+PMC5739415,PLoS One,2017,,pone.0189756.s003.docx,.docx,17690,document,,False,0,,,,,,,
+PMC5739415,PLoS One,2017,,pone.0189756.s004.docx,.docx,17580,document,,False,0,,,,,,,
+PMC5739415,PLoS One,2017,,pone.0189756.s002.docx,.docx,19188,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc6.docx,.docx,11039,small_table,clinical,False,1,30,8,0.55,0.0,0,False,Study ID (21-50) # OF PATIENTS # OF OPBCS PATIENTS MEAN AGE OF OPBCS PATIENTS # OF SBCS PATIENTS MEAN AGE OF SBCS PATIENTS BREAST CANCER STAGE MEDIAN FOLLOW-UP
+PMC7970134,Breast,2021,,mmc3.pptx,.pptx,41966,figure_image,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc2.docx,.docx,19362,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc1.docx,.docx,8703,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc7.docx,.docx,22371,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc8.docx,.docx,53941,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc4.docx,.docx,26290,document,,False,0,,,,,,,
+PMC7970134,Breast,2021,,mmc5.docx,.docx,44779,document,,False,0,,,,,,,
+PMC9527379,Trials,2022,,13063_2022_6580_MOESM1_ESM.docx,.docx,39827,document,,False,0,,,,,,,
+PMC6767396,J Magn Reson Imaging,2019,,JMRI-50-836-s001.docx,.docx,15937,document,,False,0,,,,,,,
+PMC9706042,Integr Cancer Ther,2022,,sj-pdf-2-ict-10.1177_15347354221137285.pdf,.pdf,2105281,document,,False,0,,,,,,,
+PMC9706042,Integr Cancer Ther,2022,,sj-docx-1-ict-10.1177_15347354221137285.docx,.docx,14662,document,,False,0,,,,,,,
+PMC5762501,Oncotarget,2017,,oncotarget-08-112170-s002.csv,.csv,93928,dataset_large,numeric,True,1,2579,4,0.75,0.0,0,False, Lower 95% CI AUC Upper 95% CI
+PMC5762501,Oncotarget,2017,,oncotarget-08-112170-s001.pdf,.pdf,632090,document,,False,0,,,,,,,
+PMC5762501,Oncotarget,2017,,oncotarget-08-112170-s004.txt,.txt,29555,dataset_medium,mixed,True,1,423,8,0.01,0.0,0,False,# Scripts writen by Nicholas H. Farina and David J. Shirley
+PMC5762501,Oncotarget,2017,,oncotarget-08-112170-s003.csv,.csv,55217,dataset_large,mixed,True,1,2579,2,0.5,0.0,0,False, ANOVA p-value
+PMC5204351,Genes Dev,2016,,supp_30_23_2581__index.html,.html,883,other,,False,0,,,,,,,
+PMC5204351,Genes Dev,2016,,supp_gad.289439.116_Supplemental_Figures_Legends.pdf,.pdf,2676657,document,,False,0,,,,,,,
+PMC7870839,NPJ Breast Cancer,2021,,41523_2021_215_MOESM1_ESM.pdf,.pdf,1312784,document,,False,0,,,,,,,
+PMC7870839,NPJ Breast Cancer,2021,,41523_2021_215_MOESM2_ESM.pdf,.pdf,71210,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s061.xlsx,.xlsx,810529,dataset_large,omics,True,1,6840,10,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC           Spine-435 / 1o Tumor-435 FC                     Adj.             p-Va
+PMC7668614,PLoS One,2020,,pone.0242384.s066.xlsx,.xlsx,618287,dataset_large,omics,True,1,3076,9,0.5,0.0,0,False,Nr Description Gene ID Gene Symbol Linear FC                  Lung-435 / 1o Tumor-435 Nr Description Gene ID Gene Symbol Linear FC Lung-435 / 1o Tumor-435
+PMC7668614,PLoS One,2020,,pone.0242384.s028.docx,.docx,30067,small_table,numeric,False,1,20,6,0.59,0.16,0,True,S17 Table. Transcriptomic-based Unique pathways for the metastatic Lung-231 cell line. S17 Table. Transcriptomic-based Unique pathways for the metastatic Lung-231 cell line. S17 Table. Transcriptomic-
+PMC7668614,PLoS One,2020,,pone.0242384.s031.docx,.docx,30403,small_table,numeric,False,1,23,6,0.6,0.09,0,True,S20 Table. Common proteome and transcriptome pathways for the metastatic Liver-435 cell line. S20 Table. Common proteome and transcriptome pathways for the metastatic Liver-435 cell line. S20 Table. C
+PMC7668614,PLoS One,2020,,pone.0242384.s076.xlsx,.xlsx,265856,dataset_medium,numeric,True,2,529,53,0.62,0.32,0,True,Source External Pathway ID Brain Down Pathways # of Genes in Set # of Observed Genes  Observed Genes/ Genes in Set p-value q-value Source External Pathway ID Liver Down Pathways # of Genes in Set # of
+PMC7668614,PLoS One,2020,,pone.0242384.s043.docx,.docx,32143,small_table,numeric,False,1,23,6,0.6,0.32,0,True,S32 Table. Metabolomic-based Unique pathways for the metastatic Spine-435 cell line. S32 Table. Metabolomic-based Unique pathways for the metastatic Spine-435 cell line. S32 Table. Metabolomic-based U
+PMC7668614,PLoS One,2020,,pone.0242384.s067.xlsx,.xlsx,233143,dataset_large,omics,True,1,1128,9,0.5,0.0,0,False,Nr Description Gene ID Gene Symbol Linear FC Spine-435 / 1o Tumor-435 Nr Description Gene ID Gene Symbol Linear FC Spine-435 / 1o Tumor-435
+PMC7668614,PLoS One,2020,,pone.0242384.s060.xlsx,.xlsx,801663,dataset_large,omics,True,1,6840,10,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                              Lung-435 / 1o Tumor-435 FC             Adj. p-Valu
+PMC7668614,PLoS One,2020,,pone.0242384.s033.docx,.docx,30401,small_table,omics,False,1,23,6,0.6,0.55,0,False,S22 Table. Common proteome and transcriptome pathways for the metastatic Spine-435 cell line. S22 Table. Common proteome and transcriptome pathways for the metastatic Spine-435 cell line. S22 Table. C
+PMC7668614,PLoS One,2020,,pone.0242384.s071.xlsx,.xlsx,129938,dataset_medium,omics,True,1,806,20,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                                Liver-435 / 1o Tumor-435 Accession Biological Pr
+PMC7668614,PLoS One,2020,,pone.0242384.s062.xlsx,.xlsx,856284,dataset_large,omics,True,1,6840,12,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                            Lung-231 / 1o Tumor-231) FC                   Adj.  
+PMC7668614,PLoS One,2020,,pone.0242384.s074.xlsx,.xlsx,276694,dataset_large,omics,True,1,1415,19,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC Lung-231 / 1o Tumor-231 Accession Biological Process Molecular Function Entrez 
+PMC7668614,PLoS One,2020,,pone.0242384.s015.docx,.docx,30291,small_table,numeric,False,1,23,7,0.65,0.05,0,True,S4 Table. Proteomic-based pathway discovery for the metastatic Spine-435 cell line. S4 Table. Proteomic-based pathway discovery for the metastatic Spine-435 cell line. S4 Table. Proteomic-based pathwa
+PMC7668614,PLoS One,2020,,pone.0242384.s077.xlsx,.xlsx,187204,dataset_medium,numeric,True,2,291,53,0.62,0.14,0,True,External Pathway ID Source Brain Down Pathways # of Genes in Set # of Observed Genes  Observed Genes/ Genes in Set p-value q-value External Pathway ID Source Liver Down Pathways # of Genes in Set # of
+PMC7668614,PLoS One,2020,,pone.0242384.s084.xlsx,.xlsx,50758,dataset_medium,mixed,True,3,84,54,0.28,0.49,0,True,External Pathway ID Source Spine Up Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/Members in Set p-value q-value Individual Metabolites in Pathway: CAS #s Individual M
+PMC7668614,PLoS One,2020,,pone.0242384.s022.docx,.docx,30760,small_table,numeric,False,1,23,8,0.67,0.45,0,True,S11 Table. Transcritomic-based pathway discovery for the metastatic Lung-231 cell line. S11 Table. Transcritomic-based pathway discovery for the metastatic Lung-231 cell line. S11 Table. Transcritomic
+PMC7668614,PLoS One,2020,,pone.0242384.s027.docx,.docx,30747,small_table,numeric,False,1,23,6,0.6,0.5,0,True,S16 Table. Transcriptomic-based Unique pathways for the metastatic Spine-435 cell line. S16 Table. Transcriptomic-based Unique pathways for the metastatic Spine-435 cell line. S16 Table. Transcriptomi
+PMC7668614,PLoS One,2020,,pone.0242384.s064.xlsx,.xlsx,180978,dataset_large,omics,True,1,1206,9,0.5,0.0,0,False,Nr Description Gene ID Gene Symbol Linear FC Brain-435 / 1o Tumor-435 Nr Description Gene ID Gene Symbol Linear FC Brain-435 / 1o Tumor-435
+PMC7668614,PLoS One,2020,,pone.0242384.s083.xlsx,.xlsx,157362,dataset_medium,omics,True,3,795,75,0.32,0.54,0,True,External Pathway ID Source Lung Down Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/Members in Set p-value q-value Individual Metabolites in Pathway: CAS #s Individual 
+PMC7668614,PLoS One,2020,,pone.0242384.s063.xlsx,.xlsx,804841,dataset_large,omics,True,1,6840,10,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC        Lymph Node-231 / 1o Tumor-231 FC                  Adj.                  
+PMC7668614,PLoS One,2020,,pone.0242384.s058.xlsx,.xlsx,793064,dataset_large,omics,True,1,6840,10,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                            Brain-435 / 1o Tumor-435) FC                   Adj. 
+PMC7668614,PLoS One,2020,,pone.0242384.s046.docx,.docx,29224,small_table,numeric,False,1,20,11,0.73,0.42,0,True,S35 Table. Common metabolomic and proteomic pathways for the metastatic Lung-435 cell line. S35 Table. Common metabolomic and proteomic pathways for the metastatic Lung-435 cell line. S35 Table. Commo
+PMC7668614,PLoS One,2020,,pone.0242384.s037.docx,.docx,30496,small_table,numeric,False,1,23,6,0.6,0.36,0,True,S26 Table. Metabolomic-based pathway discovery for the metastatic Liver-435 cell line. S26 Table. Metabolomic-based pathway discovery for the metastatic Liver-435 cell line. S26 Table. Metabolomic-bas
+PMC7668614,PLoS One,2020,,pone.0242384.s034.docx,.docx,30613,small_table,numeric,False,1,23,6,0.6,0.18,0,True,S23 Table. Common proteome and transcriptome pathways for the metastatic Lung-231 cell line. S23 Table. Common proteome and transcriptome pathways for the metastatic Lung-231 cell line. S23 Table. Com
+PMC7668614,PLoS One,2020,,pone.0242384.s041.docx,.docx,31917,small_table,omics,False,1,23,6,0.6,0.68,0,True,S30 Table. Metabolomic-based Unique pathways for the metastatic Liver-435 cell line. S30 Table. Metabolomic-based Unique pathways for the metastatic Liver-435 cell line. S30 Table. Metabolomic-based U
+PMC7668614,PLoS One,2020,,pone.0242384.s050.docx,.docx,28655,tiny_table,numeric,False,1,7,11,0.55,0.17,0,True,S39 Table. Common metabolomic and transcriptomic pathways for the metastatic Lung-435 cell line. S39 Table. Common metabolomic and transcriptomic pathways for the metastatic Lung-435 cell line. S39 Ta
+PMC7668614,PLoS One,2020,,pone.0242384.s057.docx,.docx,29301,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s073.xlsx,.xlsx,117131,dataset_medium,omics,True,1,607,19,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC           Spine-435 / 1o Tumor-435 Accession Biological Process Molecular Funct
+PMC7668614,PLoS One,2020,,pone.0242384.s039.docx,.docx,32087,small_table,numeric,False,1,23,6,0.6,0.41,0,True,S28 Table. Metabolomic-based pathway discovery for the metastatic Spine-435 cell line. S28 Table. Metabolomic-based pathway discovery for the metastatic Spine-435 cell line. S28 Table. Metabolomic-bas
+PMC7668614,PLoS One,2020,,pone.0242384.s045.docx,.docx,31572,small_table,numeric,False,1,19,11,0.72,0.22,0,True,S34 Table. Common metabolomic and proteomic pathways for the metastatic Liver-435 cell line. S34 Table. Common metabolomic and proteomic pathways for the metastatic Liver-435 cell line. S34 Table. Com
+PMC7668614,PLoS One,2020,,pone.0242384.s055.docx,.docx,29160,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s078.xlsx,.xlsx,39732,dataset_medium,numeric,True,3,174,17,0.62,0.44,0,True,External Pathway ID Source Brain Up Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/ Members in Set p-value q-value Source External Pathway ID Brain Up Proteome Pathways
+PMC7668614,PLoS One,2020,,pone.0242384.s030.docx,.docx,30453,small_table,numeric,False,1,23,6,0.6,0.23,0,True,S19 Table. Common proteome and transcriptome pathways for the metastatic Brain-435 cell line. S19 Table. Common proteome and transcriptome pathways for the metastatic Brain-435 cell line. S19 Table. C
+PMC7668614,PLoS One,2020,,pone.0242384.s069.xlsx,.xlsx,706731,dataset_large,omics,True,1,3786,10,0.5,0.0,0,False,Nr Description GeneID Gene Symbol Linear FC Lymph Node-231 / 1o Tumor-231 Nr Description GeneID Gene Symbol Linear FC Lymph Node-231 / 1o Tumor-231
+PMC7668614,PLoS One,2020,,pone.0242384.s070.xlsx,.xlsx,211532,dataset_large,omics,True,1,1190,19,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                            Brain-435 / 1o Tumor-435) Accession Biological Proce
+PMC7668614,PLoS One,2020,,pone.0242384.s072.xlsx,.xlsx,195942,dataset_medium,omics,True,1,943,19,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                              Lung-435 / 1o Tumor-435 Accession Biological Proce
+PMC7668614,PLoS One,2020,,pone.0242384.s014.docx,.docx,30487,small_table,numeric,False,1,23,7,0.58,0.18,0,True,S3 Table. Proteomic-based pathway discovery for the metastatic Lung-435 cell line. S3 Table. Proteomic-based pathway discovery for the metastatic Lung-435 cell line. S3 Table. Proteomic-based pathway 
+PMC7668614,PLoS One,2020,,pone.0242384.s068.xlsx,.xlsx,649448,dataset_large,omics,True,1,2485,10,0.5,0.0,0,False,Nr Description GeneID Gene Symbol Linear FC             Lung-231 / 1o Tumor-231  Nr Description GeneID Gene Symbol Linear FC             Lung-231 / 1o Tumor-231 
+PMC7668614,PLoS One,2020,,pone.0242384.s081.xlsx,.xlsx,406272,dataset_large,mixed,True,3,1739,170,0.28,0.44,0,True,External Pathway ID Source Liver Down Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/ Members in Set p-value q-value Individual Metabolites in Pathway: CAS #s Individua
+PMC7668614,PLoS One,2020,,pone.0242384.s032.docx,.docx,29999,small_table,numeric,False,1,19,6,0.55,0.11,0,True,S21 Table. Common proteome and transcriptome pathways for the metastatic Lung-435 cell line. S21 Table. Common proteome and transcriptome pathways for the metastatic Lung-435 cell line. S21 Table. Com
+PMC7668614,PLoS One,2020,,pone.0242384.s054.docx,.docx,28914,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s080.xlsx,.xlsx,62667,dataset_medium,omics,True,3,291,17,0.62,0.78,0,True,External Pathway ID Source Liver Up Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/ Members in Set p-value q-value External Pathway ID Source Liver Up Transcriptomic Pa
+PMC7668614,PLoS One,2020,,pone.0242384.s048.docx,.docx,30798,small_table,numeric,False,1,16,11,0.68,0.07,0,True,S37 Table. Common metabolomic and transcriptomic pathways for the metastatic Brain-435 cell line. S37 Table. Common metabolomic and transcriptomic pathways for the metastatic Brain-435 cell line. S37 
+PMC7668614,PLoS One,2020,,pone.0242384.s018.docx,.docx,30760,small_table,numeric,False,1,23,8,0.66,0.09,0,True,S7 Table. Transcriptomic-based pathway discovery for the metastatic Brain-435 cell line. S7 Table. Transcriptomic-based pathway discovery for the metastatic Brain-435 cell line. S7 Table. Transcriptom
+PMC7668614,PLoS One,2020,,pone.0242384.s020.docx,.docx,30434,small_table,numeric,False,1,23,6,0.6,0.14,0,True,S9 Table. Transcriptomic-based pathway discovery for the metastatic Lung-435 cell line. S9 Table. Transcriptomic-based pathway discovery for the metastatic Lung-435 cell line. S9 Table. Transcriptomic
+PMC7668614,PLoS One,2020,,pone.0242384.s026.docx,.docx,30651,small_table,numeric,False,1,23,7,0.65,0.09,0,True,S15 Table. Transcriptomic-based Unique pathways for the metastatic Lung-435 cell line. S15 Table. Transcriptomic-based Unique pathways for the metastatic Lung-435 cell line. S15 Table. Transcriptomic-
+PMC7668614,PLoS One,2020,,pone.0242384.s025.docx,.docx,30542,small_table,numeric,False,1,23,6,0.53,0.14,0,True,S14 Table. Transcriptomic-based Unique pathways for the metastatic Liver-435 cell line. S14 Table. Transcriptomic-based Unique pathways for the metastatic Liver-435 cell line. S14 Table. Transcriptomi
+PMC7668614,PLoS One,2020,,pone.0242384.s075.xlsx,.xlsx,305166,dataset_large,omics,True,1,1564,19,0.27,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC        Lymph Node-231 / 1o Tumor-231 Accession Biological Process Molecular Fun
+PMC7668614,PLoS One,2020,,pone.0242384.s024.docx,.docx,30192,small_table,numeric,False,1,20,6,0.59,0.26,0,True,S13 Table. Transcriptomic-based Unique pathways for the metastatic Brain-435 cell line. S13 Table. Transcriptomic-based Unique pathways for the metastatic Brain-435 cell line. S13 Table. Transcriptomi
+PMC7668614,PLoS One,2020,,pone.0242384.s036.docx,.docx,30548,small_table,numeric,False,1,23,6,0.6,0.32,0,True,S25 Table. Metabolomic-based pathway discovery for the metastatic Brain-435 cell line. S25 Table. Metabolomic-based pathway discovery for the metastatic Brain-435 cell line. S25 Table. Metabolomic-bas
+PMC7668614,PLoS One,2020,,pone.0242384.s021.docx,.docx,30416,small_table,numeric,False,1,23,6,0.6,0.27,0,True,S10 Table. Transcriptomic-based pathway discovery for the metastatic Spine-435 cell line. S10 Table. Transcriptomic-based pathway discovery for the metastatic Spine-435 cell line. S10 Table. Transcrip
+PMC7668614,PLoS One,2020,,pone.0242384.s059.xlsx,.xlsx,806734,dataset_large,omics,True,1,6840,10,0.35,0.0,0,True,Accession Biological Process Molecular Function Entrez Gene ID Ensembl Gene ID Gene Symbol WikiPathways KEGG Pathways FC                                Liver-435 / 1o Tumor-435 FC                     
+PMC7668614,PLoS One,2020,,pone.0242384.s044.docx,.docx,33377,small_table,numeric,False,1,20,11,0.73,0.26,0,True,S33 Table. Common metabolomic and proteomic pathways for the metastatic Brain-435 cell line. S33 Table. Common metabolomic and proteomic pathways for the metastatic Brain-435 cell line. S33 Table. Com
+PMC7668614,PLoS One,2020,,pone.0242384.s065.xlsx,.xlsx,257025,dataset_large,omics,True,1,1824,9,0.5,0.0,0,False,Nr Description Gene ID Gene Symbol  Linear FC Liver-435 / 1o Tumor-435 Nr Description Gene ID Gene Symbol Linear FC Liver-435 / 1o Tumor-435
+PMC7668614,PLoS One,2020,,pone.0242384.s023.docx,.docx,30425,small_table,mixed,False,1,23,6,0.45,0.41,0,True,S12 Table. Transcriptomic-based pathway discovery for the metastatic Lymph Node-231 cell line. S12 Table. Transcriptomic-based pathway discovery for the metastatic Lymph Node-231 cell line. S12 Table.
+PMC7668614,PLoS One,2020,,pone.0242384.s013.docx,.docx,30561,small_table,numeric,False,1,23,7,0.65,0.18,0,True,S2 Table. Proteomic-based pathway discovery for the metastatic Liver-435 cell line. S2 Table. Proteomic-based pathway discovery for the metastatic Liver-435 cell line. S2 Table. Proteomic-based pathwa
+PMC7668614,PLoS One,2020,,pone.0242384.s019.docx,.docx,30642,small_table,numeric,False,1,23,6,0.6,0.09,0,True,S8 Table. Transcriptomic-based pathway discovery for the metastatic Liver-435 cell line. S8 Table. Transcriptomic-based pathway discovery for the metastatic Liver-435 cell line. S8 Table. Transcriptom
+PMC7668614,PLoS One,2020,,pone.0242384.s085.xlsx,.xlsx,239813,dataset_large,mixed,True,3,813,157,0.27,0.43,0,True,External Pathway ID Source Spine Down Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/Members in Set p-value q-value Individual Metabolites in Pathway: CAS #s Individual
+PMC7668614,PLoS One,2020,,pone.0242384.s056.docx,.docx,28672,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s017.docx,.docx,30625,small_table,numeric,False,1,23,7,0.65,0.09,0,True,S6 Table. Proteomic-based pathway discovery for the metastatic Lymph Node-231 cell line. S6 Table. Proteomic-based pathway discovery for the metastatic Lymph Node-231 cell line. S6 Table. Proteomic-ba
+PMC7668614,PLoS One,2020,,pone.0242384.s052.docx,.docx,29001,document,,False,0,,,,,,,
+PMC7668614,PLoS One,2020,,pone.0242384.s047.docx,.docx,33530,small_table,numeric,False,1,20,11,0.73,0.37,0,True,S36 Table. Common metabolomic and proteomic pathways for the metastatic Spine-435 cell line. S36 Table. Common metabolomic and proteomic pathways for the metastatic Spine-435 cell line. S36 Table. Com
+PMC7668614,PLoS One,2020,,pone.0242384.s035.docx,.docx,30428,small_table,numeric,False,1,23,6,0.6,0.27,0,True,S24 Table. Common proteome and transcriptome pathways for the metastatic Lymph Node-231 cell line. S24 Table. Common proteome and transcriptome pathways for the metastatic Lymph Node-231 cell line. S2
+PMC7668614,PLoS One,2020,,pone.0242384.s051.docx,.docx,29020,small_table,numeric,False,1,20,11,0.73,0.32,0,True,S40 Table. Common metabolomic and transcriptomic pathways for the metastatic Spine-435 cell line. S40 Table. Common metabolomic and transcriptomic pathways for the metastatic Spine-435 cell line. S40 
+PMC7668614,PLoS One,2020,,pone.0242384.s079.xlsx,.xlsx,222942,dataset_large,mixed,True,3,791,152,0.27,0.47,0,True,External Pathway ID Source Brain Down Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/ Members in Set p-value q-value Individual Metabolites in Pathway: CAS #s Individua
+PMC7668614,PLoS One,2020,,pone.0242384.s012.docx,.docx,30277,small_table,numeric,False,1,23,7,0.65,0.32,0,True,S1 Table. Proteomic-based pathway discovery for the metastatic Brain-435 cell line. S1 Table. Proteomic-based pathway discovery for the metastatic Brain-435 cell line. S1 Table. Proteomic-based pathwa
+PMC7668614,PLoS One,2020,,pone.0242384.s038.docx,.docx,30520,small_table,numeric,False,1,23,6,0.6,0.5,0,True,S27 Table. Metabolomic-based pathway discovery for the metastatic Lung-435 cell line. S27 Table. Metabolomic-based pathway discovery for the metastatic Lung-435 cell line. S27 Table. Metabolomic-based
+PMC7668614,PLoS One,2020,,pone.0242384.s040.docx,.docx,30061,small_table,numeric,False,1,19,6,0.59,0.22,0,True,S29 Table. Metabolomic-based Unique pathways for the metastatic Brain-435 cell line. S29 Table. Metabolomic-based Unique pathways for the metastatic Brain-435 cell line. S29 Table. Metabolomic-based U
+PMC7668614,PLoS One,2020,,pone.0242384.s082.xlsx,.xlsx,83766,dataset_medium,numeric,True,3,529,17,0.62,0.45,0,True,External Pathway ID Source Lung Up Metabolic Pathways # of Members in Set # of Observed Members  Observed Members/Members in Set p-value q-value Source External Pathway ID Lung-435 Up Proteomic Pathwa
+PMC7668614,PLoS One,2020,,pone.0242384.s016.docx,.docx,30423,small_table,numeric,False,1,23,7,0.65,0.09,0,True,S5 Table. Proteomic-based pathway discovery for the metastatic Lung-231 cell line. S5 Table. Proteomic-based pathway discovery for the metastatic Lung-231 cell line. S5 Table. Proteomic-based pathway 
+PMC7668614,PLoS One,2020,,pone.0242384.s049.docx,.docx,31648,small_table,numeric,False,1,19,11,0.72,0.28,0,True,S38 Table. Common metabolomic and transcriptomic pathways for the metastatic Liver-435 cell line. S38 Table. Common metabolomic and transcriptomic pathways for the metastatic Liver-435 cell line. S38 
+PMC7668614,PLoS One,2020,,pone.0242384.s042.docx,.docx,30300,small_table,omics,False,1,20,6,0.59,0.53,0,False,S31 Table. Metabolomic-based Unique pathways for the metastatic Liver-435 cell line. S31 Table. Metabolomic-based Unique pathways for the metastatic Liver-435 cell line. S31 Table. Metabolomic-based U
+PMC7668614,PLoS One,2020,,pone.0242384.s086.xlsx,.xlsx,15137,dataset_medium,mixed,True,1,124,9,0.0,0.0,0,False,qRT-PCR Primers for Genes of Isogenic 231 Cell Lines   qRT-PCR Primers for Genes of Isogenic 435 Cell Lines  
+PMC7668614,PLoS One,2020,,pone.0242384.s029.docx,.docx,30619,small_table,numeric,False,1,22,6,0.57,0.38,0,True,S18 Table. Transcriptomic-based Unique pathways for the metastatic Lymph Node-231 cell line. S18 Table. Transcriptomic-based Unique pathways for the metastatic Lymph Node-231 cell line. S18 Table. Tra
+PMC7668614,PLoS One,2020,,pone.0242384.s053.docx,.docx,28971,document,,False,0,,,,,,,
+PMC9682428,JAMA Netw Open,2022,,jamanetwopen-e2243396-s001.pdf,.pdf,103029,document,,False,0,,,,,,,
+PMC7073883,Breast,2020,,mmc1.docx,.docx,63155,document,,False,0,,,,,,,
+PMC8397890,Phys Imaging Radiat Oncol,2021,,mmc1.docx,.docx,166982,tiny_table,numeric,False,8,9,7,0.69,0.0,0,False, Inter-observer Dice similarity coefficient (%) Inter-observer Dice similarity coefficient (%) Inter-observer Dice similarity coefficient (%) Inter-observer Dice similarity coefficient (%) Inter-obser
+PMC5663565,Oncotarget,2017,,oncotarget-08-83925-s001.pdf,.pdf,2249768,document,,False,0,,,,,,,
+PMC8699660,Cancers (Basel),2021,,cancers-13-06262-s001.zip,.zip,415230,other,,False,0,,,,,,,
+PMC8693971,Mol Biol Cell,2021,,mbc-32-ar21-s001.pdf,.pdf,786817,document,,False,0,,,,,,,
+PMC8738132,Cancer,2022,,CNCR-128-353-s001.docx,.docx,19096,document,,False,0,,,,,,,
+PMC5593696,Oncotarget,2017,,oncotarget-08-57907-s001.pdf,.pdf,1744162,document,,False,0,,,,,,,
+PMC5593696,Oncotarget,2017,,oncotarget-08-57907-s002.pdf,.pdf,77665,dataset_medium,omics,False,1,69,5,0.37,0.99,0,False,Gene CC (dataset-2) p value CC (dataset-1) p value
+PMC8012607,Nat Commun,2021,,41467_2021_22303_MOESM2_ESM.pdf,.pdf,262900,document,,False,0,,,,,,,
+PMC8012607,Nat Commun,2021,,41467_2021_22303_MOESM3_ESM.zip,.zip,83440070,other,,False,0,,,,,,,
+PMC8012607,Nat Commun,2021,,41467_2021_22303_MOESM1_ESM.pdf,.pdf,21744010,document,,False,0,,,,,,,
+PMC9081172,Mol Cancer Ther,2022,,mct-21-0574_supplementary_methods_suppsm.pdf,.pdf,239333,document,,False,0,,,,,,,
+PMC9081172,Mol Cancer Ther,2022,,mct-21-0574_supplementary_figures_and_legends_suppsfl.pdf,.pdf,32374195,document,,False,0,,,,,,,
+PMC6476516,PLoS Comput Biol,2019,,pcbi.1006961.s004.xlsx,.xlsx,117984,small_table,numeric,True,4,39,143,0.96,0.0,0,False,Track1 Track2 Track3 Track4 Track5 Track6 Track7 Track8 Track9 Track10 Track11 Track12 Track13 Track14 Track15 Track16 Track17 Track18 Track19 Track20 Track21 Track22 Track23 Track24 Track25 Track26 T
+PMC7846553,Sci Rep,2021,,41598_2021_81704_MOESM1_ESM.docx,.docx,192134,dataset_medium,numeric,False,12,144,8,0.74,0.0,0,False,  Homo sapiens  RESULTS RESULTS RESULTS RESULTS RESULTS RESULTS
+PMC8302552,Breast Cancer Res Treat,2021,,NIHMS1721178-supplement-Supplementary_Material1.doc,.doc,0,document,,False,0,,,,,,,
+PMC8315538,PLoS One,2021,,pone.0254783.s003.docx,.docx,29100,document,,False,0,,,,,,,
+PMC8315538,PLoS One,2021,,pone.0254783.s001.pptx,.pptx,11779505,figure_image,,False,0,,,,,,,
+PMC8315538,PLoS One,2021,,pone.0254783.s002.pdf,.pdf,1919738,document,,False,0,,,,,,,
+PMC6347264,PLoS One,2019,,pone.0211488.s001.docx,.docx,29874,document,,False,0,,,,,,,
+PMC8443188,Sci Adv,2021,,sciadv.abc8145_sm.pdf,.pdf,5298276,tiny_table,mixed,False,1,5,4,0.4,0.25,0,False,Breast Cancer N Tumor Take Take Rates
+PMC8443188,Sci Adv,2021,,sciadv.abc8145_tables_s1_s3_to_s9.zip,.zip,111434615,other,,False,0,,,,,,,
+PMC8159129,Nutrients,2021,,nutrients-13-01715-s001.zip,.zip,1183881,other,,False,0,,,,,,,
+PMC9022316,BMC Womens Health,2022,,12905_2022_1694_MOESM1_ESM.docx,.docx,30513,document,,False,0,,,,,,,
+PMC9257990,Cancer Commun (Lond),2022,,CAC2-42-663-s002.xlsx,.xlsx,37940,dataset_medium,omics,True,4,98,23,0.77,0.62,0,True,Supplementary Table S4. Hallmark gene sets that are enriched in ER-negative breast cancer with high expression of ZBED2
+PMC9257990,Cancer Commun (Lond),2022,,CAC2-42-663-s001.docx,.docx,5911284,document,,False,0,,,,,,,
+PMC9550684,Breast Cancer Res Treat,2022,,10549_2022_6722_MOESM1_ESM.csv,.csv,49803,dataset_medium,clinical,True,1,145,34,0.35,0.0,0,False,Case ID Bilateral Case Regimen Pathology Markers Simulation ID Start Volume Final Volume Response % pCR Call (Volume < 0.01 or Response >99.9) pCR Call With Dose Reductions Residual Tumor Bed(mm) Age 
+PMC9550684,Breast Cancer Res Treat,2022,,10549_2022_6722_MOESM2_ESM.docx,.docx,3366217,small_table,mixed,False,2,11,6,0.39,0.0,0,False,Case Subtype Residual Breast Tumor Cellularity (%) Nodes Positive Largest Nodal Metastasis (mm)
+PMC7000508,Ann Surg Oncol,2020,,10434_2019_8039_MOESM1_ESM.docx,.docx,283078,tiny_table,mixed,False,1,7,9,0.33,0.0,0,False,Single Score Analysis Single Score Analysis Single Score Analysis Single Score Analysis Combined Analysis Combined Analysis Combined Analysis Combined Analysis Threshold*
+PMC9578182,Breast Cancer Res,2022,,13058_2022_1565_MOESM2_ESM.docx,.docx,20457,document,,False,0,,,,,,,
+PMC9578182,Breast Cancer Res,2022,,13058_2022_1565_MOESM4_ESM.xlsx,.xlsx,2774167,dataset_large,omics,True,3,1002,122,0.99,1.0,0,False,"Z-scores of expression from 1,000 genes with the highest variance across SUM225 cells and CPTAC breast patient tumors"
+PMC9578182,Breast Cancer Res,2022,,13058_2022_1565_MOESM3_ESM.xlsx,.xlsx,2644997,dataset_large,omics,True,3,1002,122,0.99,1.0,0,False,"Z-scores of expression from 1,000 genes with the highest variance across SUM102PT and CPTAC breast patient tumors"
+PMC9578182,Breast Cancer Res,2022,,13058_2022_1565_MOESM1_ESM.xlsx,.xlsx,67607,dataset_medium,numeric,True,2,273,19,0.88,0.0,0,False,NRAS RNA-SCOPE/FISH analysis by ImageJ
+PMC5674043,Sci Rep,2017,,41598_2017_14607_MOESM1_ESM.doc,.doc,601600,document,,False,0,,,,,,,
+PMC4816761,EBioMedicine,2016,,mmc1.pdf,.pdf,797785,small_table,numeric,False,1,26,4,0.91,0.0,0,False, 0.1408 0.0048 0.0338
+PMC9661734,Breast Cancer Res,2022,,13058_2022_1573_MOESM1_ESM.docx,.docx,35596,small_table,mixed,False,3,37,9,0.41,0.0,0,False,   IHC Cohort (N=262) IHC Cohort (N=262) IHC Cohort (N=262) Expression Only Cohort (N=620) Expression Only Cohort (N=620) Expression Only Cohort (N=620)
+PMC9661734,Breast Cancer Res,2022,,13058_2022_1573_MOESM2_ESM.xlsx,.xlsx,1061798,dataset_medium,numeric,True,1,884,106,0.99,0.0,0,False,Supplementary Table 2. Immune Gene Expression Scores
+PMC9661734,Breast Cancer Res,2022,,13058_2022_1573_MOESM3_ESM.xlsx,.xlsx,20042,dataset_medium,numeric,True,1,111,5,0.79,0.0,0,False,Supplementary Table 3. Spearman's correlation of individual signature score with immune marker immunohistochemistry (IHC)
+PMC9661734,Breast Cancer Res,2022,,13058_2022_1573_MOESM4_ESM.pdf,.pdf,985322,document,,False,0,,,,,,,
+PMC7465409,J Transl Med,2020,,12967_2020_2502_MOESM1_ESM.xlsx,.xlsx,1803991,dataset_large,omics,True,12,17215,29,0.75,1.0,0,True,Table S1
+PMC7465409,J Transl Med,2020,,12967_2020_2502_MOESM2_ESM.pdf,.pdf,490553,document,,False,0,,,,,,,
+PMC6579890,Front Immunol,2019,,Data_Sheet_1.PDF,.pdf,13826772,document,,False,0,,,,,,,
+PMC5552748,Sci Rep,2017,,41598_2017_8091_MOESM1_ESM.pdf,.pdf,324299,dataset_medium,numeric,False,1,206,21,0.87,0.0,0,False,  174 320 282 267 214 423 801 1140 165 519 398 270 4973
+PMC6685102,Front Immunol,2019,,Data_Sheet_1.PDF,.pdf,220201,dataset_medium,mixed,False,1,142,7,0.38,0.02,0,False,Basic Panel Melanoma  Breast Cancer  Brain Cancer 
+PMC8241650,Prev Med,2021,,mmc1.pdf,.pdf,97603,document,,False,0,,,,,,,
+PMC6080536,BMC Cancer,2018,,12885_2018_4675_MOESM1_ESM.docx,.docx,202673,document,,False,0,,,,,,,
+PMC7751686,NAR Cancer,2020,,zcaa038_supplemental_files.zip,.zip,5845703,other,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s007.docx,.docx,24677,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s002.docx,.docx,55530,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s008.docx,.docx,13636,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s004.docx,.docx,25313,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s001.docx,.docx,11574,tiny_table,numeric,False,1,6,3,0.56,0.0,0,False,# Searches Results
+PMC8051801,PLoS One,2021,,pone.0250057.s010.docx,.docx,20252,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s009.docx,.docx,28650,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s005.doc,.doc,66048,document,,False,0,,,,,,,
+PMC8051801,PLoS One,2021,,pone.0250057.s003.docx,.docx,28308,small_table,mixed,False,1,14,13,0.34,0.0,0,False,"First author/
+reference Phase Inclusion criteria Total
+(No.) HER2+
+(No.) ER+
+(No.) PR+
+(No.) HR+
+(No.) IBC
+(No.) Median age (range), y Years of accrual Risk of bias Risk of bias"
+PMC8573892,Breast Cancer Res,2021,,13058_2021_1481_MOESM1_ESM.pdf,.pdf,201970,document,,False,0,,,,,,,
+PMC6912285,J Clin Med,2019,,jcm-08-01868-s001.pdf,.pdf,278587,dataset_medium,numeric,False,1,151,42,0.71,0.01,0,False, Supplementary Table 1A. Selected patient and tumor characteristics among ER-positive breast                      
+PMC9454770,Cancers (Basel),2022,,cancers-14-04208-s001.zip,.zip,5861571,other,,False,0,,,,,,,
+PMC6611512,Oncotarget,2019,,oncotarget-10-4307-s001.pdf,.pdf,3519725,document,,False,0,,,,,,,
+PMC7763268,Cancers (Basel),2020,,cancers-12-03711-s001.xlsx,.xlsx,51759,dataset_medium,clinical,True,1,65,23,0.56,0.0,0,False,"# NDRG1 (%) NDRG1 (intensity 1,2,3) NDRG1 H-score NDRG1 status Age Race Histological type Grade Lymphovascular invasion Stage ER staus PR status HER2 status TNBC status Adjuvant radiation Survial stat"
+PMC7414114,Sci Rep,2020,,41598_2020_70245_MOESM1_ESM.pdf,.pdf,1355175,document,,False,0,,,,,,,
+PMC7400789,Mol Oncol,2020,,MOL2-14-1898-s001.docx,.docx,1460982,document,,False,0,,,,,,,
+PMC9248770,Front Biosci (Landmark Ed),2022,,NIHMS1818401-supplement-Intervention_Descriptions.docx,.docx,0,document,,False,0,,,,,,,
+PMC6561946,Sci Rep,2019,,41598_2019_44873_MOESM1_ESM.pdf,.pdf,28913346,document,,False,0,,,,,,,
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s008.pdf,.pdf,285424,document,,False,0,,,,,,,
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s006.xlsx,.xlsx,83334,dataset_medium,numeric,True,1,786,10,1.0,0.0,0,False,DMSO BEZ235 1uM Trametinib 1uM
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s010.pdf,.pdf,279608,small_table,numeric,False,1,48,3,0.88,0.0,0,False,𝜹 = Trametinib+BEZ235  
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s007.pdf,.pdf,958206,tiny_table,mixed,False,1,8,3,0.3,0.0,0,False, Constraint Rationale
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s005.xlsx,.xlsx,81843,dataset_medium,numeric,True,7,71,62,0.84,0.04,0,False,Sample: Single Good Cells/EDU+ | Freq. of Parent Single Good Cells/K14hi/EDU+ | Freq. of Parent Single Good Cells/K14lo/EDU+ | Freq. of Parent Single Good Cells/VIMhi/EDU+ | Freq. of Parent Single Goo
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s002.xlsx,.xlsx,9013,tiny_table,numeric,True,1,5,15,0.75,0.5,0,False,"Dynamics parameters Division parameter, cell state i Death gain, cell state i p12 p13 p14 p21 p23 p24 p31 p32 p34 p41 p42 p43"
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s009.pdf,.pdf,1017965,document,,False,0,,,,,,,
+PMC6428348,PLoS Comput Biol,2019,,pcbi.1006840.s001.zip,.zip,13851709,other,,False,0,,,,,,,
+PMC6884910,Breast Cancer Res,2019,,13058_2019_1224_MOESM1_ESM.pdf,.pdf,8045568,document,,False,0,,,,,,,
+PMC7455022,Nat Metab,2020,,NIHMS1598608-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8921580,Gut,2022,,gutjnl-2020-323276supp002.pdf,.pdf,16590926,document,,False,0,,,,,,,
+PMC8921580,Gut,2022,,gutjnl-2020-323276supp001.pdf,.pdf,63925,document,,False,0,,,,,,,
+PMC7666200,Cell Death Dis,2020,,41419_2020_3173_MOESM1_ESM.docx,.docx,15612,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s007.docx,.docx,15117,small_table,numeric,False,1,31,6,0.55,0.0,0,False,Study/Country Post-menopausal definition Menopausal Status Menopausal Status Menopausal Status Menopausal Status
+PMC5493289,PLoS Med,2017,,pmed.1002335.s005.docx,.docx,490167,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s004.docx,.docx,473963,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s010.docx,.docx,23776,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s001.docx,.docx,68891,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s011.docx,.docx,14509,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s012.doc,.doc,86016,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s003.docx,.docx,22377,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s008.docx,.docx,23884,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s006.docx,.docx,479472,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s002.docx,.docx,76936,document,,False,0,,,,,,,
+PMC5493289,PLoS Med,2017,,pmed.1002335.s009.docx,.docx,21427,document,,False,0,,,,,,,
+PMC9156717,Nat Commun,2022,,41467_2022_30568_MOESM1_ESM.pdf,.pdf,53247063,document,,False,0,,,,,,,
+PMC9156717,Nat Commun,2022,,41467_2022_30568_MOESM3_ESM.xlsx,.xlsx,112697972,empty_or_text,,True,0,,,,,,,
+PMC9156717,Nat Commun,2022,,41467_2022_30568_MOESM2_ESM.pdf,.pdf,5460675,document,,False,0,,,,,,,
+PMC6217066,Theranostics,2018,,thnov08p5126s1.pdf,.pdf,4084789,document,,False,0,,,,,,,
+PMC7222439,BMC Med Genomics,2020,,12920_2020_729_MOESM2_ESM.xlsx,.xlsx,28141,dataset_medium,mixed,True,5,172,11,0.31,0.01,0,False,Table S1. Frequencies of dense-ERα-binding-site related chromosomal rearrangements in five targeted regions
+PMC7222439,BMC Med Genomics,2020,,12920_2020_729_MOESM1_ESM.pptx,.pptx,9142875,figure_image,,False,0,,,,,,,
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s005.xls,.xls,28160,tiny_table,mixed,True,1,9,3,0.0,0.0,0,False,CTA qPCR PRIMERS  
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s004.xls,.xls,31744,small_table,mixed,True,1,31,10,0.0,0.0,0,False,siRNA      shRNA   
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s006.mov,.mov,1649698,media,,False,0,,,,,,,
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s002.xls,.xls,64000,dataset_medium,omics,True,1,240,4,0.5,0.0,0,True,Gene ID Gene Name Fold Change q-value(%)
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s003.xls,.xls,34816,tiny_table,omics,True,1,9,9,0.64,0.88,0,False,     SPECTRAL COUNTS   
+PMC4924746,Oncotarget,2016,,oncotarget-07-14708-s001.pdf,.pdf,2492418,document,,False,0,,,,,,,
+PMC9270626,JACC CardioOncol,2022,,mmc1.docx,.docx,60555,small_table,mixed,False,1,15,5,0.43,0.0,0,False,Ex-Oncpeak Ex-Oncpeak  Ex-Oncsub Ex-Oncsub
+PMC4905742,Elife,2016,,elife-14730-supp1.docx,.docx,29680,small_table,mixed,False,1,38,5,0.49,0.0,0,False,Total Peptides Gene Symbol  Total Peptides Gene Symbol
+PMC4905742,Elife,2016,,elife-14730-supp2.docx,.docx,27403,small_table,mixed,False,1,10,3,0.3,0.0,0,False,Rank Gene Symbol Domain
+PMC9469899,Nat Cancer,2022,,NIHMS1752095-supplement-1752095_SD_ED_Fig_6_unprocessed_WB.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC9464188,NPJ Breast Cancer,2022,,41523_2022_476_MOESM1_ESM.pdf,.pdf,119941,document,,False,0,,,,,,,
+PMC5601698,Oncotarget,2017,,oncotarget-08-58847-s001.pdf,.pdf,3011669,document,,False,0,,,,,,,
+PMC9621418,PLoS One,2022,,pone.0273835.s002.xlsx,.xlsx,204040,dataset_medium,numeric,True,1,997,28,0.64,0.0,0,False,S2 Table. Allele frequencies for all the variants found in the targeted regions of 85 genes (N=993).
+PMC9621418,PLoS One,2022,,pone.0273835.s001.xlsx,.xlsx,22797,dataset_medium,mixed,True,1,172,11,0.3,0.0,0,False,S1 Table. Variants with an unknown significance or conflicting interpretation of clinical significance. VUSs (N=170) from the targeted regions of 85 genes with a tallied consensus score for 9 in silic
+PMC9621418,PLoS One,2022,,pone.0273835.s004.docx,.docx,20713,document,,False,0,,,,,,,
+PMC9621418,PLoS One,2022,,pone.0273835.s003.docx,.docx,26866,document,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM3_ESM.avi,.avi,3491132,media,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM7_ESM.avi,.avi,3987324,media,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM2_ESM.docx,.docx,31670,small_table,omics,False,4,26,8,0.48,1.0,0,False,Gene Corr Gene Corr Gene Corr Gene Corr
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM5_ESM.avi,.avi,4104410,media,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM8_ESM.avi,.avi,2880312,media,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM4_ESM.avi,.avi,6007412,media,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM1_ESM.docx,.docx,2299251,document,,False,0,,,,,,,
+PMC6001025,Breast Cancer Res,2018,,13058_2018_980_MOESM6_ESM.avi,.avi,2735270,media,,False,0,,,,,,,
+PMC6914286,JMIR Cancer,2019,,cancer_v5i2e13150_app1.pdf,.pdf,305688,tiny_table,numeric,False,1,7,21,0.79,0.0,0,False,"Cognition Mediators  a
+p- 95% CI
+Coeff valu
+e    b
+p- 95% CI
+Coeff valu
+e    c 95% CI
+Coef p-
+f value    c'
+p-
+Coeff val
+ue  95% CI  Mediation
+Coeff 9 5 % C I  "
+PMC7011040,Heliyon,2020,,mmc1.xlsx,.xlsx,43957,dataset_medium,numeric,True,1,210,28,0.95,0.0,0,False,RAW DATA OF ANNEXIN 2 EXPRESSION IN ASSOCIATION WITH DEMOGRAPHIC AND CLINICAL PATHOLOGICAL FEATURES AMONG AFRICAN AMERICAN WOMEN
+PMC6656540,Sci Adv,2019,,aaw4197_SM.pdf,.pdf,800715,document,,False,0,,,,,,,
+PMC6656540,Sci Adv,2019,,supp_5_7_eaaw4197__index.html,.html,1265,other,,False,0,,,,,,,
+PMC9008500,JAMA Netw Open,2022,,jamanetwopen-e224361-s001.pdf,.pdf,1100110,dataset_medium,mixed,False,1,573,32,0.39,0.0,0,False,"PMID Study   Phase Regimen 1 (R1)   R2 R3   Total
+N R1
+pts R2
+pts R3
+pts Primary
+Pub Yr 1st
+Update Enrollment
+Years Endpoint"
+PMC6966654,Cancers (Basel),2019,,cancers-11-02039-s001.zip,.zip,35142476,other,,False,0,,,,,,,
+PMC5967303,Sci Rep,2018,,41598_2018_25878_MOESM1_ESM.docx,.docx,115020,small_table,numeric,False,3,15,3,0.93,0.0,0,False,Pyrolysis Temperature (°C) Blank Corrected Absorbance Standard Deviation (n=4)
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM1_ESM.docx,.docx,69842,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM5_ESM.docx,.docx,155823,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM7_ESM.xlsx,.xlsx,177976,dataset_medium,omics,True,1,535,6,0.66,0.99,0,False,Table S1: List of 532 genes regulated by Z-endoxifen treatment in MCF7LR tumors compared to letrozole-treated MCF7LR tumors.
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM3_ESM.docx,.docx,78668,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM6_ESM.docx,.docx,510221,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM12_ESM.docx,.docx,196755,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM9_ESM.xlsx,.xlsx,29850,dataset_medium,omics,True,1,234,7,0.79,0.99,0,False,Table S3: List of 230 genes commonly regulated by Z-endoxifen and tamoxifen treatments in the MCF7LR tumors compared to letrozole-treated MCF7LR tumors.
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM8_ESM.xlsx,.xlsx,49390,dataset_medium,omics,True,1,663,6,0.66,0.99,0,False,Table S2: List of 660 genes regulated by tamoxifen treatment in the MCF7LR tumors compared to letrozole-treated MCF7LR tumors.
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM4_ESM.docx,.docx,160998,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM11_ESM.xlsx,.xlsx,12803,small_table,numeric,True,1,23,8,0.65,0.0,0,True,"Table S5: Ingenuity pathway analysis (IPA) indicating key molecular, cellular and signaling pathways likely impacted by tamoxifen treatment in the MCF7LR tumors."
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM13_ESM.docx,.docx,116611,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM2_ESM.docx,.docx,242212,document,,False,0,,,,,,,
+PMC7238733,Breast Cancer Res,2020,,13058_2020_1286_MOESM10_ESM.xlsx,.xlsx,14269,small_table,numeric,True,1,23,8,0.65,0.0,0,True,"Table S4: Ingenuity pathway analysis (IPA) indicating key molecular, cellular and signaling pathways likely impacted by Z-endoxifen treatment in the MCF7LR tumors."
+PMC7470374,PLoS One,2020,,pone.0238593.s001.docx,.docx,33629,tiny_table,mixed,False,6,5,5,0.39,0.0,0,False,S1a  “Oncotype DX-like” “Oncotype DX-like” “Oncotype DX-like”
+PMC9837615,Cell Rep,2022,,NIHMS1859702-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM2_ESM.xlsx,.xlsx,18772,dataset_medium,omics,True,1,120,20,0.31,0.92,0,False,Name BC081120e
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM3_ESM.xlsx,.xlsx,19211,dataset_medium,omics,True,1,204,12,0.59,1.0,0,False,YTMA-311 Surgical Number Row Col. Tissue on TMA Quantity-PM Intensity-PM
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM8_ESM.xlsx,.xlsx,20458,dataset_medium,omics,True,1,265,12,0.52,1.0,0,False,YTMA-311 Surgical Number Row Col. Tissue on TMA Quantity Intensity
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM7_ESM.xlsx,.xlsx,18833,dataset_medium,omics,True,1,120,24,0.28,0.92,0,False,Name BC081120e
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM1_ESM.pdf,.pdf,6193698,document,,False,0,,,,,,,
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM6_ESM.xlsx,.xlsx,414213,dataset_large,numeric,True,1,3588,17,0.56,0.0,0,False,Protein Name Accession Numbers Valid Assigned Exclusive Sequence Prob Modifications SEQUEST XCorr SEQUEST deltaCn Control Disease +1H +2H +3H +4H Other Proteins
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM9_ESM.docx,.docx,25841,document,,False,0,,,,,,,
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM5_ESM.xlsx,.xlsx,17975,dataset_medium,mixed,True,1,192,5,0.4,0.0,0,False,Ingenuity Canonical Pathways  -log(p-value) Ratio z-score Molecules
+PMC7455732,Oncogenesis,2020,,41389_2020_263_MOESM4_ESM.xlsx,.xlsx,32188,dataset_medium,mixed,True,1,259,7,0.26,0.0,0,True,Identified Proteins (2366/2369) Accession Number Alternate ID Molecular Weight Phospho sites T-Test (p-value) (p < 0.05000) Log‚ÇÇ Fold Change by Category (Disease / Reference)
+PMC7867573,Oncogene,2021,,NIHMS1640236-supplement-6.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8886672,Front Oncol,2021,,Table_1.xlsx,.xlsx,18631,dataset_medium,mixed,True,1,156,4,0.5,0.0,0,False,Supplementary Table 1. Characteristics of samples in Trp53-null mammary tumor cohort.
+PMC8886672,Front Oncol,2021,,Table_4.docx,.docx,24373,document,,False,0,,,,,,,
+PMC8886672,Front Oncol,2021,,Table_3.xlsx,.xlsx,88888,dataset_large,clinical,True,1,1019,15,0.27,0.0,1017,False,Supplementary Table 3. Characteristics of patients in the TCGA-BRCA cohort.
+PMC8886672,Front Oncol,2021,,Table_5.xlsx,.xlsx,22376,dataset_medium,numeric,True,1,259,5,0.73,0.0,0,False,Supplementary Table 5. Univariate Cox proportional hazards regression result of CMB on tumor growth duration in Trp53-null mammary tumor cohort.
+PMC8886672,Front Oncol,2021,,Table_2.xlsx,.xlsx,19533,dataset_medium,mixed,True,1,55,257,0.33,0.0,0,False,Supplementary Table 2. Characteristics of samples in MMTV-Erbb2 mammary tumor cohort.
+PMC8886672,Front Oncol,2021,,Table_9.xlsx,.xlsx,31160,dataset_medium,mixed,True,1,212,9,0.44,0.0,0,True,Supplementary Table 9. Gene ontology (GO) functional enrichment analysis of the differentially expressed genes (DEGs) for cellular component.
+PMC8886672,Front Oncol,2021,,Table_8.xlsx,.xlsx,149864,dataset_large,mixed,True,1,2005,9,0.44,0.0,0,True,Supplementary Table 8. Gene ontology (GO) functional enrichment analysis of the differentially expressed genes (DEGs) for biological processes. 
+PMC8886672,Front Oncol,2021,,Table_7.xlsx,.xlsx,21696,dataset_medium,omics,True,1,114,13,0.82,0.88,0,False,Supplementary Table 7. Defferentially expressed genes between Subtype 2 and Subtype 1 patients. 
+PMC8886672,Front Oncol,2021,,Table_11.xlsx,.xlsx,18904,dataset_medium,numeric,True,1,100,9,0.52,0.01,0,True,Supplementary Table 11. Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis on differentially expressed genes (DEGs).
+PMC8886672,Front Oncol,2021,,Image_1.pdf,.pdf,1889441,document,,False,0,,,,,,,
+PMC8886672,Front Oncol,2021,,Table_10.xlsx,.xlsx,38659,dataset_medium,mixed,True,1,317,9,0.44,0.0,0,True,Supplementary Table 10. Gene ontology (GO) functional enrichment analysis of the differentially expressed genes (DEGs) for molecular function.
+PMC8886672,Front Oncol,2021,,Table_12.xlsx,.xlsx,14561,small_table,numeric,True,1,25,9,0.74,0.0,0,False,Supplementary Table 12. Cox proportional hazards regression analysis on the overall survival of patients in the TCGA-BRCA cohort.
+PMC8886672,Front Oncol,2021,,Table_6.xlsx,.xlsx,22256,dataset_medium,numeric,True,1,259,4,0.74,0.0,0,False,Supplementary Table 6. Univariate Cox proportional hazards regression result of CMB on overall survival in the TCGA-BRCA cohort.
+PMC6757060,NPJ Breast Cancer,2019,,41523_2019_126_MOESM4_ESM.pdf,.pdf,1358740,document,,False,0,,,,,,,
+PMC6757060,NPJ Breast Cancer,2019,,41523_2019_126_MOESM2_ESM.xlsx,.xlsx,18843,dataset_medium,omics,True,1,54,27,0.91,0.96,0,False,CALL> luminalA luminalB luminalB luminalB luminalA luminalA luminalA luminalB luminalB luminalA luminalB luminalA luminalA luminalA luminalA luminalB luminalA luminalB luminalA luminalA luminalA lumin
+PMC6757060,NPJ Breast Cancer,2019,,41523_2019_126_MOESM1_ESM.xlsx,.xlsx,22234,dataset_medium,omics,True,1,171,8,0.35,1.0,0,False,PDX Cancer type MAP3K1 PIK3CA Subtype PIK3CA-GS BKM120 response_D28 BYL719 reponse_D28
+PMC6757060,NPJ Breast Cancer,2019,,41523_2019_126_MOESM3_ESM.pdf,.pdf,891681,document,,False,0,,,,,,,
+PMC5916089,Neoplasia,2018,,mmc1.docx,.docx,57548,document,,False,0,,,,,,,
+PMC4896860,Oncogene,2016,,NIHMS720177-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8901808,Vis Comput Ind Biomed Art,2022,,42492_2022_104_MOESM1_ESM.docx,.docx,17578,document,,False,0,,,,,,,
+PMC8896613,Bioinformatics,2022,,btaa861_supplementary_data.zip,.zip,1243293,other,,False,0,,,,,,,
+PMC9750838,Support Care Cancer,2022,,520_2022_7536_MOESM1_ESM.csv,.csv,1895,small_table,clinical,True,1,18,12,0.47,0.0,0,False,Pt/Record ID Cancer Type Date of Cancer Diagnosis Years of Survivorship Gender Ethnicity Age Race Height Weight BMI BMI Category
+PMC5342500,Oncotarget,2016,,oncotarget-07-69592-s001.pdf,.pdf,2740732,document,,False,0,,,,,,,
+PMC5342500,Oncotarget,2016,,oncotarget-07-69592-s002.xlsx,.xlsx,50769,dataset_medium,omics,True,1,365,13,0.0,1.0,0,False,gene Tamoxifen response Genes associated with good tamoxifen response Genes associated with poor tamoxifen response
+PMC5342500,Oncotarget,2016,,oncotarget-07-69592-s003.xlsx,.xlsx,49577,dataset_medium,omics,True,1,81,12,0.9,1.0,0,True,EES driver sheprs.dn sheprs.up tcga.tumor.v.normal.logfc tcga.tumor.v.normal.pval metabric.tumor.v.normal.logfc metabric.tumor.v.normal.pval survival.cox survival.km eprs.interactor esr1.interactor kn
+PMC9093555,Support Care Cancer,2022,,520_2022_7112_MOESM1_ESM.docx,.docx,21555,document,,False,0,,,,,,,
+PMC7071774,Breast Cancer Res,2020,,13058_2020_1262_MOESM1_ESM.pdf,.pdf,95755,document,,False,0,,,,,,,
+PMC5356248,Breast Cancer Res,2017,,13058_2017_825_MOESM1_ESM.docx,.docx,31411,document,,False,0,,,,,,,
+PMC5356248,Breast Cancer Res,2017,,13058_2017_825_MOESM4_ESM.xlsx,.xlsx,210010,dataset_large,omics,True,2,1383,29,0.75,1.0,0,False,Table S5: Results from a genome wide association analysis of CNVs overlapping gene loci
+PMC5356248,Breast Cancer Res,2017,,13058_2017_825_MOESM3_ESM.docx,.docx,19023,document,,False,0,,,,,,,
+PMC5356248,Breast Cancer Res,2017,,13058_2017_825_MOESM2_ESM.xlsx,.xlsx,839135,dataset_large,mixed,True,1,11206,16384,0.5,0.0,0,False,Table S1 - CNV data for cases and controls. Chromosome coordinates given according to Hg18.
+PMC6281425,Oncotarget,2018,,oncotarget-09-36110-s001.pdf,.pdf,375200,document,,False,0,,,,,,,
+PMC6281425,Oncotarget,2018,,oncotarget-09-36110-s002.xlsx,.xlsx,4973224,dataset_large,numeric,True,3,28831,14,0.79,0.0,0,False,MDA-MB-231 Extarvasation without MSC vs No Extravasation
+PMC6433244,PLoS One,2019,,pone.0213809.s001.pdf,.pdf,5721,document,,False,0,,,,,,,
+PMC6433244,PLoS One,2019,,pone.0213809.s002.xls,.xls,162304,dataset_medium,numeric,True,1,504,22,0.92,0.0,0,False,Individual Race/Ethnicity Plate# ER_AverageRLU EndogenousEstrogens Ancestry_European Ancestry_African Ancestry_Indigenous AgeAtBloodDraw Age_Category FamilyHistory AgeAtMenarche NumberOfFullTermPreg A
+PMC6026834,ACS Omega,2018,,ao8b00635_si_001.pdf,.pdf,270191,document,,False,0,,,,,,,
+PMC5634764,Oncologist,2017,,supp_22_10_1189__index.html,.html,872,other,,False,0,,,,,,,
+PMC5634764,Oncologist,2017,,supp_the2016-0391_onco12167-sup-0001-suppinfo01.pdf,.pdf,131261,document,,False,0,,,,,,,
+PMC5626692,Sci Rep,2017,,41598_2017_13006_MOESM1_ESM.pdf,.pdf,207658,document,,False,0,,,,,,,
+PMC9287210,Breast Cancer Res Treat,2022,,10549_2022_6657_MOESM1_ESM.docx,.docx,14177,document,,False,0,,,,,,,
+PMC5581083,Oncotarget,2017,,oncotarget-08-52935-s001.pdf,.pdf,3498062,document,,False,0,,,,,,,
+PMC7236781,JNCI Cancer Spectr,2020,,pkaa014_supplementary_data.pdf,.pdf,456824,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s01.docx,.docx,977458,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s03.docx,.docx,933491,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s02.docx,.docx,1417463,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s05.docx,.docx,449624,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s06.docx,.docx,56090,document,,False,0,,,,,,,
+PMC10036132,Cancer Res Commun,2022,,crc-22-0158-s04.docx,.docx,579518,document,,False,0,,,,,,,
+PMC6600803,Transl Oncol,2019,,mmc1.pptx,.pptx,47698,figure_image,,False,0,,,,,,,
+PMC9588015,Sci Rep,2022,,41598_2022_20928_MOESM3_ESM.xlsx,.xlsx,7491,small_table,omics,True,1,23,10,0.18,0.77,0,False,Supplementary Table 2. Analysis of BRCA1/BRCA2 variants identified via Whole Exome Sequencing (WES). All variants that passed pipeline filtering and manual review were assessed for Pathogenicity using
+PMC9588015,Sci Rep,2022,,41598_2022_20928_MOESM2_ESM.xlsx,.xlsx,77414,dataset_medium,mixed,True,1,211,41,0.32,0.0,0,False,TOTAL COUNT CASE CASE Count CHROM POS REF ALT set NORMAL.GT NORMAL.AD NORMAL.AF NORMAL.DP TUMOR.GT TUMOR.AD TUMOR.AF TUMOR.DP Consequence SYMBOL Feature_type Feature HGVSc HGVSp cDNA_position CDS_posi
+PMC9588015,Sci Rep,2022,,41598_2022_20928_MOESM1_ESM.pdf,.pdf,1278434,document,,False,0,,,,,,,
+PMC6086004,Genes Cancer,2018,,ganc-09-101-s001.pdf,.pdf,308397,document,,False,0,,,,,,,
+PMC8558154,Breast Cancer Res Treat,2021,,10549_2021_6367_MOESM2_ESM.docx,.docx,18707,document,,False,0,,,,,,,
+PMC8558154,Breast Cancer Res Treat,2021,,10549_2021_6367_MOESM1_ESM.docx,.docx,233679,document,,False,0,,,,,,,
+PMC5161532,Stem Cell Reports,2016,,mmc2.pdf,.pdf,4802588,document,,False,0,,,,,,,
+PMC5161532,Stem Cell Reports,2016,,mmc1.pdf,.pdf,2449127,document,,False,0,,,,,,,
+PMC5464343,Pharmacol Res Perspect,2017,,PRP2-5-e00314-s001.doc,.doc,48128,document,,False,0,,,,,,,
+PMC5464343,Pharmacol Res Perspect,2017,,PRP2-5-e00314-s003.doc,.doc,44544,document,,False,0,,,,,,,
+PMC5464343,Pharmacol Res Perspect,2017,,PRP2-5-e00314-s004.docx,.docx,12597,document,,False,0,,,,,,,
+PMC5464343,Pharmacol Res Perspect,2017,,PRP2-5-e00314-s002.doc,.doc,37376,document,,False,0,,,,,,,
+PMC9663828,Sci Rep,2022,,41598_2022_22417_MOESM1_ESM.pdf,.pdf,1289953,small_table,mixed,False,1,22,4,0.44,0.0,0,False,"HMEC
+clone Passage MFE Fold Δ"
+PMC8025032,Adv Sci (Weinh),2021,,ADVS-8-2003396-s001.pdf,.pdf,511932,document,,False,0,,,,,,,
+PMC4823109,Oncotarget,2016,,oncotarget-07-3332-s001.pdf,.pdf,1601341,document,,False,0,,,,,,,
+PMC8763369,JNCI Cancer Spectr,2022,,pkab089_supplementary_data.pdf,.pdf,32309,document,,False,0,,,,,,,
+PMC7674704,JNCI Cancer Spectr,2020,,pkaa058_supplementary_data.pdf,.pdf,508926,tiny_table,mixed,False,1,5,5,0.5,0.0,0,False,  Modified method  
+PMC5399194,Cell Death Dis,2016,,cddis20166x2.docx,.docx,33399,dataset_medium,omics,False,2,97,3,0.33,1.0,0,False,Position Mature ID Fold Regulation
+PMC5399194,Cell Death Dis,2016,,cddis20166x4.docx,.docx,87540,tiny_table,mixed,False,1,6,6,0.33,0.0,0,False,Common miRNAs Common miRNAs Common miRNAs Common miRNAs Common miRNAs Common miRNAs
+PMC5399194,Cell Death Dis,2016,,cddis20166x3.docx,.docx,113443,dataset_medium,omics,False,2,97,3,0.33,1.0,0,False,Position Mature ID Fold Regulation
+PMC7314527,Sci Adv,2020,,aba4498_Movie_S2.mp4,.mp4,888489,media,,False,0,,,,,,,
+PMC7314527,Sci Adv,2020,,aba4498_Movie_S1.mp4,.mp4,873095,media,,False,0,,,,,,,
+PMC7314527,Sci Adv,2020,,aba4498_SM.pdf,.pdf,2773271,document,,False,0,,,,,,,
+PMC5392962,BMC Cancer,2017,,12885_2017_3270_MOESM2_ESM.docx,.docx,13587,tiny_table,numeric,False,2,7,4,0.64,0.0,0,False,"Quadrants
+ Estimated Odds Ratio (OR) 95% Confidence Limits of the Estimated Odds Ratio (OR) 95% Confidence Limits of the Estimated Odds Ratio (OR)"
+PMC5392962,BMC Cancer,2017,,12885_2017_3270_MOESM1_ESM.docx,.docx,10567,document,,False,0,,,,,,,
+PMC5709615,Mol Oncol,2017,,MOL2-11-1698-s001.docx,.docx,143553,document,,False,0,,,,,,,
+PMC7407230,Cancers (Basel),2020,,cancers-12-01708-s001.pdf,.pdf,161052,document,,False,0,,,,,,,
+PMC5311075,Oncogene,2017,,NIHMS798271-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
+PMC5171813,Sci Rep,2016,,srep39190-s1.doc,.doc,7409152,document,,False,0,,,,,,,
+PMC6565485,Oncogene,2019,,41388_2019_756_MOESM1_ESM.docx,.docx,19869,document,,False,0,,,,,,,
+PMC6565485,Oncogene,2019,,41388_2019_756_MOESM2_ESM.docx,.docx,19935,document,,False,0,,,,,,,
+PMC5289428,PLoS One,2017,,pone.0170181.s001.docx,.docx,25532,document,,False,0,,,,,,,
+PMC5289428,PLoS One,2017,,pone.0170181.s002.csv,.csv,70806,dataset_medium,omics,True,1,386,37,0.53,0.82,0,True,tissue rsid snpchr snploc probeset_id txchr txstart txend txstrand gene_id symbol mapLocation logFC AveExpr t P.Value FDR B                   
+PMC5725089,Oncotarget,2017,,oncotarget-08-99245-s001.pdf,.pdf,580433,document,,False,0,,,,,,,
+PMC6203837,Commun Biol,2018,,42003_2018_178_MOESM1_ESM.pdf,.pdf,1898099,document,,False,0,,,,,,,
+PMC8986735,Pharm Res,2022,,11095_2022_3176_MOESM1_ESM.pdf,.pdf,614012,document,,False,0,,,,,,,
+PMC6345941,Sci Rep,2019,,41598_2018_37334_MOESM1_ESM.pdf,.pdf,160913,document,,False,0,,,,,,,
+PMC7215898,Int J Mol Sci,2020,,ijms-21-02921-s001.pdf,.pdf,363567,document,,False,0,,,,,,,
+PMC8626906,J Transl Med,2021,,12967_2021_3113_MOESM1_ESM.docx,.docx,3047681,document,,False,0,,,,,,,
+PMC8376636,Oncogene,2021,,41388_2021_1906_MOESM1_ESM.docx,.docx,52585,document,,False,0,,,,,,,
+PMC8376636,Oncogene,2021,,41388_2021_1906_MOESM2_ESM.pdf,.pdf,89608177,document,,False,0,,,,,,,
+PMC4795322,JMIR Res Protoc,2016,,resprot_v5i1e34_app1.pdf,.pdf,30178,document,,False,0,,,,,,,
+PMC5865662,Oncotarget,2018,,oncotarget-09-14175-s004.xlsx,.xlsx,40401,small_table,omics,True,2,24,6,0.48,1.0,0,False,Gene FC.BT549_(+)Dox-(-)Dox Gene FC.hs578t_(+)Dox-(-)Dox
+PMC5865662,Oncotarget,2018,,oncotarget-09-14175-s001.pdf,.pdf,2184533,document,,False,0,,,,,,,
+PMC5865662,Oncotarget,2018,,oncotarget-09-14175-s002.xlsx,.xlsx,41712,small_table,omics,True,1,63,2,0.49,1.0,0,False,Gene YAP/Contr
+PMC5865662,Oncotarget,2018,,oncotarget-09-14175-s003.xlsx,.xlsx,107763,dataset_large,omics,True,1,1509,9,0.49,0.93,0,True,p < 0.05
+PMC6298990,Sci Rep,2018,,41598_2018_36184_MOESM2_ESM.xlsx,.xlsx,39790,dataset_medium,numeric,True,2,109,35,0.61,0.0,0,False,Sample_ID PDX model Sample_category T1_Drug T2_Drug T1_Study_Day colony no tumor/cells Animal_Name T1.end.waterfall Animal_Name T2.end.waterfall BRCA2_Mut CSMD3_Mut ERBB4-AC_Mut LRP1B_Mut MET_Mut PTCH
+PMC6298990,Sci Rep,2018,,41598_2018_36184_MOESM3_ESM.xlsx,.xlsx,37071,small_table,numeric,True,1,17,3,0.64,0.0,0,False,correlation of marker prevalence vs tumor volume in cisplatin samples p-value
+PMC6298990,Sci Rep,2018,,41598_2018_36184_MOESM4_ESM.xlsx,.xlsx,217195,dataset_large,mixed,True,1,6113,4,0.5,0.0,0,False,chr1 3598919 3599004 TP73
+PMC6298990,Sci Rep,2018,,41598_2018_36184_MOESM1_ESM.pdf,.pdf,10152033,document,,False,0,,,,,,,
+PMC5566425,NPJ Breast Cancer,2017,,41523_2017_36_MOESM2_ESM.docx,.docx,43640,small_table,numeric,False,3,27,9,0.64,0.0,0,False,SNP rs ID SNP Position on Chr.16 Motif Sequence Motif Start Position Motif End Position Strand MAF (400) MAF (all samples) p Value
+PMC5566425,NPJ Breast Cancer,2017,,41523_2017_36_MOESM1_ESM.docx,.docx,34754,document,,False,0,,,,,,,
+PMC5566425,NPJ Breast Cancer,2017,,41523_2017_36_MOESM3_ESM.pdf,.pdf,593140,document,,False,0,,,,,,,
+PMC7192374,PLoS One,2020,,pone.0231953.s002.pdf,.pdf,258789,document,,False,0,,,,,,,
+PMC7192374,PLoS One,2020,,pone.0231953.s001.docx,.docx,29881,small_table,omics,False,1,19,8,0.67,1.0,0,False,Cell Line Source BL1_corr BL2_corr LAR_corr M_corr MSL_corr IM_corr
+PMC7192374,PLoS One,2020,,pone.0231953.s003.pdf,.pdf,193754,document,,False,0,,,,,,,
+PMC9290161,Ther Adv Med Oncol,2022,,sj-docx-1-tam-10.1177_17588359221107113.docx,.docx,12808,small_table,numeric,False,1,12,6,0.76,0.0,0,False,Product ID Volume of blood collected (ml) Cell yield (x106) Fold expansion Time in culture (days) Number of doses achieved
+PMC6976521,Oncogene,2020,,NIHMS1537996-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
+PMC5590193,Environ Health,2017,,12940_2017_305_MOESM1_ESM.docx,.docx,71040,document,,False,0,,,,,,,
+PMC9007999,Nat Commun,2022,,41467_2022_29636_MOESM3_ESM.pdf,.pdf,3974803,document,,False,0,,,,,,,
+PMC9007999,Nat Commun,2022,,41467_2022_29636_MOESM1_ESM.pdf,.pdf,4264687,document,,False,0,,,,,,,
+PMC9007999,Nat Commun,2022,,41467_2022_29636_MOESM2_ESM.pdf,.pdf,360797,document,,False,0,,,,,,,
+PMC8585614,Cytokine,2021,,NIHMS1748102-supplement-Table_S1_and_S2.docx,.docx,0,document,,False,0,,,,,,,
+PMC8740706,Proc Natl Acad Sci U S A,2022,,pnas.2112491119.s01.wmv,.wmv,9717747,media,,False,0,,,,,,,
+PMC8740706,Proc Natl Acad Sci U S A,2022,,pnas.2112491119.sapp.pdf,.pdf,8770996,document,,False,0,,,,,,,
+PMC7893974,Cancer Metab,2021,,40170_2021_245_MOESM1_ESM.pdf,.pdf,1105301,dataset_medium,mixed,False,1,105,20,0.3,0.0,0,False,    Untreated   Luciferase   Chk-   PD-L1   Chk- + PD-L1  
+PMC6437174,Sci Rep,2019,,41598_2019_40888_MOESM1_ESM.pdf,.pdf,720750,document,,False,0,,,,,,,
+PMC5758798,Sci Rep,2018,,41598_2017_18436_MOESM1_ESM.pdf,.pdf,162352,document,,False,0,,,,,,,
+PMC6429899,BMJ Open,2019,,bmjopen-2018-026797supp002.pdf,.pdf,22897,document,,False,0,,,,,,,
+PMC6429899,BMJ Open,2019,,bmjopen-2018-026797.draft_revisions.pdf,.pdf,1753435,document,,False,0,,,,,,,
+PMC6429899,BMJ Open,2019,,bmjopen-2018-026797supp001.pdf,.pdf,116108,document,,False,0,,,,,,,
+PMC6429899,BMJ Open,2019,,bmjopen-2018-026797.reviewer_comments.pdf,.pdf,262354,document,,False,0,,,,,,,
+PMC5589983,Br J Cancer,2017,,bjc2017224x1.docx,.docx,4510820,small_table,mixed,False,2,15,4,0.44,0.29,0,False,Table S6.  Effect of therapy on distant metastasis site Table S6.  Effect of therapy on distant metastasis site Table S6.  Effect of therapy on distant metastasis site Table S6.  Effect of therapy on 
+PMC6226490,Nat Commun,2018,,41467_2018_7188_MOESM2_ESM.pdf,.pdf,401412,document,,False,0,,,,,,,
+PMC6226490,Nat Commun,2018,,41467_2018_7188_MOESM1_ESM.pdf,.pdf,96752146,document,,False,0,,,,,,,
+PMC9239530,Front Med (Lausanne),2022,,Data_Sheet_1.pdf,.pdf,1831384,tiny_table,numeric,False,1,5,7,0.62,0.0,0,False, Tumor number   TIL number  
+PMC5292751,Sci Rep,2017,,srep41960-s2.xls,.xls,2319872,dataset_large,clinical,True,1,1072,145,0.13,0.0,1071,False,bcr_patient_barcode XSU_sampleID ValidationStatus Form OS.Event OS.days er_status_by_ihc pr_status_by_ihc HER2.KH.FISH2.0 HER2.conservative.KH HER2.KH HER2.conservative.KH PAM50 FINAL.EPC.DIAGNOSES_3.
+PMC5292751,Sci Rep,2017,,srep41960-s1.xls,.xls,1126400,dataset_medium,clinical,True,1,513,144,0.13,0.0,512,False,bcr_patient_barcode sampleID_XSU Form OS.Event OS.days er_status_by_ihc pr_status_by_ihc HER2.KH.FISH2.0 HER2.conservative.KH.1 HER2.KH.FISH2.2 HER2.conservative.KH.2 PAM50 FINAL.EPC.DIAGNOSES_3.26.20
+PMC6378979,J Biol Chem,2019,,supp_RA118.004364_138692_2_supp_251341_pjvsgw.pdf,.pdf,6035054,document,,False,0,,,,,,,
+PMC6378979,J Biol Chem,2019,,supp_RA118.004364_138692_2_supp_241300_pdv3yd.xlsx,.xlsx,19300,dataset_medium,mixed,True,4,69,8,0.0,0.0,0,False,Existing/Purchased/Gift vectors
+PMC6378979,J Biol Chem,2019,,supp_294_7_2302__index.html,.html,1223,other,,False,0,,,,,,,
+PMC5340126,Oncotarget,2016,,oncotarget-07-72777-s001.pdf,.pdf,4362049,document,,False,0,,,,,,,
+PMC7961649,Cancers (Basel),2021,,cancers-13-01132-s001.pdf,.pdf,991048,document,,False,0,,,,,,,
+PMC8305148,Diagnostics (Basel),2021,,diagnostics-11-01188-s001.zip,.zip,373651,other,,False,0,,,,,,,
+PMC8943134,NPJ Breast Cancer,2022,,41523_2022_401_MOESM1_ESM.pdf,.pdf,36341731,dataset_medium,mixed,False,1,110,11,0.45,0.1,0,False,Patient characteristics N (%)         
+PMC8943134,NPJ Breast Cancer,2022,,41523_2022_401_MOESM2_ESM.pdf,.pdf,1851461,document,,False,0,,,,,,,
+PMC7767145,Molecules,2020,,molecules-25-05976-s001.pdf,.pdf,1231951,document,,False,0,,,,,,,
+PMC8301582,Clin Transl Sci,2021,,CTS-14-1265-s001.pdf,.pdf,94709,document,,False,0,,,,,,,
+PMC5008295,Oncotarget,2016,,oncotarget-07-21416-s001.pdf,.pdf,564648,tiny_table,numeric,False,1,3,3,0.67,0.0,0,False,"e
+28
+62  "
+PMC5762610,Int J Cancer,2018,,IJC-142-561-s002.xlsx,.xlsx,58918,small_table,mixed,True,9,18,183,0.04,0.29,0,False,Supplemental Table S2: SNP Analysis using SNP Trace Panel
+PMC5762610,Int J Cancer,2018,,IJC-142-561-s001.docx,.docx,3089963,document,,False,0,,,,,,,
+PMC5828213,Oncotarget,2018,,oncotarget-09-10375-s001.pdf,.pdf,2617450,document,,False,0,,,,,,,
+PMC5889587,Mol Cancer,2018,,12943_2018_824_MOESM1_ESM.pdf,.pdf,12040357,document,,False,0,,,,,,,
+PMC7547070,NPJ Breast Cancer,2020,,41523_2020_194_MOESM1_ESM.pdf,.pdf,72576,document,,False,0,,,,,,,
+PMC9328957,J Oncol,2022,,5830475.f1.zip,.zip,2720664,other,,False,0,,,,,,,
+PMC5302978,Oncotarget,2016,,oncotarget-07-57131-s001.pdf,.pdf,2301081,document,,False,0,,,,,,,
+PMC9040206,BMC Med,2022,,12916_2022_2334_MOESM4_ESM.xlsx,.xlsx,632069,dataset_medium,mixed,True,10,315,9,0.44,0.0,0,False,Table SM1. List of 313 variants in the polygenic risk score. Presented are minor allele frequency and risk allele frequency from the Singapore Multi-Ethnic Cohort (MEC) study. Odds ratio are from the 
+PMC9040206,BMC Med,2022,,12916_2022_2334_MOESM2_ESM.xlsx,.xlsx,879997,dataset_medium,omics,True,13,258,11,0.2,1.0,0,False,"Table S2. List of predicted protein-truncating variants in 4,297 breast cancer patients from Singapore Breast Cancer Cohort (SGBCC) and 3,316 from Malaysian Breast Cancer Genetic Study (MyBrCa)."
+PMC9040206,BMC Med,2022,,12916_2022_2334_MOESM1_ESM.pdf,.pdf,546709,document,,False,0,,,,,,,
+PMC9040206,BMC Med,2022,,12916_2022_2334_MOESM3_ESM.csv,.csv,494,small_table,numeric,True,1,15,6,0.93,0.0,0,False,t BC_INCIDENCE BC_INCIDENCE_CHINESE BC_INCIDENCE_MALAY BC_INCIDENCE_INDIAN DEATH_INCIDENCE
+PMC5331147,Data Brief,2017,,mmc1.pdf,.pdf,600206,document,,False,0,,,,,,,
+PMC7001949,PLoS One,2020,,pone.0228198.s001.zip,.zip,678589,other,,False,0,,,,,,,
+PMC9459895,JAMA Oncol,2022,,jamaoncol-e223846-s002.pdf,.pdf,1601306,dataset_medium,mixed,False,1,109,10,0.35,0.24,0,False,Type Name Coordinates
+PMC9459895,JAMA Oncol,2022,,jamaoncol-e223846-s001.pdf,.pdf,150396,document,,False,0,,,,,,,
+PMC5412118,J Natl Cancer Inst,2017,,djx035_Supp.docx,.docx,253116,small_table,mixed,False,1,20,10,0.38,0.0,0,False,Covariate 1-year Interval 1-year Interval 1-year Interval 3-year Interval 3-year Interval 3-year Interval 5-year Interval 5-year Interval 5-year Interval
+PMC5750231,Nat Commun,2018,,41467_2017_2481_MOESM1_ESM.pdf,.pdf,49783871,document,,False,0,,,,,,,
+PMC9083187,Int J Cancer,2022,,IJC-150-2072-s001.pdf,.pdf,371283,dataset_medium,mixed,False,1,881,8,0.38,0.03,0,True,Gene Category Hallmark Gene Ontology Biological Processes
+PMC8492335,JCI Insight,2021,,jciinsight-6-150532-s239.pdf,.pdf,2711387,document,,False,0,,,,,,,
+PMC8492335,JCI Insight,2021,,jciinsight-6-150532-s240.pdf,.pdf,123638,document,,False,0,,,,,,,
+PMC7103487,Oncogene,2020,,NIHMS1552032-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC6425951,Cell Rep,2019,,NIHMS1523866-supplement-3.xlsx,.xlsx,0,empty_or_text,,True,0,,,,,,,
+PMC8142020,Comput Struct Biotechnol J,2021,,mmc1.pdf,.pdf,70036,document,,False,0,,,,,,,
+PMC8142020,Comput Struct Biotechnol J,2021,,mmc3.pdf,.pdf,139880,document,,False,0,,,,,,,
+PMC8142020,Comput Struct Biotechnol J,2021,,mmc2.pdf,.pdf,134189,tiny_table,omics,False,1,5,4,0.63,1.0,0,False, Chr 1 Chr 8 Chr 19
+PMC6181240,Cell Rep,2018,,NIHMS1503266-supplement-4.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC5521028,Transl Oncol,2017,,mmc1.pptx,.pptx,2712547,figure_image,,False,0,,,,,,,
+PMC6525037,Oncogene,2019,,NIHMS1516976-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM5_ESM.docx,.docx,335556,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM2_ESM.docx,.docx,14372,small_table,mixed,False,1,22,4,0.32,0.29,0,False,Name Name  Weight
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM3_ESM.docx,.docx,14533,small_table,numeric,False,1,25,4,0.56,0.25,0,False,Name  Weight Weight
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM6_ESM.docx,.docx,14573,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM4_ESM.docx,.docx,228784,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM8_ESM.docx,.docx,349937,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM1_ESM.docx,.docx,25318,document,,False,0,,,,,,,
+PMC9764637,Breast Cancer Res,2022,,13058_2022_1592_MOESM7_ESM.docx,.docx,18348,small_table,numeric,False,4,24,3,0.64,0.09,0,False,Names Weights Cis
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s002.pdf,.pdf,196525,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s012.pdf,.pdf,26898,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s001.pdf,.pdf,569973,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s010.pdf,.pdf,39041,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s005.pdf,.pdf,299201,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s008.pdf,.pdf,39378,small_table,clinical,False,1,38,21,0.56,0.0,0,False,"Patient ID PgR (IHC) PgR (IHC)% ER (IHC) HER2+IHC Histology Grade M N T Stage Size(mm) ER (IFISH) % ER (IFISH) Lymph nodes
+examined Number of
+metastatic
+lymph nodes neoadjuvant
+treatment
+(months) neoa"
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s013.pdf,.pdf,29588,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s007.pdf,.pdf,215050,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s009.pdf,.pdf,26549,small_table,numeric,False,1,39,10,0.95,0.0,0,False, Prior treatment   Post Treatment   Metastasis  
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s003.pdf,.pdf,200461,small_table,numeric,False,1,37,11,1.0,0.0,0,False,13          
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s011.pdf,.pdf,40154,small_table,numeric,False,1,38,7,0.56,0.0,0,False,ID clustPhenO clustGen clustPG GenEnt PhenEnt GenPhenEnt
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s006.pdf,.pdf,190242,document,,False,0,,,,,,,
+PMC6210052,Mol Oncol,2018,,MOL2-12-1838-s004.pdf,.pdf,217537,small_table,numeric,False,1,37,8,1.0,0.0,0,False,13       
+PMC5460115,NPJ Breast Cancer,2017,,41523_2017_19_MOESM2_ESM.docx,.docx,13832,document,,False,0,,,,,,,
+PMC5460115,NPJ Breast Cancer,2017,,41523_2017_19_MOESM1_ESM.docx,.docx,19472,small_table,numeric,False,1,48,15,0.77,0.17,0,False,  Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at base
+PMC7033104,Nat Commun,2020,,41467_2020_14780_MOESM4_ESM.pdf,.pdf,160185,document,,False,0,,,,,,,
+PMC7033104,Nat Commun,2020,,41467_2020_14780_MOESM1_ESM.pdf,.pdf,2331953,document,,False,0,,,,,,,
+PMC7033104,Nat Commun,2020,,41467_2020_14780_MOESM3_ESM.mp4,.mp4,5742945,media,,False,0,,,,,,,
+PMC7033104,Nat Commun,2020,,41467_2020_14780_MOESM5_ESM.xlsx,.xlsx,10679469,dataset_large,numeric,True,36,9001,18,1.0,0.0,0,False,"Figure 2c Time, min RNA-6 alkyne, mAU RNA-6 PTXs, mAU"
+PMC7033104,Nat Commun,2020,,41467_2020_14780_MOESM2_ESM.pdf,.pdf,7326,document,,False,0,,,,,,,
+PMC4823059,Oncotarget,2016,,oncotarget-07-2611-s001.pdf,.pdf,3742982,dataset_medium,mixed,False,1,54,8,0.46,0.17,0,False,Parameter * Number %
+PMC8364654,J Cancer,2021,,jcav12p5687s1.pdf,.pdf,191191,document,,False,0,,,,,,,
+PMC8408146,Sci Rep,2021,,41598_2021_96709_MOESM1_ESM.pdf,.pdf,12747280,document,,False,0,,,,,,,
+PMC9536271,JCI Insight,2022,,jciinsight-7-151851-s148.xls,.xls,406016,dataset_large,omics,True,1,1260,24,0.87,0.99,0,False,Table S1: Y537S-regulated genes                       
+PMC9536271,JCI Insight,2022,,jciinsight-7-151851-s150.xlsx,.xlsx,15942,dataset_medium,omics,True,1,102,4,0.74,0.99,0,False,Table S3: Top genes overexpressed in MCF-7 Y537S cells
+PMC9536271,JCI Insight,2022,,jciinsight-7-151851-s151.xlsx,.xlsx,304313,dataset_large,omics,True,1,6096,6,0.5,1.0,0,False,symbol Group Vehicle OTX015  p-value
+PMC9536271,JCI Insight,2022,,jciinsight-7-151851-s149.xls,.xls,349184,dataset_large,omics,True,1,1084,24,0.87,0.99,0,False,Table S2: D538G-regulated genes                       
+PMC9536271,JCI Insight,2022,,jciinsight-7-151851-s147.pdf,.pdf,878138,document,,False,0,,,,,,,
+PMC8811753,Cell Rep,2022,,NIHMS1771087-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC8595664,Commun Biol,2021,,42003_2021_2805_MOESM1_ESM.pdf,.pdf,4504428,document,,False,0,,,,,,,
+PMC8595664,Commun Biol,2021,,42003_2021_2805_MOESM3_ESM.xlsx,.xlsx,66464,dataset_large,numeric,True,1,1653,29,0.93,0.2,0,False,Figure 2a
+PMC8595664,Commun Biol,2021,,42003_2021_2805_MOESM2_ESM.pdf,.pdf,163928,document,,False,0,,,,,,,
+PMC8595664,Commun Biol,2021,,42003_2021_2805_MOESM4_ESM.pdf,.pdf,1617043,document,,False,0,,,,,,,
+PMC7794185,Oncologist,2021,,ONCO-26-e142-s001.pdf,.pdf,120559,document,,False,0,,,,,,,
+PMC8629426,Elife,2021,,elife-70130-transrepform1.pdf,.pdf,188315,document,,False,0,,,,,,,
+PMC8629426,Elife,2021,,elife-70130-fig3-data1.xlsx,.xlsx,9104,tiny_table,mixed,True,1,9,8,0.43,0.0,0,False,Figure 3a
+PMC8629426,Elife,2021,,elife-70130-app1-fig3-data1.xlsx,.xlsx,10713,small_table,numeric,True,1,14,15,0.68,0.0,0,False,Appendix 1-figure 3A Appendix 1-figure 3B
+PMC8629426,Elife,2021,,elife-70130-fig5-data1.xlsx,.xlsx,9226,small_table,mixed,True,1,13,11,0.5,0.0,0,False,Figure 5A: Figure 5B:
+PMC8849557,Nat Aging,2021,,NIHMS1772753-supplement-Example_of_gating_strategy.pdf,.pdf,0,document,,False,0,,,,,,,
+PMC7513343,ACS Omega,2020,,ao0c03001_si_002.cif,.cif,2058548,other,,False,0,,,,,,,
+PMC7513343,ACS Omega,2020,,ao0c03001_si_001.pdf,.pdf,4576267,document,,False,0,,,,,,,

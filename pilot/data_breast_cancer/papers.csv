@@ -1,0 +1,301 @@
+pmcid,journal,year,license,fetch,n_files,n_dataset_files,n_small_tables,n_figures,n_docs,verdict,kinds,title
+PMC7162874,Signal Transduct Target Ther,2020,,ok,8,5,2,0,1,dataset_large,mixed;numeric;omics,Pleiotropic tumor suppressor functions of WWOX antagonize metastasis.
+PMC6857297,Breast Cancer Res,2019,,ok,1,0,1,0,0,small_table,,Pubertal timing and breast density in young women: a prospective cohort study.
+PMC8515661,Part Fibre Toxicol,2021,,ok,1,0,0,0,1,no_tabular_data,,The mechanism of cell death induced by silver nanoparticles is distinct from silver cations.
+PMC9065442,Front Oncol,2022,,ok,1,0,0,0,1,no_tabular_data,,Augmentation of Extracellular ATP Synergizes With Chemotherapy in Triple Negative Breast Cancer.
+PMC7004948,Adv Radiat Oncol,2020,,ok,1,0,0,0,1,no_tabular_data,,Narrowing Racial Gaps in Breast Cancer: Factors Affecting Probability of Adjuvant Radiation Therapy.
+PMC6033363,Oncotarget,2018,,ok,1,0,0,0,1,no_tabular_data,,P-Rex1 is dispensable for Erk activation and mitogenesis in breast cancer.
+PMC9846347,Front Oncol,2022,,empty,0,0,0,0,0,no_supp_retrieved,,"Separate and combined effects of advanced age and obesity on mammary adipose inflammation, immunosuppression and tumor progression in mouse models of triple negative breast cancer."
+PMC9277186,Front Oncol,2022,,empty,0,0,0,0,0,no_supp_retrieved,,Proteomic Analysis Identifies p62/SQSTM1 as a Critical Player in PARP Inhibitor Resistance.
+PMC6521536,J Ovarian Res,2019,,ok,2,0,0,0,2,no_tabular_data,,Mitochondrially targeted p53 or DBD subdomain is superior to wild type p53 in ovarian cancer cells even with strong dominant negative mutant p53.
+PMC6343755,Oncotarget,2019,,ok,3,1,0,0,2,dataset_large,omics,FGFR1β is a driver isoform of FGFR1 alternative splicing in breast cancer cells.
+PMC5978322,EMBO J,2018,,ok,11,4,1,0,6,dataset_large,numeric;omics,Thermal proteome profiling of breast cancer cells reveals proteasomal activation by CDK4/6 inhibitor palbociclib.
+PMC9691121,Genes (Basel),2022,,ok,1,0,0,0,0,no_tabular_data,,Extracellular Vesicle MicroRNA in Malignant Pleural Effusion.
+PMC6516124,Oncologist,2019,,ok,1,0,0,0,1,no_tabular_data,,Role of Family Obligation Stress on Ugandan Women's Participation in Preventive Breast Health.
+PMC5191868,Aging (Albany NY),2016,,ok,2,1,0,0,1,dataset_medium,mixed,Aging is associated with an expansion of CD49f<sup>hi</sup> mammary stem cells that show a decline in function and increased transformation potential.
+PMC7200934,iScience,2020,,ok,1,0,0,0,1,no_tabular_data,,An Unsupervised Strategy for Identifying Epithelial-Mesenchymal Transition State Metrics in Breast Cancer and Melanoma.
+PMC8756518,HGG Adv,2022,,ok,3,1,0,0,2,dataset_medium,numeric,Associations of genetic susceptibility to 16 cancers with risk of breast cancer overall and by intrinsic subtypes.
+PMC7301155,J Natl Cancer Inst,2020,,ok,1,1,0,0,0,dataset_medium,numeric,A Polygenic Risk Score for Breast Cancer in US Latinas and Latin American Women.
+PMC6899165,Nat Biomed Eng,2019,,ok,1,0,0,0,1,no_tabular_data,,Matrix stiffness induces a tumorigenic phenotype in mammary epithelium through changes in chromatin accessibility.
+PMC9629447,NAR Cancer,2022,,ok,1,0,0,0,0,no_tabular_data,,UBE2T promotes breast cancer tumor growth by suppressing DNA replication stress.
+PMC4882782,BMC Cancer,2016,,ok,2,0,0,0,2,no_tabular_data,,Selective mode of action of plumbagin through BRCA1 deficient breast cancer stem cells.
+PMC7749086,Front Digit Health,2020,,ok,1,0,0,0,1,no_tabular_data,,Image Descriptors for Weakly Annotated Histopathological Breast Cancer Data.
+PMC9526500,Oncologist,2022,,ok,1,0,0,0,1,no_tabular_data,,Factors Associated With Physical Activity Levels in Patients With Breast Cancer.
+PMC5986154,PLoS One,2018,,ok,8,0,0,0,8,no_tabular_data,,Macrophage Migration Inhibitory Factor protects cancer cells from immunogenic cell death and impairs anti-tumor immune responses.
+PMC9101795,Cancers (Basel),2022,,ok,1,0,0,0,0,no_tabular_data,,Combining TMEM Doorway Score and Mena<sup>Calc</sup> Score Improves the Prediction of Distant Recurrence Risk in HR+/HER2- Breast Cancer Patients.
+PMC8096837,Sci Rep,2021,,ok,3,2,0,0,1,dataset_large,numeric;omics,Systematic integrated analyses of methylomic and transcriptomic impacts of early combined botanicals on estrogen receptor-negative mammary cancer.
+PMC7051945,Front Bioeng Biotechnol,2020,,ok,1,0,0,0,0,no_tabular_data,,Conducting a Virtual Clinical Trial in HER2-Negative Breast Cancer Using a Quantitative Systems Pharmacology Model With an Epigenetic Modulator and Immune Checkpoint Inhibitors.
+PMC6814774,NPJ Breast Cancer,2019,,ok,2,0,0,0,2,no_tabular_data,,Wnt5a induces ROR1 to recruit cortactin to promote breast-cancer migration and metastasis.
+PMC7832892,Cancers (Basel),2021,,ok,1,0,0,0,0,no_tabular_data,,Integrin α3β1 Represses Reelin Expression in Breast Cancer Cells to Promote Invasion.
+PMC5346660,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,Fatty acid synthase is a primary target of MiR-15a and MiR-16-1 in breast cancer.
+PMC5514148,NPJ Breast Cancer,2017,,ok,4,2,0,0,2,dataset_medium,mixed;omics,Metabolic reprogramming underlies metastatic potential in an obesity-responsive murine model of metastatic triple negative breast cancer.
+PMC9385763,Breast Cancer,2022,,ok,2,1,0,0,1,dataset_medium,numeric,Relevance of the MHC region for breast cancer susceptibility in Asians.
+PMC5787462,Oncotarget,2018,,ok,2,0,0,0,1,no_tabular_data,,Three-dimensional tumor model mimics stromal - breast cancer cells signaling.
+PMC5253704,Nat Commun,2017,,ok,2,0,0,0,2,no_tabular_data,,α3 Chains of type V collagen regulate breast tumour growth via glypican-1.
+PMC8793384,Integr Cancer Ther,2022,,ok,2,0,0,0,1,no_tabular_data,,Management of Phosphatidylinositol-3-Kinase Inhibitor-Associated Hyperglycemia.
+PMC6021239,Oncotarget,2018,,ok,2,0,1,0,1,small_table,,ERα-mediated cell cycle progression is an important requisite for CDK4/6 inhibitor response in HR+ breast cancer.
+PMC6419430,BMC Cancer,2019,,ok,1,0,0,1,0,no_tabular_data,,"Circulating tumor cell investigation in breast cancer patient-derived xenograft models by automated immunofluorescence staining, image acquisition, and single cell retrieval and analysis."
+PMC8447690,Clin Epigenetics,2021,,ok,4,3,1,0,0,dataset_large,mixed;numeric;omics,Hi-C profiling of cancer spheroids identifies 3D-growth-specific chromatin interactions in breast cancer endocrine resistance.
+PMC6117344,Sci Rep,2018,,ok,1,0,0,0,1,no_tabular_data,,OncomiR-10b hijacks the small molecule inhibitor linifanib in human cancers.
+PMC8547038,Nat Cancer,2021,,ok,1,0,0,0,0,no_tabular_data,,Serial single-cell genomics reveals convergent subclonal evolution of resistance as early-stage breast cancer patients progress on endocrine plus CDK4/6 therapy.
+PMC7865280,Int J Mol Sci,2021,,ok,1,0,0,0,1,no_tabular_data,,"PLEKHA7, an Apical Adherens Junction Protein, Suppresses Inflammatory Breast Cancer in the Context of High E-Cadherin and p120-Catenin Expression."
+PMC9270695,JAMA Netw Open,2022,,ok,1,0,0,0,1,no_tabular_data,,Association Between Residence in Historically Redlined Districts Indicative of Structural Racism and Racial and Ethnic Disparities in Breast Cancer Outcomes.
+PMC9233847,BMC Health Serv Res,2022,,ok,1,0,0,0,1,no_tabular_data,,Pilot study of a culturally sensitive intervention to promote genetic counseling for breast cancer risk.
+PMC4833667,NMR Biomed,2016,,ok,1,0,0,0,1,no_tabular_data,,Apparent exchange rate for breast cancer characterization.
+PMC7362578,Oncogene,2019,,ok,1,0,0,0,1,no_tabular_data,,Phosphodiesterase 7B/microRNA-200c relationship regulates triple-negative breast cancer cell growth.
+PMC9050993,Nanomicro Lett,2022,,ok,1,0,0,0,1,no_tabular_data,,A Therapeutic Sheep in Metastatic Wolf's Clothing: Trojan Horse Approach for Cancer Brain Metastases Treatment.
+PMC5731933,Oncotarget,2017,,ok,7,3,0,0,4,dataset_large,mixed;omics,Development and validation of a targeted next generation DNA sequencing panel outperforming whole exome sequencing for the identification of clinically relevant genetic variants.
+PMC5991460,BMC Genomics,2018,,ok,1,0,0,0,0,tables_only,,Clustering multilayer omics data using MuNCut.
+PMC8564454,Adv Sci (Weinh),2021,,ok,1,0,0,0,1,no_tabular_data,,S100A9-Targeted Cowpea Mosaic Virus as a Prophylactic and Therapeutic Immunotherapy against Metastatic Breast Cancer and Melanoma.
+PMC5697861,PLoS One,2017,,ok,2,2,0,0,0,dataset_medium,mixed,BRCA1 and BRCA2 mutational profile and prevalence in hereditary breast and ovarian cancer (HBOC) probands from Southern Brazil: Are international testing criteria appropriate for this specific population?
+PMC6438043,Breast Cancer Res,2019,,ok,7,6,1,0,0,dataset_large,numeric,Genomic signature of parity in the breast of premenopausal women.
+PMC8616148,Cells,2021,,ok,1,0,0,0,0,no_tabular_data,,FGFR1 Overexpression Induces Cancer Cell Stemness and Enhanced Akt/Erk-ER Signaling to Promote Palbociclib Resistance in Luminal A Breast Cancer Cells.
+PMC9537519,Commun Biol,2022,,ok,5,1,0,0,4,dataset_large,mixed,Copy number variants as modifiers of breast cancer risk for BRCA1/BRCA2 pathogenic variant carriers.
+PMC5694825,Front Hum Neurosci,2017,,ok,1,0,0,0,0,tables_only,,Predicting Long-Term Cognitive Outcome Following Breast Cancer with Pre-Treatment Resting State fMRI and Random Forest Machine Learning.
+PMC4863200,Organometallics,2016,,ok,3,0,0,0,1,no_tabular_data,,"Titanocene-Gold Complexes Containing N-Heterocyclic Carbene Ligands Inhibit Growth of Prostate, Renal, and Colon Cancers in Vitro."
+PMC5384279,Sci Rep,2017,,ok,2,2,0,0,0,dataset_large,clinical;omics,A 3q gene signature associated with triple negative breast cancer organ specific metastasis and response to neoadjuvant chemotherapy.
+PMC8627106,Breast Cancer Res,2021,,ok,2,0,0,0,2,no_tabular_data,,Quantitative multiparametric MRI predicts response to neoadjuvant therapy in the community setting.
+PMC5256100,Sci Rep,2017,,ok,1,1,0,0,0,dataset_medium,numeric,Loss of Merlin induces metabolomic adaptation that engages dependence on Hedgehog signaling.
+PMC5627654,Int J Cancer Res Mol Mech,2017,,ok,1,0,0,0,1,no_tabular_data,,Hematopoietic Stem Cell-derived Adipocytes Promote Tumor Growth and Cancer Cell Migration.
+PMC7147091,Oncotarget,2020,,ok,1,0,0,0,1,no_tabular_data,,Inhibition of SYK kinase does not confer a pro-proliferative or pro-invasive phenotype in breast epithelium or breast cancer cells.
+PMC6219670,Sci Data,2018,,ok,1,0,0,0,0,no_tabular_data,,"Brain metastasis DNA methylomes, a novel resource for the identification of biological and clinical features."
+PMC8069710,Pharmaceutics,2021,,ok,1,0,0,0,1,no_tabular_data,,Seed- and Soil-Dependent Differences in Murine Breast Tumor Microenvironments Dictate Anti-PD-L1 IgG Delivery and Therapeutic Efficacy.
+PMC11401740,Breast J,2022,,ok,1,0,0,0,0,no_tabular_data,,Evaluating DNA Methylation in Random Fine Needle Aspirates from the Breast to Inform Cancer Risk.
+PMC5686836,Mol Cancer,2017,,ok,1,0,0,1,0,no_tabular_data,,Bi-directional exosome-driven intercommunication between the hepatic niche and cancer cells.
+PMC5472485,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,The Nogo-B receptor promotes Ras plasma membrane localization and activation.
+PMC8062684,Sci Rep,2021,,ok,1,0,0,0,1,no_tabular_data,,Expression of CCL2/CCR2 signaling proteins in breast carcinoma cells is associated with invasive progression.
+PMC6470828,Int J Mol Sci,2019,,ok,1,0,0,0,0,no_tabular_data,,Obesity-Altered Adipose Stem Cells Promote ER⁺ Breast Cancer Metastasis through Estrogen Independent Pathways.
+PMC7870153,PLoS One,2021,,ok,5,0,0,0,5,no_tabular_data,,A Priori Activation of Apoptosis Pathways of Tumor (AAAPT) technology: Development of targeted apoptosis initiators for cancer treatment.
+PMC9050725,NPJ Breast Cancer,2022,,ok,3,1,1,0,1,dataset_medium,mixed,Is conservative management of ductal carcinoma in situ risky?
+PMC6169574,Oncoimmunology,2018,,ok,1,0,0,0,0,no_tabular_data,,Combination with SGT-53 overcomes tumor resistance to a checkpoint inhibitor.
+PMC6997081,Am J Clin Nutr,2020,,ok,1,0,0,0,1,no_tabular_data,,"Intake of vitamin D and calcium, sun exposure, and risk of breast cancer subtypes among black women."
+PMC6009543,BMJ Open,2018,,ok,3,0,0,0,3,no_tabular_data,,Perceptions of overdetection of breast cancer among women 70 years of age and older in the USA: a mixed-methods analysis.
+PMC8230452,Cancers (Basel),2021,,ok,1,0,0,0,0,no_tabular_data,,Development of a Virus-Like Particle-Based Anti-HER2 Breast Cancer Vaccine.
+PMC8600133,Front Oncol,2021,,ok,1,0,1,0,0,small_table,,First Nationwide Molecular Screening Program in Spain for Patients With Advanced Breast Cancer: Results From the AGATA SOLTI-1301 Study.
+PMC8278587,BMC Med Genomics,2021,,ok,5,5,0,0,0,dataset_medium,numeric;omics,Somatic mutations in benign breast disease tissues and association with breast cancer risk.
+PMC7853173,JNCI Cancer Spectr,2021,,ok,1,0,0,0,1,no_tabular_data,,Chemoprevention Agents to Reduce Mammographic Breast Density in Premenopausal Women: A Systematic Review of Clinical Trials.
+PMC4791069,Nat Cell Biol,2016,,ok,1,0,0,0,1,no_tabular_data,,The LINK-A lncRNA activates normoxic HIF1α signalling in triple-negative breast cancer.
+PMC9314348,Nat Commun,2022,,ok,4,1,0,0,3,dataset_large,omics,KSTAR: An algorithm to predict patient-specific kinase activities from phosphoproteomic data.
+PMC9633499,Breast Cancer Res Treat,2022,,ok,1,0,0,0,1,no_tabular_data,,"HALT-D: a randomized open-label phase II study of crofelemer for the prevention of chemotherapy-induced diarrhea in patients with HER2-positive breast cancer receiving trastuzumab, pertuzumab, and a taxane."
+PMC7938033,Cancer Causes Control,2021,,ok,1,0,1,0,0,small_table,,Decreased public pursuit of cancer-related information during the COVID-19 pandemic in the United States.
+PMC7593621,Breast,2020,,ok,1,0,0,0,1,no_tabular_data,,Quality indicators for the diagnosis and surgical management of breast cancer in South Africa.
+PMC5239492,Oncotarget,2016,,ok,2,1,0,0,1,dataset_medium,numeric,Induction of HOXA9 expression in three-dimensional organotypic culture of the Claudin-low breast cancer cells.
+PMC7544215,Nucleic Acids Res,2020,,ok,1,0,0,0,0,no_tabular_data,,Hedgehog signaling enables repair of ribosomal DNA double-strand breaks.
+PMC5348311,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,Specific micro-RNA expression patterns distinguish the basal and luminal subtypes of muscle-invasive bladder cancer.
+PMC9523704,Nano Lett,2022,,ok,3,0,0,0,1,no_tabular_data,,Nanoscale Tracking Combined with Cell-Scale Microrheology Reveals Stepwise Increases in Force Generated by Cancer Cell Protrusions.
+PMC8494188,JNCI Cancer Spectr,2021,,ok,1,0,0,0,1,no_tabular_data,,Dietary Intake of Branched Chain Amino Acids and Breast Cancer Risk in the NHS and NHS II Prospective Cohorts.
+PMC5477115,Cell Commun Signal,2017,,empty,0,0,0,0,0,no_supp_retrieved,,Identification of EGF-NF-κB-FOXC1 signaling axis in basal-like breast cancer.
+PMC6267911,BMC Cancer,2018,,ok,1,0,0,0,0,tables_only,,"Mammographic density and breast tissue expression of inflammatory markers, growth factors, and vimentin."
+PMC8244801,J Natl Cancer Inst,2021,,ok,1,0,0,0,1,no_tabular_data,,Targeted eHealth Intervention to Reduce Breast Cancer Survivors' Fear of Recurrence: Results From the FoRtitude Randomized Trial.
+PMC6930663,Molecules,2019,,ok,1,0,0,0,0,no_tabular_data,,Development of a Microfluidic Array to Study Drug Response in Breast Cancer.
+PMC9446134,JMIR Cancer,2022,,ok,4,0,0,0,4,no_tabular_data,,Feasibility and Acceptability of an Active Video Game-Based Physical Activity Support Group (Pink Warrior) for Survivors of Breast Cancer: Randomized Controlled Pilot Trial.
+PMC4868715,Oncotarget,2016,,ok,4,2,0,0,2,dataset_medium,clinical,MicroRNA 100 sensitizes luminal A breast cancer cells to paclitaxel treatment in part by targeting mTOR.
+PMC6208406,Nat Commun,2018,,ok,1,0,0,0,1,no_tabular_data,,Single-cell barcode analysis provides a rapid readout of cellular signaling pathways in clinical specimens.
+PMC7939353,PLoS One,2021,,ok,2,0,0,0,2,no_tabular_data,,Cost-effectiveness analysis of radiotherapy techniques for whole breast irradiation.
+PMC8449801,Clin Pharmacol Ther,2021,,ok,4,4,0,0,0,dataset_large,mixed;numeric;omics,Interaction Between SNP Genotype and Efficacy of Anastrozole and Exemestane in Early-Stage Breast Cancer.
+PMC5192436,Metabolites,2016,,ok,1,0,0,0,1,no_tabular_data,,Optimized Method for Untargeted Metabolomics Analysis of MDA-MB-231 Breast Cancer Cells.
+PMC7654187,Cancer Cell Int,2020,,empty,0,0,0,0,0,no_supp_retrieved,,CD4 T-cell immune stimulation of HER2 + breast cancer cells alters response to trastuzumab in vitro.
+PMC7801129,Cell Adh Migr,2021,,ok,1,0,0,0,1,no_tabular_data,,Keratin 19 maintains E-cadherin localization at the cell surface and stabilizes cell-cell adhesion of MCF7 cells.
+PMC7160960,Breast Cancer Res,2020,,ok,6,0,0,0,6,no_tabular_data,,Cetuximab PET delineated changes in cellular distribution of EGFR upon dasatinib treatment in triple negative breast cancer.
+PMC4854653,Nature,2016,,ok,1,0,0,0,0,no_tabular_data,,Response and resistance to BET bromodomain inhibitors in triple-negative breast cancer.
+PMC7668614,PLoS One,2020,,ok,75,29,39,0,6,dataset_large,mixed;numeric;omics,Divergent organ-specific isogenic metastatic cell lines identified using multi-omics exhibit differential drug sensitivity.
+PMC6405439,JNCI Cancer Spectr,2018,,ok,1,0,0,0,1,no_tabular_data,,The Influence of Number and Timing of Pregnancies on Breast Cancer Risk for Women With &lt;i&gt;BRCA1&lt;/i&gt; or &lt;i&gt;BRCA2&lt;/i&gt; Mutations.
+PMC6220360,Mol Pharm,2018,,ok,1,0,0,0,1,no_tabular_data,,Synergistic Targeting HER2 and EGFR with Bivalent Aptamer-siRNA Chimera Efficiently Inhibits HER2-Positive Tumor Growth.
+PMC8238238,Oncotarget,2021,,ok,2,0,0,0,2,no_tabular_data,,Association of high-sensitivity C-reactive protein and odds of breast cancer by molecular subtype: analysis of the MEND study.
+PMC8012607,Nat Commun,2021,,ok,3,0,0,0,2,no_tabular_data,,Landscapes of cellular phenotypic diversity in breast cancer xenografts and their impact on drug response.
+PMC8263909,Front Oncol,2021,,ok,1,0,0,0,1,no_tabular_data,,Genetic Variants in <i>COX2</i> and <i>ALOX</i> Genes and Breast Cancer Risk in White and Black Women.
+PMC7578759,iScience,2020,,ok,1,0,0,0,1,no_tabular_data,,AXL Is a Driver of Stemness in Normal Mammary Gland and Breast Cancer.
+PMC7017236,Cancers (Basel),2020,,ok,1,0,0,0,1,no_tabular_data,,STAT3 Inhibits CD103<sup>+</sup> cDC1 Vaccine Efficacy in Murine Breast Cancer.
+PMC4718995,Front Immunol,2016,,ok,1,0,0,0,1,no_tabular_data,,Induction of Monocyte Chemoattractant Proteins in Macrophages via the Production of Granulocyte/Macrophage Colony-Stimulating Factor by Breast Cancer Cells.
+PMC8443188,Sci Adv,2021,,ok,2,0,0,0,0,tables_only,,NSG-Pro mouse model for uncovering resistance mechanisms and unique vulnerabilities in human luminal breast cancers.
+PMC5739415,PLoS One,2017,,ok,4,0,0,0,4,no_tabular_data,,Impact of genistein on the gut microbiome of humanized mice and its role in breast tumor inhibition.
+PMC4799943,Cancer Med,2016,,ok,1,0,0,0,1,no_tabular_data,,Development and characterization of two human triple-negative breast cancer cell lines with highly tumorigenic and metastatic capabilities.
+PMC9076612,Sci Rep,2022,,ok,1,0,0,0,1,no_tabular_data,,The role of psychosocial factors in patients' recollections of breast reconstruction options discussed with their surgeons.
+PMC7970134,Breast,2021,,ok,8,0,1,1,6,small_table,,Should oncoplastic breast conserving surgery be used for the treatment of early stage breast cancer? Using the GRADE approach for development of clinical recommendations.
+PMC9706042,Integr Cancer Ther,2022,,ok,2,0,0,0,2,no_tabular_data,,Yoga Therapy During Chemotherapy for Early-Stage and Locally Advanced Breast Cancer.
+PMC9527379,Trials,2022,,ok,1,0,0,0,1,no_tabular_data,,An interactive mobile application versus an educational booklet to promote job retention in women undergoing adjuvant chemotherapy for breast cancer: a randomized controlled trial.
+PMC5204351,Genes Dev,2016,,ok,2,0,0,0,1,no_tabular_data,,A phosphorylation-deubiquitination cascade regulates the BRCA2-RAD51 axis in homologous recombination.
+PMC6767396,J Magn Reson Imaging,2019,,ok,1,0,0,0,1,no_tabular_data,,"Diffusion-weighted imaging (DWI) with apparent diffusion coefficient (ADC) mapping as a quantitative imaging biomarker for prediction of immunohistochemical receptor status, proliferation rate, and molecular subtypes of breast cancer."
+PMC5762501,Oncotarget,2017,,ok,4,3,0,0,1,dataset_large,mixed;numeric,Development of a predictive miRNA signature for breast cancer risk among high-risk women.
+PMC7870839,NPJ Breast Cancer,2021,,ok,2,0,0,0,2,no_tabular_data,,"Ancestry-associated transcriptomic profiles of breast cancer in patients of African, Arab, and European ancestry."
+PMC9682428,JAMA Netw Open,2022,,ok,1,0,0,0,1,no_tabular_data,,Risk of Anaplastic Large Cell Lymphoma Following Postmastectomy Implant Reconstruction in Women With Breast Cancer and Ductal Carcinoma in Situ.
+PMC8397890,Phys Imaging Radiat Oncol,2021,,ok,1,0,0,0,0,tables_only,,Application of an automatic segmentation method for evaluating cardiac structure doses received by breast radiotherapy patients.
+PMC9081172,Mol Cancer Ther,2022,,ok,2,0,0,0,2,no_tabular_data,,Optimal Strategy and Benefit of Pulsed Therapy Depend On Tumor Heterogeneity and Aggressiveness at Time of Treatment Initiation.
+PMC7073883,Breast,2020,,ok,1,0,0,0,1,no_tabular_data,,The impact of patient characteristics and lifestyle factors on the risk of an ipsilateral event after a primary DCIS: A systematic review.
+PMC5663565,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,Synergistic effect of eribulin and CDK inhibition for the treatment of triple negative breast cancer.
+PMC8693971,Mol Biol Cell,2021,,ok,1,0,0,0,1,no_tabular_data,,Keratin 19 interacts with GSK3β to regulate its nuclear accumulation and degradation of cyclin D3.
+PMC8699660,Cancers (Basel),2021,,ok,1,0,0,0,0,no_tabular_data,,YB1 Is a Major Contributor to Health Disparities in Triple Negative Breast Cancer.
+PMC5593696,Oncotarget,2017,,ok,2,1,0,0,1,dataset_medium,omics,C1orf64 is a novel androgen receptor target gene and coregulator that interacts with 14-3-3 protein in breast cancer.
+PMC8738132,Cancer,2022,,ok,1,0,0,0,1,no_tabular_data,,Active Living After Cancer: Adaptation and evaluation of a community-based physical activity program for minority and medically underserved breast cancer survivors.
+PMC8315538,PLoS One,2021,,ok,3,0,0,1,2,no_tabular_data,,Single-cell immunoblotting resolves estrogen receptor-α isoforms in breast cancer.
+PMC6476516,PLoS Comput Biol,2019,,ok,1,0,1,0,0,small_table,,Physical constraints on accuracy and persistence during breast cancer cell chemotaxis.
+PMC7846553,Sci Rep,2021,,ok,1,1,0,0,0,dataset_medium,numeric,The role of gene to gene interaction in the breast's genomic signature of pregnancy.
+PMC9257990,Cancer Commun (Lond),2022,,ok,2,1,0,0,1,dataset_medium,omics,ZBED2 expression enhances interferon signaling and predicts better survival of estrogen receptor-negative breast cancer patients.
+PMC8159129,Nutrients,2021,,ok,1,0,0,0,0,no_tabular_data,,Inhibition of Antiestrogen-Promoted Pro-Survival Autophagy and Tamoxifen Resistance in Breast Cancer through Vitamin D Receptor.
+PMC9550684,Breast Cancer Res Treat,2022,,ok,2,1,1,0,0,dataset_medium,clinical,Highly accurate response prediction in high-risk early breast cancer patients using a biophysical simulation platform.
+PMC8302552,Breast Cancer Res Treat,2021,,ok,1,0,0,0,1,no_tabular_data,,Fat-enlarged axillary lymph nodes are associated with node-positive breast cancer in obese patients.
+PMC6347264,PLoS One,2019,,ok,1,0,0,0,1,no_tabular_data,,Risk factors for Luminal A ductal carcinoma in situ (DCIS) and invasive breast cancer in the Carolina Breast Cancer Study.
+PMC9022316,BMC Womens Health,2022,,ok,1,0,0,0,1,no_tabular_data,,Sociodemographic correlates of colorectal cancer screening completion among women adherent to mammography screening guidelines by place of birth.
+PMC9578182,Breast Cancer Res,2022,,ok,4,3,0,0,1,dataset_large,numeric;omics,Elevated NRAS expression during DCIS is a potential driver for progression to basal-like properties and local invasiveness.
+PMC7000508,Ann Surg Oncol,2020,,ok,1,0,0,0,0,tables_only,,"Evaluation of the 12-Gene Molecular Score and the 21-Gene Recurrence Score as Predictors of Response to Neo-adjuvant Chemotherapy in Estrogen Receptor-Positive, HER2-Negative Breast Cancer."
+PMC5674043,Sci Rep,2017,,ok,1,0,0,0,1,no_tabular_data,,Targeting Androgen Receptor in Treating HER2 Positive Breast Cancer.
+PMC6579890,Front Immunol,2019,,ok,1,0,0,0,1,no_tabular_data,,PD-1 Blockade During Post-partum Involution Reactivates the Anti-tumor Response and Reduces Lymphatic Vessel Density.
+PMC4816761,EBioMedicine,2016,,ok,1,0,1,0,0,small_table,,CD8(+) T-cell Immune Evasion Enables Oncolytic Virus Immunotherapy.
+PMC9661734,Breast Cancer Res,2022,,ok,4,2,1,0,1,dataset_medium,numeric,Association of body mass index and inflammatory dietary pattern with breast cancer pathologic and genomic immunophenotype in the nurses' health study.
+PMC7465409,J Transl Med,2020,,ok,2,1,0,0,1,dataset_large,omics,High expression of MKK3 is associated with worse clinical outcomes in African American breast cancer patients.
+PMC9156717,Nat Commun,2022,,ok,3,0,0,0,2,no_tabular_data,,STING agonism reprograms tumor-associated macrophages and overcomes resistance to PARP inhibition in BRCA1-deficient models of breast cancer.
+PMC5552748,Sci Rep,2017,,ok,1,1,0,0,0,dataset_medium,numeric,CYP2C19*2 and CYP2C19*17 variants and effect of tamoxifen on breast cancer recurrence: Analysis of the International Tamoxifen Pharmacogenomics Consortium dataset.
+PMC7751686,NAR Cancer,2020,,ok,1,0,0,0,0,no_tabular_data,,Dual inhibition of DNA-PK and DNA polymerase theta overcomes radiation resistance induced by p53 deficiency.
+PMC6685102,Front Immunol,2019,,ok,1,1,0,0,0,dataset_medium,mixed,Examining Peripheral and Tumor Cellular Immunome in Patients With Cancer.
+PMC8241650,Prev Med,2021,,ok,1,0,0,0,1,no_tabular_data,,Prioritizing breast imaging services during the COVID pandemic: A survey of breast imaging facilities within the Breast Cancer Surveillance Consortium.
+PMC8051801,PLoS One,2021,,ok,9,0,1,0,7,small_table,,Pathological complete response of adding targeted therapy to neoadjuvant chemotherapy for inflammatory breast cancer: A systematic review.
+PMC6080536,BMC Cancer,2018,,ok,1,0,0,0,1,no_tabular_data,,Body mass index and cancer risk among Chinese patients with type 2 diabetes mellitus.
+PMC8671823,Breast Cancer (Auckl),2021,,empty,0,0,0,0,0,no_supp_retrieved,,Ultrastructural Analysis of Inflammatory Breast Cancer Cell Clusters in an Ex Vivo Environment Mechanically Mimicking the Lymph Vascular System.
+PMC9454770,Cancers (Basel),2022,,ok,1,0,0,0,0,no_tabular_data,,Demonstrating Tumor Vascular Disrupting Activity of the Small-Molecule Dihydronaphthalene Tubulin-Binding Agent OXi6196 as a Potential Therapeutic for Cancer Treatment.
+PMC5102823,Oncogene,2016,,empty,0,0,0,0,0,no_supp_retrieved,,The ErbB2ΔEx16 splice variant is a major oncogenic driver in breast cancer that promotes a pro-metastatic tumor microenvironment.
+PMC6561946,Sci Rep,2019,,ok,1,0,0,0,1,no_tabular_data,,Acid specific dark quencher QC1 pHLIP for multi-spectral optoacoustic diagnoses of breast cancer.
+PMC8573892,Breast Cancer Res,2021,,ok,1,0,0,0,1,no_tabular_data,,STAT5 is activated in macrophages by breast cancer cell-derived factors and regulates macrophage function in the tumor microenvironment.
+PMC6611512,Oncotarget,2019,,ok,1,0,0,0,1,no_tabular_data,,CEMIP upregulates BiP to promote breast cancer cell survival in hypoxia.
+PMC6912285,J Clin Med,2019,,ok,1,1,0,0,0,dataset_medium,numeric,"Involution of Breast Lobules, Mammographic Breast Density and Prognosis Among Tamoxifen-Treated Estrogen Receptor-Positive Breast Cancer Patients."
+PMC7414114,Sci Rep,2020,,ok,1,0,0,0,1,no_tabular_data,,Impact of isolation methods on the biophysical heterogeneity of single extracellular vesicles.
+PMC6428348,PLoS Comput Biol,2019,,ok,8,2,1,0,2,dataset_medium,numeric,Modeling differentiation-state transitions linked to therapeutic escape in triple-negative breast cancer.
+PMC7763268,Cancers (Basel),2020,,ok,1,1,0,0,0,dataset_medium,clinical,NDRG1 Expression Is an Independent Prognostic Factor in Inflammatory Breast Cancer.
+PMC7400789,Mol Oncol,2020,,ok,1,0,0,0,1,no_tabular_data,,Centrosome amplification is a frequent event in circulating tumor cells from subjects with metastatic breast cancer.
+PMC8921580,Gut,2022,,ok,2,0,0,0,2,no_tabular_data,,Pan-ERBB kinase inhibition augments CDK4/6 inhibitor efficacy in oesophageal squamous cell carcinoma.
+PMC6884910,Breast Cancer Res,2019,,ok,1,0,0,0,1,no_tabular_data,,Cross-talk between SIM2s and NFκB regulates cyclooxygenase 2 expression in breast cancer.
+PMC9248770,Front Biosci (Landmark Ed),2022,,ok,1,0,0,0,1,no_tabular_data,,Brief Post-Surgical Stress Management Reduces Pro-Inflammatory Cytokines in Overweight and Obese Breast Cancer Patients Undergoing Primary Treatment.
+PMC7222439,BMC Med Genomics,2020,,ok,2,1,0,1,0,dataset_medium,mixed,ERα-related chromothripsis enhances concordant gene transcription on chromosome 17q11.1-q24.1 in luminal breast cancer.
+PMC5493289,PLoS Med,2017,,ok,12,0,1,0,11,small_table,,Mammographic density and ageing: A collaborative pooled analysis of cross-sectional data from 22 countries worldwide.
+PMC6217066,Theranostics,2018,,ok,1,0,0,0,1,no_tabular_data,,Ultrasound molecular imaging as a non-invasive companion diagnostic for netrin-1 interference therapy in breast cancer.
+PMC7455022,Nat Metab,2020,,ok,1,0,0,0,1,no_tabular_data,,Selenium detoxification is required for cancer-cell survival.
+PMC7666200,Cell Death Dis,2020,,ok,1,0,0,0,1,no_tabular_data,,Quantifying the efficacy of checkpoint inhibitors on CD8<sup>+</sup> cytotoxic T cells for immunotherapeutic applications via single-cell interaction.
+PMC4924746,Oncotarget,2016,,ok,6,1,1,0,1,dataset_medium,omics,The cancer-testis antigens SPANX-A/C/D and CTAG2 promote breast cancer invasion.
+PMC5601698,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,Activation of cancerous inhibitor of PP2A (CIP2A) contributes to lapatinib resistance through induction of CIP2A-Akt feedback loop in ErbB2-positive breast cancer cells.
+PMC4905742,Elife,2016,,ok,2,0,2,0,0,small_table,,Premature polyadenylation of MAGI3 produces a dominantly-acting oncogene in human breast cancer.
+PMC7455732,Oncogenesis,2020,,ok,9,7,0,0,2,dataset_large,mixed;numeric;omics,LIMK2 promotes the metastatic progression of triple-negative breast cancer by activating SRPK1.
+PMC9270626,JACC CardioOncol,2022,,ok,1,0,1,0,0,small_table,,Validity of Estimated Cardiorespiratory Fitness in Patients With Primary Breast Cancer.
+PMC6001025,Breast Cancer Res,2018,,ok,8,0,1,0,1,small_table,,NDRG1 regulates neutral lipid metabolism in breast cancer cells.
+PMC7238733,Breast Cancer Res,2020,,ok,13,3,2,0,8,dataset_medium,omics,Antitumor activity of Z-endoxifen in aromatase inhibitor-sensitive and aromatase inhibitor-resistant estrogen receptor-positive breast cancer.
+PMC9464188,NPJ Breast Cancer,2022,,ok,1,0,0,0,1,no_tabular_data,,"Immunologically ""cold"" triple negative breast cancers engraft at a higher rate in patient derived xenografts."
+PMC9469899,Nat Cancer,2022,,ok,1,0,0,0,1,no_tabular_data,,Astrocytic laminin-211 drives disseminated breast tumor cell dormancy in brain.
+PMC6966654,Cancers (Basel),2019,,ok,1,0,0,0,0,no_tabular_data,,Simultaneous Multi-Organ Metastases from Chemo-Resistant Triple-Negative Breast Cancer Are Prevented by Interfering with WNT-Signaling.
+PMC6914286,JMIR Cancer,2019,,ok,1,0,0,0,0,tables_only,,Mediators of a Physical Activity Intervention on Cognition in Breast Cancer Survivors: Evidence From a Randomized Controlled Trial.
+PMC9621418,PLoS One,2022,,ok,4,2,0,0,2,dataset_medium,mixed;numeric,Hereditary variants of unknown significance in African American women with breast cancer.
+PMC8886672,Front Oncol,2021,,ok,13,10,1,0,2,dataset_large,clinical;mixed;numeric;omics,From Mouse to Human: Cellular Morphometric Subtype Learned From Mouse Mammary Tumors Provides Prognostic Value in Human Breast Cancer.
+PMC7011040,Heliyon,2020,,ok,1,1,0,0,0,dataset_medium,numeric,Annexin 2 protein expression is associated with breast cancer subtypes in African American women.
+PMC6656540,Sci Adv,2019,,ok,2,0,0,0,1,no_tabular_data,,Minimal dosing of leukocyte targeting TRAIL decreases triple-negative breast cancer metastasis following tumor resection.
+PMC9008500,JAMA Netw Open,2022,,ok,1,1,0,0,0,dataset_medium,mixed,"Evaluation of Information Theoretic Network Meta-analysis to Rank First-Line Anticancer Regimens for Hormone Receptor-Positive, ERBB2-Negative Metastatic Breast Cancer."
+PMC7470374,PLoS One,2020,,ok,1,0,0,0,0,tables_only,,Computational approaches to support comparative analysis of multiparametric tests: Modelling versus Training.
+PMC5967303,Sci Rep,2018,,ok,1,0,1,0,0,small_table,,Understanding the Connection between Nanoparticle Uptake and Cancer Treatment Efficacy using Mathematical Modeling.
+PMC6757060,NPJ Breast Cancer,2019,,ok,4,2,0,0,2,dataset_medium,omics,PIK3CA and MAP3K1 alterations imply luminal A status and are associated with clinical benefit from pan-PI3K inhibitor buparlisib and letrozole in ER+ metastatic breast cancer.
+PMC9837615,Cell Rep,2022,,ok,1,0,0,0,1,no_tabular_data,,AKTIP loss is enriched in ERα-positive breast cancer for tumorigenesis and confers endocrine resistance.
+PMC8896613,Bioinformatics,2022,,ok,1,0,0,0,0,no_tabular_data,,Chromosomal imbalances detected via RNA-sequencing in 28 cancers.
+PMC7867573,Oncogene,2021,,ok,1,0,0,0,1,no_tabular_data,,VEGF-C mediates tumor growth and metastasis through promoting EMT-epithelial breast cancer cell crosstalk.
+PMC5916089,Neoplasia,2018,,ok,1,0,0,0,1,no_tabular_data,,The STAT3 Target Gene TNFRSF1A Modulates the NF-κB Pathway in Breast Cancer Cells.
+PMC6391840,Breast Cancer Res,2019,,empty,0,0,0,0,0,no_supp_retrieved,,"Osteoblasts are ""educated"" by crosstalk with metastatic breast cancer cells in the bone tumor microenvironment."
+PMC8901808,Vis Comput Ind Biomed Art,2022,,ok,1,0,0,0,1,no_tabular_data,,Preoperative prediction of lymph node metastasis using deep learning-based features.
+PMC5342500,Oncotarget,2016,,ok,3,2,0,0,1,dataset_medium,omics,EPRS is a critical regulator of cell proliferation and estrogen signaling in ER+ breast cancer.
+PMC4896860,Oncogene,2016,,ok,1,0,0,0,1,no_tabular_data,,PIK3CA(H1047R)- and Her2-initiated mammary tumors escape PI3K dependency by compensatory activation of MEK-ERK signaling.
+PMC5356248,Breast Cancer Res,2017,,ok,4,2,0,0,2,dataset_large,mixed;omics,Increased genomic burden of germline copy number variants is associated with early onset breast cancer: Australian breast cancer family registry.
+PMC9750838,Support Care Cancer,2022,,ok,1,0,1,0,0,small_table,,Therapeutic yoga reduces pro-tumorigenic cytokines in cancer survivors.
+PMC6433244,PLoS One,2019,,ok,2,1,0,0,1,dataset_medium,numeric,"Estrogenic activity, race/ethnicity, and Indigenous American ancestry among San Francisco Bay Area women."
+PMC7071774,Breast Cancer Res,2020,,ok,1,0,0,0,1,no_tabular_data,,Diffuse optical spectroscopic imaging reveals distinct early breast tumor hemodynamic responses to metronomic and maximum tolerated dose regimens.
+PMC6281425,Oncotarget,2018,,ok,2,1,0,0,1,dataset_large,numeric,A combined microfluidic-transcriptomic approach to characterize the extravasation potential of cancer cells.
+PMC9093555,Support Care Cancer,2022,,ok,1,0,0,0,1,no_tabular_data,,Managing diabetes during treatment for breast cancer: oncology and primary care providers' views on barriers and facilitators.
+PMC5634764,Oncologist,2017,,ok,2,0,0,0,1,no_tabular_data,,Association of Pre-Chemotherapy Peripheral Blood Pro-Inflammatory and Coagulation Factors with Physical Function in Women with Breast Cancer.
+PMC8376636,Oncogene,2021,,ok,2,0,0,0,2,no_tabular_data,,A SNAI2-PEAK1-INHBA stromal axis drives progression and lapatinib resistance in HER2-positive breast cancer by supporting subpopulations of tumor cells positive for antiapoptotic and stress signaling markers.
+PMC6026834,ACS Omega,2018,,ok,1,0,0,0,1,no_tabular_data,,Nonprotecting Group Synthesis of a Phospholipase C Activatable Probe with an Azo-Free Quencher.
+PMC5581083,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,Selective Inhibitors of Nuclear Export (SINE) compounds block proliferation and migration of triple negative breast cancer cells by restoring expression of ARRDC3.
+PMC10036132,Cancer Res Commun,2022,,ok,6,0,0,0,6,no_tabular_data,,Targeting MLL Methyltransferases Enhances the Antitumor Effects of PI3K Inhibition in Hormone Receptor-positive Breast Cancer.
+PMC5626692,Sci Rep,2017,,ok,1,0,0,0,1,no_tabular_data,,Cancer-associated fibroblasts support vascular growth through mechanical force.
+PMC7236781,JNCI Cancer Spectr,2020,,ok,1,0,0,0,1,no_tabular_data,,Urinary Estrogen Metabolites and Long-Term Mortality Following Breast Cancer.
+PMC9287210,Breast Cancer Res Treat,2022,,ok,1,0,0,0,1,no_tabular_data,,A mixed method study of medical oncologists' perceived barriers and motivators to addressing long-term effects in breast cancer survivors.
+PMC9588015,Sci Rep,2022,,ok,3,1,1,0,1,dataset_medium,mixed,Personalized ctDNA micro-panels can monitor and predict clinical outcomes for patients with triple-negative breast cancer.
+PMC6600803,Transl Oncol,2019,,ok,1,0,0,1,0,no_tabular_data,,Tumor Site-Dependent Transport Properties Determine Nanotherapeutics Delivery and Its Efficacy.
+PMC5161532,Stem Cell Reports,2016,,ok,2,0,0,0,2,no_tabular_data,,Inhibiting the SUMO Pathway Represses the Cancer Stem Cell Population in Breast and Colorectal Carcinomas.
+PMC6086004,Genes Cancer,2018,,ok,1,0,0,0,1,no_tabular_data,,Identification of a panel of MYC and Tip60 co-regulated genes functioning primarily in cell cycle and DNA replication.
+PMC8558154,Breast Cancer Res Treat,2021,,ok,2,0,0,0,2,no_tabular_data,,"A randomized, placebo-controlled phase 2 study of paclitaxel in combination with reparixin compared to paclitaxel alone as front-line therapy for metastatic triple-negative breast cancer (fRida)."
+PMC5464343,Pharmacol Res Perspect,2017,,ok,4,0,0,0,4,no_tabular_data,,In vitro metabolism of exemestane by hepatic cytochrome P450s: impact of nonsynonymous polymorphisms on formation of the active metabolite 17<i>β</i>-dihydroexemestane.
+PMC9663828,Sci Rep,2022,,ok,1,0,1,0,0,small_table,,Tumor suppressor DEAR1 regulates mammary epithelial cell fate and predicts early onset and metastasis in triple negative breast cancer.
+PMC4823109,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,Prognostic significance of FAM83D gene expression across human cancer types.
+PMC7643076,Commun Biol,2020,,too_large,0,0,0,0,0,no_supp_retrieved,,De novo necroptosis creates an inflammatory environment mediating tumor susceptibility to immune checkpoint inhibitors.
+PMC8025032,Adv Sci (Weinh),2021,,ok,1,0,0,0,1,no_tabular_data,,Photoacoustic Computed Tomography of Breast Cancer in Response to Neoadjuvant Chemotherapy.
+PMC7314527,Sci Adv,2020,,ok,3,0,0,0,1,no_tabular_data,,Sequential deconstruction of composite drug transport in metastatic breast cancer.
+PMC5399194,Cell Death Dis,2016,,ok,3,2,0,0,0,dataset_medium,omics,Role of apoptosis-related miRNAs in resveratrol-induced breast cancer cell death.
+PMC7674704,JNCI Cancer Spectr,2020,,ok,1,0,0,0,0,tables_only,,Validation of the NSABP/NRG Oncology 8-Gene Trastuzumab-benefit Signature in Alliance/NCCTG N9831.
+PMC8763369,JNCI Cancer Spectr,2022,,ok,1,0,0,0,1,no_tabular_data,,Asian Ethnic Subgroup Disparities in Delays of Surgical Treatment for Breast Cancer.
+PMC5171813,Sci Rep,2016,,ok,1,0,0,0,1,no_tabular_data,,Macrophages Enhance Migration in Inflammatory Breast Cancer Cells via RhoC GTPase Signaling.
+PMC5709615,Mol Oncol,2017,,ok,1,0,0,0,1,no_tabular_data,,Induction of a novel isoform of the lncRNA HOTAIR in Claudin-low breast cancer cells attached to extracellular matrix.
+PMC5392962,BMC Cancer,2017,,ok,2,0,0,0,1,tables_only,,Evaluation of the association between quantitative mammographic density and breast cancer occurred in different quadrants.
+PMC7407230,Cancers (Basel),2020,,ok,1,0,0,0,1,no_tabular_data,,Protein Conformational Changes in Breast Cancer Sera Using Infrared Spectroscopic Analysis.
+PMC5311075,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,Stat3 contributes to cancer progression by regulating Jab1/Csn5 expression.
+PMC6565485,Oncogene,2019,,ok,2,0,0,0,2,no_tabular_data,,Estradiol induces BDNF/TrkB signaling in triple-negative breast cancer to promote brain metastases.
+PMC6203837,Commun Biol,2018,,ok,1,0,0,0,1,no_tabular_data,,Arginine starvation kills tumor cells through aspartate exhaustion and mitochondrial dysfunction.
+PMC5289428,PLoS One,2017,,ok,2,1,0,0,1,dataset_medium,omics,Expression Quantitative Trait loci (QTL) in tumor adjacent normal breast tissue and breast tumor tissue.
+PMC5725089,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,A novel small-molecule arylsulfonamide causes energetic stress and suppresses breast and lung tumor growth and metastasis.
+PMC8626906,J Transl Med,2021,,ok,1,0,0,0,1,no_tabular_data,,The tumor immune microenvironment of primary and metastatic HER2- positive breast cancers utilizing gene expression and spatial proteomic profiling.
+PMC8986735,Pharm Res,2022,,ok,1,0,0,0,1,no_tabular_data,,Translational Modeling Identifies Synergy between Nanoparticle-Delivered miRNA-22 and Standard-of-Care Drugs in Triple-Negative Breast Cancer.
+PMC7215898,Int J Mol Sci,2020,,ok,1,0,0,0,1,no_tabular_data,,G2M Cell Cycle Pathway Score as a Prognostic Biomarker of Metastasis in Estrogen Receptor (ER)-Positive Breast Cancer.
+PMC6345941,Sci Rep,2019,,ok,1,0,0,0,1,no_tabular_data,,Tumor resection ameliorates tumor-induced suppression of neuroinflammatory and behavioral responses to an immune challenge in a cancer survivor model.
+PMC5865662,Oncotarget,2018,,ok,4,1,2,0,1,dataset_large,omics,"RUNX1 and RUNX3 protect against YAP-mediated EMT, stem-ness and shorter survival outcomes in breast cancer."
+PMC6298990,Sci Rep,2018,,ok,4,2,1,0,1,dataset_large,mixed;numeric,High-resolution deconstruction of evolution induced by chemotherapy treatments in breast cancer xenografts.
+PMC4795322,JMIR Res Protoc,2016,,ok,1,0,0,0,1,no_tabular_data,,A Community-Engaged Approach to Developing a Mobile Cancer Prevention App: The mCPA Study Protocol.
+PMC6226490,Nat Commun,2018,,ok,2,0,0,0,2,no_tabular_data,,"The critical role of AMPK in driving Akt activation under stress, tumorigenesis and drug resistance."
+PMC5566425,NPJ Breast Cancer,2017,,ok,3,0,1,0,2,small_table,,Breast cancer chemoprevention pharmacogenomics: Deep sequencing and functional genomics of the <i>ZNF423</i> and <i>CTSO</i> genes.
+PMC9007999,Nat Commun,2022,,ok,3,0,0,0,3,no_tabular_data,,Data-driven learning how oncogenic gene expression locally alters heterocellular networks.
+PMC7192374,PLoS One,2020,,ok,3,0,1,0,2,small_table,,Identification of triple-negative breast cancer cell lines classified under the same molecular subtype using different molecular characterization techniques: Implications for translational research.
+PMC8740706,Proc Natl Acad Sci U S A,2022,,ok,2,0,0,0,1,no_tabular_data,,Combination of tucatinib and neural stem cells secreting anti-HER2 antibody prolongs survival of mice with metastatic brain cancer.
+PMC9290161,Ther Adv Med Oncol,2022,,ok,1,0,1,0,0,small_table,,Multi-antigen-targeted T-cell therapy to treat patients with relapsed/refractory breast cancer.
+PMC5590193,Environ Health,2017,,ok,1,0,0,0,1,no_tabular_data,,Environmental radon exposure and breast cancer risk in the Nurses' Health Study II.
+PMC5519529,Front Endocrinol (Lausanne),2017,,empty,0,0,0,0,0,no_supp_retrieved,,Activating Transcription Factor-5 Knockdown Reduces Aggressiveness of Mammary Tumor Cells and Attenuates Mammary Tumor Growth.
+PMC6976521,Oncogene,2020,,ok,1,0,0,0,1,no_tabular_data,,Therapeutic targeting of the PI4K2A/PKR lysosome network is critical for misfolded protein clearance and survival in cancer cells.
+PMC7893974,Cancer Metab,2021,,ok,1,1,0,0,0,dataset_medium,mixed,The PD-L1 metabolic interactome intersects with choline metabolism and inflammation.
+PMC6437174,Sci Rep,2019,,ok,1,0,0,0,1,no_tabular_data,,Tumor Ensemble-Based Modeling and Visualization of Emergent Angiogenic Heterogeneity in Breast Cancer.
+PMC6429899,BMJ Open,2019,,ok,4,0,0,0,4,no_tabular_data,,The COMET (Comparison of Operative versus Monitoring and Endocrine Therapy) trial: a phase III randomised controlled clinical trial for low-risk ductal carcinoma in situ (DCIS).
+PMC8585614,Cytokine,2021,,ok,1,0,0,0,1,no_tabular_data,,Relationship between cytokines and brain-derived neurotrophic factor (BDNF) in trajectories of cancer-related cognitive impairment.
+PMC5589983,Br J Cancer,2017,,ok,1,0,1,0,0,small_table,,Novel immunohistochemistry-based signatures to predict metastatic site of triple-negative breast cancers.
+PMC5758798,Sci Rep,2018,,ok,1,0,0,0,1,no_tabular_data,,Local delivery of hormonal therapy with silastic tubing for prevention and treatment of breast cancer.
+PMC8943134,NPJ Breast Cancer,2022,,ok,2,1,0,0,1,dataset_medium,mixed,UACA locus is associated with breast cancer chemoresistance and survival.
+PMC6378979,J Biol Chem,2019,,ok,3,1,0,0,1,dataset_medium,mixed,SRC tyrosine kinase activates the YAP/TAZ axis and thereby drives tumor growth and metastasis.
+PMC9239530,Front Med (Lausanne),2022,,ok,1,0,0,0,0,tables_only,,Deep Learning-Based Pathology Image Analysis Enhances Magee Feature Correlation With Oncotype DX Breast Recurrence Score.
+PMC5292751,Sci Rep,2017,,ok,2,2,0,0,0,dataset_large,clinical,Expression of human endogenous retrovirus-K is strongly associated with the basal-like breast cancer phenotype.
+PMC5340126,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,c-Abl inhibits breast cancer tumorigenesis through reactivation of p53-mediated p21 expression.
+PMC5750231,Nat Commun,2018,,ok,1,0,0,0,1,no_tabular_data,,Macrophages orchestrate breast cancer early dissemination and metastasis.
+PMC8305148,Diagnostics (Basel),2021,,ok,1,0,0,0,0,no_tabular_data,,Regulation of Platelet-Derived ADAM17: A Biomarker Approach for Breast Cancer?
+PMC7961649,Cancers (Basel),2021,,ok,1,0,0,0,1,no_tabular_data,,Fatty Acid Synthase Confers Tamoxifen Resistance to ER+/HER2+ Breast Cancer.
+PMC7767145,Molecules,2020,,ok,1,0,0,0,1,no_tabular_data,,Quantification of Trastuzumab-HER2 Engagement In Vitro and In Vivo.
+PMC5889587,Mol Cancer,2018,,ok,1,0,0,0,1,no_tabular_data,,SALL1 functions as a tumor suppressor in breast cancer by regulating cancer cell senescence and metastasis through the NuRD complex.
+PMC8301582,Clin Transl Sci,2021,,ok,1,0,0,0,1,no_tabular_data,,Quantitative protein expression of blood-brain barrier transporters in the vasculature of brain metastases of patients with lung and breast cancer.
+PMC5762610,Int J Cancer,2018,,ok,2,0,1,0,1,small_table,,Authentication of M14 melanoma cell line proves misidentification of MDA-MB-435 breast cancer cell line.
+PMC5828213,Oncotarget,2018,,ok,1,0,0,0,1,no_tabular_data,,The crosstalk between breast carcinoma-associated fibroblasts and cancer cells promotes RhoA-dependent invasion <i>via</i> IGF-1 and PAI-1.
+PMC9328957,J Oncol,2022,,ok,1,0,0,0,0,no_tabular_data,,"A Systematic Review and Meta-Analysis on the Prognostic Value of BRCA Mutations, Homologous Recombination Gene Mutations, and Homologous Recombination Deficiencies in Cancer."
+PMC5008295,Oncotarget,2016,,ok,1,0,0,0,0,tables_only,,TNFSF10/TRAIL regulates human T4 effector memory lymphocyte radiosensitivity and predicts radiation-induced acute and subacute dermatitis.
+PMC5302978,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,GSK3β inactivation promotes the oncogenic functions of EZH2 and enhances methylation of H3K27 in human breast cancers.
+PMC7547070,NPJ Breast Cancer,2020,,ok,1,0,0,0,1,no_tabular_data,,Ethnic and biological differences in the association between physical activity and survival after breast cancer.
+PMC9040206,BMC Med,2022,,ok,4,2,1,0,1,dataset_medium,mixed;omics,"Overlap of high-risk individuals predicted by family history, and genetic and non-genetic breast cancer risk prediction models: implications for risk stratification."
+PMC5331147,Data Brief,2017,,ok,1,0,0,0,1,no_tabular_data,,Insulin secretagogue use and circulating inflammatory C-C chemokine levels in breast cancer patients.
+PMC9459895,JAMA Oncol,2022,,ok,2,1,0,0,1,dataset_medium,mixed,Constitutional BRCA1 Methylation and Risk of Incident Triple-Negative Breast Cancer and High-grade Serous Ovarian Cancer.
+PMC7001949,PLoS One,2020,,ok,1,0,0,0,0,no_tabular_data,,"iCARE: An R package to build, validate and apply absolute risk models."
+PMC8492335,JCI Insight,2021,,ok,2,0,0,0,2,no_tabular_data,,Targeting Gi/o protein-coupled receptor signaling blocks HER2-induced breast cancer development and enhances HER2-targeted therapy.
+PMC5412118,J Natl Cancer Inst,2017,,ok,1,0,1,0,0,small_table,,Breast Cancer Risk and Progressive Histology in Serial Benign Biopsies.
+PMC9083187,Int J Cancer,2022,,ok,1,1,0,0,0,dataset_medium,mixed,Clinical and molecular characteristics of estrogen receptor-positive ultralow risk breast cancer tumors identified by the 70-gene signature.
+PMC8142020,Comput Struct Biotechnol J,2021,,ok,3,0,0,0,2,tables_only,,PredTAD: A machine learning framework that models 3D chromatin organization alterations leading to oncogene dysregulation in breast cancer cell lines.
+PMC5521028,Transl Oncol,2017,,ok,1,0,0,1,0,no_tabular_data,,Continuous Delivery of Neutralizing Antibodies Elevate CCL2 Levels in Mice Bearing MCF10CA1d Breast Tumor Xenografts.
+PMC7103487,Oncogene,2020,,ok,1,0,0,0,1,no_tabular_data,,Postpartum breast cancer progression is driven by semaphorin 7a-mediated invasion and survival.
+PMC6425951,Cell Rep,2019,,ok,1,0,0,0,0,no_tabular_data,,FOXM1 Deubiquitination by USP21 Regulates Cell Cycle Progression and Paclitaxel Sensitivity in Basal-like Breast Cancer.
+PMC7033104,Nat Commun,2020,,ok,5,1,0,0,3,dataset_large,numeric,Ultra-thermostable RNA nanoparticles for solubilizing and high-yield loading of paclitaxel for breast cancer therapy.
+PMC9764637,Breast Cancer Res,2022,,ok,8,0,3,0,5,small_table,,Development and validation of an AI-enabled digital breast cancer assay to predict early-stage breast cancer recurrence within 6 years.
+PMC8408146,Sci Rep,2021,,ok,1,0,0,0,1,no_tabular_data,,The RhoA dependent anti-metastatic function of RKIP in breast cancer.
+PMC6210052,Mol Oncol,2018,,ok,13,0,5,0,8,small_table,,Intratumor heterogeneity defines treatment-resistant HER2+ breast tumors.
+PMC6181240,Cell Rep,2018,,ok,1,0,0,0,1,no_tabular_data,,Epithelial-Mesenchymal Transition Induces Podocalyxin to Promote Extravasation via Ezrin Signaling.
+PMC4823059,Oncotarget,2016,,ok,1,1,0,0,0,dataset_medium,mixed,γKlotho is a novel marker and cell survival factor in a subset of triple negative breast cancers.
+PMC6525037,Oncogene,2019,,ok,1,0,0,0,1,no_tabular_data,,Elevated leptin disrupts epithelial polarity and promotes premalignant alterations in the mammary gland.
+PMC8595664,Commun Biol,2021,,ok,4,1,0,0,3,dataset_large,numeric,DLST-dependence dictates metabolic heterogeneity in TCA-cycle usage among triple-negative breast cancer.
+PMC5460115,NPJ Breast Cancer,2017,,ok,2,0,1,0,1,small_table,,Gene expression in breast and adipose tissue after 12 months of weight loss and vitamin D supplementation in postmenopausal women.
+PMC9536271,JCI Insight,2022,,ok,5,4,0,0,1,dataset_large,omics,Targeting ESR1 mutation-induced transcriptional addiction in breast cancer with BET inhibition.
+PMC8364654,J Cancer,2021,,ok,1,0,0,0,1,no_tabular_data,,Treatment with Granulocyte-colony Stimulating Factor (G-CSF) is not associated with Increased Risk of Brain Metastasis in Patients with &lt;i&gt;De Novo&lt;/i&gt; Stage IV Breast Cancer.
+PMC7513343,ACS Omega,2020,,ok,2,0,0,0,1,no_tabular_data,,"HSD1787, a Tetrahydro-3<i>H</i>-Pyrazolo[4,3-<i>f</i>]Quinoline Compound Synthesized via Povarov Reaction, Potently Inhibits Proliferation of Cancer Cell Lines at Nanomolar Concentrations."
+PMC7794185,Oncologist,2021,,ok,1,0,0,0,1,no_tabular_data,,"Women Who Are Young, Non-White, and with Lower Socioeconomic Status Report Higher Financial Toxicity up to 1 Year After Breast Cancer Surgery: A Mixed-Effects Regression Analysis."
+PMC8629426,Elife,2021,,ok,4,0,2,0,1,small_table,,Early prediction of clinical response to checkpoint inhibitor therapy in human solid tumors through mathematical modeling.
+PMC8811753,Cell Rep,2022,,ok,1,0,0,0,1,no_tabular_data,,2-Hydroxyglutarate destabilizes chromatin regulatory landscape and lineage fidelity to promote cellular heterogeneity.
+PMC8849557,Nat Aging,2021,,ok,1,0,0,0,1,no_tabular_data,,Evidence for accelerated aging in mammary epithelia of women carrying germline <i>BRCA1</i> or <i>BRCA2</i> mutations.
