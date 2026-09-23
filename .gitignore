@@ -1,6 +1,5 @@
 .venv/
 pilot/data/zips/
-pilot/data/*.jsonl
 pilot/_ins_cache/
 _ins_cache/
 __pycache__/
