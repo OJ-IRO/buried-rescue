@@ -28,9 +28,9 @@ DATASET FILES: 155; kinds: {'mixed': 38, 'omics': 65, 'numeric': 44, 'clinical':
   by extension: {'.xlsx': 123, '.pdf': 16, '.xls': 7, '.docx': 4, '.csv': 4, '.txt': 1}
   papers with a NATIVE spreadsheet/csv dataset: 49 (16.3% of sample) | dataset only as a table inside a PDF/DOCX: 16 (5.3%)
   papers with a PRIMARY-looking dataset (measurements, cohort/sample tables): 58 (19.3%) | only DERIVED result tables (enrichment, DEG lists, stats): 7 (2.3%)
-  licenses of dataset papers: {'untagged': 65} | freely re-depositable (cc by / cc0): 0 of 65
+  licenses of dataset papers: {'cc by': 60, 'cc by-nc-nd': 3, 'cc by-nc': 2} | freely re-depositable (cc by / cc0): 60 of 65
 
-LICENSES of sampled papers: {'unknown': 300}
+LICENSES of sampled papers: {'cc by': 221, 'cc by-nc-nd': 30, 'unknown': 25, 'cc by-nc': 21, 'cc by-nc-sa': 2, 'cc0': 1}
 
 TOP JOURNALS among dataset papers: [('Oncotarget', 11), ('Sci Rep', 8), ('PLoS One', 5), ('Breast Cancer Res', 5), ('NPJ Breast Cancer', 4), ('Commun Biol', 2), ('BMC Med Genomics', 2), ('Nat Commun', 2)]
 

@@ -1,0 +1,301 @@
+pmcid,journal,year,license,fetch,n_files,n_dataset_files,n_small_tables,n_figures,n_docs,verdict,kinds,title
+PMC7843928,STAR Protoc,2021,cc by-nc-nd,ok,8,0,0,0,0,no_tabular_data,,Mouse model of colorectal cancer: orthotopic co-implantation of tumor and stroma cells in cecum and rectum.
+PMC8914488,Oncologist,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Adoptive T-Cell Therapy in Advanced Colorectal Cancer: A Systematic Review.
+PMC7058788,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,GLI1 Inhibitor SRI-38832 Attenuates Chemotherapeutic Resistance by Downregulating NBS1 Transcription in BRAF<sup>V600E</sup> Colorectal Cancer.
+PMC5012582,PLoS Med,2016,cc0,ok,14,1,2,4,6,dataset_medium,numeric,"Association between Adult Height and Risk of Colorectal, Lung, and Prostate Cancer: Results from Meta-analyses of Prospective Studies and Mendelian Randomization Analyses."
+PMC9536193,Pharmacogenomics J,2017,,ok,1,0,0,0,1,no_tabular_data,,Germline polymorphisms as biomarkers of tumor response in colorectal cancer patients treated with anti-EGFR monoclonal antibodies: a systematic review and meta-analysis.
+PMC7850547,J Natl Cancer Inst,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Comparing the Cost-Effectiveness of Innovative Colorectal Cancer Screening Tests.
+PMC9540677,Cancer,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Health-related quality of life outcomes after neoadjuvant chemoradiotherapy for rectal cancer in NRG Oncology/NSABP R-04.
+PMC8290226,Cancer Med,2021,cc by,ok,1,0,1,0,0,small_table,,Survival of patients newly diagnosed with colorectal cancer and with a history of previous cancer.
+PMC6176615,Proc Natl Acad Sci U S A,2018,cc by-nc-nd,too_large,0,0,0,0,0,no_supp_retrieved,,Control of CCND1 ubiquitylation by the catalytic SAGA subunit USP22 is essential for cell cycle progression through G1 in cancer cells.
+PMC6780796,Metabolites,2019,cc by,ok,1,0,0,0,0,no_tabular_data,,Multiplatform Urinary Metabolomics Profiling to Discriminate Cachectic from Non-Cachectic Colorectal Cancer Patients: Pilot Results from the ColoCare Study.
+PMC6512312,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,Loss of claudin-3 expression induces IL6/gp130/Stat3 signaling to promote colon cancer malignancy by hyperactivating Wnt/β-catenin signaling.
+PMC8984655,J Cancer Prev,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"Protocatechuic Acid, a Gut Bacterial Metabolite of Black Raspberries, Inhibits Adenoma Development and Alters Gut Microbiome Profiles in <i>Apc</i> <sup><i>Min</i>/+</sup> Mice."
+PMC7745018,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,DEAD-box RNA helicase protein DDX21 as a prognosis marker for early stage colorectal cancer with microsatellite instability.
+PMC9610492,Nutrients,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,BRD9 Inhibition by Natural Polyphenols Targets DNA Damage/Repair and Apoptosis in Human Colon Cancer Cells.
+PMC6591576,JNCI Cancer Spectr,2018,cc by-nc,ok,1,0,1,0,0,small_table,,Physical Activity and Colorectal Cancer Prognosis According to Tumor-Infiltrating T Cells.
+PMC8076175,Br J Cancer,2021,cc by,ok,1,1,0,0,0,dataset_medium,mixed,"The association of body fat composition with risk of breast, endometrial, ovarian and colorectal cancers among normal weight participants in the UK Biobank."
+PMC8429734,Sci Rep,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,RAS specific protease induces irreversible growth arrest via p27 in several KRAS mutant colorectal cancer cell lines.
+PMC9049976,Elife,2022,cc by,ok,3,1,0,0,2,dataset_large,numeric,Assessing the causal role of epigenetic clocks in the development of multiple cancers: a Mendelian randomization study.
+PMC8740438,Clin Epigenetics,2022,cc by,ok,2,0,0,0,1,tables_only,,Pembrolizumab plus azacitidine in patients with chemotherapy refractory metastatic colorectal cancer: a single-arm phase 2 trial and correlative biomarker analysis.
+PMC6548004,J Cancer,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,c-Myb and its Effector COX-2 as an Indicator Associated with Prognosis and Therapeutic Outcome in Colorectal Cancer.
+PMC9789680,Cancer Epidemiol Biomarkers Prev,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Validation of Genetic Markers Associated with Survival in Colorectal Cancer Patients Treated with Oxaliplatin-Based Chemotherapy.
+PMC5943438,Cancer Med,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Correlating colorectal cancer risk with field carcinogenesis progression using partial wave spectroscopic microscopy.
+PMC5762263,Nat Nanotechnol,2018,,ok,1,0,0,0,1,no_tabular_data,,Nanoparticle orientation to control RNA loading and ligand display on extracellular vesicles for cancer regression.
+PMC8917698,Mol Cancer,2022,cc by,ok,3,1,1,0,1,dataset_medium,omics,Interaction of lncRNA MIR100HG with hnRNPA2B1 facilitates m<sup>6</sup>A-dependent stabilization of TCF7L2 mRNA and colorectal cancer progression.
+PMC5109293,Sci Rep,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,"rs2735383, located at a microRNA binding site in the 3'UTR of NBS1, is not associated with breast cancer risk."
+PMC5522311,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Adapting AlphaLISA high throughput screen to discover a novel small-molecule inhibitor targeting protein arginine methyltransferase 5 in pancreatic and colorectal cancers.
+PMC4905471,Oncotarget,2016,cc by,ok,2,0,1,0,1,small_table,,Identification of quinazoline compounds as novel potent inhibitors of Wnt/β-catenin signaling in colorectal cancer cells.
+PMC5047780,Environ Health Perspect,2016,cc0,ok,1,0,0,0,1,no_tabular_data,,A Prospective Analysis of Meat Mutagens and Colorectal Cancer in the Nurses' Health Study and Health Professionals Follow-up Study.
+PMC9526951,Hered Cancer Clin Pract,2022,cc by,ok,1,0,1,0,0,small_table,,Colorectal cancer incidences in Lynch syndrome: a comparison of results from the prospective lynch syndrome database and the international mismatch repair consortium.
+PMC7139960,Cancers (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Enhanced CXCR4 Expression Associates with Increased Gene Body 5-Hydroxymethylcytosine Modification but not Decreased Promoter Methylation in Colorectal Cancer.
+PMC5888819,Cancer Inform,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,The MAPK-Signaling Pathway in Colorectal Cancer: Dysregulated Genes and Their Association With MicroRNAs.
+PMC7297950,Front Oncol,2020,cc by,ok,2,0,2,0,0,small_table,,Maspin as a Prognostic Marker for Early Stage Colorectal Cancer With Microsatellite Instability.
+PMC5426844,Mol Biol Cell,2017,,ok,2,0,0,0,1,no_tabular_data,,Clustering of integrin α5 at the lateral membrane restores epithelial polarity in invasive colorectal cancer cells.
+PMC5173124,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Estrogen receptor beta reduces colon cancer metastasis through a novel miR-205 - PROX1 mechanism.
+PMC5414379,Nat Commun,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,HMGA1 amplifies Wnt signalling and expands the intestinal stem cell compartment and Paneth cell niche.
+PMC8842457,Glob Adv Health Med,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,&lt;i&gt;Being Present 2.0&lt;/i&gt;: Online Mindfulness-Based Program for Metastatic Gastrointestinal Cancer Patients and Caregivers.
+PMC5788646,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,"Modified miR-15a has therapeutic potential for improving treatment of advanced stage colorectal cancer through inhibition of BCL2, BMI1, YAP1 and DCLK1."
+PMC6902810,JAMA Netw Open,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Association of an Active Choice Intervention in the Electronic Health Record Directed to Medical Assistants With Clinician Ordering and Patient Completion of Breast and Colorectal Cancer Screening Tests.
+PMC9271408,J Cancer Prev,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,A Pilot Clinical Study to Investigate the Hypomethylating Properties of Freeze-dried Black Raspberries in Patients with Myelodysplastic Syndrome or Myeloproliferative Neoplasm.
+PMC7250871,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Opposite Roles of the JMJD1A Interaction Partners MDFI and MDFIC in Colorectal Cancer.
+PMC9004139,BMC Cancer,2022,cc by,ok,1,0,1,0,0,small_table,,Serum-based measurements of stromal activation through ADAM12 associate with poor prognosis in colorectal cancer.
+PMC9745558,J Cachexia Sarcopenia Muscle,2022,cc by-nc,ok,6,0,0,0,6,no_tabular_data,,Body composition from single versus multi-slice abdominal computed tomography: Concordance and associations with colorectal cancer survival.
+PMC7469292,BMC Med,2020,cc by,ok,1,1,0,0,0,dataset_medium,numeric,Circulating bilirubin levels and risk of colorectal cancer: serological and Mendelian randomization analyses.
+PMC6326296,BMJ Open,2019,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,Randomised trial to evaluate the effectiveness and impact of offering postvisit decision support and assistance in obtaining physician-recommended colorectal cancer screening: the e-assist: Colon Health study-a protocol study.
+PMC7301987,BMC Cancer,2020,cc by,ok,2,1,0,0,0,dataset_medium,mixed,Immune characterization of metastatic colorectal cancer patients post reovirus administration.
+PMC6005533,PLoS One,2018,cc by,ok,5,1,0,0,3,dataset_large,numeric,"Polyclonal human antibodies against glycans bearing red meat-derived non-human sialic acid N-glycolylneuraminic acid are stable, reproducible, complex and vary between individuals: Total antibody levels are associated with colorectal cancer risk."
+PMC9326335,Neoplasia,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies.
+PMC6199768,Prev Med Rep,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Effectiveness of automated and live phone reminders after mailed-FIT outreach in a pilot randomized trial.
+PMC4820809,Nat Commun,2016,cc by,ok,4,2,1,0,1,dataset_medium,mixed;omics,LIG4 mediates Wnt signalling-induced radioresistance.
+PMC8945886,Cancers (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Ras Pathway Activation and MEKi Resistance Scores Predict the Efficiency of MEKi and SRCi Combination to Induce Apoptosis in Colorectal Cancer.
+PMC9019876,Mol Oncol,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"DCZ0415, a small-molecule inhibitor targeting TRIP13, inhibits EMT and metastasis via inactivation of the FGFR4/STAT3 axis and the Wnt/β-catenin pathway in colorectal cancer."
+PMC5597468,Genes Chromosomes Cancer,2017,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,omics,"The co-regulatory networks of tumor suppressor genes, oncogenes, and miRNAs in colorectal cancer."
+PMC8327837,J Immunother Cancer,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Statin-mediated inhibition of RAS prenylation activates ER stress to enhance the immunogenicity of KRAS mutant cancer.
+PMC5696185,Oncotarget,2017,cc by,ok,2,1,0,0,1,dataset_medium,omics,Molecular characterization of pro-metastatic functions of β4-integrin in colorectal cancer.
+PMC5868294,Gut,2018,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,Effectiveness of screening colonoscopy in reducing the risk of death from right and left colon cancer: a large community-based study.
+PMC6880503,J Immunother Cancer,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,IL-17 inhibits CXCL9/10-mediated recruitment of CD8<sup>+</sup> cytotoxic T cells and regulatory T cells to colorectal tumors.
+PMC7656952,J Immunother Cancer,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Immunogenic cell death pathway polymorphisms for predicting oxaliplatin efficacy in metastatic colorectal cancer.
+PMC8912563,Nutrients,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,"Plasma Metabolite Profiles of Red Meat, Poultry, and Fish Consumption, and Their Associations with Colorectal Cancer Risk."
+PMC8328084,JCI Insight,2021,cc by,ok,4,2,0,0,2,dataset_large,numeric;omics,Colorectal cancer cells utilize autophagy to maintain mitochondrial metabolism for cell proliferation under nutrient stress.
+PMC6331021,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,PARP inhibition prevents escape from a telomere-driven crisis and inhibits cell immortalisation.
+PMC7926020,Cancer Med,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Disparities in colorectal cancer screening among breast and prostate cancer survivors.
+PMC5625675,Br J Cancer,2017,cc by-nc-sa,ok,1,0,1,0,0,small_table,,Influence of dietary insulin scores on survival in colorectal cancer patients.
+PMC9683694,Cancer Res Commun,2022,cc by,ok,1,1,0,0,0,dataset_medium,mixed,Dietary Nonstarch Polysaccharide Intake and Risk of Colorectal Cancer: Findings from the Singapore Chinese Health Study.
+PMC5351837,PLoS One,2017,cc by,ok,3,0,2,0,1,small_table,,"Harms, benefits and costs of fecal immunochemical testing versus guaiac fecal occult blood testing for colorectal cancer screening."
+PMC9523497,JAMA Netw Open,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Primary Care Practitioner Perceptions on the Follow-up of Abnormal Cancer Screening Test Results.
+PMC4782175,J Proteome Res,2016,,ok,2,1,0,0,1,dataset_large,omics,Integrative Omics Analysis Reveals Post-Transcriptionally Enhanced Protective Host Response in Colorectal Cancers with Microsatellite Instability.
+PMC4960006,Oncogene,2016,,ok,1,0,0,0,1,no_tabular_data,,Adenomatous polyposis coli (APC) regulates miR17-92 cluster through β-catenin pathway in colorectal cancer.
+PMC7371703,Nat Commun,2020,cc by,ok,10,6,0,0,4,dataset_large,mixed;omics,Landscape of somatic single nucleotide variants and indels in colorectal cancer and impact on survival.
+PMC6798382,Cell Commun Signal,2019,cc by,ok,9,0,0,0,9,no_tabular_data,,Induction of LEF1 by MYC activates the WNT pathway and maintains cell proliferation.
+PMC4788441,PLoS One,2016,cc0,ok,3,0,0,0,3,no_tabular_data,,Alcohol Consumption-Related Metabolites in Relation to Colorectal Cancer and Adenoma: Two Case-Control Studies Using Serum Biomarkers.
+PMC7654150,BMC Health Serv Res,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Development of a multivariable prediction model to identify patients unlikely to complete a colonoscopy following an abnormal FIT test in community clinics.
+PMC9380122,Med Phys,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,A novel use of biomechanical model-based deformable image registration (DIR) for assessing colorectal liver metastases ablation outcomes.
+PMC4848192,Mod Pathol,2016,,ok,1,0,0,0,1,no_tabular_data,,Tumor eosinophil infiltration and improved survival of colorectal cancer patients: Iowa Women's Health Study.
+PMC5453827,Epidemiology,2017,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,mixed,Estimating the Effect of Targeted Screening Strategies: An Application to Colonoscopy and Colorectal Cancer.
+PMC7463170,BMJ,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Personal use of permanent hair dyes and cancer risk and mortality in US women: prospective cohort study.
+PMC9776431,Curr Oncol,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Characteristics of Interval Colorectal Cancer: A Canadian Retrospective Population-Level Analysis from Newfoundland and Labrador.
+PMC8789617,Cancer Rep (Hoboken),2022,cc by,ok,8,0,1,0,6,small_table,,A SMAD4-modulated gene profile predicts disease-free survival in stage II and III colorectal cancer.
+PMC7461788,Front Immunol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Human Regulatory Dendritic Cells Develop From Monocytes in Response to Signals From Regulatory and Helper T Cells.
+PMC9770947,Sci Adv,2022,cc by,ok,2,0,0,0,1,no_tabular_data,,Deep top-down proteomics revealed significant proteoform-level differences between metastatic and nonmetastatic colorectal cancer cells.
+PMC6590166,Int J Cancer,2019,cc by-nc,ok,6,1,0,0,5,dataset_large,numeric,Detection of circulating microRNAs with Ago2 complexes to monitor the tumor dynamics of colorectal cancer patients during chemotherapy.
+PMC6606573,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,In vivo magnetic resonance imaging of treatment-induced apoptosis.
+PMC8102177,Cell Mol Gastroenterol Hepatol,2021,cc by,ok,2,2,0,0,0,dataset_large,numeric,Genetic Effects on Transcriptome Profiles in Colon Epithelium Provide Functional Insights for Genetic Risk Loci.
+PMC4967007,Mod Pathol,2016,,ok,1,0,0,0,1,no_tabular_data,,Colorectal tumor molecular phenotype and miRNA: expression profiles and prognosis.
+PMC9365282,Sci Adv,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Disruption of the circadian clock drives <i>Apc</i> loss of heterozygosity to accelerate colorectal cancer.
+PMC9279149,Nat Genet,2022,cc by,ok,3,1,0,0,2,dataset_medium,omics,Single-cell analyses define a continuum of cell state and composition changes in the malignant transformation of polyps to colorectal cancer.
+PMC7063513,JAMA Netw Open,2020,cc by,ok,1,0,1,0,0,small_table,,"Association of Neighborhood Measures of Social Determinants of Health With Breast, Cervical, and Colorectal Cancer Screening Rates in the US Midwest."
+PMC8908991,Cancers (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Metformin and ICG-001 Act Synergistically to Abrogate Cancer Stem Cells-Mediated Chemoresistance in Colorectal Cancer by Promoting Apoptosis and Autophagy.
+PMC9658674,Nutrients,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,The Roles of &lt;i&gt;MTRR&lt;/i&gt; and &lt;i&gt;MTHFR&lt;/i&gt; Gene Polymorphisms in Colorectal Cancer Survival.
+PMC7042281,Sci Rep,2020,cc by,ok,1,0,1,0,0,small_table,,The Prognostic Implications of Tumor Infiltrating Lymphocytes in Colorectal Cancer: A Systematic Review and Meta-Analysis.
+PMC6398873,BMJ Open Gastroenterol,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC.
+PMC6210051,Mol Oncol,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Metformin blocks MYC protein synthesis in colorectal cancer via mTOR-4EBP-eIF4E and MNK1-eIF4G-eIF4E signaling.
+PMC5223061,Am J Gastroenterol,2017,cc by-nc-sa,ok,1,0,1,0,0,small_table,,Accuracy of CT Colonography for Detection of Polypoid and Nonpolypoid Neoplasia by Gastroenterologists and Radiologists: A Nationwide Multicenter Study in Japan.
+PMC5021945,Sci Rep,2016,cc by,ok,2,0,1,0,1,small_table,,Evaluation of frozen tissue-derived prognostic gene expression signatures in FFPE colorectal cancer samples.
+PMC8990071,Cell Death Differ,2022,cc by,ok,5,1,2,0,2,dataset_medium,numeric,An atlas of inter- and intra-tumor heterogeneity of apoptosis competency in colorectal cancer tissue at single-cell resolution.
+PMC8099562,iScience,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Dickkopf-2 regulates the stem cell marker LGR5 in colorectal cancer via HNF4α1.
+PMC6008474,Br J Cancer,2018,cc by,ok,3,3,0,0,0,dataset_medium,numeric,Mendelian randomisation study of age at menarche and age at menopause and the risk of colorectal cancer.
+PMC9458129,Molecules,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Piezo1 Mechano-Activation Is Augmented by Resveratrol and Differs between Colorectal Cancer Cells of Primary and Metastatic Origin.
+PMC7313200,BMC Cancer,2020,cc by,ok,2,1,0,0,1,dataset_medium,omics,Development of a precision medicine pipeline to identify personalized treatments for colorectal cancer.
+PMC8634566,Am J Clin Nutr,2021,cc by-nc,ok,1,0,1,0,0,small_table,,Abdominal adipose tissue radiodensity is associated with survival after colorectal cancer.
+PMC6894764,PLoS One,2019,cc0,ok,5,0,0,0,5,no_tabular_data,,Screening colonoscopy and flexible sigmoidoscopy for reduction of colorectal cancer incidence: A case-control study.
+PMC9684078,Nature,2022,cc by,ok,17,10,1,0,3,dataset_large,mixed;numeric;omics,Phenotypic plasticity and genetic control in colorectal cancer evolution.
+PMC7377340,Fam Pract,2020,cc by-nc,ok,1,0,1,0,0,small_table,,Faecal immunochemical test-based colorectal cancer screening in Mexico: an initial experience.
+PMC8613248,Nat Commun,2021,cc by,ok,3,1,0,0,2,dataset_medium,numeric,Molecular and phenotypic profiling of colorectal cancer patients in West Africa reveals biological insights.
+PMC8563962,Commun Biol,2021,cc by,ok,5,1,0,0,3,dataset_large,omics,Charting differentially methylated regions in cancer with Rocker-meth.
+PMC9354433,Microbiome,2022,cc by,ok,4,1,0,0,2,dataset_medium,mixed,"Microbial risk score for capturing microbial characteristics, integrating multi-omics data, and predicting disease risk."
+PMC7186327,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,The Role of Palliative Surgery for Malignant Bowel Obstruction and Perforation in Advanced Microsatellite Instability-High Colorectal Carcinoma in the Era of Immunotherapy: Case Report.
+PMC8525497,Lab Chip,2021,cc by-nc,ok,14,0,1,0,1,small_table,,An in vitro vascularized micro-tumor model of human colorectal cancer recapitulates in vivo responses to standard-of-care therapy.
+PMC6857048,Theranostics,2019,cc by,ok,3,2,0,0,1,dataset_medium,mixed,miR-302a Inhibits Metastasis and Cetuximab Resistance in Colorectal Cancer by Targeting NFIB and CD44.
+PMC7263654,Clin Transl Gastroenterol,2020,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Rising Incidence of Colorectal Cancer in Young Adults Corresponds With Increasing Surgical Resections in Obese Patients.
+PMC5342034,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Impact of HuR inhibition by the small molecule MS-444 on colorectal cancer cell tumorigenesis.
+PMC9702366,Clin Transl Med,2022,cc by,ok,1,0,1,0,0,small_table,,Prognostic role of inflammatory diets in colorectal cancer overall and in strata of tumor-infiltrating lymphocyte levels.
+PMC8973409,JNCI Cancer Spectr,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Long-Term Survival and Causes of Death After Diagnoses of Common Cancers in 3 Cohorts of US Health Professionals.
+PMC8051079,BMC Public Health,2021,cc by,ok,3,0,0,0,3,no_tabular_data,,Are people aware of the link between alcohol and different types of Cancer?
+PMC5589988,Br J Cancer,2017,cc by-nc-sa,ok,1,0,0,0,1,no_tabular_data,,Intracrine VEGF signalling mediates colorectal cancer cell migration and invasion.
+PMC8495276,Cancer Med,2021,cc by,ok,2,0,1,0,1,small_table,,Cost-effectiveness of prophylactic hysterectomy in first-degree female relatives with Lynch syndrome of patients diagnosed with colorectal cancer in the United States: a microsimulation study.
+PMC7691584,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Enteric Glia Play a Critical Role in Promoting the Development of Colorectal Cancer.
+PMC4934916,PLoS One,2016,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Human Blood Autoantibodies in the Detection of Colorectal Cancer.
+PMC7043296,JNCI Cancer Spectr,2020,cc by-nc,ok,1,0,1,0,0,small_table,,Diabetes and Clinical Outcome in Patients With Metastatic Colorectal Cancer: CALGB 80405 (Alliance).
+PMC6743187,J Exp Clin Cancer Res,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Zebrafish modeling reveals that SPINT1 regulates the aggressiveness of skin cutaneous melanoma and its crosstalk with tumor immune microenvironment.
+PMC5814196,Oncotarget,2018,cc by,ok,4,2,0,0,2,dataset_medium,omics,Expression of Wnt-signaling pathway genes and their associations with miRNAs in colorectal cancer.
+PMC9482803,Clin Transl Med,2022,cc by,ok,5,0,0,5,0,no_tabular_data,,Extracellular vesicle expansion of PMIS-miR-210 expression inhibits colorectal tumour growth via apoptosis and an XIST/NME1 regulatory mechanism.
+PMC7596860,ACS Cent Sci,2020,,ok,1,0,1,0,0,small_table,,Designer Fluorescent Adenines Enable Real-Time Monitoring of MUTYH Activity.
+PMC6659640,Sci Rep,2019,cc by,ok,2,1,0,0,1,dataset_medium,numeric,Antibody responses to flagellin C and Streptococcus gallolyticus pilus proteins in colorectal cancer.
+PMC5514916,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,NFkB is essential for activin-induced colorectal cancer migration via upregulation of PI3K-MDM2 pathway.
+PMC6374075,Elife,2019,cc by,ok,9,8,0,0,1,dataset_large,mixed;numeric;omics,Mismatch repair-signature mutations activate gene enhancers across human colorectal cancer epigenomes.
+PMC8218518,BMC Med Genomics,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Frequent POLE-driven hypermutation in ovarian endometrioid cancer revealed by mutational signatures in RNA sequencing.
+PMC4947703,Br J Cancer,2016,cc by,ok,1,0,1,0,0,small_table,,Mendelian randomisation analysis strongly implicates adiposity with risk of developing colorectal cancer.
+PMC6353894,Br J Cancer,2019,cc by,ok,4,0,0,0,3,tables_only,,Circulating inflammation signature predicts overall survival and relapse-free survival in metastatic colorectal cancer.
+PMC7666424,JAMA Netw Open,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Association Between Alzheimer Disease and Cancer With Evaluation of Study Biases: A Systematic Review and Meta-analysis.
+PMC4823026,Oncotarget,2016,cc by,ok,2,1,0,0,1,dataset_medium,omics,Oncogenic KRAS activates an embryonic stem cell-like program in human colon cancer initiation.
+PMC6592291,Oncotarget,2019,cc by,ok,2,1,0,0,1,dataset_medium,numeric,"ETHE1 overexpression promotes SIRT1 and PGC1α mediated aerobic glycolysis, oxidative phosphorylation, mitochondrial biogenesis and colorectal cancer."
+PMC9577043,J Pathol Inform,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Impact of scanner variability on lymph node segmentation in computational pathology.
+PMC6055229,Cancer,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Optimizing colorectal cancer screening by race and sex: Microsimulation analysis II to inform the American Cancer Society colorectal cancer screening guideline.
+PMC5749743,PLoS One,2018,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Macrophage conditioned medium promotes colorectal cancer stem cell phenotype via the hedgehog signaling pathway.
+PMC9251876,Mol Oncol,2022,cc by,ok,2,1,1,0,0,dataset_medium,mixed,Precision medicine-based therapies in advanced colorectal cancer: The University of California San Diego Molecular Tumor Board experience.
+PMC5871906,NPJ Precis Oncol,2018,cc by,ok,3,0,0,0,3,no_tabular_data,,Vasodilator-stimulated phosphoprotein promotes liver metastasis of gastrointestinal cancer by activating a β1-integrin-FAK-YAP1/TAZ signaling pathway.
+PMC5065124,PLoS Genet,2016,cc0,ok,17,0,2,0,13,small_table,,Genome-Wide Interaction Analyses between Genetic Variants and Alcohol Consumption and Smoking for Risk of Colorectal Cancer.
+PMC6748965,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Tumor Infiltrating Lymphocytes and Macrophages Improve Survival in Microsatellite Unstable Colorectal Cancer.
+PMC4884266,JMIR Res Protoc,2016,cc by,ok,2,0,0,0,2,no_tabular_data,,Determination of the Role of CBP- and p300-Mediated Wnt Signaling on Colonic Cells.
+PMC7226071,Cancers (Basel),2020,cc by,ok,1,0,0,0,1,no_tabular_data,,"PAICS, a Purine Nucleotide Metabolic Enzyme, is Involved in Tumor Growth and the Metastasis of Colorectal Cancer."
+PMC7669228,J Natl Cancer Inst,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Young-Onset Colon Cancer and Recurrence Risk by Gene Expression.
+PMC6509857,BMC Health Serv Res,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Colorectal cancer screening in newly insured Medicaid members: a review of concurrent federal and state policies.
+PMC9218363,iScience,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Sensitization of FOLFOX-resistant colorectal cancer cells via the modulation of a novel pathway involving protein phosphatase 2A.
+PMC9663870,EBioMedicine,2022,cc by-nc-nd,ok,2,0,0,0,1,tables_only,,"New onset of type 2 diabetes after colorectal cancer diagnosis: Results from three prospective US cohort studies, systematic review, and meta-analysis."
+PMC4833866,Nat Commun,2016,cc by,ok,10,9,0,0,1,dataset_large,mixed;omics,A genetic network that suppresses genome rearrangements in Saccharomyces cerevisiae and contains defects in cancers.
+PMC8907344,Sci Rep,2022,cc by,ok,6,4,0,0,1,dataset_large,omics,Quantitative proteomic analysis of the lysine acetylome reveals diverse SIRT2 substrates.
+PMC7916378,Cells,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Post-Transcriptional Regulation of PARP7 Protein Stability Is Controlled by Androgen Signaling.
+PMC7492388,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Immune-Related Gene Expression and Cytokine Secretion Is Reduced Among African American Colon Cancer Patients.
+PMC8002283,Life (Basel),2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Postoperative Complications Are Associated with Long-Term Changes in the Gut Microbiota Following Colorectal Cancer Surgery.
+PMC5677973,NPJ Genom Med,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Workflow optimization of whole genome amplification and targeted panel sequencing for CTC mutation detection.
+PMC4849741,PLoS One,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,MicroRNA Seed Region Length Impact on Target Messenger RNA Expression and Survival in Colorectal Cancer.
+PMC8266110,PLoS One,2021,cc by,ok,6,0,1,0,5,small_table,,Prognostic role and biologic features of Musashi-2 expression in colon polyps and during colorectal cancer progression.
+PMC8976149,Prev Med Rep,2022,cc by-nc-nd,ok,1,0,1,0,0,small_table,,Are beliefs about the importance of genetics for cancer prevention and early detection associated with high risk cancer genetic testing in the U.S. Population?
+PMC7884678,Br J Cancer,2021,cc by,ok,1,0,1,0,0,small_table,,The prognostic impact of RAS on overall survival following liver resection in early versus late-onset colorectal cancer patients.
+PMC9404402,Adv Sci (Weinh),2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Tumor-Activatable Nanoparticles Target Low-Density Lipoprotein Receptor to Enhance Drug Delivery and Antitumor Efficacy.
+PMC8654799,Heliyon,2021,cc by-nc-nd,ok,9,3,0,0,6,dataset_large,numeric,Depletion of METTL3 alters cellular and extracellular levels of miRNAs containing m<sup>6</sup>A consensus sequences.
+PMC8809884,Nat Cancer,2021,,ok,1,0,0,0,0,no_tabular_data,,Radiation therapy enhances immunotherapy response in microsatellite stable colorectal and pancreatic adenocarcinoma in a phase II trial.
+PMC8134523,JNCI Cancer Spectr,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Nongenetic Determinants of Risk for Early-Onset Colorectal Cancer.
+PMC5452067,Ann Oncol,2017,cc by-nc,ok,1,0,0,0,0,no_tabular_data,,Carbon dating cancer: defining the chronology of metastatic progression in colorectal cancer.
+PMC8004880,Cancers (Basel),2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Abundance of Microvascular Endothelial Cells Is Associated with Response to Chemotherapy and Prognosis in Colorectal Cancer.
+PMC7699725,Cancers (Basel),2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Effect of High-Dose vs Standard-Dose Vitamin D<sub>3</sub> Supplementation on Body Composition among Patients with Advanced or Metastatic Colorectal Cancer: A Randomized Trial.
+PMC5767035,J Transl Med,2018,cc by,ok,2,0,0,1,1,no_tabular_data,,Accuracy of four mononucleotide-repeat markers for the identification of DNA mismatch-repair deficiency in solid tumors.
+PMC8963412,Front Cell Infect Microbiol,2022,cc by,ok,2,1,0,0,1,dataset_medium,clinical,"Detection of <i>Streptococcus gallolyticus</i> and Four Other CRC-Associated Bacteria in Patient Stools Reveals a Potential ""Driver"" Role for Enterotoxigenic <i>Bacteroides fragilis</i>."
+PMC8708954,J Pers Med,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,Economic Evaluation of Universal Lynch Syndrome Screening Protocols among Newly Diagnosed Patients with Colorectal Cancer.
+PMC7454700,J Natl Cancer Inst,2021,,ok,1,0,0,0,1,no_tabular_data,,The COVID-19 Pandemic: Identifying Adaptive Solutions for Colorectal Cancer Screening in Underserved Communities.
+PMC7810691,Sci Rep,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Semiconducting polymer nanoparticles for photothermal ablation of colorectal cancer organoids.
+PMC5589620,Oncotarget,2017,cc by,ok,2,0,0,0,1,no_tabular_data,,Tumor location impacts immune response in mouse models of colon cancer.
+PMC7000804,iScience,2020,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,DNMT3B Oncogenic Activity in Human Intestinal Cancer Is Not Linked to CIMP or BRAFV600E Mutation.
+PMC6510666,Mucosal Immunol,2019,,ok,1,0,0,0,1,no_tabular_data,,Non-toxigenic Bacteroides fragilis (NTBF) administration reduces bacteria-driven chronic colitis and tumor development independent of polysaccharide A.
+PMC8346704,JNCI Cancer Spectr,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Association Between Smoking and Molecular Subtypes of Colorectal Cancer.
+PMC6824083,Hepatol Commun,2019,cc by-nc-nd,empty,0,0,0,0,0,no_supp_retrieved,,R-spondin 2 Drives Liver Tumor Development in a Yes-Associated Protein-Dependent Manner.
+PMC9403767,Front Oncol,2022,cc by,ok,4,0,1,0,3,small_table,,Automated segmentation of colorectal liver metastasis and liver ablation on contrast-enhanced CT images.
+PMC5300695,Prev Med Rep,2017,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Multilevel predictors of colorectal cancer testing modality among publicly and privately insured people turning 50.
+PMC5180401,Genome Med,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Genomic landscape of colorectal cancer in Japan: clinical implications of comprehensive genomic sequencing for precision medicine.
+PMC7522246,Sci Rep,2020,cc by,ok,2,0,0,0,2,no_tabular_data,,PRMT5-mediated methylation of YBX1 regulates NF-κB activity in colorectal cancer.
+PMC6157960,Sci Adv,2018,cc by-nc,ok,3,0,0,0,1,no_tabular_data,,Facile profiling of molecular heterogeneity by microfluidic digital melt.
+PMC8365311,Contemp Clin Trials Commun,2021,cc by-nc-nd,ok,1,0,1,0,0,small_table,,Modeling tumor measurement data to predict overall survival (OS) in cancer clinical trials.
+PMC8904347,Cancer Causes Control,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Geographic determinants of colorectal cancer in Louisiana.
+PMC6579719,Genet Med,2019,,ok,1,0,0,0,1,no_tabular_data,,Determining the clinical validity of hereditary colorectal cancer and polyposis susceptibility genes using the Clinical Genome Resource Clinical Validity Framework.
+PMC9287310,Commun Med (Lond),2022,cc by,ok,5,0,1,0,4,small_table,,"Hybrid-control arm construction using historical trial data for an early-phase, randomized controlled trial in metastatic colorectal cancer."
+PMC6561306,Proc Natl Acad Sci U S A,2019,cc by-nc-nd,ok,7,0,0,0,1,no_tabular_data,,Role for polo-like kinase 4 in mediation of cytokinesis.
+PMC5135447,Theranostics,2016,,ok,1,0,0,0,1,no_tabular_data,,A Pretargeted Approach for the Multimodal PET/NIRF Imaging of Colorectal Cancer.
+PMC9559022,BMC Cancer,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,A dyadic survey study of partner engagement in and patient receipt of guideline-recommended colorectal cancer surveillance.
+PMC6548955,Adv Sci (Weinh),2019,cc by,ok,1,0,0,0,1,no_tabular_data,,A Novel Blood-Based Colorectal Cancer Diagnostic Technology Using Electrical Detection of Colon Cancer Secreted Protein-2.
+PMC7289893,Nat Commun,2020,cc by,too_large,0,0,0,0,0,no_supp_retrieved,,Diagnostic evaluation of a deep learning model for optical diagnosis of colorectal cancer.
+PMC8437135,Nat Biomed Eng,2021,,ok,1,0,0,0,1,no_tabular_data,,An integrated magneto-electrochemical device for the rapid profiling of tumour extracellular vesicles from blood plasma.
+PMC9064097,PLoS Genet,2022,cc by,ok,18,0,0,13,5,no_tabular_data,,Comparative molecular genomic analyses of a spontaneous rhesus macaque model of mismatch repair-deficient colorectal cancer.
+PMC8582562,Cancers (Basel),2021,cc by,ok,1,0,0,0,0,no_tabular_data,,Neutrophils Extracellular Traps Inhibition Improves PD-1 Blockade Immunotherapy in Colorectal Cancer.
+PMC8490431,Sci Rep,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,An efficient and accurate distributed learning algorithm for modeling multi-site zero-inflated count outcomes.
+PMC5327728,Mol Syst Biol,2017,cc by,ok,3,0,0,0,2,tables_only,,Mathematical modeling links Wnt signaling to emergent patterns of metabolism in colon cancer.
+PMC7052898,Theranostics,2020,cc by,ok,4,0,0,0,1,no_tabular_data,,Real-time colorectal cancer diagnosis using PR-OCT with deep learning.
+PMC8562700,JNCI Cancer Spectr,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Lipid-Lowering Drug Use and Cancer Incidence and Mortality in the ARIC Study.
+PMC7062901,Nat Commun,2020,cc by,ok,5,1,0,0,4,dataset_medium,numeric,Minimal barriers to invasion during human colorectal tumor growth.
+PMC7590517,JNCI Cancer Spectr,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Body Mass Index and Weight Loss in Metastatic Colorectal Cancer in CALGB (Alliance)/SWOG 80405.
+PMC7026696,Lancet Gastroenterol Hepatol,2020,cc by,ok,2,1,0,0,1,dataset_large,numeric,Modifiable pathways for colorectal cancer: a mendelian randomisation analysis.
+PMC6826139,Aging Cell,2019,cc by,ok,3,1,0,0,2,dataset_medium,omics,Senescence-associated tissue microenvironment promotes colon cancer formation through the secretory factor GDF15.
+PMC7749603,J Cachexia Sarcopenia Muscle,2020,cc by,ok,5,1,0,0,0,dataset_medium,omics,ACVR2B antagonism as a countermeasure to multi-organ perturbations in metastatic colorectal cancer cachexia.
+PMC6013500,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,"Lifestyle Factors, Colorectal Tumor Methylation, and Survival Among African Americans and European Americans."
+PMC4866771,PLoS One,2016,cc by,ok,10,6,0,0,2,dataset_medium,omics,Comparison of Nanostring nCounter® Data on FFPE Colon Cancer Samples and Affymetrix Microarray Data on Matched Frozen Tissues.
+PMC6789432,JAMA Netw Open,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Financial Incentives to Increase Colorectal Cancer Screening Uptake and Decrease Disparities: A Randomized Clinical Trial.
+PMC5309719,Nat Commun,2017,cc by,ok,11,8,0,0,2,dataset_large,mixed;numeric;omics,Hotspots of aberrant enhancer activity punctuate the colorectal cancer epigenome.
+PMC6209341,PLoS One,2018,cc by,ok,2,0,2,0,0,small_table,,Leptin gene variants and colorectal cancer risk: Sex-specific associations.
+PMC5519024,PLoS One,2017,cc by,ok,8,1,0,0,7,dataset_large,omics,The receptor tyrosine kinase AXL promotes migration and invasion in colorectal cancer.
+PMC8666642,ESMO Open,2021,cc by-nc-nd,ok,2,0,1,0,1,small_table,,Management of adverse events from the treatment of encorafenib plus cetuximab for patients with BRAF V600E-mutant metastatic colorectal cancer: insights from the BEACON CRC study.
+PMC7026697,Lancet Gastroenterol Hepatol,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"The global, regional, and national burden of colorectal cancer and its attributable risk factors in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017."
+PMC7646594,Int J Oncol,2020,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Cooperation between ETS transcription factor ETV1 and histone demethylase JMJD1A in colorectal cancer.
+PMC5216716,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,MicroRNA-20a-5p promotes colorectal cancer invasion and metastasis by downregulating Smad4.
+PMC9396789,Clin Epigenetics,2022,cc by,ok,4,2,2,0,0,dataset_medium,numeric,DNA methylation analysis of normal colon organoids from familial adenomatous polyposis patients reveals novel insight into colon cancer development.
+PMC6355061,FASEB J,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Chemotherapy-generated cell debris stimulates colon carcinoma tumor growth via osteopontin.
+PMC9210923,Bioinform Adv,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,fdrci: FDR confidence interval selection and adjustment for large-scale hypothesis testing.
+PMC6694562,Genome Biol,2019,cc by,ok,3,1,0,0,2,dataset_medium,numeric,An enhanced genetic model of colorectal cancer progression history.
+PMC9156546,Pharmacogenomics J,2022,,ok,1,0,0,0,0,no_tabular_data,,Opportunities for personalizing colorectal cancer care: an analysis of SEER-medicare data.
+PMC7732270,Clin Transl Gastroenterol,2020,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Depressed Colorectal Cancer: A New Paradigm in Early Colorectal Cancer.
+PMC5106372,Cell Metab,2016,cc by,ok,2,1,0,0,1,dataset_medium,numeric,Tumor-Induced IL-6 Reprograms Host Metabolism to Suppress Anti-tumor Immunity.
+PMC7532678,Theranostics,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Noninvasive assessment and therapeutic monitoring of drug-resistant colorectal cancer by MR molecular imaging of extradomain-B fibronectin.
+PMC5510812,PLoS Genet,2017,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Intestinal stem cell overproliferation resulting from inactivation of the APC tumor suppressor requires the transcription cofactors Earthbound and Erect wing.
+PMC7923075,Cancers (Basel),2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Novel Protein-Based Vaccine against Self-Antigen Reduces the Formation of Sporadic Colon Adenomas in Mice.
+PMC9560553,PLoS Pathog,2022,cc by,ok,2,1,0,0,1,dataset_large,numeric,Modulation of the extracellular matrix by Streptococcus gallolyticus subsp. gallolyticus and importance in cell proliferation.
+PMC7399195,Transl Oncol,2020,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,clinical,"A combined FAK, c-MET, and MST1R three-protein panel risk-stratifies colorectal cancer patients."
+PMC9721091,FASEB Bioadv,2022,cc by-nc-nd,ok,6,0,0,0,6,no_tabular_data,,Inhibition of insulin-like growth factor 2 mRNA-binding protein 1 sensitizes colorectal cancer cells to chemotherapeutics.
+PMC5141297,Nat Commun,2016,cc by,ok,4,2,0,0,2,dataset_medium,clinical,Functional exploration of colorectal cancer genomes using Drosophila.
+PMC8420050,Genome Med,2021,cc by,ok,4,3,0,0,1,dataset_large,mixed;omics,Profiling diverse sequence tandem repeats in colorectal cancer reveals co-occurrence of microsatellite and chromosomal instability involving Chromosome 8.
+PMC8174505,BMJ Open Gastroenterol,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Antibiotic use and colorectal neoplasia: a systematic review and meta-analysis.
+PMC4822091,Clin Transl Gastroenterol,2016,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,numeric,Expression Profiles of miRNA Subsets Distinguish Human Colorectal Carcinoma and Normal Colonic Mucosa.
+PMC6761996,Nat Chem,2019,,ok,1,0,0,0,1,no_tabular_data,,Synthesis and reactivity of precolibactin 886.
+PMC7815927,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Development of CAR-T Cell Persistence in Adoptive Immunotherapy of Solid Tumors.
+PMC5642654,BMJ Open,2017,cc by-nc,ok,3,0,0,0,3,no_tabular_data,,Accelerated enhanced <i>Recover</i>y following <i>M</i>inimally <i>I</i>nvasive colorectal cancer surgery (<i>RecoverMI</i>): a study protocol for a novel randomised controlled trial.
+PMC5559077,PLoS One,2017,cc0,ok,11,0,0,0,11,no_tabular_data,,"Heritability Estimation using a Regularized Regression Approach (HERRA): Applicable to continuous, dichotomous or age-at-onset outcome."
+PMC5819251,Cell Commun Signal,2018,cc by,ok,2,0,1,1,0,small_table,,Herbal formula Huang Qin Ge Gen Tang enhances 5-fluorouracil antitumor activity through modulation of the E2F1/TS pathway.
+PMC5527460,Mol Oncol,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Enhanced dependency of KRAS-mutant colorectal cancer cells on RAD51-dependent homologous recombination repair identified from genetic interactions in Saccharomyces cerevisiae.
+PMC7156452,Nat Commun,2020,cc by,ok,3,0,0,0,3,no_tabular_data,,Limiting oxidative DNA damage reduces microbe-induced colitis-associated colorectal cancer.
+PMC6081371,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,The atypical cyclin CNTD2 promotes colon cancer cell proliferation and migration.
+PMC7662650,Int J Mol Sci,2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Genotype-Based Gene Expression in Colon Tissue-Prediction Accuracy and Relationship with the Prognosis of Colorectal Cancer Patients.
+PMC6517433,Nat Commun,2019,cc by,ok,18,8,6,0,4,dataset_large,mixed;numeric,Association analyses identify 31 new risk loci for colorectal cancer susceptibility.
+PMC8266435,JNCI Cancer Spectr,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,"Poor-Prognosis Metastatic Cancers in Adolescents and Young Adults: Incidence Patterns, Trends, and Disparities."
+PMC6265303,Br J Cancer,2018,cc by,ok,1,0,1,0,0,small_table,,Type 2 diabetes and risk of colorectal cancer in two large U.S. prospective cohorts.
+PMC9398996,Adv Biol (Weinh),2022,cc by,ok,1,0,0,0,1,no_tabular_data,,TNIK Inhibition Has Dual Synergistic Effects on Tumor and Associated Immune Cells.
+PMC9729215,Nat Commun,2022,cc by,ok,4,1,0,0,3,dataset_large,numeric,Epithelial TGFβ engages growth-factor signalling to circumvent apoptosis and drive intestinal tumourigenesis with aggressive features.
+PMC7477374,JNCI Cancer Spectr,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Postmenopausal Hormone Therapy and Colorectal Cancer Risk by Molecularly Defined Subtypes and Tumor Location.
+PMC7413618,Innov Aging,2020,cc by,ok,1,0,1,0,0,small_table,,A Strategy to Prepare Primary Care Clinicians for Discussing Stopping Cancer Screening With Adults Older Than 75 Years.
+PMC6760534,Cancer Gene Ther,2019,cc by,ok,2,0,0,0,2,no_tabular_data,,Therapeutic potential of adenovirus-mediated TFF2-CTP-Flag peptide for treatment of colorectal cancer.
+PMC7823125,Bioeng Transl Med,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Hyaluronic acid-doxorubicin nanoparticles for targeted treatment of colorectal cancer.
+PMC7948743,J Biol Chem,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Anti-GPR56 monoclonal antibody potentiates GPR56-mediated Src-Fak signaling to modulate cell adhesion.
+PMC5499209,Nat Commun,2017,cc by,ok,21,16,2,0,2,dataset_large,mixed;numeric,Selective analysis of cancer-cell intrinsic transcriptional traits defines novel clinically relevant subtypes of colorectal cancer.
+PMC5638841,Sci Rep,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Loss of ABHD5 promotes the aggressiveness of prostate cancer cells.
+PMC5630314,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeting ADAM17 inhibits human colorectal adenocarcinoma progression and tumor-initiating cell frequency.
+PMC6956221,Microorganisms,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"Modulation of Gut Microbiota by Glucosamine and Chondroitin in a Randomized, Double-Blind Pilot Trial in Humans."
+PMC6614008,Int J Cancer,2019,cc by,ok,5,0,0,0,5,no_tabular_data,,Plasma metabolites associated with colorectal cancer: A discovery-replication strategy.
+PMC5697874,PLoS One,2017,cc by,ok,9,3,3,0,3,dataset_medium,mixed;omics,Enrichment of colorectal cancer associations in functional regions: Insight for using epigenomics data in the analysis of whole genome sequence-imputed GWAS data.
+PMC8404361,Trials,2021,cc by,ok,2,0,0,0,2,no_tabular_data,,"Study protocol for the Exercising Together© trial: a randomized, controlled trial of partnered exercise for couples coping with cancer."
+PMC6158611,Nucleic Acids Res,2018,cc by-nc,ok,1,0,0,0,0,no_tabular_data,,Enhanced detection of microsatellite instability using pre-PCR elimination of wild-type DNA homo-polymers in tissue and liquid biopsies.
+PMC4974481,Nat Commun,2016,cc by,ok,1,1,0,0,0,dataset_medium,numeric,Role of SUMO activating enzyme in cancer stem cell maintenance and self-renewal.
+PMC6888855,Br J Cancer,2019,cc by,ok,1,0,1,0,0,small_table,,"Type 2 diabetes mellitus, blood cholesterol, triglyceride and colorectal cancer risk in Lynch syndrome."
+PMC8020170,J Cancer Prev,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Dysregulated Free Fatty Acid Receptor 2 Exacerbates Colonic Adenoma Formation in <i>Apc</i> <sup><i>Min/+</i></sup> Mice: Relation to Metabolism and Gut Microbiota Composition.
+PMC9058894,ESMO Open,2022,cc by,ok,2,0,1,0,1,small_table,,Artificial intelligence for detection of microsatellite instability in colorectal cancer-a multicentric analysis of a pre-screening tool for clinical application.
+PMC6864075,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Enhancing Colorectal Cancer Radiation Therapy Efficacy using Silver Nanoprisms Decorated with Graphene as Radiosensitizers.
+PMC7802943,PLoS One,2021,cc by,ok,1,0,1,0,0,small_table,,Feasibility and performance of the fecal immunochemical test (FIT) for average-risk colorectal cancer screening in Nigeria.
+PMC8620763,Nutrients,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,Salicylic Acid and Risk of Colorectal Cancer: A Two-Sample Mendelian Randomization Study.
+PMC7643275,Mol Cancer,2020,cc by,ok,3,1,1,0,1,dataset_large,numeric,"The PVT1 lncRNA is a novel epigenetic enhancer of MYC, and a promising risk-stratification biomarker in colorectal cancer."
+PMC7606795,Oncogene,2020,,ok,1,0,0,0,1,no_tabular_data,,Inhibition of protein tyrosine phosphatase receptor type F suppresses Wnt signaling in colorectal cancer.
+PMC8425901,Adv Sci (Weinh),2021,cc by,ok,1,0,0,0,1,no_tabular_data,,An MST4-pβ-Catenin<sup>Thr40</sup> Signaling Axis Controls Intestinal Stem Cell and Tumorigenesis.
+PMC5752446,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Loss of PACS-2 delays regeneration in DSS-induced colitis but does not affect the <i>Apc</i><sup>Min</sup> model of colorectal cancer.
+PMC4873670,Nat Commun,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,ERK5 signalling rescues intestinal epithelial turnover and tumour cell proliferation upon ERK1/2 abrogation.
+PMC7722707,Oncoimmunology,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Loss of p27Kip1 leads to expansion of CD4+ effector memory T cells and accelerates colitis-associated colon cancer in mice with a T cell lineage restricted deletion of Smad4.
+PMC7835713,JAMA Netw Open,2021,cc by,ok,2,0,0,0,2,no_tabular_data,,Effect of Text Messaging on Bowel Preparation and Appointment Attendance for Outpatient Colonoscopy: A Randomized Clinical Trial.
+PMC9019156,Front Public Health,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"The Black Panther, Masculinity Barriers to Medical Care, and Colorectal Cancer Screening Intention Among Unscreened American Indian/Alaska Native, Black, and White Men."
+PMC9086764,J Natl Cancer Inst,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Associations Between Glycemic Traits and Colorectal Cancer: A Mendelian Randomization Analysis.
+PMC9331968,Int J Mol Sci,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,An Integrated Proteomic and Glycoproteomic Investigation Reveals Alterations in the &lt;i&gt;N&lt;/i&gt;-Glycoproteomic Network Induced by 2-Deoxy-D-Glucose in Colorectal Cancer Cells.
+PMC5674097,Br J Cancer,2017,cc by-nc-sa,ok,1,0,0,0,1,no_tabular_data,,Dynamic plasma microRNAs are biomarkers for prognosis and early detection of recurrence in colorectal cancer.
+PMC5379150,Br J Cancer,2017,cc by-nc-sa,ok,1,0,0,0,1,no_tabular_data,,Oncogenic role of PDK4 in human colon cancer cells.
+PMC8812899,PLoS Med,2022,cc0,ok,24,3,4,0,15,dataset_large,mixed;numeric,Genetically proxied therapeutic inhibition of antihypertensive drug targets and risk of common cancers: A mendelian randomization analysis.
+PMC9263148,Sci Rep,2022,cc by,ok,1,1,0,0,0,dataset_medium,numeric,Patients deriving long-term benefit from immune checkpoint inhibitors demonstrate conserved patterns of site-specific mutations.
+PMC5542868,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,Nucleotide selectivity defect and mutator phenotype conferred by a colon cancer-associated DNA polymerase δ mutation in human cells.
+PMC9101564,Sensors (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Concordance of Computed Tomography Regional Body Composition Analysis Using a Fully Automated Open-Source Neural Network versus a Reference Semi-Automated Program with Manual Correction.
+PMC8790683,JMIR Cancer,2022,cc by,ok,4,0,0,0,4,no_tabular_data,,Feasibility and Acceptability of a Physical Activity Tracker and Text Messages to Promote Physical Activity During Chemotherapy for Colorectal Cancer: Pilot Randomized Controlled Trial (Smart Pace II).
+PMC6195818,Oncogene,2018,,ok,1,0,0,0,1,no_tabular_data,,Restoring PUMA induction overcomes KRAS-mediated resistance to anti-EGFR antibodies in colorectal cancer.
+PMC5288594,Clin Transl Gastroenterol,2016,cc by-nc-nd,ok,3,2,0,0,1,dataset_medium,mixed;omics,Time Lapse to Colorectal Cancer: Telomere Dynamics Define the Malignant Potential of Polyps.
+PMC6604047,EBioMedicine,2019,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Inhibition of LTA4H by bestatin in human and mouse colorectal cancer.
+PMC7081316,Sci Rep,2020,cc by,ok,7,3,0,0,1,dataset_large,clinical;mixed;numeric,Whole genome analysis identifies the association of TP53 genomic deletions with lower survival in Stage III colorectal cancer.
+PMC7080439,Sci Adv,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,A bi-adjuvant nanovaccine that potentiates immunogenicity of neoantigen for combination immunotherapy of colorectal cancer.
+PMC9441000,Mol Oncol,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"High prevalence of unusual KRAS, NRAS, and BRAF mutations in POLE-hypermutated colorectal cancers."
+PMC9640550,Sci Rep,2022,cc by,ok,2,1,1,0,0,dataset_large,numeric,Interactions between folate intake and genetic predictors of gene expression levels associated with colorectal cancer risk.
+PMC6885889,Cancer Med,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Physician-office vs home uptake of colorectal cancer screening using FOBT/FIT among screening-eligible US adults.
+PMC5312378,Oncotarget,2016,cc by,ok,3,2,0,0,1,dataset_medium,clinical;omics,Site-specific associations between miRNA expression and survival in colorectal cancer cases.
+PMC5125100,Sci Rep,2016,cc by,ok,2,2,0,0,0,dataset_large,mixed,Circular RNAs are down-regulated in KRAS mutant colon cancer cells and can be transferred to exosomes.
+PMC4716542,Br J Cancer,2016,cc by-nc-sa,ok,1,0,1,0,0,small_table,,Severe obesity prior to diagnosis limits survival in colorectal cancer patients evaluated at a large cancer centre.
+PMC8081343,PLoS Comput Biol,2021,cc by,ok,15,0,0,13,2,no_tabular_data,,"Accurate cancer phenotype prediction with AKLIMATE, a stacked kernel learner integrating multimodal genomic data and pathway knowledge."
+PMC9478530,Cancer Res,2022,cc by-nc-nd,ok,15,3,2,9,1,dataset_large,mixed;numeric,Targeting RAS Mutant Colorectal Cancer with Dual Inhibition of MEK and CDK4/6.
+PMC8921898,Cancer Med,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Survival for endometrial cancer as a second primary malignancy.
+PMC7693002,Microorganisms,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Association of Combined Sero-Positivity to <i>Helicobacter pylori</i> and <i>Streptococcus gallolyticus</i> with Risk of Colorectal Cancer.
+PMC5834248,Oncotarget,2018,cc by,ok,3,0,0,0,3,no_tabular_data,,Two novel colorectal cancer risk loci in the region on chromosome 9q22.32.
+PMC5503612,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,FBXW7 missense mutation: a novel negative prognostic factor in metastatic colorectal adenocarcinoma.
+PMC7398467,Gut,2020,cc by,ok,3,1,0,0,2,dataset_medium,omics,"Systematic meta-analyses, field synopsis and global assessment of the evidence of genetic association studies in colorectal cancer."
+PMC5666592,BMJ,2017,cc by,ok,4,0,0,0,4,no_tabular_data,,Circulating vitamin D concentration and risk of seven cancers: Mendelian randomisation study.
+PMC7846817,Lancet,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"Global variation in postoperative mortality and complications after cancer surgery: a multicentre, prospective cohort study in 82 countries."
+PMC7515455,Cancer Biol Ther,2020,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Silencing the intestinal GUCY2C tumor suppressor axis requires <i>APC</i> loss of heterozygosity.
+PMC8062848,JNCI Cancer Spectr,2021,cc by-nc,ok,1,0,1,0,0,small_table,,Assessment of a Polygenic Risk Score for Colorectal Cancer to Predict Risk of Lynch Syndrome Colorectal Cancer.
+PMC6344461,Front Oncol,2018,cc by,ok,1,1,0,0,0,dataset_medium,mixed,"Clinical Utilization Pattern of Liquid Biopsies (LB) to Detect Actionable Driver Mutations, Guide Treatment Decisions and Monitor Disease Burden During Treatment of 33 Metastatic Colorectal Cancer (mCRC) Patients (pts) at a Fox Chase Cancer Center GI Oncology Subspecialty Clinic."
+PMC5095046,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Pathway analysis of expression-related SNPs on genome-wide association study of basal cell carcinoma.
+PMC8346364,Nat Genet,2021,cc by,ok,3,0,2,0,1,small_table,,Reconstructing single-cell karyotype alterations in colorectal cancer identifies punctuated and gradual diversification patterns.

@@ -1,0 +1,40 @@
+
+CANCER: colorectal cancer | population 888 papers | sample 300 | supplements retrieved for 294
+
+PER PAPER (what is the best thing in its attachments)
+  no_tabular_data       184  61.3%
+  dataset_medium         40  13.3%
+  small_table            39  13.0%
+  dataset_large          27   9.0%
+  no_supp_retrieved       6   2.0%
+  tables_only             4   1.3%
+
+  => papers with at least one real dataset file (>=50 rows x 3 cols, or >=1000 rows): 67 of 300 = 22.3%
+  => of papers whose supplements were retrieved: 22.8%
+
+PER FILE
+  document               389  51.9%
+  dataset_medium          99  13.2%
+  small_table             73   9.7%
+  dataset_large           58   7.7%
+  figure_image            46   6.1%
+  other                   33   4.4%
+  media                   26   3.5%
+  tiny_table              16   2.1%
+  empty_or_text            5   0.7%
+  unreadable_table         4   0.5%
+  code                     1   0.1%
+
+DATASET FILES: 157; kinds: {'mixed': 43, 'numeric': 61, 'omics': 47, 'clinical': 6}
+  largest-table rows: median 383, p90 19951, max 152683
+  by extension: {'.docx': 12, '.xlsx': 115, '.xls': 13, '.pdf': 8, '.csv': 8, '.txt': 1}
+  papers with a NATIVE spreadsheet/csv dataset: 51 (17.0% of sample) | dataset only as a table inside a PDF/DOCX: 16 (5.3%)
+  papers with a PRIMARY-looking dataset (measurements, cohort/sample tables): 62 (20.7%) | only DERIVED result tables (enrichment, DEG lists, stats): 5 (1.7%)
+  licenses of dataset papers: {'cc0': 2, 'cc by': 56, 'cc by-nc-nd': 7, 'untagged': 1, 'cc by-nc': 1} | freely re-depositable (cc by / cc0): 58 of 67
+
+LICENSES of sampled papers: {'cc by-nc-nd': 31, 'cc by': 205, 'cc0': 7, 'unknown': 20, 'cc by-nc': 31, 'cc by-nc-sa': 6}
+
+TOP JOURNALS among dataset papers: [('Nat Commun', 11), ('Sci Rep', 6), ('Oncotarget', 5), ('PLoS One', 4), ('PLoS Med', 2), ('Br J Cancer', 2), ('Elife', 2), ('Mol Cancer', 2)]
+
+EXTRAPOLATION (rough): 22.3% of 888 colorectal cancer papers ~= 198 papers with rescuable datasets in this cancer alone;
+  applied to the ~32,000 NCI-funded papers with supplements and no accession -> ~7,147 papers (upper-bound heuristic, needs validation)

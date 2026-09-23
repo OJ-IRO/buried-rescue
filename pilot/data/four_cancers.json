@@ -1,0 +1,42 @@
+[
+ {
+  "cancer": "glioblastoma",
+  "population": 630,
+  "sample": 300,
+  "papers_with_dataset": 61,
+  "share": 20.3,
+  "native_spreadsheet": 46,
+  "free_license": 46,
+  "dataset_files": 121
+ },
+ {
+  "cancer": "breast cancer",
+  "population": 3104,
+  "sample": 300,
+  "papers_with_dataset": 65,
+  "share": 21.7,
+  "native_spreadsheet": 49,
+  "free_license": 60,
+  "dataset_files": 155
+ },
+ {
+  "cancer": "colorectal cancer",
+  "population": 888,
+  "sample": 300,
+  "papers_with_dataset": 67,
+  "share": 22.3,
+  "native_spreadsheet": 51,
+  "free_license": 58,
+  "dataset_files": 157
+ },
+ {
+  "cancer": "leukemia",
+  "population": 1272,
+  "sample": 300,
+  "papers_with_dataset": 63,
+  "share": 21.0,
+  "native_spreadsheet": 46,
+  "free_license": 43,
+  "dataset_files": 148
+ }
+]

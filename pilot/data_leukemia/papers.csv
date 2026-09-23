@@ -1,0 +1,301 @@
+pmcid,journal,year,license,fetch,n_files,n_dataset_files,n_small_tables,n_figures,n_docs,verdict,kinds,title
+PMC9797243,J Oncol Pract,2017,cc by-nc-nd,empty,0,0,0,0,0,no_supp_retrieved,,Challenges in the Clinical Application of the American Society of Clinical Oncology Value Framework: A Medicare Cost-Benefit Analysis in Chronic Lymphocytic Leukemia.
+PMC8599380,Eur J Drug Metab Pharmacokinet,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"Population Pharmacokinetic Analysis from First-in-Human Data for HDAC Inhibitor, REC-2282 (AR-42), in Patients with Solid Tumors and Hematologic Malignancies: A Case Study for Evaluating Flat vs. Body Size Normalized Dosing."
+PMC8364569,Leukemia,2021,,ok,1,0,0,0,1,no_tabular_data,,Targeting the membrane-proximal C2-set domain of CD33 for improved CD33-directed immunotherapy.
+PMC9177690,Leukemia,2022,,ok,1,0,0,0,1,no_tabular_data,,RNAseqCNV: analysis of large-scale copy number variations from RNA-seq data.
+PMC7012907,Sci Rep,2020,cc by,ok,1,0,1,0,0,small_table,,Role of Vitamins A and D in BCR-ABL Arf<sup>-/-</sup> Acute Lymphoblastic Leukemia.
+PMC4705648,Nucleic Acids Res,2016,cc by-nc,ok,2,1,0,0,0,dataset_large,omics,Functional coordination and HuR-mediated regulation of mRNA stability during T cell activation.
+PMC8794880,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,ok,2,2,0,0,0,dataset_medium,mixed;numeric,"A large fraction of trisomy 12, 17p<sup>-</sup>, and 11q<sup>-</sup> CLL cases carry unidentified microdeletions of <i>miR-15a/16-1</i>."
+PMC6624260,Nat Commun,2019,cc by,ok,5,0,1,0,4,small_table,,Blockade of leukemia inhibitory factor as a therapeutic approach to KRAS driven pancreatic cancer.
+PMC5354847,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Opposing roles of KIT and ABL1 in the therapeutic response of gastrointestinal stromal tumor (GIST) cells to imatinib mesylate.
+PMC9522595,Leukemia,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Loss of AID exacerbates the malignant progression of CLL.
+PMC6601074,Haematologica,2019,cc by-nc,ok,4,0,0,0,2,no_tabular_data,,Chimeric antigen receptor T-cell therapy for acute myeloid leukemia: how close to reality?
+PMC5815604,PLoS One,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Late effects awareness website for pediatric survivors of acute lymphocytic leukemia.
+PMC6969520,Proc Natl Acad Sci U S A,2020,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Revisiting the tumorigenesis timeline with a data-driven generative model.
+PMC8243474,J Hematol Oncol,2021,cc by,ok,2,0,0,0,2,no_tabular_data,,"Anti-tumor NAMPT inhibitor, KPT-9274, mediates gender-dependent murine anemia and nephrotoxicity by regulating SIRT3-mediated SOD deacetylation."
+PMC8720242,Leukemia,2022,cc by,ok,6,0,1,0,5,small_table,,Exploring the genetic and epigenetic origins of juvenile myelomonocytic leukemia using newborn screening samples.
+PMC9768237,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Clofarabine treatment of KMT2Ar infantile patients with acute lymphoblastic leukemia in St. Jude Total Therapy Study 16.
+PMC7849578,Haematologica,2021,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,The clinical and biological characteristics of NUP98-KDM5A in pediatric acute myeloid leukemia.
+PMC6533116,Nature,2019,,ok,1,0,0,0,1,no_tabular_data,,Epigenetic evolution and lineage histories of chronic lymphocytic leukaemia.
+PMC5856557,Proc Natl Acad Sci U S A,2018,cc by-nc-nd,ok,4,3,0,0,1,dataset_large,mixed;numeric;omics,Highly multiplexed and quantitative cell-surface protein profiling using genetically barcoded antibodies.
+PMC6312012,Haematologica,2019,cc by-nc,ok,4,0,0,0,2,no_tabular_data,,Peering through zebrafish to understand inherited bone marrow failure syndromes.
+PMC5670032,Leukemia,2017,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Wnt5a induces ROR1 to associate with 14-3-3ζ for enhanced chemotaxis and proliferation of chronic lymphocytic leukemia cells.
+PMC5709252,Leukemia,2018,,ok,1,0,0,0,1,no_tabular_data,,Deregulation of kinase signaling and lymphoid development in EBF1-PDGFRB ALL leukemogenesis.
+PMC7590517,JNCI Cancer Spectr,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Body Mass Index and Weight Loss in Metastatic Colorectal Cancer in CALGB (Alliance)/SWOG 80405.
+PMC9107507,Oncogene,2022,,ok,1,0,0,0,1,no_tabular_data,,Inhibitor of DNA binding 2 (ID2) regulates the expression of developmental genes and tumorigenesis in ewing sarcoma.
+PMC9406943,Cells,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Expression of IL-37 Induces a Regulatory T-Cell-like Phenotype and Function in Jurkat Cells.
+PMC5431828,Sci Rep,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,ALOX5 exhibits anti-tumor and drug-sensitizing effects in MLL-rearranged leukemia.
+PMC7886901,Nat Commun,2021,cc by,ok,11,3,2,0,4,dataset_large,mixed;numeric,ZMYND11-MBTD1 induces leukemogenesis through hijacking NuA4/TIP60 acetyltransferase complex and a PWWP-mediated chromatin association mechanism.
+PMC7538974,Blood Cancer J,2020,cc by,ok,6,4,1,0,1,dataset_large,numeric;omics,FBXO11 is a candidate tumor suppressor in the leukemic transformation of myelodysplastic syndrome.
+PMC8310324,Viruses,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,Targeting JAK/STAT Signaling Antagonizes Resistance to Oncolytic Reovirus Therapy Driven by Prior Infection with HTLV-1 in Models of T-Cell Lymphoma.
+PMC5577668,Genome Med,2017,cc by,ok,6,5,1,0,0,dataset_large,mixed;omics,The neoepitope landscape in pediatric cancers.
+PMC5132067,Cytometry A,2016,cc by-nc,ok,2,0,0,0,1,tables_only,,Consistent quantitative gene product expression: #2. Antigen intensities on bone marrow cells are invariant between individuals.
+PMC7576156,Cell Death Dis,2020,cc by,ok,2,0,0,0,2,no_tabular_data,,Downregulation of PUMA underlies resistance to FGFR1 inhibitors in the stem cell leukemia/lymphoma syndrome.
+PMC5805309,PLoS One,2018,cc by,ok,5,0,2,0,3,small_table,,Opioid utilization among pediatric patients treated for newly diagnosed acute myeloid leukemia.
+PMC9246987,Commun Biol,2022,cc by,ok,5,1,1,0,3,dataset_medium,numeric,Variational autoencoders learn transferrable representations of metabolomics data.
+PMC8141515,Signal Transduct Target Ther,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,FLT3 tyrosine kinase inhibitors synergize with BCL-2 inhibition to eliminate FLT3/ITD acute leukemia cells through BIM activation.
+PMC8929598,PLoS One,2022,cc by,ok,8,0,4,0,2,small_table,,Performance characteristics of the first Food and Drug Administration (FDA)-cleared digital droplet PCR (ddPCR) assay for BCR::ABL1 monitoring in chronic myelogenous leukemia.
+PMC4948888,PLoS One,2016,cc by,ok,12,1,2,0,9,dataset_medium,omics,Context Matters: Distinct Disease Outcomes as a Result of Crebbp Hemizygosity in Different Mouse Bone Marrow Compartments.
+PMC5777029,Proc Natl Acad Sci U S A,2018,cc by-nc-nd,ok,2,0,1,0,1,small_table,,RSK2 drives cell motility by serine phosphorylation of LARG and activation of Rho GTPases.
+PMC6374186,Oncogene,2019,,ok,1,0,0,0,1,no_tabular_data,,Leukemia inhibitory factor functions in parallel with interleukin-6 to promote ovarian cancer growth.
+PMC6683199,Blood Cancer J,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Association of elevated serumfree light chains with chronic lymphocytic leukemia and monoclonal B-cell lymphocytosis.
+PMC7927994,Haematologica,2021,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,Outcomes of relapsed or refractory acute myeloid leukemia after frontline hypomethylating agent and venetoclax regimens.
+PMC9935551,Blood,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Engineering naturally occurring CD7- T cells for the immunotherapy of hematological malignancies.
+PMC6480977,Sci Data,2019,cc by,ok,3,0,0,0,2,no_tabular_data,,Phospho serine and threonine analysis of normal and mutated granulocyte colony stimulating factor receptors.
+PMC4924788,PLoS Comput Biol,2016,cc by,ok,2,0,0,0,2,no_tabular_data,,A Crowdsourcing Approach to Developing and Assessing Prediction Algorithms for AML Prognosis.
+PMC5959866,Nat Commun,2018,cc by,too_large,0,0,0,0,0,no_supp_retrieved,,MLL-fusion-driven leukemia requires SETD2 to safeguard genomic integrity.
+PMC5332311,Leukemia,2017,,ok,1,0,0,0,1,no_tabular_data,,Phosphorylation of a constrained azacyclic FTY720 analog enhances anti-leukemic activity without inducing S1P receptor activation.
+PMC6428263,PLoS One,2019,cc by,empty,0,0,0,0,0,no_supp_retrieved,,"HTLV-1 Tax-1 interacts with SNX27 to regulate cellular localization of the HTLV-1 receptor molecule, GLUT1."
+PMC5215491,Leukemia,2017,,ok,1,0,0,1,0,no_tabular_data,,Cathepsin G is broadly expressed in acute myeloid leukemia and is an effective immunotherapeutic target.
+PMC9621143,J Clin Invest,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,The druggable transcription factor Fli-1 regulates T cell immunity and tolerance in graft-versus-host disease.
+PMC5323144,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,RALB provides critical survival signals downstream of Ras in acute myeloid leukemia.
+PMC7321988,Proc Natl Acad Sci U S A,2020,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,numeric,Reversible suppression of T cell function in the bone marrow microenvironment of acute myeloid leukemia.
+PMC6694122,Nat Commun,2019,cc by,ok,8,3,0,0,3,dataset_large,mixed;omics,A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing.
+PMC6920560,Lab Invest,2020,,ok,1,0,0,0,1,no_tabular_data,,Machine-based detection and classification for bone marrow aspirate differential counts: initial development focusing on nonneoplastic cells.
+PMC9327550,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Disparities in trial enrollment and outcomes of Hispanic adolescent and young adult acute lymphoblastic leukemia.
+PMC7005177,Blood Cancer J,2020,cc by,ok,3,2,0,0,1,dataset_large,omics,The RUNX1-ETO target gene RASSF2 suppresses t(8;21) AML development and regulates Rac GTPase signaling.
+PMC7477986,J Immunother Cancer,2020,cc by-nc,ok,3,0,0,0,3,no_tabular_data,,Cell-based artificial APC resistant to lentiviral transduction for efficient generation of CAR-T cells from various cell sources.
+PMC7120351,Genomics Inform,2020,cc by,ok,2,0,0,0,2,no_tabular_data,,Strong concordance between RNA structural and single nucleotide variants identified via next generation sequencing techniques in primary pediatric leukemia and patient-derived xenograft samples.
+PMC8606166,Cell Biosci,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Impaired neutralizing antibody response to COVID-19 mRNA vaccines in cancer patients.
+PMC6128690,Elife,2018,cc by,ok,11,5,5,0,1,dataset_large,numeric;omics,<i>tp53</i> deficiency causes a wide tumor spectrum and increases embryonal rhabdomyosarcoma metastasis in zebrafish.
+PMC6497463,Oncotarget,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"PIM kinase inhibitor, AZD1208, inhibits protein translation and induces autophagy in primary chronic lymphocytic leukemia cells."
+PMC7425159,Biomark Res,2020,cc by,ok,1,1,0,0,0,dataset_medium,mixed,AML risk stratification models utilizing ELN-2017 guidelines and additional prognostic factors: a SWOG report.
+PMC4863962,PLoS Pathog,2016,cc by,empty,0,0,0,0,0,no_supp_retrieved,,"Virus Infections Incite Pain Hypersensitivity by Inducing Indoleamine 2,3 Dioxygenase."
+PMC8982388,JNCI Cancer Spectr,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"Maternal Body Mass Index, Diabetes, and Gestational Weight Gain and Risk for Pediatric Cancer in Offspring: A Systematic Review and Meta-Analysis."
+PMC9570078,Int J Mol Sci,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,FBP1-Altered Carbohydrate Metabolism Reduces Leukemic Viability through Activating P53 and Modulating the Mitochondrial Quality Control System In Vitro.
+PMC9631557,Blood Adv,2022,cc by-nc-nd,ok,2,0,1,0,1,small_table,,Cell origin-dependent cooperativity of mutant Dnmt3a and Npm1 in clonal hematopoiesis and myeloid malignancy.
+PMC9006266,Blood Adv,2022,cc by-nc-nd,ok,1,1,0,0,0,dataset_medium,mixed,Coping strategies in patients with acute myeloid leukemia.
+PMC9631572,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL.
+PMC8531894,Cardiooncology,2021,cc by,ok,7,0,0,0,0,no_tabular_data,,Acute cardiotoxicity after initiation of the novel tyrosine kinase inhibitor gilteritinib for acute myeloid leukemia.
+PMC6082162,Nat Struct Mol Biol,2018,,ok,1,0,0,0,1,no_tabular_data,,Mechanisms of genetic instability caused by (CGG)<sub>n</sub> repeats in an experimental mammalian system.
+PMC9043933,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Outcome of donor-derived TAA-T cell therapy in patients with high-risk or relapsed acute leukemia post allogeneic BMT.
+PMC6331136,PLoS Comput Biol,2019,cc by,ok,1,0,1,0,0,small_table,,Global analysis of N6-methyladenosine functions and its disease association using deep learning and network-based methods.
+PMC7387317,Leukemia,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,"Specific, targetable interactions with the microenvironment influence imatinib-resistant chronic myeloid leukemia."
+PMC8973317,Leukemia,2021,,ok,1,0,0,0,1,no_tabular_data,,Cytoplasmic DROSHA and non-canonical mechanisms of MiR-155 biogenesis in FLT3-ITD acute myeloid leukemia.
+PMC5709258,Leukemia,2017,,ok,1,0,0,0,1,no_tabular_data,,"Mitoxantrone, etoposide and cytarabine following epigenetic priming with decitabine in adults with relapsed/refractory acute myeloid leukemia or other high-grade myeloid neoplasms: a phase 1/2 study."
+PMC5312311,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeting the RAS/MAPK pathway with miR-181a in acute myeloid leukemia.
+PMC5462858,Leukemia,2017,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Cirmtuzumab inhibits Wnt5a-induced Rac1 activation in chronic lymphocytic leukemia treated with ibrutinib.
+PMC6320735,Leukemia,2019,,ok,1,0,0,0,0,no_tabular_data,,Time resolved quantitative phospho-tyrosine analysis reveals Bruton's Tyrosine kinase mediated signaling downstream of the mutated granulocyte-colony stimulating factor receptors.
+PMC9383266,Environ Health Perspect,2022,cc0,ok,2,0,0,0,1,tables_only,,"Unconventional Oil and Gas Development Exposure and Risk of Childhood Acute Lymphoblastic Leukemia: A Case-Control Study in Pennsylvania, 2009-2017."
+PMC6010788,Cancer Med,2018,cc by,ok,3,0,0,0,3,no_tabular_data,,"Living on a farm, contact with farm animals and pets, and childhood acute lymphoblastic leukemia: pooled and meta-analyses from the Childhood Leukemia International Consortium."
+PMC8566485,Nat Commun,2021,cc by,ok,11,3,4,0,3,dataset_medium,mixed;numeric;omics,Convergence of oncogenic cooperation at single-cell and single-gene levels drives leukemic transformation.
+PMC6537233,Glob Pediatr Health,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Presentation and Outcomes of Childhood Cancer Patients at Uganda Cancer Institute.
+PMC7034898,PLoS One,2020,cc by,ok,3,0,1,0,2,small_table,,Utilization of archived neonatal dried blood spots for genome-wide genotyping.
+PMC8727916,Acta Pharm Sin B,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Mechanistic studies of PEG-asparaginase-induced liver injury and hepatic steatosis in mice.
+PMC8580619,Blood Cancer Discov,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,NOT-Gated CD93 CAR T Cells Effectively Target AML with Minimized Endothelial Cross-Reactivity.
+PMC5973864,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,"Cirmtuzumab inhibits ibrutinib-resistant, Wnt5a-induced Rac1 activation and proliferation in mantle cell lymphoma."
+PMC6165819,Haematologica,2018,cc by-nc,ok,6,0,0,0,3,no_tabular_data,,Combinatorial targeting of XPO1 and FLT3 exerts synergistic anti-leukemia effects through induction of differentiation and apoptosis in <i>FLT3</i>-mutated acute myeloid leukemias: from concept to clinical trial.
+PMC6680647,Molecules,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"Structural and Biological Investigations for a Series of N-5 Substituted Pyrrolo[3,2-<i>d</i>]pyrimidines as Potential Anti-Cancer Therapeutics."
+PMC9139225,Cancers (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Antagonizing Glutamine Bioavailability Promotes Radiation Sensitivity in Prostate Cancer.
+PMC9718684,Nat Methods,2022,cc by,ok,19,9,3,0,2,dataset_large,mixed;numeric,Image-seq: spatially resolved single-cell sequencing guided by in situ and in vivo imaging.
+PMC10976320,Leukemia,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Venetoclax and pegcrisantaspase for complex karyotype acute myeloid leukemia.
+PMC6090987,J Hematol Oncol,2018,cc by,ok,2,1,0,0,1,dataset_medium,numeric,Targeting WEE1 to enhance conventional therapies for acute lymphoblastic leukemia.
+PMC7596813,J Exp Med,2020,cc by-nc-sa,ok,3,1,1,0,1,dataset_medium,omics,Constructing and deconstructing GATA2-regulated cell fate programs to establish developmental trajectories.
+PMC7368465,JNCI Cancer Spectr,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Late Effects in Survivors of Adolescent and Young Adult Acute Lymphoblastic Leukemia.
+PMC6883925,Cancer Drug Resist,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Identification and targeting of CD22ΔE12 as a molecular RNAi target to overcome drug resistance in high-risk B-lineage leukemias and lymphomas.
+PMC6858733,Health Qual Life Outcomes,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"Idelalisib addition has neutral to beneficial effects on quality of life in bendamustine/rituximab-treated patients: results of a phase 3, randomized, controlled trial."
+PMC5802628,Cell Discov,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Loss of ASXL1 in the bone marrow niche dysregulates hematopoietic stem and progenitor cell fates.
+PMC7438233,Leukemia,2020,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Investigating the role of the innate immune response in relapse or blast crisis in chronic myeloid leukemia.
+PMC9177679,Leukemia,2022,,ok,1,0,0,0,0,no_tabular_data,,JAK3 mutations and mitochondrial apoptosis resistance in T-cell acute lymphoblastic leukemia.
+PMC8727287,Leukemia,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,The RNA-binding protein IGF2BP3 is critical for MLL-AF4-mediated leukemogenesis.
+PMC8885421,Leukemia,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Inhibition of the RacGEF VAV3 by the small molecule IODVA1 impedes RAC signaling and overcomes resistance to tyrosine kinase inhibition in acute lymphoblastic leukemia.
+PMC5808068,Leukemia,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Blinatumomab retreatment after relapse in patients with relapsed/refractory B-precursor acute lymphoblastic leukemia.
+PMC5517805,Mol Cancer,2017,cc by,ok,7,0,0,0,7,no_tabular_data,,The lncRNA CASC15 regulates SOX4 expression in RUNX1-rearranged acute leukemia.
+PMC7724912,Blood Adv,2020,,ok,1,0,0,0,1,no_tabular_data,,Outcomes of patients with hematologic malignancies and COVID-19: a report from the ASH Research Collaborative Data Hub.
+PMC7183909,Genes Immun,2020,,ok,1,0,0,0,1,no_tabular_data,,The lysine methyltransferase SMYD2 is required for normal lymphocyte development and survival of hematopoietic leukemias.
+PMC5841735,PLoS One,2018,cc by,ok,12,1,0,0,10,dataset_medium,numeric,Subtype assignment of CLL based on B-cell subset associated gene signatures from normal bone marrow - A proof of concept study.
+PMC8261916,J Hematol Oncol,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Precision oncology in AML: validation of the prognostic value of the knowledge bank approach and suggestions for improvement.
+PMC5558867,Leukemia,2017,,ok,1,0,0,0,1,no_tabular_data,,Targeting FLT3 by chimeric antigen receptor T cells for the treatment of acute myeloid leukemia.
+PMC6148437,Leukemia,2018,,ok,1,0,0,0,0,no_tabular_data,,Hedgehog pathway mutations drive oncogenic transformation in high-risk T-cell acute lymphoblastic leukemia.
+PMC8869715,Biology (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,DRPPM-EASY: A Web-Based Framework for Integrative Analysis of Multi-Omics Cancer Datasets.
+PMC5650952,Leukemia,2017,,empty,0,0,0,0,0,no_supp_retrieved,,DPP4 truncated GM-CSF and IL-3 manifest distinct receptor-binding and regulatory functions compared with their full-length forms.
+PMC8222245,Sci Rep,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Focused CRISPR-Cas9 genetic screening reveals USO1 as a vulnerability in B-cell acute lymphoblastic leukemia.
+PMC6200731,Sci Rep,2018,cc by,ok,2,0,0,0,0,no_tabular_data,,Characterizing Deformability of Drug Resistant Patient-Derived Acute Lymphoblastic Leukemia (ALL) Cells Using Acoustic Tweezers.
+PMC5560704,PLoS One,2017,cc by,ok,3,1,1,0,0,dataset_medium,numeric,Family-based exome-wide association study of childhood acute lymphoblastic leukemia among Hispanics confirms role of ARID5B in susceptibility.
+PMC4944897,Cancer Med,2016,cc by,ok,3,0,2,0,1,small_table,,Subsequent primary malignancies and acute myelogenous leukemia transformation among myelodysplastic syndrome patients treated with or without lenalidomide.
+PMC5302887,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Immortalization of human AE pre-leukemia cells by hTERT allows leukemic transformation.
+PMC4911325,Leukemia,2016,,ok,1,0,0,0,1,no_tabular_data,,In vivo targeting of leukemia stem cells by directing parthenolide-loaded nanoparticles to the bone marrow niche.
+PMC6486546,Nucleic Acids Res,2019,cc by,ok,1,0,0,0,0,no_tabular_data,,The CDK7 inhibitor THZ1 alters RNA polymerase dynamics at the 5' and 3' ends of genes.
+PMC7050288,Biol Blood Marrow Transplant,2019,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Donor HLA-E Status Associates with Disease-Free Survival and Transplant-Related Mortality after Non In Vivo T Cell-Depleted HSCT for Acute Leukemia.
+PMC8932663,Sci Adv,2022,cc by-nc,ok,2,0,0,0,1,no_tabular_data,,H3K9 dimethylation safeguards cancer cells against activation of the interferon pathway.
+PMC4846597,Oncogene,2016,,ok,1,0,0,0,0,no_tabular_data,,Sleeping Beauty transposon screen identifies signaling modules that cooperate with STAT5 activation to induce B-cell acute lymphoblastic leukemia.
+PMC5965255,Neoplasia,2016,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"Synthesis, Characterization, and In Vitro and In Vivo Evaluations of 4-(N)-Docosahexaenoyl 2', 2'-Difluorodeoxycytidine with Potent and Broad-Spectrum Antitumor Activity."
+PMC7042303,Signal Transduct Target Ther,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Inhibition of CDK9 by voruciclib synergistically enhances cell death induced by the Bcl-2 selective inhibitor venetoclax in preclinical models of acute myeloid leukemia.
+PMC9534506,Sci Adv,2022,cc by-nc,ok,1,0,1,0,0,small_table,,CARM1-mediated methylation of ASXL2 impairs tumor-suppressive function of MLL3/COMPASS.
+PMC7084745,Int J Environ Res Public Health,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Longitudinal Patterns of Social Problem-Solving Skills in an Ethnically Diverse Sample of Pediatric Patients with Cancer and their Caregivers.
+PMC8532198,Blood,2021,,ok,5,2,0,1,2,dataset_large,omics,Activated natural killer cells predict poor clinical prognosis in high-risk B- and T-cell acute lymphoblastic leukemia.
+PMC8632331,Oncoimmunology,2021,cc by-nc,too_large,0,0,0,0,0,no_supp_retrieved,,Unifying heterogeneous expression data to predict targets for CAR-T cell therapy.
+PMC7604631,Haematologica,2020,cc by-nc,ok,2,1,0,0,1,dataset_medium,mixed,Venetoclax as monotherapy and in combination with hypomethylating agents or low dose cytarabine in relapsed and treatment refractory acute myeloid leukemia: a systematic review and meta-analysis.
+PMC5500007,PLoS Comput Biol,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Combination therapeutics of Nilotinib and radiation in acute lymphoblastic leukemia as an effective method against drug-resistance.
+PMC7526544,JCI Insight,2020,cc by,ok,1,1,0,0,0,dataset_medium,numeric,Granzyme A-producing T helper cells are critical for acute graft-versus-host disease.
+PMC5394958,Haematologica,2017,cc by-nc,ok,4,1,0,0,1,dataset_medium,mixed,Phase 1 dose-finding study of rebastinib (DCC-2036) in patients with relapsed chronic myeloid leukemia and acute myeloid leukemia.
+PMC5442648,Genome Biol,2017,cc by,ok,12,2,9,0,1,dataset_medium,mixed;numeric,"N-BLR, a primate-specific non-coding transcript leads to colorectal cancer invasion and migration."
+PMC8556368,Commun Biol,2021,cc by,ok,5,1,0,0,4,dataset_medium,numeric,LIFR inhibition enhances the therapeutic efficacy of HDAC inhibitors in triple negative breast cancer.
+PMC7776347,Haematologica,2021,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,FcγRIIb-BCR coligation inhibits BCR signaling in chronic lymphocytic leukemia.
+PMC6442980,Haematologica,2019,cc by-nc,ok,4,0,0,0,2,no_tabular_data,,CD123 expression patterns and selective targeting with a CD123-targeted antibody-drug conjugate (IMGN632) in acute lymphoblastic leukemia.
+PMC9152975,Haematologica,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,AXL/MERTK inhibitor ONO-7475 potently synergizes with venetoclax and overcomes venetoclax resistance to kill <i>FLT3</i>-ITD acute myeloid leukemia.
+PMC6192860,Leukemia,2018,,ok,1,0,0,0,1,no_tabular_data,,Phase 1/2 trial of GCLAM with dose-escalated mitoxantrone for newly diagnosed AML or other high-grade myeloid neoplasms.
+PMC8830224,Oncotarget,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,ABT199/venetoclax potentiates the cytotoxicity of alkylating agents and fludarabine in acute myeloid leukemia cells.
+PMC6636280,J Cancer,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,<i>RAG1</i> high expression associated with <i>IKZF1</i> dysfunction in adult B-cell acute lymphoblastic leukemia.
+PMC7644662,Blood Cancer J,2020,cc by,ok,2,0,0,0,2,no_tabular_data,,Hairy cell leukemia expresses programmed death-1.
+PMC6916423,Genes Chromosomes Cancer,2020,cc by,ok,4,0,0,0,4,no_tabular_data,,Insertional oncogenesis by HPV70 revealed by multiple genomic analyses in a clinically HPV-negative cervical cancer.
+PMC8100891,Front Oncol,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Adipocytes Provide Fatty Acids to Acute Lymphoblastic Leukemia Cells.
+PMC7314847,Nat Commun,2020,cc by,ok,5,2,0,0,3,dataset_large,numeric;omics,Synergism between IL7R and CXCR4 drives BCR-ABL induced transformation in Philadelphia chromosome-positive acute lymphoblastic leukemia.
+PMC6249323,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Pre-B acute lymphoblastic leukemia expresses cell surface nucleolin as a 9-O-acetylated sialoglycoprotein.
+PMC5175335,Nucleic Acids Res,2016,cc by-nc,ok,6,0,1,0,2,small_table,,RAG1 targeting in the genome is dominated by chromatin interactions mediated by the non-core regions of RAG1 and RAG2.
+PMC5792275,Haematologica,2018,cc by-nc,ok,6,0,0,0,3,no_tabular_data,,Somatic <i>STAT3</i> mutations in Felty syndrome: an implication for a common pathogenesis with large granular lymphocyte leukemia.
+PMC5663521,Oncotarget,2017,cc by,ok,7,6,0,0,1,dataset_large,mixed;numeric;omics,Tumor <i>Trp53</i> status and genotype affect the bone marrow microenvironment in acute myeloid leukemia.
+PMC8092005,Genome Res,2021,cc by-nc,ok,7,4,2,0,0,dataset_large,mixed;numeric,DNA methylation epitypes highlight underlying developmental and disease pathways in acute myeloid leukemia.
+PMC8155811,Leukemia,2020,,ok,1,0,0,0,1,no_tabular_data,,"Management of hyperleukocytosis and impact of leukapheresis among patients with acute myeloid leukemia (AML) on short- and long-term clinical outcomes: a large, retrospective, multicenter, international study."
+PMC7084408,Int J Mol Sci,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Regulation of Small GTPase Rab20 by Ikaros in B-Cell Acute Lymphoblastic Leukemia.
+PMC8807390,Leukemia,2022,cc by,ok,26,1,2,16,7,dataset_medium,numeric,Targeting serine hydroxymethyltransferases 1 and 2 for T-cell acute lymphoblastic leukemia therapy.
+PMC5410248,Oncotarget,2017,cc by,ok,3,1,1,0,1,dataset_medium,mixed,Differentiation status of primary chronic myeloid leukemia cells affects sensitivity to BCR-ABL1 inhibitors.
+PMC7574303,J Hematol Oncol,2020,cc by,ok,2,0,0,1,1,no_tabular_data,,Synergistic effect of BCL2 and FLT3 co-inhibition in acute myeloid leukemia.
+PMC8719088,Haematologica,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Tumor suppressor function of <i>WT1</i> in acute promyelocytic leukemia.
+PMC7693375,Cancers (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Reduced SLIT2 is Associated with Increased Cell Proliferation and Arsenic Trioxide Resistance in Acute Promyelocytic Leukemia.
+PMC7776352,Haematologica,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"Comparative analysis of targeted novel therapies in relapsed, refractory chronic lymphocytic leukaemia."
+PMC8752192,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Successful outcome of pre-engraftment COVID-19 in an HCT patient: impact of targeted therapies and cellular immunity.
+PMC9153019,Blood Adv,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Gilteritinib-induced upregulation of S100A9 is mediated through BCL6 in acute myeloid leukemia.
+PMC5638296,PLoS One,2017,cc by,ok,5,0,0,0,5,no_tabular_data,,The common oncogenomic program of NOTCH1 and NOTCH3 signaling in T-cell acute lymphoblastic leukemia.
+PMC5064867,Nat Biotechnol,2016,,ok,1,0,0,0,1,no_tabular_data,,High-throughput measurement of single-cell growth rates using serial microfluidic mass sensor arrays.
+PMC6649800,JNCI Cancer Spectr,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Validation of Minimal Residual Disease as Surrogate Endpoint for Event-Free Survival in Childhood Acute Lymphoblastic Leukemia.
+PMC8248901,J Clin Haematol,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,"Flavopiridol (Alvocidib), a Cyclin-dependent Kinases (CDKs) Inhibitor, Found Synergy Effects with Niclosamide in Cutaneous T-cell Lymphoma."
+PMC7647286,J Am Med Inform Assoc,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Unsupervised machine learning and prognostic factors of survival in chronic lymphocytic leukemia.
+PMC8119290,Bone Marrow Transplant,2021,,ok,1,0,0,0,1,no_tabular_data,,Cord blood maternal microchimerism following unrelated cord blood transplantation.
+PMC4838884,Sci Rep,2016,cc by,ok,1,1,0,0,0,dataset_medium,numeric,From molecular interaction to acute promyelocytic leukemia: Calculating leukemogenesis and remission from endogenous molecular-cellular network.
+PMC4856559,Leukemia,2016,,ok,1,0,0,0,1,no_tabular_data,,CDK6-mediated repression of CD25 is required for induction and maintenance of Notch1-induced T-cell acute lymphoblastic leukemia.
+PMC8248805,Front Genet,2021,cc by,ok,1,0,1,0,0,small_table,,Genome-Wide Association Analyses Identify Variants in <i>IRF4</i> Associated With Acute Myeloid Leukemia and Myelodysplastic Syndrome Susceptibility.
+PMC6013781,EBioMedicine,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Prognostic Role of Gene Mutations in Chronic Myelomonocytic Leukemia Patients Treated With Hypomethylating Agents.
+PMC7894150,Cancer,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Long-term survival of patients with relapsed/refractory acute lymphoblastic leukemia treated with blinatumomab.
+PMC9616867,Blood Cancer J,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Prognostic impact of ASXL1 mutations in chronic phase chronic myeloid leukemia.
+PMC5625299,Nat Med,2017,,ok,1,0,0,0,1,no_tabular_data,,Prostate cancer-associated SPOP mutations confer resistance to BET inhibitors through stabilization of BRD4.
+PMC5012566,PLoS One,2016,cc by,ok,3,0,0,0,2,no_tabular_data,,A Cell-Based Assay for Measuring Endogenous BcrAbl Kinase Activity and Inhibitor Resistance.
+PMC9043926,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"Clofarabine with topotecan, vinorelbine, and thiotepa reinduction regimen for children and young adults with relapsed AML."
+PMC5772495,Nat Commun,2018,cc by,ok,9,1,6,0,2,dataset_medium,mixed,The protective role of DOT1L in UV-induced melanomagenesis.
+PMC5451334,Haematologica,2017,cc by-nc,ok,6,0,0,0,3,no_tabular_data,,Molecular features of early onset adult myelodysplastic syndrome.
+PMC9213819,Stem Cell Reports,2022,cc by,ok,2,0,0,0,2,no_tabular_data,,Ripk3 signaling regulates HSCs during stress and represses radiation-induced leukemia in mice.
+PMC7515845,Leukemia,2020,cc by,ok,2,0,0,0,2,no_tabular_data,,Therapeutic inhibition of FcγRIIb signaling targets leukemic stem cells in chronic myeloid leukemia.
+PMC5716937,Leukemia,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"HDAC1,2 inhibition and doxorubicin impair Mre11-dependent DNA repair and DISC to override BCR-ABL1-driven DSB repair in Philadelphia chromosome-positive B-cell precursor acute lymphoblastic leukemia."
+PMC5041898,Oncotarget,2016,cc by,ok,2,1,0,0,1,dataset_large,numeric,Differential regulation of the c-Myc/Lin28 axis discriminates subclasses of rearranged MLL leukemia.
+PMC7956145,Blood Cancer J,2021,cc by,ok,3,1,0,0,2,dataset_medium,clinical,The multi-kinase inhibitor TG02 induces apoptosis and blocks B-cell receptor signaling in chronic lymphocytic leukemia through dual mechanisms of action.
+PMC5927978,Haematologica,2018,cc by-nc,ok,4,0,1,0,1,small_table,,Distinct protein signatures of acute myeloid leukemia bone marrow-derived stromal cells are prognostic for patient survival.
+PMC5814232,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,mTOR inhibition enhances efficacy of dasatinib in <i>ABL</i>-rearranged Ph-like B-ALL.
+PMC8037139,Int J Environ Res Public Health,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Bayesian Group Index Regression for Modeling Chemical Mixtures and Cancer Risk.
+PMC9481139,Sci Adv,2022,cc by-nc,ok,2,0,1,0,0,small_table,,Targeting OXPHOS de novo purine synthesis as the nexus of &lt;i&gt;FLT3&lt;/i&gt; inhibitor-mediated synergistic antileukemic actions.
+PMC6853146,Clin Transl Sci,2019,cc by-nc-nd,ok,10,0,0,0,10,no_tabular_data,,Uncovering the Genomic Landscape in Newly Diagnosed and Relapsed Pediatric Cytogenetically Normal FLT3-ITD AML.
+PMC7291851,Oncogene,2020,,ok,1,0,0,1,0,no_tabular_data,,Therapeutic targeting of TP53-mutated acute myeloid leukemia by inhibiting HIF-1α with echinomycin.
+PMC8508452,Cancers (Basel),2021,cc by,ok,1,0,0,0,0,no_tabular_data,,DJ4 Targets the Rho-Associated Protein Kinase Pathway and Attenuates Disease Progression in Preclinical Murine Models of Acute Myeloid Leukemia.
+PMC5066240,Genes Dev,2016,cc by-nc,ok,7,3,0,0,2,dataset_large,mixed;numeric;omics,Superenhancer reprogramming drives a B-cell-epithelial transition and high-risk leukemia.
+PMC9327559,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Allelic complexity of KMT2A partial tandem duplications in acute myeloid leukemia and myelodysplastic syndromes.
+PMC6557490,PLoS One,2019,cc by,ok,4,0,0,0,4,no_tabular_data,,"Influence of genetic factors on long-term treatment related neurocognitive complications, and on anxiety and depression in survivors of childhood acute lymphoblastic leukemia: The Petale study."
+PMC9006306,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Triple combination of BET plus PI3K and NF-κB inhibitors exhibit synergistic activity in adult T-cell leukemia/lymphoma.
+PMC8548922,EClinicalMedicine,2021,cc by-nc-nd,ok,3,1,0,0,2,dataset_medium,numeric,Novel genetic variants associated with mortality after unrelated donor allogeneic hematopoietic cell transplantation.
+PMC8945291,Blood Adv,2022,cc by-nc-nd,ok,1,0,1,0,0,small_table,,Decreased IL-10 accelerates B-cell leukemia/lymphoma in a mouse model of pediatric lymphoid leukemia.
+PMC6773521,Leukemia,2019,,ok,1,0,0,0,1,no_tabular_data,,Kdm6b regulates context-dependent hematopoietic stem cell self-renewal and leukemogenesis.
+PMC6756038,Leukemia,2019,cc by,ok,1,1,0,0,0,dataset_medium,numeric,"KRAS, NRAS, and BRAF mutations are highly enriched in trisomy 12 chronic lymphocytic leukemia and are associated with shorter treatment-free survival."
+PMC6354733,EBioMedicine,2019,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Modeling anti-CD19 CAR T cell therapy in humanized mice with human immunity and autologous leukemia.
+PMC6068018,Haematologica,2018,cc by-nc,ok,4,0,0,0,2,no_tabular_data,,Phase I trial of plerixafor combined with decitabine in newly diagnosed older patients with acute myeloid leukemia.
+PMC5870673,Bioinformatics,2017,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Tumor phylogeny inference using tree-constrained importance sampling.
+PMC4972639,Leukemia,2016,,ok,1,0,0,0,1,no_tabular_data,,CDKN2A-independent role of BMI1 in promoting growth and survival of Ph+ acute lymphoblastic leukemia.
+PMC6944109,Mol Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,"miR-15a-5p, miR-15b-5p, and miR-16-5p inhibit tumor progression by directly targeting MYCN in neuroblastoma."
+PMC7604634,Haematologica,2020,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,The role of 18F-FDG-PET in detecting Richter's transformation of chronic lymphocytic leukemia in patients receiving therapy with a B-cell receptor inhibitor.
+PMC5945587,Cell Death Dis,2018,cc by,ok,4,0,0,0,4,no_tabular_data,,PTBP1 enhances miR-101-guided AGO2 targeting to MCL1 and promotes miR-101-induced apoptosis.
+PMC9335101,Haematologica,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Rational drug combinations with CDK4/6 inhibitors in acute lymphoblastic leukemia.
+PMC6668401,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Clonal Evolution and Changes in Two AML Patients Detected with A Novel Single-Cell DNA Sequencing Platform.
+PMC8905691,Blood Adv,2022,cc by-nc-nd,ok,4,0,2,0,1,small_table,,Outcomes of relapsed B-cell acute lymphoblastic leukemia after sequential treatment with blinatumomab and inotuzumab.
+PMC8579250,Blood Adv,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Racial and ethnic enrollment disparities and demographic reporting requirements in acute leukemia clinical trials.
+PMC7196584,Mol Cell Proteomics,2020,cc by,ok,3,1,0,0,1,dataset_medium,mixed,An Improved Boosting to Amplify Signal with Isobaric Labeling (iBASIL) Strategy for Precise Quantitative Single-cell Proteomics.
+PMC5355038,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Analysis of acquired mutations in transgenes arising in Ba/F3 transformation assays: findings and recommendations.
+PMC6529443,Blood Cancer J,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,ABCB1 SNP predicts outcome in patients with acute myeloid leukemia treated with Gemtuzumab ozogamicin: a report from Children's Oncology Group AAML0531 Trial.
+PMC7520302,Cancer Med,2020,cc by,ok,1,0,1,0,0,small_table,,Fluoroquinolone prophylaxis does not increase risk of neuropathy in children with acute lymphoblastic leukemia.
+PMC5979452,Int J Mol Sci,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Hyperinsulinemia Promotes Esophageal Cancer Development in a Surgically-Induced Duodeno-Esophageal Reflux Murine Model.
+PMC5349906,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,"NT1721, a novel epidithiodiketopiperazine, exhibits potent in vitro and in vivo efficacy against acute myeloid leukemia."
+PMC6586617,Sci Rep,2019,cc by,ok,2,1,1,0,0,dataset_large,omics,Methylation and transcription patterns are distinct in IDH mutant gliomas compared to other IDH mutant cancers.
+PMC6680714,Pharmaceutics,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"Intracellular Signaling in Key Pathways Is Induced by Treatment with Ultrasound and Microbubbles in a Leukemia Cell Line, but Not in Healthy Peripheral Blood Mononuclear Cells."
+PMC6856069,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Functional and topographic effects on DNA methylation in IDH1/2 mutant cancers.
+PMC5089920,Pharmacogenomics J,2017,,empty,0,0,0,0,0,no_supp_retrieved,,Expression and polymorphism (rs4880) of mitochondrial superoxide dismutase (SOD2) and asparaginase induced hepatotoxicity in adult patients with acute lymphoblastic leukemia.
+PMC6400938,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Effect of CHK1 Inhibition on CPX-351 Cytotoxicity in vitro and ex vivo.
+PMC5369961,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Idelalisib and bendamustine combination is synergistic and increases DNA damage response in chronic lymphocytic leukemia cells.
+PMC6988309,J Hematol Oncol,2020,cc by,ok,11,0,3,0,8,small_table,,"Preclinical efficacy for a novel tyrosine kinase inhibitor, ArQule 531 against acute myeloid leukemia."
+PMC8559504,Cancer Med,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Levocarnitine for pegaspargase-induced hepatotoxicity in older children and young adults with acute lymphoblastic leukemia.
+PMC6469926,Elife,2019,cc by,ok,4,0,1,0,1,small_table,,Single-cell lineage tracing by endogenous mutations enriched in transposase accessible mitochondrial DNA.
+PMC5526055,Oncogene,2016,,ok,1,0,0,0,1,no_tabular_data,,CBP/catenin antagonist safely eliminates drug-resistant leukemia-initiating cells.
+PMC8222551,Cancer Rep (Hoboken),2021,cc by-nc-nd,ok,7,5,1,0,1,dataset_large,mixed;numeric;omics,Novel germline TRAF3IP3 mutation in a dyad with familial acute B lymphoblastic leukemia.
+PMC5986286,Cell Rep,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Engineered Tumor-Targeted T Cells Mediate Enhanced Anti-Tumor Efficacy Both Directly and through Activation of the Endogenous Immune System.
+PMC9631628,Blood Adv,2022,cc by-nc-nd,ok,2,1,1,0,0,dataset_large,omics,BMX kinase mediates gilteritinib resistance in FLT3-mutated AML through microenvironmental factors.
+PMC5140770,Oncogene,2016,,ok,1,0,0,0,1,no_tabular_data,,Myeloid translocation genes differentially regulate colorectal cancer programs.
+PMC7067886,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Population-Based Analysis of Demographic and Socioeconomic Disparities in Pediatric CNS Cancer Survival in the United States.
+PMC7493976,Genome Biol,2020,cc by,ok,9,5,1,0,2,dataset_large,mixed;numeric;omics,Cancer-specific CTCF binding facilitates oncogenic transcriptional dysregulation.
+PMC8773437,Pediatr Blood Cancer,2020,cc by-nc-nd,empty,0,0,0,0,0,no_supp_retrieved,,"Allopurinol use during pediatric acute lymphoblastic leukemia maintenance therapy safely corrects skewed 6-mercaptopurine metabolism, improving inadequate myelosuppression and reducing gastrointestinal toxicity."
+PMC6536934,Cancer Med,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Major hemorrhage in chronic lymphocytic leukemia patients in the US Veterans Health Administration system in the pre-ibrutinib era: Incidence and risk factors.
+PMC6269310,Haematologica,2018,cc by-nc,ok,4,0,1,0,1,small_table,,BCR-ABL1 mediated miR-150 downregulation through MYC contributed to myeloid differentiation block and drug resistance in chronic myeloid leukemia.
+PMC8190296,Sci Rep,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,DNA-PK inhibitor peposertib enhances p53-dependent cytotoxicity of DNA double-strand break inducing therapy in acute leukemia.
+PMC4877578,Sci Rep,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,MUC1-C Stabilizes MCL-1 in the Oxidative Stress Response of Triple-Negative Breast Cancer Cells to BCL-2 Inhibitors.
+PMC6647096,Clin Epigenetics,2019,cc by,ok,9,0,7,0,0,small_table,,Genomic and epigenomic predictors of response to guadecitabine in relapsed/refractory acute myelogenous leukemia.
+PMC6336352,PLoS Comput Biol,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"Mutation, drift and selection in single-driver hematologic malignancy: Example of secondary myelodysplastic syndrome following treatment of inherited neutropenia."
+PMC9441716,J Exp Med,2022,cc by-nc-sa,ok,15,2,7,0,6,dataset_medium,mixed;omics,Megakaryopoiesis impairment through acute innate immune signaling activation by azacitidine.
+PMC4856318,PLoS Comput Biol,2016,cc by,ok,10,3,0,5,0,dataset_large,mixed;omics,Identifying Network Perturbation in Cancer.
+PMC4823160,Leukemia,2016,,ok,1,0,0,1,0,no_tabular_data,,The TGF-β/SMAD pathway is an important mechanism for NK cell immune evasion in childhood B-acute lymphoblastic leukemia.
+PMC9059786,Cold Spring Harb Mol Case Stud,2022,cc by-nc,ok,2,0,0,0,1,no_tabular_data,,Acute myeloid leukemia with an <i>MN1-ETV6</i> fusion in a young child with Down syndrome.
+PMC9223383,Int J Mol Sci,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Arsenic Trioxide and Venetoclax Synergize against AML Progenitors by ROS Induction and Inhibition of Nrf2 Activation.
+PMC4913309,Sci Rep,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Ultrasensitive proteomic quantitation of cellular signaling by digitized nanoparticle-protein counting.
+PMC8327883,Cold Spring Harb Mol Case Stud,2021,cc by-nc,ok,3,0,0,0,2,no_tabular_data,,"Twists and turns from ""tumor in tumor"" profiling: surveillance of chronic lymphocytic leukemia (CLL) leads to detection of a lung adenocarcinoma, whose genomic characterization alters the original hematologic diagnosis."
+PMC5352411,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Sensitizing leukemia stem cells to NF-κB inhibitor treatment in vivo by inactivation of both TNF and IL-1 signaling.
+PMC8455651,Blood Cancer J,2021,cc by,ok,1,0,1,0,0,small_table,,Identification of adult Philadelphia-like acute lymphoblastic leukemia using a FISH-based algorithm distinguishes prognostic groups and outcomes.
+PMC6814808,Nat Commun,2019,cc by,too_large,0,0,0,0,0,no_supp_retrieved,,Antitumor immunity augments the therapeutic effects of p53 activation on acute myeloid leukemia.
+PMC4872784,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,"Artemisinin-derived dimer ART-838 potently inhibited human acute leukemias, persisted in vivo, and synergized with antileukemic drugs."
+PMC9533407,Front Oncol,2022,cc by,ok,2,1,0,1,0,dataset_large,numeric,A distinct subpopulation of leukemia initiating cells in acute precursor B lymphoblastic leukemia: quiescent phenotype and unique transcriptomic profile.
+PMC7688551,Leukemia,2020,,ok,1,0,0,0,1,no_tabular_data,,Second cancer incidence in CLL patients receiving BTK inhibitors.
+PMC6445099,Sci Rep,2019,cc by,ok,5,4,0,0,0,dataset_large,numeric;omics,Insertional mutagenesis using the Sleeping Beauty transposon system identifies drivers of erythroleukemia in mice.
+PMC7271568,Haematologica,2020,cc by-nc,ok,4,0,0,0,1,tables_only,,A laboratory-based scoring system predicts early treatment in Rai 0 chronic lymphocytic leukemia.
+PMC5754357,Nat Commun,2018,cc by,ok,2,0,0,0,2,no_tabular_data,,A non-cell-autonomous role for Pml in the maintenance of leukemia from the niche.
+PMC6467779,Cancer,2019,cc by-nc-nd,ok,6,1,0,0,5,dataset_medium,numeric,The distribution of T-cell subsets and the expression of immune checkpoint receptors and ligands in patients with newly diagnosed and relapsed acute myeloid leukemia.
+PMC9545983,Hematol Oncol,2022,cc by,ok,1,1,0,0,0,dataset_medium,mixed,The safety and clinical effectiveness of rapid infusion with CT-P10 in patients with non-Hodgkin's lymphoma or chronic lymphocytic leukemia: A retrospective non-interventional post-authorization safety study in Europe.
+PMC5332289,Bone Marrow Transplant,2017,,ok,1,0,0,0,1,no_tabular_data,,GvHD after umbilical cord blood transplantation for acute leukemia: an analysis of risk factors and effect on outcomes.
+PMC8596993,Stem Cells,2021,cc by-nc-nd,empty,0,0,0,0,0,no_supp_retrieved,,Human multipotent adult progenitor cells effectively reduce graft-vs-host disease while preserving graft-vs-leukemia activity.
+PMC7696413,Viruses,2020,cc by,ok,1,0,0,0,0,no_tabular_data,,HIV-1 Gag Forms Ribonucleoprotein Complexes with Unspliced Viral RNA at Transcription Sites.
+PMC6858565,Nat Struct Mol Biol,2019,,ok,1,0,0,0,0,no_tabular_data,,PRMT5 methylome profiling uncovers a direct link to splicing regulation in acute myeloid leukemia.
+PMC6405293,Leukemia,2019,,ok,1,0,0,0,1,no_tabular_data,,Genome-wide association study identifies an acute myeloid leukemia susceptibility locus near BICRA.
+PMC7407511,Cancers (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,CXCR4 Inhibition Enhances Efficacy of FLT3 Inhibitors in FLT3-Mutated AML Augmented by Suppressed TGF-b Signaling.
+PMC4985262,Mol Biol Cell,2016,,ok,6,0,0,0,1,no_tabular_data,,"Abelson kinase acts as a robust, multifunctional scaffold in regulating embryonic morphogenesis."
+PMC9278301,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,High-sensitivity next-generation sequencing MRD assessment in ALL identifies patients at very low risk of relapse.
+PMC8403728,EBioMedicine,2021,cc by-nc-nd,ok,8,2,4,0,2,dataset_large,numeric;omics,Loss of synergistic transcriptional feedback loops drives diverse B-cell cancers.
+PMC7327051,Blood Cancer J,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,B-cell maturation antigen expression across hematologic cancers: a systematic literature review.
+PMC8183032,Mol Cancer,2021,cc by,ok,2,0,0,1,1,no_tabular_data,,Germinal epimutation of Fragile Histidine Triad (FHIT) gene is associated with progression to acute and chronic adult T-cell leukemia diseases.
+PMC6612510,Leukemia,2019,,ok,1,1,0,0,0,dataset_medium,mixed,CEBPA-mutated leukemia is sensitive to genetic and pharmacological targeting of the MLL1 complex.
+PMC7513343,ACS Omega,2020,,ok,2,0,0,0,1,no_tabular_data,,"HSD1787, a Tetrahydro-3<i>H</i>-Pyrazolo[4,3-<i>f</i>]Quinoline Compound Synthesized via Povarov Reaction, Potently Inhibits Proliferation of Cancer Cell Lines at Nanomolar Concentrations."
+PMC5773964,Cancer Med,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Cost comparison by treatment arm and center-level variations in cost and inpatient days on the phase III high-risk B acute lymphoblastic leukemia trial AALL0232.
+PMC4703539,Leukemia,2016,,ok,1,0,0,0,1,no_tabular_data,,Runx1 repression by histone deacetylation is critical for Setbp1-induced mouse myeloid leukemia development.
+PMC6211598,Cancer Metab,2018,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Switch to low-fat diet improves outcome of acute lymphoblastic leukemia in obese mice.
+PMC8586352,Nat Commun,2021,cc by,ok,11,6,1,0,3,dataset_large,numeric;omics,Discovery of putative tumor suppressors from CRISPR screens reveals rewired lipid metabolism in acute myeloid leukemia cells.
+PMC9052896,Haematologica,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Outstanding outcomes in infants with <i>KMT2A</i>-germline acute lymphoblastic leukemia treated with chemotherapy alone: results of the Children's Oncology Group AALL0631 trial.
+PMC5342712,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Autophagy mediates proteolysis of NPM1 and HEXIM1 and sensitivity to BET inhibition in AML cells.
+PMC6440839,Oncogene,2019,,ok,1,0,0,0,1,no_tabular_data,,Targeting EIF4E signaling with ribavirin in infant acute lymphoblastic leukemia.
+PMC9051098,Commun Biol,2022,cc by,ok,10,5,1,0,4,dataset_medium,mixed;numeric;omics,Loss of SIRT1 inhibits hematopoietic stem cell aging and age-dependent mixed phenotype acute leukemia.
+PMC9485122,Nat Commun,2022,cc by,ok,3,1,0,0,2,dataset_large,numeric,Integrated stem cell signature and cytomolecular risk determination in pediatric acute myeloid leukemia.
+PMC5622850,Haematologica,2017,cc by-nc,ok,4,0,0,0,2,no_tabular_data,,Bone marrow pathologic abnormalities in familial platelet disorder with propensity for myeloid malignancy and germline RUNX1 mutation.
+PMC9110299,Nat Biotechnol,2022,cc by,ok,5,3,0,0,2,dataset_large,numeric;omics,Fluctuating methylation clocks for cell lineage tracing at high temporal resolution in human tissues.
+PMC8445225,Cancer Drug Resist,2020,cc by,ok,1,1,0,0,0,dataset_large,mixed,Genomic stability at the coding regions of the multidrug transporter gene &lt;i&gt;ABCB1&lt;/i&gt;: insights into the development of alternative drug resistance mechanisms in human leukemia cells.
+PMC4871414,PLoS One,2016,cc by,ok,4,0,0,4,0,no_tabular_data,,Trib2 Suppresses Tumor Initiation in Notch-Driven T-ALL.
+PMC9577622,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"High early death rates, treatment resistance, and short survival of Black adolescents and young adults with AML."
+PMC9701798,Cell Death Dis,2022,cc by,ok,3,1,0,0,2,dataset_medium,omics,Activation of orphan receptor GPR132 induces cell differentiation in acute myeloid leukemia.
+PMC11022957,Blood,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Evidence supporting a role for the immune checkpoint protein B7-H3 in NK cell-mediated cytotoxicity against AML.
+PMC8753197,Blood Adv,2022,cc by-nc-nd,ok,4,1,2,0,1,dataset_medium,mixed,Association of allele-specific methylation of the ASNS gene with asparaginase sensitivity and prognosis in T-ALL.
+PMC7854800,Leukemia,2021,,ok,1,0,0,0,0,no_tabular_data,,Fusion of the CRM1 nuclear export receptor to AF10 causes leukemia and transcriptional activation of HOXA genes.
+PMC9523374,Blood,2022,cc by-nc-nd,ok,17,14,2,1,0,dataset_large,clinical;mixed;omics,Proteomic and phosphoproteomic landscapes of acute myeloid leukemia.
+PMC10257143,Sci Transl Med,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,BLIMP1 and NR4A3 transcription factors reciprocally regulate antitumor CAR T cell stemness and exhaustion.
+PMC8864666,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Successful treatment and integrated genomic analysis of an infant with FIP1L1-RARA fusion-associated myeloid neoplasm.
+PMC6317322,Genes Dev,2019,cc by-nc,ok,10,0,0,0,8,tables_only,,Regulation of MLL/COMPASS stability through its proteolytic cleavage by taspase1 as a possible approach for clinical therapy of leukemia.
+PMC9529062,Hemasphere,2022,cc by,ok,2,1,0,0,1,dataset_medium,omics,Duplex Sequencing Uncovers Recurrent Low-frequency Cancer-associated Mutations in Infant and Childhood <i>KMT2A</i>-rearranged Acute Leukemia.
+PMC8881579,Nat Commun,2022,cc by,ok,6,2,0,0,4,dataset_large,numeric;omics,Phosphoproteomic profiling of T cell acute lymphoblastic leukemia reveals targetable kinases and combination treatment strategies.
+PMC4816303,PLoS One,2016,cc0,ok,5,0,1,0,4,small_table,,Cardiac Glycosides Activate the Tumor Suppressor and Viral Restriction Factor Promyelocytic Leukemia Protein (PML).
+PMC7196026,Leukemia,2020,,ok,1,0,0,0,1,no_tabular_data,,"RNA-binding protein IGF2BP1 maintains leukemia stem cell properties by regulating HOXB4, MYB, and ALDH1A1."
+PMC7479488,J Mol Diagn,2020,cc by-nc-nd,ok,3,0,0,0,2,tables_only,,"Targeted Informatics for Optimal Detection, Characterization, and Quantification of FLT3 Internal Tandem Duplications Across Multiple Next-Generation Sequencing Platforms."
+PMC6202254,Leukemia,2018,,ok,1,0,0,0,1,no_tabular_data,,UFD1 contributes to MYC-mediated leukemia aggressiveness through suppression of the proapoptotic unfolded protein response.
+PMC7833659,Blood Rev,2021,,ok,3,0,0,0,3,no_tabular_data,,"When hematologic malignancies meet COVID-19 in the United States: Infections, death and disparities."
+PMC6168426,Leukemia,2018,,ok,1,0,0,0,1,no_tabular_data,,FGFR1 fusion kinase regulation of MYC expression drives development of stem cell leukemia/lymphoma syndrome.
+PMC8606012,Leukemia,2021,cc by,ok,2,1,0,0,1,dataset_medium,mixed,Genomic analysis of cellular hierarchy in acute myeloid leukemia using ultrasensitive LC-FACSeq.
+PMC7934939,JCI Insight,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,CD84 is a regulator of the immunosuppressive microenvironment in multiple myeloma.
+PMC7272263,Leukemia,2020,,ok,1,0,0,0,1,no_tabular_data,,The BET inhibitor GS-5829 targets chronic lymphocytic leukemia cells and their supportive microenvironment.
+PMC8931092,Blood Cancer J,2022,cc by,ok,9,4,2,0,1,dataset_medium,omics,Proteomic profiling based classification of CLL provides prognostication for modern therapy and identifies novel therapeutic targets.
+PMC8753211,Blood Adv,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Orthopedic toxicities among adolescents and young adults treated in DFCI ALL Consortium Trials.

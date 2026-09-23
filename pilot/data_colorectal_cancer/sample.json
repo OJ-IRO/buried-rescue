@@ -11,7 +11,7 @@
    "title": "Mouse model of colorectal cancer: orthotopic co-implantation of tumor and stroma cells in cecum and rectum.",
    "journalTitle": "STAR Protoc",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Kasashima H, Duran A, Cid-Diaz T, Muta Y, Kinoshita H, Batlle E, Diaz-Meco MT, Moscat J."
   },
   {
@@ -21,7 +21,7 @@
    "title": "Adoptive T-Cell Therapy in Advanced Colorectal Cancer: A Systematic Review.",
    "journalTitle": "Oncologist",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Juat DJ, Hachey SJ, Billimek J, Del Rosario MP, Nelson EL, Hughes CCW, Zell JA."
   },
   {
@@ -31,7 +31,7 @@
    "title": "GLI1 Inhibitor SRI-38832 Attenuates Chemotherapeutic Resistance by Downregulating NBS1 Transcription in BRAF<sup>V600E</sup> Colorectal Cancer.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang R, Ma J, Avery JT, Sambandam V, Nguyen TH, Xu B, Suto MJ, Boohaker RJ."
   },
   {
@@ -41,7 +41,7 @@
    "title": "Association between Adult Height and Risk of Colorectal, Lung, and Prostate Cancer: Results from Meta-analyses of Prospective Studies and Mendelian Randomization Analyses.",
    "journalTitle": "PLoS Med",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc0",
    "authorString": "Khankari NK, Shu XO, Wen W, Kraft P, Lindstr\u00f6m S, Peters U, Schildkraut J, Schumacher F, Bofetta P, Risch A, Bickeb\u00f6ller H, Amos CI, Easton D, Eeles RA, Eeles RA, Gruber SB, Haiman CA, Hunter DJ, Chanock SJ, Pierce BL, Zheng W, Zheng W, Colorectal Transdisciplinary Study (CORECT), Discovery, Biology, and Risk of Inherited Variants in Breast Cancer (DRIVE), Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE), Transdisciplinary Research in Cancer of the Lung (TRICL)."
   },
   {
@@ -51,7 +51,7 @@
    "title": "Germline polymorphisms as biomarkers of tumor response in colorectal cancer patients treated with anti-EGFR monoclonal antibodies: a systematic review and meta-analysis.",
    "journalTitle": "Pharmacogenomics J",
    "pubYear": "2017",
-   "license": null,
+   "license": "",
    "authorString": "Morgen EK, Lenz HJ, Jonker DJ, Tu D, Milano G, Graziano F, Zalcberg J, Karapetis CS, Dobrovic A, O'Callaghan CJ, Liu G."
   },
   {
@@ -61,7 +61,7 @@
    "title": "Comparing the Cost-Effectiveness of Innovative Colorectal Cancer Screening Tests.",
    "journalTitle": "J Natl Cancer Inst",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Peterse EFP, Meester RGS, de Jonge L, Omidvari AH, Alarid-Escudero F, Knudsen AB, Zauber AG, Lansdorp-Vogelaar I."
   },
   {
@@ -71,7 +71,7 @@
    "title": "Health-related quality of life outcomes after neoadjuvant\u00a0chemoradiotherapy for rectal cancer in NRG\u00a0Oncology/NSABP R-04.",
    "journalTitle": "Cancer",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Ganz PA, Hays RD, Spritzer KL, Rogatko A, Ko CY, Colangelo LH, Arora A, Hopkins JO, Evans TL, Yothers G."
   },
   {
@@ -81,7 +81,7 @@
    "title": "Survival of patients newly diagnosed with colorectal cancer and with a history of previous cancer.",
    "journalTitle": "Cancer Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Pruitt SL, Gerber DE, Zhu H, Heitjan DF, Maddineni B, Xiong D, Singal AG, Tavakkoli A, Halm EA, Murphy CC."
   },
   {
@@ -91,7 +91,7 @@
    "title": "Control of CCND1 ubiquitylation by the catalytic SAGA subunit USP22 is essential for cell cycle progression through G1 in cancer cells.",
    "journalTitle": "Proc Natl Acad Sci U S A",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Gennaro VJ, Stanek TJ, Peck AR, Sun Y, Wang F, Qie S, Knudsen KE, Rui H, Butt T, Diehl JA, McMahon SB."
   },
   {
@@ -101,7 +101,7 @@
    "title": "Multiplatform Urinary Metabolomics Profiling to Discriminate Cachectic from Non-Cachectic Colorectal Cancer Patients: Pilot Results from the ColoCare Study.",
    "journalTitle": "Metabolites",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ose J, Gigic B, Lin T, Liesenfeld DB, B\u00f6hm J, Nattenm\u00fcller J, Scherer D, Zielske L, Schrotz-King P, Habermann N, Ochs-Balcom HM, Peoples AR, Hardikar S, Li CI, Shibata D, Figueiredo J, Toriola AT, Siegel EM, Schmit S, Schneider M, Ulrich A, Kauczor HU, Ulrich CM."
   },
   {
@@ -111,7 +111,7 @@
    "title": "Loss of claudin-3 expression induces IL6/gp130/Stat3 signaling to promote colon cancer malignancy by hyperactivating Wnt/\u03b2-catenin signaling.",
    "journalTitle": "Oncogene",
    "pubYear": "2017",
-   "license": null,
+   "license": "",
    "authorString": "Ahmad R, Kumar B, Chen Z, Chen X, M\u00fcller D, Lele SM, Washington MK, Batra SK, Dhawan P, Singh AB."
   },
   {
@@ -121,7 +121,7 @@
    "title": "Protocatechuic Acid, a Gut Bacterial Metabolite of Black Raspberries, Inhibits Adenoma Development and Alters Gut Microbiome Profiles in <i>Apc</i> <sup><i>Min</i>/+</sup> Mice.",
    "journalTitle": "J Cancer Prev",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Dong A, Lin CW, Echeveste CE, Huang YW, Oshima K, Yearsley M, Chen X, Yu J, Wang LS."
   },
   {
@@ -131,7 +131,7 @@
    "title": "DEAD-box RNA helicase protein DDX21 as a prognosis marker for early stage colorectal cancer with microsatellite instability.",
    "journalTitle": "Sci Rep",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Tanaka A, Wang JY, Shia J, Zhou Y, Ogawa M, Hendrickson RC, Klimstra DS, Roehrl MH."
   },
   {
@@ -141,7 +141,7 @@
    "title": "BRD9 Inhibition by Natural Polyphenols Targets DNA Damage/Repair and Apoptosis in Human Colon Cancer Cells.",
    "journalTitle": "Nutrients",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kapoor S, Damiani E, Wang S, Dharmanand R, Tripathi C, Tovar Perez JE, Dashwood WM, Rajendran P, Dashwood RH."
   },
   {
@@ -151,7 +151,7 @@
    "title": "Physical Activity and Colorectal Cancer Prognosis According to Tumor-Infiltrating T Cells.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Koh H, Hamada T, Song M, Liu L, Cao Y, Nowak JA, da Silva A, Twombly T, Morikawa T, Kim SA, Masugi Y, Kosumi K, Shi Y, Gu M, Li W, Du C, Chen Y, Li W, Liu H, Li C, Wu K, Nosho K, Inamura K, Hanyuda A, Zhang X, Giannakis M, Chan AT, Fuchs CS, Nishihara R, Meyerhardt JA, Ogino S."
   },
   {
@@ -161,7 +161,7 @@
    "title": "The association of body fat composition with risk of breast, endometrial, ovarian and colorectal cancers among normal weight participants in the UK Biobank.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Arthur RS, Dannenberg AJ, Kim M, Rohan TE."
   },
   {
@@ -171,7 +171,7 @@
    "title": "RAS specific protease induces irreversible growth arrest via p27 in several KRAS mutant colorectal cancer cell lines.",
    "journalTitle": "Sci Rep",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Stubbs CK, Biancucci M, Vidimar V, Satchell KJF."
   },
   {
@@ -181,7 +181,7 @@
    "title": "Assessing the causal role of epigenetic clocks in the development of multiple cancers: a Mendelian randomization study.",
    "journalTitle": "Elife",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Morales Berstein F, McCartney DL, Lu AT, Tsilidis KK, Bouras E, Haycock P, Burrows K, Phipps AI, Buchanan DD, Cheng I, PRACTICAL consortium, Martin RM, Davey Smith G, Relton CL, Horvath S, Marioni RE, Richardson TG, Richmond RC."
   },
   {
@@ -191,7 +191,7 @@
    "title": "Pembrolizumab plus azacitidine in patients with chemotherapy refractory metastatic colorectal cancer: a single-arm phase 2 trial and correlative biomarker analysis.",
    "journalTitle": "Clin Epigenetics",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kuang C, Park Y, Augustin RC, Lin Y, Hartman DJ, Seigh L, Pai RK, Sun W, Bahary N, Ohr J, Rhee JC, Marks SM, Beasley HS, Shuai Y, Herman JG, Zarour HM, Chu E, Lee JJ, Krishnamurthy A."
   },
   {
@@ -201,7 +201,7 @@
    "title": "c-Myb and its Effector COX-2 as an Indicator Associated with Prognosis and Therapeutic Outcome in Colorectal Cancer.",
    "journalTitle": "J Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Xie R, Yang Y, Zhang H, Liu H, Guo J, Qin H, Ma Y, Goel A, Li X, Wei Q."
   },
   {
@@ -211,7 +211,7 @@
    "title": "Validation of Genetic Markers Associated with Survival in Colorectal Cancer Patients Treated with Oxaliplatin-Based Chemotherapy.",
    "journalTitle": "Cancer Epidemiol Biomarkers Prev",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Park HA, Seibold P, Edelmann D, Benner A, Canzian F, Alwers E, Jansen L, Schneider M, Hoffmeister M, Brenner H, Chang-Claude J."
   },
   {
@@ -221,7 +221,7 @@
    "title": "Correlating colorectal cancer risk with field carcinogenesis progression using partial wave spectroscopic microscopy.",
    "journalTitle": "Cancer Med",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Gladstein S, Damania D, Almassalha LM, Smith LT, Gupta V, Subramanian H, Rex DK, Roy HK, Backman V."
   },
   {
@@ -231,7 +231,7 @@
    "title": "Nanoparticle orientation to control RNA\u00a0loading and ligand display on extracellular vesicles for cancer regression.",
    "journalTitle": "Nat Nanotechnol",
    "pubYear": "2018",
-   "license": null,
+   "license": "",
    "authorString": "Pi F, Binzel DW, Lee TJ, Li Z, Sun M, Rychahou P, Li H, Haque F, Wang S, Croce CM, Guo B, Evers BM, Guo P."
   },
   {
@@ -241,7 +241,7 @@
    "title": "Interaction of lncRNA MIR100HG with hnRNPA2B1 facilitates m<sup>6</sup>A-dependent stabilization of TCF7L2 mRNA and colorectal cancer progression.",
    "journalTitle": "Mol Cancer",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Liu H, Li D, Sun L, Qin H, Fan A, Meng L, Graves-Deal R, Glass SE, Franklin JL, Liu Q, Wang J, Yeatman TJ, Guo H, Zong H, Jin S, Chen Z, Deng T, Fang Y, Li C, Karijolich J, Patton JG, Wang X, Nie Y, Fan D, Coffey RJ, Zhao X, Lu Y."
   },
   {
@@ -251,7 +251,7 @@
    "title": "rs2735383, located at a microRNA binding site in the 3'UTR of NBS1, is not associated with breast cancer risk.",
    "journalTitle": "Sci Rep",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Liu J, Lon\u010dar I, Coll\u00e9e JM, Bolla MK, Dennis J, Michailidou K, Wang Q, Andrulis IL, Barile M, Beckmann MW, Behrens S, Benitez J, Blomqvist C, Boeckx B, Bogdanova NV, Bojesen SE, Brauch H, Brennan P, Brenner H, Broeks A, Burwinkel B, Chang-Claude J, Chen ST, Chenevix-Trench G, Cheng CY, Choi JY, Couch FJ, Cox A, Cross SS, Cuk K, Czene K, D\u00f6rk T, Dos-Santos-Silva I, Fasching PA, Figueroa J, Flyger H, Garc\u00eda-Closas M, Giles GG, Glendon G, Goldberg MS, Gonz\u00e1lez-Neira A, Gu\u00e9nel P, Haiman CA, Hamann U, Hart SN, Hartman M, Hatse S, Hopper JL, Ito H, Jakubowska A, Kabisch M, Kang D, Kosma VM, Kristensen VN, Le Marchand L, Lee E, Li J, Lophatananon A, Jan Lubinski, Mannermaa A, Matsuo K, Milne RL, NBCS Collaborators, Neuhausen SL, Nevanlinna H, Orr N, Perez JI, Peto J, Putti TC, Pylk\u00e4s K, Radice P, Sangrajrang S, Sawyer EJ, Schmidt MK, Schneeweiss A, Shen CY, Shrubsole MJ, Shu XO, Simard J, Southey MC, Swerdlow A, Teo SH, Tessier DC, Thanasitthichai S, Tomlinson I, Torres D, Truong T, Tseng CC, Vachon C, Winqvist R, Wu AH, Yannoukakos D, Zheng W, Zheng W, Hall P, Dunning AM, Easton DF, Hooning MJ, van den Ouweland AM, Martens JW, Hollestelle A."
   },
   {
@@ -261,7 +261,7 @@
    "title": "Adapting AlphaLISA high throughput screen to discover a novel small-molecule inhibitor targeting protein arginine methyltransferase 5 in pancreatic and colorectal cancers.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Prabhu L, Wei H, Chen L, Demir \u00d6, Sandusky G, Sun E, Wang J, Mo J, Zeng L, Fishel M, Safa A, Amaro R, Korc M, Zhang ZY, Lu T."
   },
   {
@@ -271,7 +271,7 @@
    "title": "Identification of quinazoline compounds as novel potent inhibitors of Wnt/\u03b2-catenin signaling in colorectal cancer cells.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Li Y, Lu W, Saini SK, Moukha-Chafiq O, Pathak V, Ananthan S."
   },
   {
@@ -281,7 +281,7 @@
    "title": "A Prospective Analysis of Meat Mutagens and Colorectal Cancer in the Nurses' Health Study and Health Professionals Follow-up Study.",
    "journalTitle": "Environ Health Perspect",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc0",
    "authorString": "Le NT, Michels FA, Song M, Zhang X, Bernstein AM, Giovannucci EL, Fuchs CS, Ogino S, Chan AT, Sinha R, Willett WC, Wu K."
   },
   {
@@ -291,7 +291,7 @@
    "title": "Colorectal cancer incidences in Lynch syndrome: a comparison of results from the prospective lynch syndrome database and the international mismatch repair consortium.",
    "journalTitle": "Hered Cancer Clin Pract",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "M\u00f8ller P, Sepp\u00e4l\u00e4 T, Dowty JG, Haupt S, Dominguez-Valentin M, Sunde L, Bernstein I, Engel C, Aretz S, Nielsen M, Capella G, Evans DG, Burn J, Holinski-Feder E, Bertario L, Bonanni B, Lindblom A, Levi Z, Macrae F, Winship I, Plazzer JP, Sijmons R, Laghi L, Valle AD, Heinimann K, Half E, Lopez-Koestner F, Alvarez-Valenzuela K, Scott RJ, Katz L, Laish I, Vainer E, Vaccaro CA, Carraro DM, Gluck N, Abu-Freha N, Stakelum A, Kennelly R, Winter D, Rossi BM, Greenblatt M, Bohorquez M, Sheth H, Tibiletti MG, Lino-Silva LS, Horisberger K, Portenkirchner C, Nascimento I, Rossi NT, da Silva LA, Thomas H, Zar\u00e1nd A, Mecklin JP, Pylv\u00e4n\u00e4inen K, Renkonen-Sinisalo L, Lepisto A, Peltom\u00e4ki P, Therkildsen C, Lindberg LJ, Thorlacius-Ussing O, von Knebel Doeberitz M, Loeffler M, Rahner N, Steinke-Lange V, Schmiegel W, Vangala D, Perne C, H\u00fcneburg R, de Vargas AF, Latchford A, Gerdes AM, Backman AS, Guill\u00e9n-Ponce C, Snyder C, Lautrup CK, Amor D, Palmero E, Stoffel E, Duijkers F, Hall MJ, Hampel H, Williams H, Okkels H, Lubi\u0144ski J, Reece J, Ngeow J, Guillem JG, Arnold J, Wadt K, Monahan K, Senter L, Rasmussen LJ, van Hest LP, Ricciardiello L, Kohonen-Corish MRJ, Ligtenberg MJL, Southey M, Aronson M, Zahary MN, Samadder NJ, Poplawski N, Hoogerbrugge N, Morrison PJ, James P, Lee G, Chen-Shtoyerman R, Ankathil R, Pai R, Ward R, Parry S, D\u0119bniak T, John T, van Overeem Hansen T, Cald\u00e9s T, Yamaguchi T, Barca-Tierno V, Garre P, Cavestro GM, Weitz J, Redler S, B\u00fcttner R, Heuveline V, Hopper JL, Win AK, Lindor N, Gallinger S, Le Marchand L, Newcomb PA, Figueiredo J, Buchanan DD, Thibodeau SN, Ten Broeke SW, Hovig E, Nakken S, Pineda M, Due\u00f1as N, Brunet J, Green K, Lalloo F, Newton K, Crosbie EJ, Mints M, Tjandra D, Neffa F, Esperon P, Kariv R, Rosner G, Pavicic WH, Kalfayan P, Torrezan GT, Bassaneze T, Martin C, Moslein G, Ahadova A, Kloor M, Sampson JR, Jenkins MA, European Hereditary Tumour Group (EHTG) and the International Mismatch Repair Consortium (IMRC)."
   },
   {
@@ -301,7 +301,7 @@
    "title": "Enhanced CXCR4 Expression Associates with Increased Gene Body 5-Hydroxymethylcytosine Modification but not Decreased Promoter Methylation in Colorectal Cancer.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Stuckel AJ, Zhang W, Zhang X, Zeng S, Dougherty U, Mustafi R, Zhang Q, Perreand E, Khare T, Joshi T, West-Szymanski DC, Bissonnette M, Khare S."
   },
   {
@@ -311,7 +311,7 @@
    "title": "The MAPK-Signaling Pathway in Colorectal Cancer: Dysregulated Genes and Their Association With MicroRNAs.",
    "journalTitle": "Cancer Inform",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Slattery ML, Mullany LE, Sakoda LC, Wolff RK, Samowitz WS, Herrick JS."
   },
   {
@@ -321,7 +321,7 @@
    "title": "Maspin as a Prognostic Marker for Early Stage Colorectal Cancer With Microsatellite Instability.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Tanaka A, Wang JY, Shia J, Zhou Y, Ogawa M, Hendrickson RC, Klimstra DS, Roehrl MHA."
   },
   {
@@ -331,7 +331,7 @@
    "title": "Clustering of integrin \u03b15 at the lateral membrane restores epithelial polarity in invasive colorectal cancer cells.",
    "journalTitle": "Mol Biol Cell",
    "pubYear": "2017",
-   "license": null,
+   "license": "",
    "authorString": "Starchenko A, Graves-Deal R, Yang YP, Li C, Zent R, Singh B, Coffey RJ."
   },
   {
@@ -341,7 +341,7 @@
    "title": "Estrogen receptor beta reduces colon cancer metastasis through a novel miR-205 - PROX1 mechanism.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Nguyen-Vu T, Wang J, Mesmar F, Mukhopadhyay S, Saxena A, McCollum CW, Gustafsson J\u00c5, Bondesson M, Williams C."
   },
   {
@@ -351,7 +351,7 @@
    "title": "HMGA1 amplifies Wnt signalling and expands the intestinal stem cell compartment and Paneth cell niche.",
    "journalTitle": "Nat Commun",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Xian L, Georgess D, Huso T, Cope L, Belton A, Chang YT, Kuang W, Gu Q, Zhang X, Senger S, Fasano A, Huso DL, Ewald AJ, Resar LMS."
   },
   {
@@ -361,7 +361,7 @@
    "title": "&lt;i&gt;Being Present 2.0&lt;/i&gt;: Online Mindfulness-Based Program for Metastatic Gastrointestinal Cancer Patients and Caregivers.",
    "journalTitle": "Glob Adv Health Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Dragomanovich HM, Dhruva A, Ekman E, Schoenbeck KL, Kubo A, Van Blarigan EL, Borno HT, Esquivel M, Chee B, Campanella M, Philip EJ, Rettger JP, Rosenthal B, Van Loon K, Venook AP, Boscardin C, Moran P, Hecht FM, Atreya CE."
   },
   {
@@ -371,7 +371,7 @@
    "title": "Modified miR-15a has therapeutic potential for improving treatment of advanced stage colorectal cancer through inhibition of BCL2, BMI1, YAP1 and DCLK1.",
    "journalTitle": "Oncotarget",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Fesler A, Liu H, Ju J."
   },
   {
@@ -381,7 +381,7 @@
    "title": "Association of an Active Choice Intervention in the Electronic Health Record Directed to Medical Assistants With Clinician Ordering and Patient Completion of Breast and Colorectal Cancer Screening Tests.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Hsiang EY, Mehta SJ, Small DS, Rareshide CAL, Snider CK, Day SC, Patel MS."
   },
   {
@@ -391,7 +391,7 @@
    "title": "A Pilot Clinical Study to Investigate the Hypomethylating Properties of Freeze-dried Black Raspberries in Patients with Myelodysplastic Syndrome or Myeloproliferative Neoplasm.",
    "journalTitle": "J Cancer Prev",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Dong A, Pan X, Lin CW, Huang YW, Krause H, Pan P, Baim A, Thomas MJ, Chen X, Yu J, Michaelis L, Liu P, Wang LS, Atallah E."
   },
   {
@@ -401,7 +401,7 @@
    "title": "Opposite Roles of the JMJD1A Interaction Partners MDFI and MDFIC in Colorectal Cancer.",
    "journalTitle": "Sci Rep",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Sui Y, Li X, Oh S, Zhang B, Freeman WM, Shin S, Janknecht R."
   },
   {
@@ -411,7 +411,7 @@
    "title": "Serum-based measurements of stromal activation through ADAM12 associate with poor prognosis in colorectal cancer.",
    "journalTitle": "BMC Cancer",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ten Hoorn S, Waasdorp C, van Oijen MGH, Damhofer H, Trinh A, Zhao L, Smits LJH, Bootsma S, van Pelt GW, Mesker WE, Mol L, Goey KKH, Koopman M, Medema JP, Tuynman JB, Zlobec I, Punt CJA, Vermeulen L, Bijlsma MF."
   },
   {
@@ -421,7 +421,7 @@
    "title": "Body composition from single versus multi-slice abdominal computed tomography: Concordance and associations with colorectal cancer survival.",
    "journalTitle": "J Cachexia Sarcopenia Muscle",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Anyene I, Caan B, Williams GR, Popuri K, Lenchik L, Giri S, Chow V, Beg MF, Cespedes Feliciano EM."
   },
   {
@@ -431,7 +431,7 @@
    "title": "Circulating bilirubin levels and risk of colorectal cancer: serological and Mendelian randomization analyses.",
    "journalTitle": "BMC Med",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Seyed Khoei N, Jenab M, Murphy N, Banbury BL, Carreras-Torres R, Viallon V, K\u00fchn T, Bueno-de-Mesquita B, Aleksandrova K, Cross AJ, Weiderpass E, Stepien M, Bulmer A, Tj\u00f8nneland A, Boutron-Ruault MC, Severi G, Carbonnel F, Katzke V, Boeing H, Bergmann MM, Trichopoulou A, Karakatsani A, Martimianaki G, Palli D, Tagliabue G, Panico S, Tumino R, Sacerdote C, Skeie G, Merino S, Bonet C, Rodr\u00edguez-Barranco M, Gil L, Chirlaque MD, Ardanaz E, Myte R, Hultdin J, Perez-Cornago A, Aune D, Tsilidis KK, Albanes D, Baron JA, Berndt SI, B\u00e9zieau S, Brenner H, Campbell PT, Casey G, Chan AT, Chang-Claude J, Chanock SJ, Cotterchio M, Gallinger S, Gruber SB, Haile RW, Hampe J, Hoffmeister M, Hopper JL, Hsu L, Huyghe JR, Jenkins MA, Joshi AD, Kampman E, Larsson SC, Le Marchand L, Li CI, Li L, Lindblom A, Lindor NM, Mart\u00edn V, Moreno V, Newcomb PA, Offit K, Ogino S, Parfrey PS, Pharoah PDP, Rennert G, Sakoda LC, Schafmayer C, Schmit SL, Schoen RE, Slattery ML, Thibodeau SN, Ulrich CM, van Duijnhoven FJB, Weigl K, Weinstein SJ, White E, Wolk A, Woods MO, Wu AH, Zhang X, Ferrari P, Anton G, Peters A, Peters U, Gunter MJ, Wagner KH, Freisling H."
   },
   {
@@ -441,7 +441,7 @@
    "title": "Randomised trial to evaluate the effectiveness and impact of offering postvisit decision support and assistance in obtaining physician-recommended colorectal cancer screening: the e-assist: Colon Health study-a protocol study.",
    "journalTitle": "BMJ Open",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Lafata JE, Shin Y, Flocke SA, Hawley ST, Jones RM, Resnicow K, Schreiber M, Shires DA, Tu SP."
   },
   {
@@ -451,7 +451,7 @@
    "title": "Immune characterization of metastatic colorectal cancer patients post reovirus administration.",
    "journalTitle": "BMC Cancer",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Parakrama R, Fogel E, Chandy C, Augustine T, Coffey M, Tesfa L, Goel S, Maitra R."
   },
   {
@@ -461,7 +461,7 @@
    "title": "Polyclonal human antibodies against glycans bearing red meat-derived non-human sialic acid N-glycolylneuraminic acid are stable, reproducible, complex and vary between individuals: Total antibody levels are associated with colorectal cancer risk.",
    "journalTitle": "PLoS One",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Samraj AN, Bertrand KA, Luben R, Khedri Z, Yu H, Nguyen D, Gregg CJ, Diaz SL, Sawyer S, Chen X, Eliassen H, Padler-Karavani V, Wu K, Khaw KT, Willett W, Varki A."
   },
   {
@@ -471,7 +471,7 @@
    "title": "Longitudinal examination of perfusion and angiogenesis markers in primary colorectal tumors shows distinct signatures for metronomic and maximum-tolerated dose strategies.",
    "journalTitle": "Neoplasia",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Mundo AI, Muhammad A, Balza K, Nelson CE, Muldoon TJ."
   },
   {
@@ -481,7 +481,7 @@
    "title": "Effectiveness of automated and live phone reminders after mailed-FIT outreach in a pilot randomized trial.",
    "journalTitle": "Prev Med Rep",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Nielson CM, Rivelli JS, Fuoco MJ, Gawlik VR, Jimenez R, Petrik AF, Coronado GD."
   },
   {
@@ -491,7 +491,7 @@
    "title": "LIG4 mediates Wnt signalling-induced radioresistance.",
    "journalTitle": "Nat Commun",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jun S, Jung YS, Suh HN, Wang W, Kim MJ, Oh YS, Lien EM, Shen X, Matsumoto Y, McCrea PD, Li L, Chen J, Park JI."
   },
   {
@@ -501,7 +501,7 @@
    "title": "Ras Pathway Activation and MEKi Resistance Scores Predict the Efficiency of MEKi and SRCi Combination to Induce Apoptosis in Colorectal Cancer.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Davis TB, Gupta S, Yang M, Pflieger L, Rajan M, Wang H, Thota R, Yeatman TJ, Pledger WJ."
   },
   {
@@ -511,7 +511,7 @@
    "title": "DCZ0415, a small-molecule inhibitor targeting TRIP13, inhibits EMT and metastasis via inactivation of the FGFR4/STAT3 axis and the Wnt/\u03b2-catenin pathway in colorectal cancer.",
    "journalTitle": "Mol Oncol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Agarwal S, Afaq F, Bajpai P, Kim HG, Elkholy A, Behring M, Chandrashekar DS, Diffalha SA, Khushman M, Sugandha SP, Varambally S, Manne U."
   },
   {
@@ -521,7 +521,7 @@
    "title": "The co-regulatory networks of tumor suppressor genes, oncogenes, and miRNAs in colorectal cancer.",
    "journalTitle": "Genes Chromosomes Cancer",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Slattery ML, Herrick JS, Mullany LE, Samowitz WS, Sevens JR, Sakoda L, Wolff RK."
   },
   {
@@ -531,7 +531,7 @@
    "title": "Statin-mediated inhibition of RAS prenylation activates ER stress to enhance the immunogenicity of KRAS mutant cancer.",
    "journalTitle": "J Immunother Cancer",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Nam GH, Kwon M, Jung H, Ko E, Kim SA, Choi Y, Song SJ, Kim S, Lee Y, Kim GB, Han J, Woo J, Cho Y, Jeong C, Park SY, Roberts TM, Cho YB, Kim IS."
   },
   {
@@ -541,7 +541,7 @@
    "title": "Molecular characterization of pro-metastatic functions of \u03b24-integrin in colorectal cancer.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang W, Zhang B, Vu T, Yuan G, Zhang B, Chen X, Manne U, Datta PK."
   },
   {
@@ -551,7 +551,7 @@
    "title": "Effectiveness of screening colonoscopy in reducing the risk of death from right and left colon cancer: a large community-based study.",
    "journalTitle": "Gut",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Doubeni CA, Corley DA, Quinn VP, Jensen CD, Zauber AG, Goodman M, Johnson JR, Mehta SJ, Becerra TA, Zhao WK, Schottinger J, Doria-Rose VP, Levin TR, Weiss NS, Fletcher RH."
   },
   {
@@ -561,7 +561,7 @@
    "title": "IL-17 inhibits CXCL9/10-mediated recruitment of CD8<sup>+</sup> cytotoxic T cells and regulatory T cells to colorectal tumors.",
    "journalTitle": "J Immunother Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chen J, Ye X, Pitmon E, Lu M, Wan J, Jellison ER, Adler AJ, Vella AT, Wang K."
   },
   {
@@ -571,7 +571,7 @@
    "title": "Immunogenic cell death pathway polymorphisms for predicting oxaliplatin efficacy in metastatic colorectal cancer.",
    "journalTitle": "J Immunother Cancer",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Arai H, Xiao Y, Loupakis F, Kawanishi N, Wang J, Battaglin F, Soni S, Zhang W, Mancao C, Salhia B, Mumenthaler SM, Weisenberger DJ, Liang G, Cremolini C, Falcone A, Millstein J, Lenz HJ."
   },
   {
@@ -581,7 +581,7 @@
    "title": "Plasma Metabolite Profiles of Red Meat, Poultry, and Fish Consumption, and Their Associations with Colorectal Cancer Risk.",
    "journalTitle": "Nutrients",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Wang F, Chandler PD, Zeleznik OA, Wu K, Wu Y, Yin K, Song R, Avila-Pacheco J, Clish CB, Meyerhardt JA, Zhang X, Song M, Ogino S, Lee IM, Eliassen AH, Liang L, Smith-Warner SA, Willett WC, Giovannucci EL."
   },
   {
@@ -591,7 +591,7 @@
    "title": "Colorectal cancer cells utilize autophagy to maintain mitochondrial metabolism for cell proliferation under nutrient stress.",
    "journalTitle": "JCI Insight",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Devenport SN, Singhal R, Radyk MD, Taranto JG, Kerk SA, Chen B, Goyert JW, Jain C, Das NK, Oravecz-Wilson K, Zhang L, Greenson JK, Chen YE, Soleimanpour SA, Reddy P, Lyssiotis CA, Shah YM."
   },
   {
@@ -601,7 +601,7 @@
    "title": "PARP inhibition prevents escape from a telomere-driven crisis and inhibits cell immortalisation.",
    "journalTitle": "Oncotarget",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ngo G, Hyatt S, Grimstead J, Jones R, Hendrickson E, Pepper C, Baird D."
   },
   {
@@ -611,7 +611,7 @@
    "title": "Disparities in colorectal cancer screening among breast and prostate cancer survivors.",
    "journalTitle": "Cancer Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dash C, Lu J, Parikh V, Wathen S, Shah S, Shah Chaudhari R, Adams-Campbell L."
   },
   {
@@ -621,7 +621,7 @@
    "title": "Influence of dietary insulin scores on survival in colorectal cancer patients.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Yuan C, Bao Y, Sato K, Nimptsch K, Song M, Brand-Miller JC, Morales-Oyarvide V, Zoltick ES, Keum N, Wolpin BM, Meyerhardt JA, Chan AT, Willett WC, Stampfer MJ, Wu K, Giovannucci EL, Fuchs CS, Ng K."
   },
   {
@@ -631,7 +631,7 @@
    "title": "Dietary Nonstarch Polysaccharide Intake and Risk of Colorectal Cancer: Findings from the Singapore Chinese Health Study.",
    "journalTitle": "Cancer Res Commun",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Yu YC, Paragomi P, Jin A, Wang R, Schoen RE, Koh WP, Yuan JM, Luu HN."
   },
   {
@@ -641,7 +641,7 @@
    "title": "Harms, benefits and costs of fecal immunochemical testing versus guaiac fecal occult blood testing for colorectal cancer screening.",
    "journalTitle": "PLoS One",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Goede SL, Rabeneck L, van Ballegooijen M, Zauber AG, Paszat LF, Hoch JS, Yong JH, Kroep S, Tinmouth J, Lansdorp-Vogelaar I."
   },
   {
@@ -651,7 +651,7 @@
    "title": "Primary Care Practitioner Perceptions on the Follow-up of Abnormal Cancer Screening Test Results.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Atlas SJ, Tosteson ANA, Burdick TE, Wright A, Breslau ES, Dang TH, Wint AJ, Smith RE, Harris KA, Zhou L, Haas JS."
   },
   {
@@ -661,7 +661,7 @@
    "title": "Integrative Omics Analysis Reveals Post-Transcriptionally Enhanced Protective Host Response in Colorectal Cancers with Microsatellite Instability.",
    "journalTitle": "J Proteome Res",
    "pubYear": "2016",
-   "license": null,
+   "license": "",
    "authorString": "Liu Q, Zhang B."
   },
   {
@@ -671,7 +671,7 @@
    "title": "Adenomatous polyposis coli (APC) regulates miR17-92 cluster through \u03b2-catenin pathway in colorectal cancer.",
    "journalTitle": "Oncogene",
    "pubYear": "2016",
-   "license": null,
+   "license": "",
    "authorString": "Li Y, Lauriola M, Kim D, Francesconi M, D'Uva G, Shibata D, Malafa MP, Yeatman TJ, Coppola D, Solmi R, Cheng JQ."
   },
   {
@@ -681,7 +681,7 @@
    "title": "Landscape of somatic single nucleotide variants and indels in colorectal cancer and impact on survival.",
    "journalTitle": "Nat Commun",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zaidi SH, Harrison TA, Phipps AI, Steinfelder R, Trinh QM, Qu C, Banbury BL, Georgeson P, Grasso CS, Giannakis M, Adams JB, Alwers E, Amitay EL, Barfield RT, Berndt SI, Borozan I, Brenner H, Brezina S, Buchanan DD, Cao Y, Chan AT, Chang-Claude J, Connolly CM, Drew DA, Farris AB, Figueiredo JC, French AJ, Fuchs CS, Garraway LA, Gruber S, Guinter MA, Hamilton SR, Harlid S, Heisler LE, Hidaka A, Hopper JL, Huang WY, Huyghe JR, Jenkins MA, Krzyzanowski PM, Lemire M, Lin Y, Luo X, Mardis ER, McPherson JD, Miller JK, Moreno V, Mu XJ, Nishihara R, Papadopoulos N, Pasternack D, Quist MJ, Rafikova A, Reid EEG, Shinbrot E, Shirts BH, Stein LD, Teney CD, Timms L, Um CY, Van Guelpen B, Van Tassel M, Wang X, Wheeler DA, Yung CK, Hsu L, Ogino S, Gsur A, Newcomb PA, Gallinger S, Hoffmeister M, Campbell PT, Thibodeau SN, Sun W, Hudson TJ, Peters U."
   },
   {
@@ -691,7 +691,7 @@
    "title": "Induction of LEF1 by MYC activates the WNT pathway and maintains cell proliferation.",
    "journalTitle": "Cell Commun Signal",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Hao YH, Lafita-Navarro MC, Zacharias L, Borenstein-Auerbach N, Kim M, Barnes S, Kim J, Shay J, DeBerardinis RJ, Conacci-Sorrell M."
   },
   {
@@ -701,7 +701,7 @@
    "title": "Alcohol Consumption-Related Metabolites in Relation to Colorectal Cancer and Adenoma: Two Case-Control Studies Using Serum Biomarkers.",
    "journalTitle": "PLoS One",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc0",
    "authorString": "Troche JR, Mayne ST, Freedman ND, Shebl FM, Guertin KA, Cross AJ, Abnet CC."
   },
   {
@@ -711,7 +711,7 @@
    "title": "Development of a multivariable prediction model to identify patients unlikely to complete a colonoscopy following an abnormal FIT test in community clinics.",
    "journalTitle": "BMC Health Serv Res",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Petrik AF, Keast E, Johnson ES, Smith DH, Coronado GD."
   },
   {
@@ -721,7 +721,7 @@
    "title": "A novel use of biomechanical model-based deformable image registration (DIR) for assessing colorectal liver metastases ablation outcomes.",
    "journalTitle": "Med Phys",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Anderson BM, Lin YM, Lin EY, Cazoulat G, Gupta S, Kyle Jones A, Odisio BC, Brock KK."
   },
   {
@@ -731,7 +731,7 @@
    "title": "Tumor eosinophil infiltration and improved survival of colorectal cancer patients: Iowa Women's Health Study.",
    "journalTitle": "Mod Pathol",
    "pubYear": "2016",
-   "license": null,
+   "license": "",
    "authorString": "Prizment AE, Vierkant RA, Smyrk TC, Tillmans LS, Lee JJ, Sriramarao P, Nelson HH, Lynch CF, Thibodeau SN, Church TR, Cerhan JR, Anderson KE, Limburg PJ."
   },
   {
@@ -741,7 +741,7 @@
    "title": "Estimating the Effect of Targeted Screening Strategies: An Application to Colonoscopy and Colorectal Cancer.",
    "journalTitle": "Epidemiology",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Thomas DC."
   },
   {
@@ -751,7 +751,7 @@
    "title": "Personal use of permanent hair dyes and cancer risk and mortality in US women: prospective cohort study.",
    "journalTitle": "BMJ",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Zhang Y, Birmann BM, Han J, Giovannucci EL, Speizer FE, Stampfer MJ, Rosner BA, Schernhammer ES."
   },
   {
@@ -761,7 +761,7 @@
    "title": "Characteristics of Interval Colorectal Cancer: A Canadian Retrospective Population-Level Analysis from Newfoundland and Labrador.",
    "journalTitle": "Curr Oncol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Shanahan JJ, LeBlanc DM, Courage ER, Benesch MGK, Hickey KE, Hartwig KA, Armstrong CD, Engelbrecht R, Fagan MG, Borgaonkar MR, Pace DE."
   },
   {
@@ -771,7 +771,7 @@
    "title": "A SMAD4-modulated gene profile predicts disease-free survival in stage II and III colorectal cancer.",
    "journalTitle": "Cancer Rep (Hoboken)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Szeglin BC, Wu C, Marco MR, Park HS, Zhang Z, Zhang B, Garcia-Aguilar J, Beauchamp RD, Chen XS, Smith JJ."
   },
   {
@@ -781,7 +781,7 @@
    "title": "Human Regulatory Dendritic Cells Develop From Monocytes in Response to Signals From Regulatory and Helper T Cells.",
    "journalTitle": "Front Immunol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang X, Zheng P, Prestwood TR, Zhang H, Carmi Y, Tolentino LL, Wu N, Choi O, Winer DA, Strober S, Kang ES, Alonso MN, Engleman EG."
   },
   {
@@ -791,7 +791,7 @@
    "title": "Deep top-down proteomics revealed significant proteoform-level differences between metastatic and nonmetastatic colorectal cancer cells.",
    "journalTitle": "Sci Adv",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "McCool EN, Xu T, Chen W, Beller NC, Nolan SM, Hummon AB, Liu X, Sun L."
   },
   {
@@ -801,7 +801,7 @@
    "title": "Detection of circulating microRNAs with Ago2 complexes to monitor the tumor dynamics of colorectal cancer patients during chemotherapy.",
    "journalTitle": "Int J Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Fuji T, Umeda Y, Nyuya A, Taniguchi F, Kawai T, Yasui K, Toshima T, Yoshida K, Fujiwara T, Goel A, Nagasaka T."
   },
   {
@@ -811,7 +811,7 @@
    "title": "In vivo magnetic resonance imaging of treatment-induced apoptosis.",
    "journalTitle": "Sci Rep",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jiang X, McKinley ET, Xie J, Li H, Xu J, Gore JC."
   },
   {
@@ -821,7 +821,7 @@
    "title": "Genetic Effects on Transcriptome Profiles in Colon Epithelium Provide Functional Insights for Genetic Risk Loci.",
    "journalTitle": "Cell Mol Gastroenterol Hepatol",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "D\u00edez-Obrero V, Dampier CH, Moratalla-Navarro F, Devall M, Plummer SJ, D\u00edez-Villanueva A, Peters U, Bien S, Huyghe JR, Kundaje A, Ib\u00e1\u00f1ez-Sanz G, Guin\u00f3 E, Ob\u00f3n-Santacana M, Carreras-Torres R, Casey G, Moreno V."
   },
   {
@@ -831,7 +831,7 @@
    "title": "Colorectal tumor molecular phenotype and miRNA: expression profiles and prognosis.",
    "journalTitle": "Mod Pathol",
    "pubYear": "2016",
-   "license": null,
+   "license": "",
    "authorString": "Slattery ML, Herrick JS, Mullany LE, Wolff E, Hoffman MD, Pellatt DF, Stevens JR, Wolff RK."
   },
   {
@@ -841,7 +841,7 @@
    "title": "Disruption of the circadian clock drives <i>Apc</i> loss of heterozygosity to accelerate colorectal cancer.",
    "journalTitle": "Sci Adv",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chun SK, Fortin BM, Fellows RC, Habowski AN, Verlande A, Song WA, Mahieu AL, Lefebvre AEYT, Sterrenberg JN, Velez LM, Digman MA, Edwards RA, Pannunzio NR, Seldin MM, Waterman ML, Masri S."
   },
   {
@@ -851,7 +851,7 @@
    "title": "Single-cell analyses define a continuum of cell state and composition changes in the malignant transformation of polyps to colorectal cancer.",
    "journalTitle": "Nat Genet",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Becker WR, Nevins SA, Chen DC, Chiu R, Horning AM, Guha TK, Laquindanum R, Mills M, Chaib H, Ladabaum U, Longacre T, Shen J, Esplin ED, Kundaje A, Ford JM, Curtis C, Snyder MP, Greenleaf WJ."
   },
   {
@@ -861,7 +861,7 @@
    "title": "Association of Neighborhood Measures of Social Determinants of Health With Breast, Cervical, and Colorectal Cancer Screening Rates in the US Midwest.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kurani SS, McCoy RG, Lampman MA, Doubeni CA, Finney Rutten LJ, Inselman JW, Giblon RE, Bunkers KS, Stroebel RJ, Rushlow D, Chawla SS, Shah ND."
   },
   {
@@ -871,7 +871,7 @@
    "title": "Metformin and ICG-001 Act Synergistically to Abrogate Cancer Stem Cells-Mediated Chemoresistance in Colorectal Cancer by Promoting Apoptosis and Autophagy.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Roy S, Zhao Y, Yuan YC, Goel A."
   },
   {
@@ -881,7 +881,7 @@
    "title": "The Roles of &lt;i&gt;MTRR&lt;/i&gt; and &lt;i&gt;MTHFR&lt;/i&gt; Gene Polymorphisms in Colorectal Cancer Survival.",
    "journalTitle": "Nutrients",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Wang Y, Du M, Vallis J, Shariati M, Parfrey PS, Mclaughlin JR, Wang PP, Zhu Y."
   },
   {
@@ -891,7 +891,7 @@
    "title": "The Prognostic Implications of Tumor Infiltrating Lymphocytes in Colorectal Cancer: A Systematic Review and Meta-Analysis.",
    "journalTitle": "Sci Rep",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Idos GE, Kwok J, Bonthala N, Kysh L, Gruber SB, Qu C."
   },
   {
@@ -901,7 +901,7 @@
    "title": "Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC.",
    "journalTitle": "BMJ Open Gastroenterol",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Greathouse KL, White JR, Padgett RN, Perrotta BG, Jenkins GD, Chia N, Chen J."
   },
   {
@@ -911,7 +911,7 @@
    "title": "Metformin blocks MYC protein synthesis in colorectal cancer via mTOR-4EBP-eIF4E and MNK1-eIF4G-eIF4E signaling.",
    "journalTitle": "Mol Oncol",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Shen P, Reineke LC, Knutsen E, Chen M, Pichler M, Ling H, Calin GA, Calin GA."
   },
   {
@@ -921,7 +921,7 @@
    "title": "Accuracy of CT Colonography for Detection of Polypoid and Nonpolypoid Neoplasia by Gastroenterologists and Radiologists: A Nationwide Multicenter Study in Japan.",
    "journalTitle": "Am J Gastroenterol",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Nagata K, Endo S, Honda T, Yasuda T, Hirayama M, Takahashi S, Kato T, Horita S, Furuya K, Kasai K, Matsumoto H, Kimura Y, Utano K, Sugimoto H, Kato H, Yamada R, Yamamichi J, Shimamoto T, Ryu Y, Matsui O, Kondo H, Doi A, Abe T, Yamano HO, Takeuchi K, Hanai H, Saida Y, Fukuda K, N\u00e4ppi J, Yoshida H."
   },
   {
@@ -931,7 +931,7 @@
    "title": "Evaluation of frozen tissue-derived prognostic gene expression signatures in FFPE colorectal cancer samples.",
    "journalTitle": "Sci Rep",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhu J, Deane NG, Lewis KB, Padmanabhan C, Washington MK, Ciombor KK, Timmers C, Goldberg RM, Beauchamp RD, Chen X."
   },
   {
@@ -941,7 +941,7 @@
    "title": "An atlas of inter- and intra-tumor heterogeneity of apoptosis competency in colorectal cancer tissue at single-cell resolution.",
    "journalTitle": "Cell Death Differ",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Lindner AU, Salvucci M, McDonough E, Cho S, Stachtea X, O'Connell EP, Corwin AD, Santamaria-Pang A, Carberry S, Fichtner M, Van Schaeybroeck S, Laurent-Puig P, Burke JP, McNamara DA, Lawler M, Sood A, Graf JF, Rehm M, Dunne PD, Longley DB, Ginty F, Prehn JHM."
   },
   {
@@ -951,7 +951,7 @@
    "title": "Dickkopf-2 regulates the stem cell marker LGR5 in colorectal cancer via HNF4\u03b11.",
    "journalTitle": "iScience",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Shin JH, Jeong J, Choi J, Lim J, Dinesh RK, Braverman J, Hong JY, Maher SE, Amezcua Vesely MC, Kim W, Koo JH, Tang W, Wu D, Blackburn HN, Xicola RM, Llor X, Yilmaz O, Choi JM, Bothwell ALM."
   },
   {
@@ -961,7 +961,7 @@
    "title": "Mendelian randomisation study of age at menarche and age at menopause and the risk of colorectal cancer.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Neumeyer S, Banbury BL, Arndt V, Berndt SI, Bezieau S, Bien SA, Buchanan DD, Butterbach K, Caan BJ, Campbell PT, Casey G, Chan AT, Chanock SJ, Dai JY, Gallinger S, Giovannucci EL, Giles GG, Grady WM, Hampe J, Hoffmeister M, Hopper JL, Hsu L, Jenkins MA, Joshi A, Larsson SC, Le Marchand L, Lindblom A, Moreno V, Lemire M, Li L, Lin Y, Offit K, Newcomb PA, Pharaoh PD, Potter JD, Qi L, Rennert G, Schafmayer C, Schoen RE, Slattery ML, Song M, Ulrich CM, Win AK, White E, Wolk A, Woods MO, Wu AH, Gruber SB, Brenner H, Peters U, Chang-Claude J."
   },
   {
@@ -971,7 +971,7 @@
    "title": "Piezo1 Mechano-Activation Is Augmented by Resveratrol and Differs between Colorectal Cancer Cells of Primary and Metastatic Origin.",
    "journalTitle": "Molecules",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Greenlee JD, Liu K, Lopez-Cavestany M, King MR."
   },
   {
@@ -981,7 +981,7 @@
    "title": "Development of a precision medicine pipeline to identify personalized treatments for colorectal cancer.",
    "journalTitle": "BMC Cancer",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Altunel E, Roghani RS, Chen KY, Kim SY, McCall S, Ware KE, Shen X, Somarelli JA, Hsu DS."
   },
   {
@@ -991,7 +991,7 @@
    "title": "Abdominal adipose tissue radiodensity is associated with survival after colorectal cancer.",
    "journalTitle": "Am J Clin Nutr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Feliciano EMC, Winkels RM, Meyerhardt JA, Prado CM, Afman LA, Caan BJ."
   },
   {
@@ -1001,7 +1001,7 @@
    "title": "Screening colonoscopy and flexible sigmoidoscopy for reduction of colorectal cancer incidence: A case-control study.",
    "journalTitle": "PLoS One",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc0",
    "authorString": "Ko CW, Doria-Rose VP, Barrett MJ, Kamineni A, Enewold L, Weiss NS."
   },
   {
@@ -1011,7 +1011,7 @@
    "title": "Phenotypic plasticity and genetic control in colorectal cancer evolution.",
    "journalTitle": "Nature",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Househam J, Heide T, Cresswell GD, Spiteri I, Kimberley C, Zapata L, Lynn C, James C, Mossner M, Fernandez-Mateos J, Vinceti A, Baker AM, Gabbutt C, Berner A, Schmidt M, Chen B, Lakatos E, Gunasri V, Nichol D, Costa H, Mitchinson M, Ramazzotti D, Werner B, Iorio F, Jansen M, Caravagna G, Barnes CP, Shibata D, Bridgewater J, Rodriguez-Justo M, Magnani L, Sottoriva A, Graham TA."
   },
   {
@@ -1021,7 +1021,7 @@
    "title": "Faecal immunochemical test-based colorectal cancer screening in Mexico: an initial experience.",
    "journalTitle": "Fam Pract",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Remes-Troche JM, Hinojosa-Garza G, Espinosa-Tamez P, Meixueiro-Daza A, Grube-Pagola P, Van Loon K, Potter MB, Lajous M."
   },
   {
@@ -1031,7 +1031,7 @@
    "title": "Molecular and phenotypic profiling of colorectal cancer patients in West Africa reveals biological insights.",
    "journalTitle": "Nat Commun",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Alatise OI, Knapp GC, Sharma A, Chatila WK, Arowolo OA, Olasehinde O, Famurewa OC, Omisore AD, Komolafe AO, Olaofe OO, Katung AI, Ibikunle DE, Egberongbe AA, Olatoke SA, Agodirin SO, Adesiyun OA, Adeyeye A, Kolawole OA, Olakanmi AO, Arora K, Constable J, Shah R, Basunia A, Sylvester B, Wu C, Weiser MR, Seier K, Gonen M, Stadler ZK, Kemel Y, Vakiani E, Berger MF, Chan TA, Solit DB, Shia J, Sanchez-Vega F, Schultz N, Brennan M, Smith JJ, Kingham TP."
   },
   {
@@ -1041,7 +1041,7 @@
    "title": "Charting differentially methylated regions in cancer with Rocker-meth.",
    "journalTitle": "Commun Biol",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Benelli M, Franceschini GM, Magi A, Romagnoli D, Biagioni C, Migliaccio I, Malorni L, Demichelis F."
   },
   {
@@ -1051,7 +1051,7 @@
    "title": "Microbial risk score for capturing microbial characteristics, integrating multi-omics data, and predicting disease risk.",
    "journalTitle": "Microbiome",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Wang C, Segal LN, Hu J, Zhou B, Hayes RB, Ahn J, Li H."
   },
   {
@@ -1061,7 +1061,7 @@
    "title": "The Role of Palliative Surgery for Malignant Bowel Obstruction and Perforation in Advanced Microsatellite Instability-High Colorectal Carcinoma in the Era of Immunotherapy: Case Report.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Judge SJ, Ji J, Liu J, Kaur M, Kim E, Gong J, Tam KW, Kirane AR, Gholami S, Canter RJ, Bold RJ, Gangi A, Fakih M, Cho M."
   },
   {
@@ -1071,7 +1071,7 @@
    "title": "An in vitro vascularized micro-tumor model of human colorectal cancer recapitulates in vivo responses to standard-of-care therapy.",
    "journalTitle": "Lab Chip",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Hachey SJ, Movsesyan S, Nguyen QH, Burton-Sojo G, Tankazyan A, Wu J, Hoang T, Zhao D, Wang S, Hatch MM, Celaya E, Gomez S, Chen GT, Davis RT, Nee K, Pervolarakis N, Lawson DA, Kessenbrock K, Lee AP, Lowengrub J, Waterman ML, Hughes CCW."
   },
   {
@@ -1081,7 +1081,7 @@
    "title": "miR-302a Inhibits Metastasis and Cetuximab Resistance in Colorectal Cancer by Targeting NFIB and CD44.",
    "journalTitle": "Theranostics",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Sun L, Fang Y, Wang X, Han Y, Du F, Li C, Hu H, Liu H, Liu Q, Wang J, Liang J, Chen P, Yang H, Nie Y, Wu K, Fan D, Coffey RJ, Lu Y, Zhao X, Wang X."
   },
   {
@@ -1091,7 +1091,7 @@
    "title": "Rising Incidence of Colorectal Cancer in Young Adults Corresponds With Increasing Surgical Resections in Obese Patients.",
    "journalTitle": "Clin Transl Gastroenterol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Hussan H, Patel A, Le Roux M, Cruz-Monserrate Z, Porter K, Clinton SK, Carethers JM, Courneya KS."
   },
   {
@@ -1101,7 +1101,7 @@
    "title": "Impact of HuR inhibition by the small molecule MS-444 on colorectal cancer cell tumorigenesis.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Blanco FF, Preet R, Aguado A, Vishwakarma V, Stevens LE, Vyas A, Padhye S, Xu L, Weir SJ, Anant S, Meisner-Kober N, Brody JR, Dixon DA."
   },
   {
@@ -1111,7 +1111,7 @@
    "title": "Prognostic role of inflammatory diets in colorectal cancer overall and in strata of tumor-infiltrating lymphocyte levels.",
    "journalTitle": "Clin Transl Med",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ugai T, Liu L, Tabung FK, Hamada T, Langworthy BW, Akimoto N, Haruki K, Takashima Y, Okadome K, Kawamura H, Zhao M, Kahaki SMM, Glickman JN, Lennerz JK, Zhang X, Chan AT, Fuchs CS, Song M, Wang M, Yu KH, Giannakis M, Nowak JA, Meyerhardt JA, Wu K, Ogino S, Giovannucci EL."
   },
   {
@@ -1121,7 +1121,7 @@
    "title": "Long-Term Survival and Causes of Death After Diagnoses of Common Cancers in 3 Cohorts of US Health Professionals.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Cheng E, Lee DH, Tamimi RM, Hankinson SE, Willett WC, Giovannucci EL, Eliassen AH, Stampfer MJ, Mucci LA, Fuchs CS, Spiegelman D."
   },
   {
@@ -1131,7 +1131,7 @@
    "title": "Are people aware of the link between alcohol and different types of Cancer?",
    "journalTitle": "BMC Public Health",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Calvert CM, Toomey T, Jones-Webb R."
   },
   {
@@ -1141,7 +1141,7 @@
    "title": "Intracrine VEGF signalling mediates colorectal cancer cell migration and invasion.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Bhattacharya R, Fan F, Wang R, Ye X, Xia L, Boulbes D, Ellis LM."
   },
   {
@@ -1151,7 +1151,7 @@
    "title": "Cost-effectiveness of prophylactic hysterectomy in first-degree female relatives with Lynch syndrome of patients diagnosed with colorectal cancer in the United States: a microsimulation study.",
    "journalTitle": "Cancer Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Alblas M, Peterse EFP, Du M, Zauber AG, Steyerberg EW, van Leeuwen N, Lansdorp-Vogelaar I."
   },
   {
@@ -1161,7 +1161,7 @@
    "title": "Enteric Glia Play a Critical Role in Promoting the Development of Colorectal Cancer.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Yuan R, Bhattacharya N, Kenkel JA, Shen J, DiMaio MA, Bagchi S, Prestwood TR, Habtezion A, Engleman EG."
   },
   {
@@ -1171,7 +1171,7 @@
    "title": "Human Blood Autoantibodies in the Detection of Colorectal Cancer.",
    "journalTitle": "PLoS One",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Negm OH, Hamed MR, Schoen RE, Whelan RL, Steele RJ, Scholefield J, Dilnot EM, Shantha Kumara HM, Robertson JF, Sewell HF."
   },
   {
@@ -1181,7 +1181,7 @@
    "title": "Diabetes and Clinical Outcome in Patients With Metastatic Colorectal Cancer: CALGB 80405 (Alliance).",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Brown JC, Zhang S, Ou FS, Venook AP, Niedzwiecki D, Lenz HJ, Innocenti F, O'Neil BH, Shaw JE, Polite BN, Denlinger CS, Atkins JN, Goldberg RM, Ng K, Mayer RJ, Blanke CD, O'Reilly EM, Fuchs CS, Meyerhardt JA."
   },
   {
@@ -1191,7 +1191,7 @@
    "title": "Zebrafish modeling reveals that SPINT1 regulates the aggressiveness of skin cutaneous melanoma and its crosstalk with tumor immune microenvironment.",
    "journalTitle": "J Exp Clin Cancer Res",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "G\u00f3mez-Abenza E, Ib\u00e1\u00f1ez-Molero S, Garc\u00eda-Moreno D, Fuentes I, Zon LI, Mione MC, Cayuela ML, Gabellini C, Mulero V."
   },
   {
@@ -1201,7 +1201,7 @@
    "title": "Expression of Wnt-signaling pathway genes and their associations with miRNAs in colorectal cancer.",
    "journalTitle": "Oncotarget",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Slattery ML, Mullany LE, Sakoda LC, Samowitz WS, Wolff RK, Stevens JR, Herrick JS."
   },
   {
@@ -1211,7 +1211,7 @@
    "title": "Extracellular vesicle expansion of PMIS-miR-210 expression inhibits colorectal tumour growth via apoptosis and an XIST/NME1 regulatory mechanism.",
    "journalTitle": "Clin Transl Med",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Eliason S, Hong L, Sweat Y, Chalkley C, Cao H, Liu Q, Qi H, Xu H, Zhan F, Amendt BA."
   },
   {
@@ -1221,7 +1221,7 @@
    "title": "Designer Fluorescent Adenines Enable Real-Time Monitoring of MUTYH Activity.",
    "journalTitle": "ACS Cent Sci",
    "pubYear": "2020",
-   "license": null,
+   "license": "",
    "authorString": "Zhu RY, Majumdar C, Khuu C, De Rosa M, Opresko PL, David SS, Kool ET."
   },
   {
@@ -1231,7 +1231,7 @@
    "title": "Antibody responses to flagellin C and Streptococcus gallolyticus pilus proteins in colorectal cancer.",
    "journalTitle": "Sci Rep",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Butt J, Fern\u00e1ndez de Larrea N, Tjalsma H, Roelofs R, Kato I, Mart\u00edn V, P\u00e9rez-G\u00f3mez B, Moreno V, Dierssen-Sotos T, Castilla J, Fern\u00e1ndez-Tard\u00f3n G, Amiano P, Salas D, Alguacil J, Jim\u00e9nez-Mole\u00f3n JJ, Huerta JM, de Sanjos\u00e9 S, Del Campo R, Kogevinas M, Poll\u00e1n M, Pawlita M, Waterboer T, Boleij A, Aragon\u00e9s N."
   },
   {
@@ -1241,7 +1241,7 @@
    "title": "NFkB is essential for activin-induced colorectal cancer migration via upregulation of PI3K-MDM2 pathway.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jana A, Krett NL, Guzman G, Khalid A, Ozden O, Staudacher JJ, Bauer J, Baik SH, Carroll T, Yazici C, Jung B."
   },
   {
@@ -1251,7 +1251,7 @@
    "title": "Mismatch repair-signature mutations activate gene enhancers across human colorectal cancer epigenomes.",
    "journalTitle": "Elife",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Hung S, Saiakhova A, Faber ZJ, Bartels CF, Neu D, Bayles I, Ojo E, Hong ES, Pontius WD, Morton AR, Liu R, Kalady MF, Wald DN, Markowitz S, Scacheri PC."
   },
   {
@@ -1261,7 +1261,7 @@
    "title": "Frequent POLE-driven hypermutation in ovarian endometrioid cancer revealed by mutational signatures in RNA sequencing.",
    "journalTitle": "BMC Med Genomics",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Davila JI, Chanana P, Sarangi V, Fogarty ZC, Weroha SJ, Guo R, Goode EL, Huang Y, Wang C."
   },
   {
@@ -1271,7 +1271,7 @@
    "title": "Mendelian randomisation analysis strongly implicates adiposity with risk of developing colorectal cancer.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jarvis D, Mitchell JS, Law PJ, Palin K, Tuupanen S, Gylfe A, H\u00e4nninen UA, Cajuso T, Tanskanen T, Kondelin J, Kaasinen E, Sarin AP, Kaprio J, Eriksson JG, Rissanen H, Knekt P, Pukkala E, Jousilahti P, Salomaa V, Ripatti S, Palotie A, J\u00e4rvinen H, Renkonen-Sinisalo L, Lepist\u00f6 A, B\u00f6hm J, Meklin JP, Al-Tassan NA, Palles C, Martin L, Barclay E, Farrington SM, Timofeeva MN, Meyer BF, Wakil SM, Campbell H, Smith CG, Idziaszczyk S, Maughan TS, Kaplan R, Kerr R, Kerr D, Buchanan DD, Win AK, Hopper JL, Jenkins MA, Lindor NM, Newcomb PA, Gallinger S, Conti D, Schumacher F, Casey G, Taipale J, Aaltonen LA, Cheadle JP, Dunlop MG, Tomlinson IP, Houlston RS."
   },
   {
@@ -1281,7 +1281,7 @@
    "title": "Circulating inflammation signature predicts overall survival and relapse-free survival in metastatic colorectal cancer.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Varkaris A, Katsiampoura A, Davis JS, Shah N, Lam M, Frias RL, Ivan C, Shimizu M, Morris J, Menter D, Overman M, Tran H, Heymach J, Chun YS, Vauthey JN, Calin G, Calin G, Kopetz S."
   },
   {
@@ -1291,7 +1291,7 @@
    "title": "Association Between Alzheimer Disease and Cancer With Evaluation of Study Biases: A Systematic Review and Meta-analysis.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ospina-Romero M, Glymour MM, Hayes-Larson E, Mayeda ER, Graff RE, Brenowitz WD, Ackley SF, Witte JS, Kobayashi LC."
   },
   {
@@ -1301,7 +1301,7 @@
    "title": "Oncogenic KRAS activates an embryonic stem cell-like program in human colon cancer initiation.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Le Rolle AF, Chiu TK, Zeng Z, Shia J, Weiser MR, Paty PB, Chiu VK."
   },
   {
@@ -1311,7 +1311,7 @@
    "title": "ETHE1 overexpression promotes SIRT1 and PGC1\u03b1 mediated aerobic glycolysis, oxidative phosphorylation, mitochondrial biogenesis and colorectal cancer.",
    "journalTitle": "Oncotarget",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Witherspoon M, Sandu D, Lu C, Wang K, Edwards R, Yeung A, Gelincik O, Manfredi G, Gross S, Kopelovich L, Lipkin S."
   },
   {
@@ -1321,7 +1321,7 @@
    "title": "Impact of scanner variability on lymph node segmentation in computational pathology.",
    "journalTitle": "J Pathol Inform",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Khan A, Janowczyk A, M\u00fcller F, Blank A, Nguyen HG, Abbet C, Studer L, Lugli A, Dawson H, Thiran JP, Zlobec I."
   },
   {
@@ -1331,7 +1331,7 @@
    "title": "Optimizing colorectal cancer screening by race and sex: Microsimulation analysis II to inform the American Cancer Society colorectal cancer screening guideline.",
    "journalTitle": "Cancer",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Meester RGS, Peterse EFP, Knudsen AB, de Weerdt AC, Chen JC, Lietz AP, Dwyer A, Ahnen DJ, Siegel RL, Smith RA, Zauber AG, Lansdorp-Vogelaar I."
   },
   {
@@ -1341,7 +1341,7 @@
    "title": "Macrophage conditioned medium promotes colorectal cancer stem cell phenotype via the hedgehog signaling pathway.",
    "journalTitle": "PLoS One",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Fan F, Wang R, Boulbes DR, Zhang H, Watowich SS, Xia L, Ye X, Bhattacharya R, Ellis LM."
   },
   {
@@ -1351,7 +1351,7 @@
    "title": "Precision medicine-based therapies in advanced colorectal cancer: The University of California San Diego Molecular Tumor Board experience.",
    "journalTitle": "Mol Oncol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Louie BH, Kato S, Kim KH, Lim HJ, Lee S, Okamura R, Fanta PT, Kurzrock R."
   },
   {
@@ -1361,7 +1361,7 @@
    "title": "Vasodilator-stimulated phosphoprotein promotes liver metastasis of gastrointestinal cancer by activating a \u03b21-integrin-FAK-YAP1/TAZ signaling pathway.",
    "journalTitle": "NPJ Precis Oncol",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Xiang X, Wang Y, Zhang H, Piao J, Muthusamy S, Wang L, Deng Y, Zhang W, Kuang R, Billadeau DD, Huang S, Lai J, Urrutia R, Kang N."
   },
   {
@@ -1371,7 +1371,7 @@
    "title": "Genome-Wide Interaction Analyses between Genetic Variants and Alcohol Consumption and Smoking for Risk of Colorectal Cancer.",
    "journalTitle": "PLoS Genet",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc0",
    "authorString": "Gong J, Hutter CM, Newcomb PA, Ulrich CM, Bien SA, Campbell PT, Baron JA, Berndt SI, Bezieau S, Brenner H, Casey G, Chan AT, Chang-Claude J, Du M, Duggan D, Figueiredo JC, Gallinger S, Giovannucci EL, Haile RW, Harrison TA, Hayes RB, Hoffmeister M, Hopper JL, Hudson TJ, Jeon J, Jenkins MA, Kocarnik J, K\u00fcry S, Le Marchand L, Lin Y, Lindor NM, Nishihara R, Ogino S, Potter JD, Rudolph A, Schoen RE, Schrotz-King P, Seminara D, Slattery ML, Thibodeau SN, Thornquist M, Toth R, Wallace R, White E, Jiao S, Lemire M, Hsu L, Peters U, CCFR and GECCO."
   },
   {
@@ -1381,7 +1381,7 @@
    "title": "Tumor Infiltrating Lymphocytes and Macrophages Improve Survival in Microsatellite Unstable Colorectal Cancer.",
    "journalTitle": "Sci Rep",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Narayanan S, Kawaguchi T, Peng X, Qi Q, Liu S, Yan L, Takabe K."
   },
   {
@@ -1391,7 +1391,7 @@
    "title": "Determination of the Role of CBP- and p300-Mediated Wnt Signaling on Colonic Cells.",
    "journalTitle": "JMIR Res Protoc",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Bordonaro M, Lazarova DL."
   },
   {
@@ -1401,7 +1401,7 @@
    "title": "PAICS, a Purine Nucleotide Metabolic Enzyme, is Involved in Tumor Growth and the Metastasis of Colorectal Cancer.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Agarwal S, Chakravarthi BVSK, Behring M, Kim HG, Chandrashekar DS, Gupta N, Bajpai P, Elkholy A, Balasubramanya SAH, Hardy C, Diffalha SA, Varambally S, Manne U."
   },
   {
@@ -1411,7 +1411,7 @@
    "title": "Young-Onset Colon Cancer and Recurrence Risk by Gene Expression.",
    "journalTitle": "J Natl Cancer Inst",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Chang GJ, You YNY, Russell CA, Tierno MB, Turner M, Bennett JP, Lau A, Hochster HS."
   },
   {
@@ -1421,7 +1421,7 @@
    "title": "Colorectal cancer screening in newly insured Medicaid members: a review of concurrent federal and state policies.",
    "journalTitle": "BMC Health Serv Res",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "O'Leary MC, Lich KH, Gu Y, Wheeler SB, Coronado GD, Bartelmann SE, Lind BK, Mayorga ME, Davis MM."
   },
   {
@@ -1431,7 +1431,7 @@
    "title": "Sensitization of FOLFOX-resistant colorectal cancer cells via the modulation of a novel pathway involving protein phosphatase 2A.",
    "journalTitle": "iScience",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Narayan S, Raza A, Mahmud I, Koo N, Garrett TJ, Law ME, Law BK, Sharma AK."
   },
   {
@@ -1441,7 +1441,7 @@
    "title": "New onset of type 2 diabetes after colorectal cancer diagnosis: Results from three prospective US cohort studies, systematic review, and meta-analysis.",
    "journalTitle": "EBioMedicine",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Zeng H, Yuan C, Morze J, Fu R, Wang K, Wang L, Sun F, Ji JS, Giovannucci EL, Song M."
   },
   {
@@ -1451,7 +1451,7 @@
    "title": "A genetic network that suppresses genome rearrangements in Saccharomyces cerevisiae and contains defects in cancers.",
    "journalTitle": "Nat Commun",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Putnam CD, Srivatsan A, Nene RV, Martinez SL, Clotfelter SP, Bell SN, Somach SB, de Souza JE, Fonseca AF, de Souza SJ, Kolodner RD."
   },
   {
@@ -1461,7 +1461,7 @@
    "title": "Quantitative proteomic analysis of the lysine acetylome reveals diverse SIRT2 substrates.",
    "journalTitle": "Sci Rep",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang H, Dammer EB, Duong DM, Danelia D, Seyfried NT, Yu DS."
   },
   {
@@ -1471,7 +1471,7 @@
    "title": "Post-Transcriptional Regulation of PARP7 Protein Stability Is Controlled by Androgen Signaling.",
    "journalTitle": "Cells",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kamata T, Yang CS, Melhuish TA, Frierson HF, Wotton D, Paschal BM."
   },
   {
@@ -1481,7 +1481,7 @@
    "title": "Immune-Related Gene Expression and Cytokine Secretion Is Reduced Among African American Colon Cancer Patients.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Paredes J, Paredes J, Zabaleta J, Garai J, Ji P, Imtiaz S, Spagnardi M, Alvarado J, Li L, Akadri M, Barrera K, Munoz-Sagastibelza M, Gupta R, Alshal M, Agaronov M, Talus H, Wang X, Carethers JM, Williams JL, Martello LA."
   },
   {
@@ -1491,7 +1491,7 @@
    "title": "Postoperative Complications Are Associated with Long-Term Changes in the Gut Microbiota Following Colorectal Cancer Surgery.",
    "journalTitle": "Life (Basel)",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Schmitt FCF, Schneider M, Mathejczyk W, Weigand MA, Figueiredo JC, Li CI, Shibata D, Siegel EM, Toriola AT, Ulrich CM, Ulrich AB, Boutin S, Gigic B."
   },
   {
@@ -1501,7 +1501,7 @@
    "title": "Workflow optimization of whole genome amplification and targeted panel sequencing for CTC mutation detection.",
    "journalTitle": "NPJ Genom Med",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Liu HE, Triboulet M, Zia A, Vuppalapaty M, Kidess-Sigal E, Coller J, Natu VS, Shokoohi V, Che J, Renier C, Chan NH, Hanft VR, Jeffrey SS, Sollier-Christen E."
   },
   {
@@ -1511,7 +1511,7 @@
    "title": "MicroRNA Seed Region Length Impact on Target Messenger RNA Expression and Survival in Colorectal Cancer.",
    "journalTitle": "PLoS One",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Mullany LE, Herrick JS, Wolff RK, Slattery ML."
   },
   {
@@ -1521,7 +1521,7 @@
    "title": "Prognostic role and biologic features of Musashi-2 expression in colon polyps and during colorectal cancer progression.",
    "journalTitle": "PLoS One",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kharin L, Bychkov I, Karnaukhov N, Voloshin M, Fazliyeva R, Deneka A, Frantsiyants E, Kit O, Golemis E, Boumber Y."
   },
   {
@@ -1531,7 +1531,7 @@
    "title": "Are beliefs about the importance of genetics for cancer prevention and early detection associated with high risk cancer genetic testing in the U.S. Population?",
    "journalTitle": "Prev Med Rep",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Makhnoon S, Maki KG, Yu R, Peterson SK, Shete S."
   },
   {
@@ -1541,7 +1541,7 @@
    "title": "The prognostic impact of RAS on overall survival following liver resection in early versus late-onset colorectal cancer patients.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "J\u00e1come AA, Vreeland TJ, Johnson B, Kawaguchi Y, Wei SH, Nancy You Y, Vilar E, Vauthey JN, Eng C."
   },
   {
@@ -1551,7 +1551,7 @@
    "title": "Tumor-Activatable Nanoparticles Target Low-Density Lipoprotein Receptor to Enhance Drug Delivery and Antitumor Efficacy.",
    "journalTitle": "Adv Sci (Weinh)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jiang X, Han W, Liu J, Mao J, Lee MJ, Rodriguez M, Li Y, Luo T, Xu Z, Yang K, Bissonnette M, Weichselbaum RR, Lin W."
   },
   {
@@ -1561,7 +1561,7 @@
    "title": "Depletion of METTL3 alters cellular and extracellular levels of miRNAs containing m<sup>6</sup>A consensus sequences.",
    "journalTitle": "Heliyon",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Abner JJ, Franklin JL, Clement MA, Hinger SA, Allen RM, Liu X, Kellner S, Wu J, Karijolich J, Liu Q, Vickers KC, Dedon P, Weaver AM, Coffey RJ, Patton JG."
   },
   {
@@ -1571,7 +1571,7 @@
    "title": "Radiation therapy enhances immunotherapy response in microsatellite stable colorectal and pancreatic adenocarcinoma in a phase II trial.",
    "journalTitle": "Nat Cancer",
    "pubYear": "2021",
-   "license": null,
+   "license": "",
    "authorString": "Parikh AR, Szabolcs A, Allen JN, Clark JW, Wo JY, Raabe M, Thel H, Hoyos D, Mehta A, Arshad S, Lieb DJ, Drapek LC, Blaszkowsky LS, Giantonio BJ, Weekes CD, Zhu AX, Goyal L, Nipp RD, Dubois JS, Van Seventer EE, Foreman BE, Matlack LE, Ly L, Meurer JA, Hacohen N, Ryan DP, Yeap BY, Corcoran RB, Greenbaum BD, Ting DT, Hong TS."
   },
   {
@@ -1581,7 +1581,7 @@
    "title": "Nongenetic Determinants of Risk for\u00a0Early-Onset Colorectal Cancer.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Archambault AN, Lin Y, Jeon J, Harrison TA, Bishop DT, Brenner H, Casey G, Chan AT, Chang-Claude J, Figueiredo JC, Gallinger S, Gruber SB, Gunter MJ, Hoffmeister M, Jenkins MA, Keku TO, Marchand LL, Li L, Moreno V, Newcomb PA, Pai R, Parfrey PS, Rennert G, Sakoda LC, Sandler RS, Slattery ML, Song M, Win AK, Woods MO, Murphy N, Campbell PT, Su YR, Zeleniuch-Jacquotte A, Liang PS, Du M, Hsu L, Peters U, Hayes RB."
   },
   {
@@ -1591,7 +1591,7 @@
    "title": "Carbon dating cancer: defining the chronology of metastatic progression in colorectal cancer.",
    "journalTitle": "Ann Oncol",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Lote H, Spiteri I, Ermini L, Vatsiou A, Roy A, McDonald A, Maka N, Balsitis M, Bose N, Simbolo M, Mafficini A, Lampis A, Hahne JC, Trevisani F, Eltahir Z, Mentrasti G, Findlay C, Kalkman EAJ, Punta M, Werner B, Lise S, Aktipis A, Maley C, Greaves M, Braconi C, White J, Fassan M, Scarpa A, Sottoriva A, Valeri N."
   },
   {
@@ -1601,7 +1601,7 @@
    "title": "Abundance of Microvascular Endothelial Cells Is Associated with Response to Chemotherapy and Prognosis in Colorectal Cancer.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Oshi M, Huyser MR, Le L, Tokumaru Y, Yan L, Matsuyama R, Endo I, Takabe K."
   },
   {
@@ -1611,7 +1611,7 @@
    "title": "Effect of High-Dose vs Standard-Dose Vitamin D<sub>3</sub> Supplementation on Body Composition among Patients with Advanced or Metastatic Colorectal Cancer: A Randomized Trial.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Brown JC, Rosenthal MH, Ma C, Zhang S, Nimeiri HS, McCleary NJ, Abrams TA, Yurgelun MB, Cleary JM, Rubinson DA, Schrag D, Bullock AJ, Allen J, Zuckerman D, Chan E, Chan JA, Wolpin B, Constantine M, Weckstein DJ, Faggen MA, Thomas CA, Kournioti C, Yuan C, Zheng H, Hollis BW, Fuchs CS, Ng K, Meyerhardt JA."
   },
   {
@@ -1621,7 +1621,7 @@
    "title": "Accuracy of four mononucleotide-repeat markers for the identification of DNA mismatch-repair deficiency in solid tumors.",
    "journalTitle": "J Transl Med",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Takehara Y, Nagasaka T, Nyuya A, Haruma T, Haraga J, Mori Y, Nakamura K, Fujiwara T, Boland CR, Goel A."
   },
   {
@@ -1631,7 +1631,7 @@
    "title": "Detection of <i>Streptococcus gallolyticus</i> and Four Other CRC-Associated Bacteria in Patient Stools Reveals a Potential \"Driver\" Role for Enterotoxigenic <i>Bacteroides fragilis</i>.",
    "journalTitle": "Front Cell Infect Microbiol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "P\u00e9richon B, Lichtl-H\u00e4fele J, Bergsten E, Delage V, Trieu-Cuot P, Sansonetti P, Sobhani I, Dramsi S."
   },
   {
@@ -1641,7 +1641,7 @@
    "title": "Economic Evaluation of Universal Lynch Syndrome Screening Protocols among Newly Diagnosed Patients with Colorectal Cancer.",
    "journalTitle": "J Pers Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Hao J, Hassen D, Gudgeon JM, Snyder SR, Hampel H, Williams MS, Sharaf RN, Lu CY, Williams JL, Schlieder V, Rahm AK."
   },
   {
@@ -1651,7 +1651,7 @@
    "title": "The COVID-19 Pandemic: Identifying Adaptive Solutions for Colorectal Cancer Screening in Underserved Communities.",
    "journalTitle": "J Natl Cancer Inst",
    "pubYear": "2021",
-   "license": null,
+   "license": "",
    "authorString": "Nodora JN, Gupta S, Howard N, Motadel K, Propst T, Rodriguez J, Schultz J, Velasquez S, Casta\u00f1eda SF, Rabin B, Mart\u00ednez ME."
   },
   {
@@ -1661,7 +1661,7 @@
    "title": "Semiconducting polymer nanoparticles for photothermal ablation of colorectal cancer organoids.",
    "journalTitle": "Sci Rep",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "McCarthy B, Cudykier A, Singh R, Levi-Polyachenko N, Soker S."
   },
   {
@@ -1671,7 +1671,7 @@
    "title": "Tumor location impacts immune response in mouse models of colon cancer.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhao X, Li L, Starr TK, Subramanian S."
   },
   {
@@ -1681,7 +1681,7 @@
    "title": "DNMT3B Oncogenic Activity in Human Intestinal Cancer Is Not Linked to CIMP or BRAFV600E Mutation.",
    "journalTitle": "iScience",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "MacKenzie DJ, Robertson NA, Rather I, Reid C, Sendzikaite G, Cruickshanks H, McBryan T, Hodges A, Pritchard C, Blyth K, Adams PD."
   },
   {
@@ -1691,7 +1691,7 @@
    "title": "Non-toxigenic Bacteroides fragilis (NTBF) administration reduces bacteria-driven chronic colitis and tumor development independent of polysaccharide A.",
    "journalTitle": "Mucosal Immunol",
    "pubYear": "2019",
-   "license": null,
+   "license": "",
    "authorString": "Chan JL, Wu S, Geis AL, Chan GV, Gomes TAM, Beck SE, Wu X, Fan H, Tam AJ, Chung L, Ding H, Wang H, Pardoll DM, Housseau F, Sears CL."
   },
   {
@@ -1701,7 +1701,7 @@
    "title": "Association Between Smoking and Molecular Subtypes of Colorectal Cancer.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Wang X, Amitay E, Harrison TA, Banbury BL, Berndt SI, Brenner H, Buchanan DD, Campbell PT, Cao Y, Chan AT, Chang-Claude J, Gallinger SJ, Giannakis M, Giles GG, Gunter MJ, Hopper JL, Jenkins MA, Lin Y, Moreno V, Nishihara R, Newcomb PA, Ogino S, Phipps AI, Sakoda LC, Schoen RE, Slattery ML, Song M, Sun W, Thibodeau SN, Toland AE, Van Guelpen B, Woods MO, Hsu L, Hoffmeister M, Peters U."
   },
   {
@@ -1711,7 +1711,7 @@
    "title": "R-spondin 2 Drives Liver Tumor Development in a Yes-Associated Protein-Dependent Manner.",
    "journalTitle": "Hepatol Commun",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Conboy CB, V\u00e9lez-Reyes GL, Tschida BR, Hu H, Kaufmann G, Koes N, Keller B, Alsinet C, Cornell\u00e0 H, Pinyol R, Abrahante JE, Temiz NA, Linden MA, Amin K, Kuka TP, Keng VW, Llovet JM, Starr TK, Largaespada DA."
   },
   {
@@ -1721,7 +1721,7 @@
    "title": "Automated segmentation of colorectal liver metastasis and liver ablation on contrast-enhanced CT images.",
    "journalTitle": "Front Oncol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Anderson BM, Rigaud B, Lin YM, Jones AK, Kang HC, Odisio BC, Brock KK."
   },
   {
@@ -1731,7 +1731,7 @@
    "title": "Multilevel predictors of colorectal cancer testing modality among publicly and privately insured people turning 50.",
    "journalTitle": "Prev Med Rep",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Wheeler SB, Kuo TM, Meyer AM, Martens CE, Hassmiller Lich KM, Tangka FK, Richardson LC, Hall IJ, Smith JL, Mayorga ME, Brown P, Crutchfield TM, Pignone MP."
   },
   {
@@ -1741,7 +1741,7 @@
    "title": "Genomic landscape of colorectal cancer in Japan: clinical implications of comprehensive genomic sequencing for precision medicine.",
    "journalTitle": "Genome Med",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Nagahashi M, Wakai T, Shimada Y, Ichikawa H, Kameyama H, Kobayashi T, Sakata J, Yagi R, Sato N, Kitagawa Y, Uetake H, Yoshida K, Oki E, Kudo SE, Izutsu H, Kodama K, Nakada M, Tse J, Russell M, Heyer J, Powers W, Sun R, Ring JE, Takabe K, Protopopov A, Ling Y, Okuda S, Lyle S."
   },
   {
@@ -1751,7 +1751,7 @@
    "title": "PRMT5-mediated methylation of YBX1 regulates NF-\u03baB activity in colorectal cancer.",
    "journalTitle": "Sci Rep",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Hartley AV, Wang B, Mundade R, Jiang G, Sun M, Wei H, Sun S, Liu Y, Lu T."
   },
   {
@@ -1761,7 +1761,7 @@
    "title": "Facile profiling of molecular heterogeneity by microfluidic digital melt.",
    "journalTitle": "Sci Adv",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "O'Keefe CM, Pisanic TR, Zec H, Overman MJ, Herman JG, Wang TH."
   },
   {
@@ -1771,7 +1771,7 @@
    "title": "Modeling tumor measurement data to predict overall survival (OS) in cancer clinical trials.",
    "journalTitle": "Contemp Clin Trials Commun",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Ou FS, Tang J, An MW, Mandrekar SJ."
   },
   {
@@ -1781,7 +1781,7 @@
    "title": "Geographic determinants of colorectal cancer in Louisiana.",
    "journalTitle": "Cancer Causes Control",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Danos D, Leonardi C, Wu XC."
   },
   {
@@ -1791,7 +1791,7 @@
    "title": "Determining the clinical validity of hereditary colorectal cancer and polyposis susceptibility genes using the Clinical Genome Resource Clinical Validity Framework.",
    "journalTitle": "Genet Med",
    "pubYear": "2019",
-   "license": null,
+   "license": "",
    "authorString": "Seifert BA, McGlaughon JL, Jackson SA, Ritter DI, Roberts ME, Schmidt RJ, Thompson BA, Jimenez S, Trapp M, Lee K, Plon SE, Offit K, Stadler ZK, Zhang L, Greenblatt MS, Ferber MJ."
   },
   {
@@ -1801,7 +1801,7 @@
    "title": "Hybrid-control arm construction using historical trial data for an early-phase, randomized controlled trial in metastatic colorectal cancer.",
    "journalTitle": "Commun Med (Lond)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Li C, Ferro A, Mhatre SK, Lu D, Lawrance M, Li X, Li S, Allen S, Desai J, Fakih M, Cecchini M, Pedersen KS, Kim TY, Reyes-Rivera I, Segal NH, Lenain C."
   },
   {
@@ -1811,7 +1811,7 @@
    "title": "Role for polo-like kinase 4 in mediation of cytokinesis.",
    "journalTitle": "Proc Natl Acad Sci U S A",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Press MF, Xie B, Davenport S, Zhou Y, Guzman R, Nolan GP, O'Brien N, Palazzolo M, Mak TW, Brugge JS, Slamon DJ."
   },
   {
@@ -1821,7 +1821,7 @@
    "title": "A Pretargeted Approach for the Multimodal PET/NIRF Imaging of Colorectal Cancer.",
    "journalTitle": "Theranostics",
    "pubYear": "2016",
-   "license": null,
+   "license": "",
    "authorString": "Adumeau P, Carnazza KE, Brand C, Carlin SD, Reiner T, Agnew BJ, Lewis JS, Zeglis BM."
   },
   {
@@ -1831,7 +1831,7 @@
    "title": "A dyadic survey study of partner engagement in and patient receipt of guideline-recommended colorectal cancer surveillance.",
    "journalTitle": "BMC Cancer",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Veenstra CM, Ellis KR, Abrahamse P, Ward KC, Morris AM, Hawley ST."
   },
   {
@@ -1841,7 +1841,7 @@
    "title": "A Novel Blood-Based Colorectal Cancer Diagnostic Technology Using Electrical Detection of Colon Cancer Secreted Protein-2.",
    "journalTitle": "Adv Sci (Weinh)",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Jeun M, Lee HJ, Park S, Do EJ, Choi J, Sung YN, Hong SM, Kim SY, Kim DH, Kang JY, Son HN, Joo J, Song EM, Hwang SW, Park SH, Yang DH, Ye BD, Byeon JS, Choe J, Yang SK, Moinova H, Markowitz SD, Lee KH, Myung SJ."
   },
   {
@@ -1851,7 +1851,7 @@
    "title": "Diagnostic evaluation of a deep learning model for optical diagnosis of colorectal cancer.",
    "journalTitle": "Nat Commun",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhou D, Tian F, Tian X, Sun L, Huang X, Zhao F, Zhou N, Chen Z, Zhang Q, Yang M, Yang Y, Guo X, Li Z, Liu J, Wang J, Wang J, Wang B, Zhang G, Sun B, Zhang W, Kong D, Chen K, Li X."
   },
   {
@@ -1861,7 +1861,7 @@
    "title": "An integrated magneto-electrochemical device for the rapid profiling of tumour extracellular vesicles from blood plasma.",
    "journalTitle": "Nat Biomed Eng",
    "pubYear": "2021",
-   "license": null,
+   "license": "",
    "authorString": "Park J, Park JS, Huang CH, Jo A, Cook K, Wang R, Lin HY, Van Deun J, Li H, Min J, Wang L, Yoon G, Carter BS, Balaj L, Choi GS, Castro CM, Weissleder R, Lee H."
   },
   {
@@ -1871,7 +1871,7 @@
    "title": "Comparative molecular genomic analyses of a spontaneous rhesus macaque model of mismatch repair-deficient colorectal cancer.",
    "journalTitle": "PLoS Genet",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ozirmak Lermi N, Gray SB, Bowen CM, Reyes-Uribe L, Dray BK, Deng N, Harris RA, Raveendran M, Benavides F, Hodo CL, Taggart MW, Colbert Maresso K, Sinha KM, Rogers J, Vilar E."
   },
   {
@@ -1881,7 +1881,7 @@
    "title": "Neutrophils Extracellular Traps Inhibition Improves PD-1 Blockade Immunotherapy in Colorectal Cancer.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang H, Wang Y, Onuma A, He J, Wang H, Xia Y, Lal R, Cheng X, Kasumova G, Hu Z, Deng M, Beane JD, Kim AC, Huang H, Tsung A."
   },
   {
@@ -1891,7 +1891,7 @@
    "title": "An efficient and accurate distributed learning algorithm for modeling multi-site zero-inflated count outcomes.",
    "journalTitle": "Sci Rep",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Edmondson MJ, Luo C, Duan R, Maltenfort M, Chen Z, Locke K, Shults J, Bian J, Ryan PB, Forrest CB, Chen Y."
   },
   {
@@ -1901,7 +1901,7 @@
    "title": "Mathematical modeling links Wnt signaling to emergent patterns of metabolism in colon cancer.",
    "journalTitle": "Mol Syst Biol",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Lee M, Chen GT, Puttock E, Wang K, Edwards RA, Waterman ML, Lowengrub J."
   },
   {
@@ -1911,7 +1911,7 @@
    "title": "Real-time colorectal cancer diagnosis using PR-OCT with deep learning.",
    "journalTitle": "Theranostics",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zeng Y, Xu S, Chapman WC, Li S, Alipour Z, Abdelal H, Chatterjee D, Mutch M, Zhu Q."
   },
   {
@@ -1921,7 +1921,7 @@
    "title": "Lipid-Lowering Drug Use and Cancer Incidence and Mortality in the ARIC Study.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Marrone MT, Mondul AM, Prizment AE, Couper D, Barber JR, Chappidi MR, Joshu CE, Platz EA."
   },
   {
@@ -1931,7 +1931,7 @@
    "title": "Minimal barriers to invasion during human colorectal tumor growth.",
    "journalTitle": "Nat Commun",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ryser MD, Mallo D, Hall A, Hardman T, King LM, Tatishchev S, Sorribes IC, Maley CC, Marks JR, Hwang ES, Shibata D."
   },
   {
@@ -1941,7 +1941,7 @@
    "title": "Body Mass Index and Weight Loss in Metastatic Colorectal Cancer in CALGB (Alliance)/SWOG 80405.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Guercio BJ, Zhang S, Venook AP, Ou FS, Niedzwiecki D, Lenz HJ, Innocenti F, Mullen BC, O'Neil BH, Shaw JE, Polite BN, Hochster HS, Atkins JN, Goldberg RM, Brown JC, O'Reilly EM, Mayer RJ, Blanke CD, Fuchs CS, Meyerhardt JA."
   },
   {
@@ -1951,7 +1951,7 @@
    "title": "Modifiable pathways for colorectal cancer: a mendelian randomisation analysis.",
    "journalTitle": "Lancet Gastroenterol Hepatol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Cornish AJ, Law PJ, Timofeeva M, Palin K, Farrington SM, Palles C, Jenkins MA, Casey G, Brenner H, Chang-Claude J, Hoffmeister M, Kirac I, Maughan T, Brezina S, Gsur A, Cheadle JP, Aaltonen LA, Tomlinson I, Dunlop MG, Houlston RS."
   },
   {
@@ -1961,7 +1961,7 @@
    "title": "Senescence-associated tissue microenvironment promotes colon cancer formation through the secretory factor GDF15.",
    "journalTitle": "Aging Cell",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Guo Y, Ayers JL, Carter KT, Wang T, Maden SK, Edmond D, Newcomb P P, Li C, Ulrich C, Yu M, Grady WM."
   },
   {
@@ -1971,7 +1971,7 @@
    "title": "ACVR2B antagonism as a countermeasure to multi-organ perturbations in metastatic colorectal cancer cachexia.",
    "journalTitle": "J Cachexia Sarcopenia Muscle",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Huot JR, Pin F, Narasimhan A, Novinger LJ, Keith AS, Zimmers TA, Willis MS, Bonetto A."
   },
   {
@@ -1981,7 +1981,7 @@
    "title": "Lifestyle Factors, Colorectal Tumor Methylation, and Survival Among African Americans and European Americans.",
    "journalTitle": "Sci Rep",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Busch EL, Galanko JA, Sandler RS, Goel A, Keku TO."
   },
   {
@@ -1991,7 +1991,7 @@
    "title": "Comparison of Nanostring nCounter\u00ae Data on FFPE Colon Cancer Samples and Affymetrix Microarray Data on Matched Frozen Tissues.",
    "journalTitle": "PLoS One",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chen X, Deane NG, Lewis KB, Li J, Zhu J, Washington MK, Beauchamp RD."
   },
   {
@@ -2001,7 +2001,7 @@
    "title": "Financial Incentives to Increase Colorectal Cancer Screening Uptake and Decrease Disparities: A Randomized Clinical Trial.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Green BB, Anderson ML, Cook AJ, Chubak J, Fuller S, Kimbel KJ, Kullgren JT, Meenan RT, Vernon SW."
   },
   {
@@ -2011,7 +2011,7 @@
    "title": "Hotspots of aberrant enhancer activity punctuate the colorectal cancer epigenome.",
    "journalTitle": "Nat Commun",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Cohen AJ, Saiakhova A, Corradin O, Luppino JM, Lovrenert K, Bartels CF, Morrow JJ, Mack SC, Dhillon G, Beard L, Myeroff L, Kalady MF, Willis J, Bradner JE, Keri RA, Berger NA, Pruett-Miller SM, Markowitz SD, Scacheri PC."
   },
   {
@@ -2021,7 +2021,7 @@
    "title": "Leptin gene variants and colorectal cancer risk: Sex-specific associations.",
    "journalTitle": "PLoS One",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chun KA, Kocarnik JM, Hardikar SS, Robinson JR, Berndt SI, Chan AT, Figueiredo JC, Lindor NM, Song M, Schoen RE, Hayes RB, Potter JD, Nassir R, B\u00e9zieau S, Le Marchand L, Slattery ML, White E, Peters U, Newcomb PA."
   },
   {
@@ -2031,7 +2031,7 @@
    "title": "The receptor tyrosine kinase AXL promotes migration and invasion in colorectal cancer.",
    "journalTitle": "PLoS One",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Uribe DJ, Mandell EK, Watson A, Martinez JD, Leighton JA, Ghosh S, Rothlin CV."
   },
   {
@@ -2041,7 +2041,7 @@
    "title": "Management of adverse events from the treatment of encorafenib plus cetuximab for patients with BRAF V600E-mutant metastatic colorectal cancer: insights from the BEACON CRC study.",
    "journalTitle": "ESMO Open",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Tabernero J, Velez L, Trevino TL, Grothey A, Yaeger R, Van Cutsem E, Wasan H, Desai J, Ciardiello F, Yoshino T, Gollerkeri A, Maharry K, Christy-Bittel J, Kopetz S."
   },
   {
@@ -2051,7 +2051,7 @@
    "title": "The global, regional, and national burden of colorectal cancer and its attributable risk factors in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017.",
    "journalTitle": "Lancet Gastroenterol Hepatol",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "GBD 2017 Colorectal Cancer Collaborators."
   },
   {
@@ -2061,7 +2061,7 @@
    "title": "Cooperation between ETS transcription factor ETV1 and histone demethylase JMJD1A in colorectal cancer.",
    "journalTitle": "Int J Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Oh S, Song H, Freeman WM, Shin S, Janknecht R."
   },
   {
@@ -2071,7 +2071,7 @@
    "title": "MicroRNA-20a-5p promotes colorectal cancer invasion and metastasis by downregulating Smad4.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Cheng D, Zhao S, Tang H, Zhang D, Sun H, Yu F, Jiang W, Yue B, Wang J, Zhang M, Yu Y, Liu X, Sun X, Zhou Z, Qin X, Zhang X, Yan D, Wen Y, Peng Z."
   },
   {
@@ -2081,7 +2081,7 @@
    "title": "DNA methylation analysis of normal colon organoids from familial adenomatous polyposis patients reveals novel insight into colon cancer development.",
    "journalTitle": "Clin Epigenetics",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Devall MA, Eaton S, Ali MW, Dampier CH, Weisenberger D, Powell SM, Li L, Casey G."
   },
   {
@@ -2091,7 +2091,7 @@
    "title": "Chemotherapy-generated cell debris stimulates colon carcinoma tumor growth via osteopontin.",
    "journalTitle": "FASEB J",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chang J, Bhasin SS, Bielenberg DR, Sukhatme VP, Bhasin M, Huang S, Kieran MW, Panigrahy D."
   },
   {
@@ -2101,7 +2101,7 @@
    "title": "fdrci: FDR confidence interval selection and adjustment for large-scale hypothesis testing.",
    "journalTitle": "Bioinform Adv",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Millstein J, Battaglin F, Arai H, Zhang W, Jayachandran P, Soni S, Parikh AR, Mancao C, Lenz HJ."
   },
   {
@@ -2111,7 +2111,7 @@
    "title": "An enhanced genetic model of colorectal cancer progression history.",
    "journalTitle": "Genome Biol",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Yang L, Wang S, Lee JJ, Lee S, Lee E, Shinbrot E, Wheeler DA, Kucherlapati R, Park PJ."
   },
   {
@@ -2121,7 +2121,7 @@
    "title": "Opportunities for personalizing colorectal cancer care: an analysis of SEER-medicare data.",
    "journalTitle": "Pharmacogenomics J",
    "pubYear": "2022",
-   "license": null,
+   "license": "",
    "authorString": "Rivers ZT, Parsons HM, Jacobson PA, Kuntz KM, Farley JF, Stenehjem DJ."
   },
   {
@@ -2131,7 +2131,7 @@
    "title": "Depressed Colorectal Cancer: A New Paradigm in Early Colorectal Cancer.",
    "journalTitle": "Clin Transl Gastroenterol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Kudo SE, Kouyama Y, Ogawa Y, Ichimasa K, Hamada T, Kato K, Kudo K, Masuda T, Otsu H, Misawa M, Mori Y, Kudo T, Hayashi T, Wakamura K, Miyachi H, Sawada N, Sato T, Shibata T, Hamatani S, Nemoto T, Ishida F, Niida A, Miyano S, Oshima M, Ogino S, Mimori K."
   },
   {
@@ -2141,7 +2141,7 @@
    "title": "Tumor-Induced IL-6 Reprograms Host Metabolism to Suppress Anti-tumor Immunity.",
    "journalTitle": "Cell Metab",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Flint TR, Janowitz T, Connell CM, Roberts EW, Denton AE, Coll AP, Jodrell DI, Fearon DT."
   },
   {
@@ -2151,7 +2151,7 @@
    "title": "Noninvasive assessment and therapeutic monitoring of drug-resistant colorectal cancer by MR molecular imaging of extradomain-B fibronectin.",
    "journalTitle": "Theranostics",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Vaidya A, Ayat N, Buford M, Wang H, Shankardass A, Zhao Y, Gilmore H, Wang Z, Lu ZR."
   },
   {
@@ -2161,7 +2161,7 @@
    "title": "Intestinal stem cell overproliferation resulting from inactivation of the APC tumor suppressor requires the transcription cofactors Earthbound and Erect wing.",
    "journalTitle": "PLoS Genet",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Tian A, Benchabane H, Wang Z, Zimmerman C, Xin N, Perochon J, Kalna G, Sansom OJ, Cheng C, Cordero JB, Ahmed Y."
   },
   {
@@ -2171,7 +2171,7 @@
    "title": "Novel Protein-Based Vaccine against Self-Antigen Reduces the Formation of Sporadic Colon Adenomas in Mice.",
    "journalTitle": "Cancers (Basel)",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Belnoue E, Leystra AA, Carboni S, Cooper HS, Macedo RT, Harvey KN, Colby KB, Campbell KS, Vanderveer LA, Clapper ML, Derouazi M."
   },
   {
@@ -2181,7 +2181,7 @@
    "title": "Modulation of the extracellular matrix by Streptococcus gallolyticus subsp. gallolyticus and importance in cell proliferation.",
    "journalTitle": "PLoS Pathog",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kumar R, Taylor JC, Jain A, Jung SY, Garza V, Xu Y."
   },
   {
@@ -2191,7 +2191,7 @@
    "title": "A combined FAK, c-MET, and MST1R three-protein panel risk-stratifies colorectal cancer patients.",
    "journalTitle": "Transl Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Yoon JY, Wang JY, Roehrl MHA."
   },
   {
@@ -2201,7 +2201,7 @@
    "title": "Inhibition of insulin-like growth factor 2 mRNA-binding protein 1 sensitizes colorectal cancer cells to chemotherapeutics.",
    "journalTitle": "FASEB Bioadv",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Betson N, Hajahmed M, Gebretsadek T, Ndebele K, Ahmad HA, Tchounwou PB, Spiegelman VS, Noubissi FK."
   },
   {
@@ -2211,7 +2211,7 @@
    "title": "Functional exploration of colorectal cancer genomes using Drosophila.",
    "journalTitle": "Nat Commun",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Bangi E, Murgia C, Teague AG, Sansom OJ, Cagan RL."
   },
   {
@@ -2221,7 +2221,7 @@
    "title": "Profiling diverse sequence tandem repeats in colorectal cancer reveals co-occurrence of microsatellite and chromosomal instability involving Chromosome 8.",
    "journalTitle": "Genome Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Shin G, Greer SU, Hopmans E, Grimes SM, Lee H, Zhao L, Miotke L, Suarez C, Almeda AF, Haraldsdottir S, Ji HP."
   },
   {
@@ -2231,7 +2231,7 @@
    "title": "Antibiotic use and colorectal neoplasia: a systematic review and meta-analysis.",
    "journalTitle": "BMJ Open Gastroenterol",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Aneke-Nash C, Yoon G, Du M, Liang P."
   },
   {
@@ -2241,7 +2241,7 @@
    "title": "Expression Profiles of miRNA Subsets Distinguish Human Colorectal Carcinoma and Normal Colonic Mucosa.",
    "journalTitle": "Clin Transl Gastroenterol",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Pellatt DF, Stevens JR, Wolff RK, Mullany LE, Herrick JS, Samowitz W, Slattery ML."
   },
   {
@@ -2251,7 +2251,7 @@
    "title": "Synthesis and reactivity of precolibactin 886.",
    "journalTitle": "Nat Chem",
    "pubYear": "2019",
-   "license": null,
+   "license": "",
    "authorString": "Healy AR, Wernke KM, Kim CS, Lees NR, Crawford JM, Herzon SB."
   },
   {
@@ -2261,7 +2261,7 @@
    "title": "Development of CAR-T Cell Persistence in Adoptive Immunotherapy of Solid Tumors.",
    "journalTitle": "Front Oncol",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Fan J, Das JK, Xiong X, Chen H, Song J."
   },
   {
@@ -2271,7 +2271,7 @@
    "title": "Accelerated enhanced <i>Recover</i>y following <i>M</i>inimally <i>I</i>nvasive colorectal cancer surgery (<i>RecoverMI</i>): a study protocol for a novel randomised controlled trial.",
    "journalTitle": "BMJ Open",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Price BA, Bednarski BK, You YN, Manandhar M, Dean EM, Alawadi ZM, Bryce Speer B, Gottumukkala V, Weldon M, Massey RL, Wang X, Qiao W, Chang GJ."
   },
   {
@@ -2281,7 +2281,7 @@
    "title": "Heritability Estimation using a Regularized Regression Approach (HERRA): Applicable to continuous, dichotomous or age-at-onset outcome.",
    "journalTitle": "PLoS One",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc0",
    "authorString": "Gorfine M, Berndt SI, Chang-Claude J, Hoffmeister M, Le Marchand L, Potter J, Slattery ML, Keret N, Peters U, Hsu L."
   },
   {
@@ -2291,7 +2291,7 @@
    "title": "Herbal formula Huang Qin Ge Gen Tang enhances 5-fluorouracil antitumor activity through modulation of the E2F1/TS pathway.",
    "journalTitle": "Cell Commun Signal",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Liu H, Liu H, Zhou Z, Parise RA, Chu E, Schmitz JC."
   },
   {
@@ -2301,7 +2301,7 @@
    "title": "Enhanced dependency of KRAS-mutant colorectal cancer cells on RAD51-dependent homologous recombination repair identified from genetic interactions in Saccharomyces cerevisiae.",
    "journalTitle": "Mol Oncol",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kalimutho M, Bain AL, Mukherjee B, Nag P, Nanayakkara DM, Harten SK, Harris JL, Subramanian GN, Sinha D, Shirasawa S, Srihari S, Burma S, Khanna KK."
   },
   {
@@ -2311,7 +2311,7 @@
    "title": "Limiting oxidative DNA damage reduces microbe-induced colitis-associated colorectal cancer.",
    "journalTitle": "Nat Commun",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Irrazabal T, Thakur BK, Kang M, Malaise Y, Streutker C, Wong EOY, Copeland J, Gryfe R, Guttman DS, Navarre WW, Martin A."
   },
   {
@@ -2321,7 +2321,7 @@
    "title": "The atypical cyclin CNTD2 promotes colon cancer cell proliferation and migration.",
    "journalTitle": "Sci Rep",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "S\u00e1nchez-Botet A, Gasa L, Quandt E, Hern\u00e1ndez-Ortega S, Jim\u00e9nez J, Mezquita P, Carrasco-Garc\u00eda M\u00c0, Kron SJ, Vidal A, Villanueva A, Ribeiro MPC, Clotet J."
   },
   {
@@ -2331,7 +2331,7 @@
    "title": "Genotype-Based Gene Expression in Colon Tissue-Prediction Accuracy and Relationship with the Prognosis of Colorectal Cancer Patients.",
    "journalTitle": "Int J Mol Sci",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Deutelmoser H, Lorenzo Bermejo J, Benner A, Weigl K, Park HA, Haffa M, Herpel E, Schneider M, Ulrich CM, Hoffmeister M, Chang-Claude J, Brenner H, Scherer D."
   },
   {
@@ -2341,7 +2341,7 @@
    "title": "Association analyses identify 31 new risk loci for colorectal cancer susceptibility.",
    "journalTitle": "Nat Commun",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Law PJ, Timofeeva M, Fernandez-Rozadilla C, Broderick P, Studd J, Fernandez-Tajes J, Farrington S, Svinti V, Palles C, Orlando G, Sud A, Holroyd A, Penegar S, Theodoratou E, Vaughan-Shaw P, Campbell H, Zgaga L, Hayward C, Campbell A, Harris S, Deary IJ, Starr J, Gatcombe L, Pinna M, Briggs S, Martin L, Jaeger E, Sharma-Oates A, East J, Leedham S, Arnold R, Johnstone E, Wang H, Kerr D, Kerr R, Maughan T, Kaplan R, Al-Tassan N, Palin K, H\u00e4nninen UA, Cajuso T, Tanskanen T, Kondelin J, Kaasinen E, Sarin AP, Eriksson JG, Rissanen H, Knekt P, Pukkala E, Jousilahti P, Salomaa V, Ripatti S, Palotie A, Renkonen-Sinisalo L, Lepist\u00f6 A, B\u00f6hm J, Mecklin JP, Buchanan DD, Win AK, Hopper J, Jenkins ME, Lindor NM, Newcomb PA, Gallinger S, Duggan D, Casey G, Hoffmann P, N\u00f6then MM, J\u00f6ckel KH, Easton DF, Pharoah PDP, Peto J, Canzian F, Swerdlow A, Eeles RA, Kote-Jarai Z, Muir K, Pashayan N, PRACTICAL consortium, Harkin A, Allan K, McQueen J, Paul J, Iveson T, Saunders M, Butterbach K, Chang-Claude J, Hoffmeister M, Brenner H, Kirac I, Mato\u0161evi\u0107 P, Hofer P, Brezina S, Gsur A, Cheadle JP, Aaltonen LA, Tomlinson I, Houlston RS, Dunlop MG."
   },
   {
@@ -2351,7 +2351,7 @@
    "title": "Poor-Prognosis Metastatic Cancers in Adolescents and Young Adults: Incidence Patterns, Trends, and Disparities.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Sheth Bhutada J, Hwang A, Liu L, Deapen D, Freyer DR."
   },
   {
@@ -2361,7 +2361,7 @@
    "title": "Type 2 diabetes and risk of colorectal cancer in two large U.S. prospective cohorts.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ma Y, Yang W, Song M, Smith-Warner SA, Yang J, Li Y, Ma W, Hu Y, Ogino S, Hu FB, Wen D, Chan AT, Giovannucci EL, Zhang X."
   },
   {
@@ -2371,7 +2371,7 @@
    "title": "TNIK Inhibition Has Dual Synergistic Effects on Tumor and Associated Immune Cells.",
    "journalTitle": "Adv Biol (Weinh)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Kim J, Oh J, Peterson HM, Carlson JCT, Pittet MJ, Weissleder R."
   },
   {
@@ -2381,7 +2381,7 @@
    "title": "Epithelial TGF\u03b2 engages growth-factor signalling to circumvent apoptosis and drive intestinal tumourigenesis with aggressive features.",
    "journalTitle": "Nat Commun",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Flanagan DJ, Amirkhah R, Vincent DF, Gunduz N, Gentaz P, Cammareri P, McCooey AJ, McCorry AMB, Fisher NC, Davis HL, Ridgway RA, Lohuis J, Leach JDG, Jackstadt R, Gilroy K, Mariella E, Nixon C, Clark W, Hedley A, Markert EK, Strathdee D, Bartholin L, Redmond KL, Kerr EM, Longley DB, Ginty F, Cho S, Coleman HG, Loughrey MB, Bardelli A, Maughan TS, Campbell AD, Lawler M, Leedham SJ, Barry ST, Inman GJ, van Rheenen J, Dunne PD, Sansom OJ."
   },
   {
@@ -2391,7 +2391,7 @@
    "title": "Postmenopausal Hormone Therapy and Colorectal Cancer Risk by Molecularly Defined Subtypes and Tumor Location.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Labadie JD, Harrison TA, Banbury B, Amtay EL, Bernd S, Brenner H, Buchanan DD, Campbell PT, Cao Y, Chan AT, Chang-Claude J, English D, Figueiredo JC, Gallinger SJ, Giles GG, Gunter MJ, Hoffmeister M, Hsu L, Jenkins MA, Lin Y, Milne RL, Moreno V, Murphy N, Ogino S, Phipps AI, Sakoda LC, Slattery ML, Southey MC, Sun W, Thibodeau SN, Van Guelpen B, Zaidi SH, Peters U, Newcomb PA."
   },
   {
@@ -2401,7 +2401,7 @@
    "title": "A Strategy to Prepare Primary Care Clinicians for Discussing Stopping Cancer Screening With Adults Older Than 75 Years.",
    "journalTitle": "Innov Aging",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Schonberg MA, Karamourtopoulos M, Jacobson AR, Aliberti GM, Pinheiro A, Smith AK, Davis RB, Schuttner LC, Hamel MB."
   },
   {
@@ -2411,7 +2411,7 @@
    "title": "Therapeutic potential of adenovirus-mediated TFF2-CTP-Flag peptide for treatment of colorectal cancer.",
    "journalTitle": "Cancer Gene Ther",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dubeykovskaya ZA, Duddempudi PK, Deng H, Valenti G, Cuti KL, Nagar K, Tailor Y, Guha C, Kitajewski J, Wang TC."
   },
   {
@@ -2421,7 +2421,7 @@
    "title": "Hyaluronic acid-doxorubicin nanoparticles for targeted treatment of colorectal cancer.",
    "journalTitle": "Bioeng Transl Med",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Pan DC, Krishnan V, Salinas AK, Kim J, Sun T, Ravid S, Peng K, Wu D, Nurunnabi M, Nelson JA, Niziolek Z, Guo J, Mitragotri S."
   },
   {
@@ -2431,7 +2431,7 @@
    "title": "Anti-GPR56 monoclonal antibody potentiates GPR56-mediated Src-Fak signaling to modulate cell adhesion.",
    "journalTitle": "J Biol Chem",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chatterjee T, Zhang S, Posey TA, Jacob J, Wu L, Yu W, Francisco LE, Liu QJ, Carmon KS."
   },
   {
@@ -2441,7 +2441,7 @@
    "title": "Selective analysis of cancer-cell intrinsic transcriptional traits defines novel clinically relevant subtypes of colorectal cancer.",
    "journalTitle": "Nat Commun",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Isella C, Brundu F, Bellomo SE, Galimi F, Zanella E, Porporato R, Petti C, Fiori A, Orzan F, Senetta R, Boccaccio C, Ficarra E, Marchionni L, Trusolino L, Medico E, Bertotti A."
   },
   {
@@ -2451,7 +2451,7 @@
    "title": "Loss of ABHD5 promotes the aggressiveness of prostate cancer cells.",
    "journalTitle": "Sci Rep",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chen G, Zhou G, Aras S, He Z, Lucas S, Podgorski I, Skar W, Granneman JG, Wang J."
   },
   {
@@ -2461,7 +2461,7 @@
    "title": "Targeting ADAM17 inhibits human colorectal adenocarcinoma progression and tumor-initiating cell frequency.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dosch J, Ziemke E, Wan S, Luker K, Welling T, Hardiman K, Fearon E, Thomas S, Flynn M, Rios-Doria J, Hollingsworth R, Herbst R, Hurt E, Sebolt-Leopold J."
   },
   {
@@ -2471,7 +2471,7 @@
    "title": "Modulation of Gut Microbiota by Glucosamine and Chondroitin in a Randomized, Double-Blind Pilot Trial in Humans.",
    "journalTitle": "Microorganisms",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Navarro SL, Levy L, Curtis KR, Lampe JW, Hullar MAJ."
   },
   {
@@ -2481,7 +2481,7 @@
    "title": "Plasma metabolites associated with colorectal cancer: A discovery-replication strategy.",
    "journalTitle": "Int J Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Geijsen AJMR, Brezina S, Keski-Rahkonen P, Baierl A, Bachleitner-Hofmann T, Bergmann MM, Boehm J, Brenner H, Chang-Claude J, van Duijnhoven FJB, Gigic B, Gumpenberger T, Hofer P, Hoffmeister M, Holowatyj AN, Karner-Hanusch J, Kok DE, Leeb G, Ulvik A, Robinot N, Ose J, Stift A, Schrotz-King P, Ulrich AB, Ueland PM, Kampman E, Scalbert A, Habermann N, Gsur A, Ulrich CM."
   },
   {
@@ -2491,7 +2491,7 @@
    "title": "Enrichment of colorectal cancer associations in functional regions: Insight for using epigenomics data in the analysis of whole genome sequence-imputed GWAS data.",
    "journalTitle": "PLoS One",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Bien SA, Auer PL, Harrison TA, Qu C, Connolly CM, Greenside PG, Chen S, Berndt SI, B\u00e9zieau S, Kang HM, Huyghe J, Brenner H, Casey G, Chan AT, Hopper JL, Banbury BL, Chang-Claude J, Chanock SJ, Haile RW, Haile RW, Hoffmeister M, Fuchsberger C, Jenkins MA, Leal SM, Lemire M, Newcomb PA, Gallinger S, Potter JD, Schoen RE, Slattery ML, Smith JD, Le Marchand L, White E, Zanke BW, Abe\u00e7asis GR, Carlson CS, Peters U, Nickerson DA, Kundaje A, Hsu L, GECCO and CCFR."
   },
   {
@@ -2501,7 +2501,7 @@
    "title": "Study protocol for the Exercising Together\u00a9 trial: a randomized, controlled trial of partnered exercise for couples coping with cancer.",
    "journalTitle": "Trials",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Winters-Stone KM, Lyons KS, Dieckmann NF, Lee CS, Mitri Z, Beer TM."
   },
   {
@@ -2511,7 +2511,7 @@
    "title": "Enhanced detection of microsatellite instability using pre-PCR elimination of wild-type DNA homo-polymers in tissue and liquid biopsies.",
    "journalTitle": "Nucleic Acids Res",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Ladas I, Yu F, Leong KW, Fitarelli-Kiehl M, Song C, Ashtaputre R, Kulke M, Mamon H, Makrigiorgos GM."
   },
   {
@@ -2521,7 +2521,7 @@
    "title": "Role of SUMO activating enzyme in cancer stem cell maintenance and self-renewal.",
    "journalTitle": "Nat Commun",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Du L, Li YJ, Fakih M, Wiatrek RL, Duldulao M, Chen Z, Chu P, Garcia-Aguilar J, Chen Y."
   },
   {
@@ -2531,7 +2531,7 @@
    "title": "Type 2 diabetes mellitus, blood cholesterol, triglyceride and colorectal cancer risk in Lynch syndrome.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dashti SG, Li WY, Buchanan DD, Clendenning M, Rosty C, Winship IM, Macrae FA, Giles GG, Hardikar S, Hua X, Thibodeau SN, Figueiredo JC, Casey G, Haile RW, Gallinger S, Le Marchand L, Newcomb PA, Potter JD, Lindor NM, Hopper JL, Jenkins MA, Win AK."
   },
   {
@@ -2541,7 +2541,7 @@
    "title": "Dysregulated Free Fatty Acid Receptor 2 Exacerbates Colonic Adenoma Formation in <i>Apc</i> <sup><i>Min/+</i></sup> Mice: Relation to Metabolism and Gut Microbiota Composition.",
    "journalTitle": "J Cancer Prev",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Huang YW, Lin CW, Pan P, Echeveste CE, Dong A, Oshima K, Yearsley M, Yu J, Wang LS."
   },
   {
@@ -2551,7 +2551,7 @@
    "title": "Artificial intelligence for detection of microsatellite instability in colorectal cancer-a multicentric analysis of a pre-screening tool for clinical application.",
    "journalTitle": "ESMO Open",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Echle A, Ghaffari Laleh N, Quirke P, Grabsch HI, Muti HS, Saldanha OL, Brockmoeller SF, van den Brandt PA, Hutchins GGA, Richman SD, Horisberger K, Galata C, Ebert MP, Eckardt M, Boutros M, Horst D, Reissfelder C, Alwers E, Brinker TJ, Langer R, Jenniskens JCA, Offermans K, Mueller W, Gray R, Gruber SB, Greenson JK, Rennert G, Bonner JD, Schmolze D, Chang-Claude J, Brenner H, Trautwein C, Boor P, Jaeger D, Gaisa NT, Hoffmeister M, West NP, Kather JN."
   },
   {
@@ -2561,7 +2561,7 @@
    "title": "Enhancing Colorectal Cancer Radiation Therapy Efficacy using Silver Nanoprisms Decorated with Graphene as Radiosensitizers.",
    "journalTitle": "Sci Rep",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Habiba K, Aziz K, Sanders K, Santiago CM, Mahadevan LSK, Makarov V, Weiner BR, Morell G, Krishnan S."
   },
   {
@@ -2571,7 +2571,7 @@
    "title": "Feasibility and performance of the fecal immunochemical test (FIT) for average-risk colorectal cancer screening in Nigeria.",
    "journalTitle": "PLoS One",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Knapp GC, Alatise O, Olopade B, Samson M, Olasehinde O, Wuraola F, Odujoko OO, Komolafe AO, Arije OO, Castle PE, Smith JJ, Weiser MR, Kingham TP."
   },
   {
@@ -2581,7 +2581,7 @@
    "title": "Salicylic Acid and Risk of Colorectal Cancer: A Two-Sample Mendelian Randomization Study.",
    "journalTitle": "Nutrients",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Nounu A, Richmond RC, Stewart ID, Surendran P, Wareham NJ, Butterworth A, Weinstein SJ, Albanes D, Baron JA, Hopper JL, Figueiredo JC, Newcomb PA, Lindor NM, Casey G, Platz EA, Marchand LL, Ulrich CM, Li CI, van Dujinhoven FJB, Gsur A, Campbell PT, Moreno V, Vodicka P, Vodickova L, Amitay E, Alwers E, Chang-Claude J, Sakoda LC, Slattery ML, Schoen RE, Gunter MJ, Castellv\u00ed-Bel S, Kim HR, Kweon SS, Chan AT, Li L, Zheng W, Bishop DT, Buchanan DD, Giles GG, Gruber SB, Rennert G, Stadler ZK, Harrison TA, Lin Y, Keku TO, Woods MO, Schafmayer C, Van Guelpen B, Gallinger S, Hampel H, Berndt SI, Pharoah PDP, Lindblom A, Wolk A, Wu AH, White E, Peters U, Drew DA, Scherer D, Bermejo JL, Brenner H, Hoffmeister M, Williams AC, Relton CL."
   },
   {
@@ -2591,7 +2591,7 @@
    "title": "The PVT1 lncRNA is a novel epigenetic enhancer of MYC, and a promising risk-stratification biomarker in colorectal cancer.",
    "journalTitle": "Mol Cancer",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Shigeyasu K, Toden S, Ozawa T, Matsuyama T, Nagasaka T, Ishikawa T, Sahoo D, Ghosh P, Uetake H, Fujiwara T, Goel A."
   },
   {
@@ -2601,7 +2601,7 @@
    "title": "Inhibition of protein tyrosine phosphatase receptor type F suppresses Wnt signaling in colorectal cancer.",
    "journalTitle": "Oncogene",
    "pubYear": "2020",
-   "license": null,
+   "license": "",
    "authorString": "Gan T, Stevens AT, Xiong X, Wen YA, Farmer TN, Li AT, Stevens PD, Golshani S, Weiss HL, Evers BM, Gao T."
   },
   {
@@ -2611,7 +2611,7 @@
    "title": "An MST4-p\u03b2-Catenin<sup>Thr40</sup> Signaling Axis Controls Intestinal Stem Cell and Tumorigenesis.",
    "journalTitle": "Adv Sci (Weinh)",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Zhang H, Lin M, Dong C, Tang Y, An L, Ju J, Wen F, Chen F, Wang M, Wang W, Chen M, Zhao Y, Li J, Hou SX, Lin X, Hu L, Bu W, Wu D, Li L, Jiao S, Zhou Z."
   },
   {
@@ -2621,7 +2621,7 @@
    "title": "Loss of PACS-2 delays regeneration in DSS-induced colitis but does not affect the <i>Apc</i><sup>Min</sup> model of colorectal cancer.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dombernowsky SL, Schwarz J, Sams\u00f8e-Petersen J, Albrechtsen R, Jensen KB, Thomas G, Kveiborg M."
   },
   {
@@ -2631,7 +2631,7 @@
    "title": "ERK5 signalling rescues intestinal epithelial turnover and tumour cell proliferation upon ERK1/2 abrogation.",
    "journalTitle": "Nat Commun",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "de Jong PR, Taniguchi K, Harris AR, Bertin S, Takahashi N, Duong J, Campos AD, Powis G, Corr M, Karin M, Raz E."
   },
   {
@@ -2641,7 +2641,7 @@
    "title": "Loss of p27Kip1 leads to expansion of CD4+ effector memory T cells and accelerates colitis-associated colon cancer in mice with a T cell lineage restricted deletion of Smad4.",
    "journalTitle": "Oncoimmunology",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Choi SH, Barker EC, Gerber KJ, Letterio JJ, Kim BG."
   },
   {
@@ -2651,7 +2651,7 @@
    "title": "Effect of Text Messaging on Bowel Preparation and Appointment Attendance for Outpatient Colonoscopy: A Randomized Clinical Trial.",
    "journalTitle": "JAMA Netw Open",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Mahmud N, Asch DA, Sung J, Reitz C, Coniglio MS, McDonald C, Bernard D, Mehta SJ."
   },
   {
@@ -2661,7 +2661,7 @@
    "title": "The Black Panther, Masculinity Barriers to Medical Care, and Colorectal Cancer Screening Intention Among Unscreened American Indian/Alaska Native, Black, and White Men.",
    "journalTitle": "Front Public Health",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Brooks E, Islam JY, Perdue DG, Petersen E, Camacho-Rivera M, Kennedy C, Rogers CR."
   },
   {
@@ -2671,7 +2671,7 @@
    "title": "Associations Between Glycemic Traits and Colorectal Cancer: A Mendelian Randomization Analysis.",
    "journalTitle": "J Natl Cancer Inst",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Murphy N, Song M, Papadimitriou N, Carreras-Torres R, Langenberg C, Martin RM, Tsilidis KK, Barroso I, Chen J, Frayling TM, Bull CJ, Vincent EE, Cotterchio M, Gruber SB, Pai RK, Newcomb PA, Perez-Cornago A, van Duijnhoven FJB, Van Guelpen B, Vodicka P, Wolk A, Wu AH, Peters U, Chan AT, Gunter MJ."
   },
   {
@@ -2681,7 +2681,7 @@
    "title": "An Integrated Proteomic and Glycoproteomic Investigation Reveals Alterations in the &lt;i&gt;N&lt;/i&gt;-Glycoproteomic Network Induced by 2-Deoxy-D-Glucose in Colorectal Cancer Cells.",
    "journalTitle": "Int J Mol Sci",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ma C, Tsai HY, Zhang Q, Senavirathna L, Li L, Chin LS, Chen R, Pan S."
   },
   {
@@ -2691,7 +2691,7 @@
    "title": "Dynamic plasma microRNAs are biomarkers for prognosis and early detection of recurrence in colorectal cancer.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Yuan Z, Baker K, Redman MW, Wang L, Adams SV, Yu M, Dickinson B, Makar K, Ulrich N, B\u00f6hm J, Wurscher M, Westerhoff M, Medwell S, Moonka R, Sinanan M, Fichera A, Vickers K, Grady WM."
   },
   {
@@ -2701,7 +2701,7 @@
    "title": "Oncogenic role of PDK4 in human colon cancer cells.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Leclerc D, Pham DN, L\u00e9vesque N, Truongcao M, Foulkes WD, Sapienza C, Rozen R."
   },
   {
@@ -2711,7 +2711,7 @@
    "title": "Genetically proxied therapeutic inhibition of antihypertensive drug targets and risk of common cancers: A mendelian randomization analysis.",
    "journalTitle": "PLoS Med",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc0",
    "authorString": "Yarmolinsky J, D\u00edez-Obrero V, Richardson TG, Pigeyre M, Sjaarda J, Par\u00e9 G, Walker VM, Vincent EE, Tan VY, Ob\u00f3n-Santacana M, Albanes D, Hampe J, Gsur A, Hampel H, Pai RK, Jenkins M, Gallinger S, Casey G, Zheng W, Amos CI, International Lung Cancer Consortium, PRACTICAL consortium, MEGASTROKE consortium, Smith GD, Martin RM, Moreno V."
   },
   {
@@ -2721,7 +2721,7 @@
    "title": "Patients deriving long-term benefit from immune checkpoint inhibitors demonstrate conserved patterns of site-specific mutations.",
    "journalTitle": "Sci Rep",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Principe DR."
   },
   {
@@ -2731,7 +2731,7 @@
    "title": "Nucleotide selectivity defect and mutator phenotype conferred by a colon cancer-associated DNA polymerase \u03b4 mutation in human cells.",
    "journalTitle": "Oncogene",
    "pubYear": "2017",
-   "license": null,
+   "license": "",
    "authorString": "Mertz TM, Baranovskiy AG, Wang J, Tahirov TH, Shcherbakova PV."
   },
   {
@@ -2741,7 +2741,7 @@
    "title": "Concordance of Computed Tomography Regional Body Composition Analysis Using a Fully Automated Open-Source Neural Network versus a Reference Semi-Automated Program with Manual Correction.",
    "journalTitle": "Sensors (Basel)",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Gomez-Perez SL, Zhang Y, Byrne C, Wakefield C, Geesey T, Sclamberg J, Peterson S."
   },
   {
@@ -2751,7 +2751,7 @@
    "title": "Feasibility and Acceptability of a Physical Activity Tracker and Text Messages to Promote Physical Activity During Chemotherapy for Colorectal Cancer: Pilot Randomized Controlled Trial (Smart Pace II).",
    "journalTitle": "JMIR Cancer",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Van Blarigan EL, Dhruva A, Atreya CE, Kenfield SA, Chan JM, Milloy A, Kim I, Steiding P, Laffan A, Zhang L, Zhang L, Piawah S, Fukuoka Y, Miaskowski C, Hecht FM, Kim MO, Venook AP, Van Loon K."
   },
   {
@@ -2761,7 +2761,7 @@
    "title": "Restoring PUMA induction overcomes KRAS-mediated resistance to anti-EGFR antibodies in colorectal cancer.",
    "journalTitle": "Oncogene",
    "pubYear": "2018",
-   "license": null,
+   "license": "",
    "authorString": "Knickelbein K, Tong J, Chen D, Wang YJ, Misale S, Bardelli A, Yu J, Zhang L."
   },
   {
@@ -2771,7 +2771,7 @@
    "title": "Time Lapse to Colorectal Cancer: Telomere Dynamics Define the Malignant Potential of Polyps.",
    "journalTitle": "Clin Transl Gastroenterol",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Druliner BR, Ruan X, Johnson R, Grill D, O'Brien D, Lai TP, Rashtak S, Felmlee-Devine D, Washechek-Aletto J, Malykh A, Smyrk T, Oberg A, Liu H, Shay JW, Ahlquist DA, Boardman LA."
   },
   {
@@ -2781,7 +2781,7 @@
    "title": "Inhibition of LTA4H by bestatin in human and mouse colorectal cancer.",
    "journalTitle": "EBioMedicine",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Zhao S, Yao K, Li D, Liu K, Jin G, Yan M, Wu Q, Chen H, Shin SH, Bai R, Wang G, Bode AM, Dong Z, Guo Z, Dong Z."
   },
   {
@@ -2791,7 +2791,7 @@
    "title": "Whole genome analysis identifies the association of TP53 genomic deletions with lower survival in Stage III colorectal cancer.",
    "journalTitle": "Sci Rep",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Xia LC, Van Hummelen P, Kubit M, Lee H, Bell JM, Grimes SM, Wood-Bouwens C, Greer SU, Barker T, Haslem DS, Ford JM, Fulde G, Ji HP, Nadauld LD."
   },
   {
@@ -2801,7 +2801,7 @@
    "title": "A bi-adjuvant nanovaccine that potentiates immunogenicity of neoantigen for combination immunotherapy of colorectal cancer.",
    "journalTitle": "Sci Adv",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Ni Q, Zhang F, Liu Y, Wang Z, Yu G, Liang B, Niu G, Su T, Zhu G, Lu G, Zhang L, Chen X."
   },
   {
@@ -2811,7 +2811,7 @@
    "title": "High prevalence of unusual KRAS, NRAS, and BRAF mutations in POLE-hypermutated colorectal cancers.",
    "journalTitle": "Mol Oncol",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Favre L, Cohen J, Calderaro J, P\u00e9criaux A, Nguyen CT, Bourgoin R, Larnaudie L, Dupuy A, Ollier M, Lechapt E, Sloma I, Tournigand C, Rousseau B, Pujals A."
   },
   {
@@ -2821,7 +2821,7 @@
    "title": "Interactions between folate intake and genetic predictors of gene expression levels associated with colorectal cancer risk.",
    "journalTitle": "Sci Rep",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Haas CB, Su YR, Petersen P, Wang X, Bien SA, Lin Y, Albanes D, Weinstein SJ, Jenkins MA, Figueiredo JC, Newcomb PA, Casey G, Le Marchand L, Campbell PT, Moreno V, Potter JD, Sakoda LC, Slattery ML, Chan AT, Li L, Giles GG, Milne RL, Gruber SB, Rennert G, Woods MO, Gallinger SJ, Berndt S, Hayes RB, Huang WY, Wolk A, White E, Nan H, Nassir R, Lindor NM, Lewinger JP, Kim AE, Conti D, Gauderman WJ, Buchanan DD, Peters U, Hsu L."
   },
   {
@@ -2831,7 +2831,7 @@
    "title": "Physician-office vs home uptake of colorectal cancer screening using FOBT/FIT among screening-eligible US adults.",
    "journalTitle": "Cancer Med",
    "pubYear": "2019",
-   "license": null,
+   "license": "cc by",
    "authorString": "Chido-Amajuoyi OG, Sharma A, Talluri R, Tami-Maury I, Shete S."
   },
   {
@@ -2841,7 +2841,7 @@
    "title": "Site-specific associations between miRNA expression and survival in colorectal cancer cases.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Slattery ML, Herrick JS, Pellatt DF, Mullany LE, Stevens JR, Wolff E, Hoffman MD, Wolff RK, Samowitz W."
   },
   {
@@ -2851,7 +2851,7 @@
    "title": "Circular RNAs are down-regulated in KRAS mutant colon cancer cells and can be transferred to exosomes.",
    "journalTitle": "Sci Rep",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dou Y, Cha DJ, Franklin JL, Higginbotham JN, Jeppesen DK, Weaver AM, Prasad N, Levy S, Coffey RJ, Patton JG, Zhang B."
   },
   {
@@ -2861,7 +2861,7 @@
    "title": "Severe obesity prior to diagnosis limits survival in colorectal cancer patients evaluated at a large cancer centre.",
    "journalTitle": "Br J Cancer",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by-nc-sa",
    "authorString": "Daniel CR, Shu X, Ye Y, Gu J, Raju GS, Kopetz S, Wu X."
   },
   {
@@ -2871,7 +2871,7 @@
    "title": "Accurate cancer phenotype prediction with AKLIMATE, a stacked kernel learner integrating multimodal genomic data and pathway knowledge.",
    "journalTitle": "PLoS Comput Biol",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Uzunangelov V, Wong CK, Stuart JM."
   },
   {
@@ -2881,7 +2881,7 @@
    "title": "Targeting RAS Mutant Colorectal Cancer with Dual Inhibition of MEK and CDK4/6.",
    "journalTitle": "Cancer Res",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Sorokin AV, Kanikarla Marie P, Bitner L, Syed M, Woods M, Manyam G, Kwong LN, Johnson B, Morris VK, Jones P, Menter DG, Lee MS, Kopetz S."
   },
   {
@@ -2891,7 +2891,7 @@
    "title": "Survival for endometrial cancer as a second primary malignancy.",
    "journalTitle": "Cancer Med",
    "pubYear": "2022",
-   "license": null,
+   "license": "cc by",
    "authorString": "Medina HN, Schlumbrecht MP, Penedo FJ, Pinheiro PS."
   },
   {
@@ -2901,7 +2901,7 @@
    "title": "Association of Combined Sero-Positivity to <i>Helicobacter pylori</i> and <i>Streptococcus gallolyticus</i> with Risk of Colorectal Cancer.",
    "journalTitle": "Microorganisms",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Epplein M, Le Marchand L, Cover TL, Song M, Blot WJ, Peek RM, Teras LR, Visvanathan K, Chen Y, Sesso HD, Zeleniuch-Jacquotte A, Berndt SI, Potter JD, Ryser MD, Haiman CA, Wassertheil-Smoller S, Tinker LF, Waterboer T, Butt J."
   },
   {
@@ -2911,7 +2911,7 @@
    "title": "Two novel colorectal cancer risk loci in the region on chromosome 9q22.32.",
    "journalTitle": "Oncotarget",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Thutkawkorapin J, Mahdessian H, Barber T, Picelli S, von Holst S, Lundin J, Valle L, Kontham V, Liu T, Nilsson D, Jiao X, Lindblom A."
   },
   {
@@ -2921,7 +2921,7 @@
    "title": "FBXW7 missense mutation: a novel negative prognostic factor in metastatic colorectal adenocarcinoma.",
    "journalTitle": "Oncotarget",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Korphaisarn K, Morris VK, Overman MJ, Fogelman DR, Kee BK, Raghav KPS, Manuel S, Shureiqi I, Wolff RA, Eng C, Menter D, Hamilton SR, Kopetz S, Dasari A."
   },
   {
@@ -2931,7 +2931,7 @@
    "title": "Systematic meta-analyses, field synopsis and global assessment of the evidence of genetic association studies in colorectal cancer.",
    "journalTitle": "Gut",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by",
    "authorString": "Montazeri Z, Li X, Nyiraneza C, Ma X, Timofeeva M, Svinti V, Meng X, He Y, Bo Y, Morgan S, Castellv\u00ed-Bel S, Ruiz-Ponte C, Fern\u00e1ndez-Rozadilla C, Carracedo \u00c1, Castells A, Bishop T, Buchanan D, Jenkins MA, Keku TO, Lindblom A, van Duijnhoven FJB, Wu A, Farrington SM, Dunlop MG, Campbell H, Theodoratou E, Zheng W, Zheng W, Little J."
   },
   {
@@ -2941,7 +2941,7 @@
    "title": "Circulating vitamin D concentration and risk of seven cancers: Mendelian randomisation study.",
    "journalTitle": "BMJ",
    "pubYear": "2017",
-   "license": null,
+   "license": "cc by",
    "authorString": "Dimitrakopoulou VI, Tsilidis KK, Haycock PC, Dimou NL, Al-Dabhani K, Martin RM, Lewis SJ, Gunter MJ, Mondul A, Shui IM, Theodoratou E, Nimptsch K, Lindstr\u00f6m S, Albanes D, K\u00fchn T, Key TJ, Travis RC, Vimaleswaran KS, GECCO Consortium, PRACTICAL Consortium, GAME-ON Network (CORECT, DRIVE, ELLIPSE, FOCI-OCAC, TRICL-ILCCO), Kraft P, Pierce BL, Schildkraut JM."
   },
   {
@@ -2951,7 +2951,7 @@
    "title": "Global variation in postoperative mortality and complications after cancer surgery: a multicentre, prospective cohort study in 82 countries.",
    "journalTitle": "Lancet",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "GlobalSurg Collaborative and National Institute for Health Research Global Health Research Unit on Global Surgery."
   },
   {
@@ -2961,7 +2961,7 @@
    "title": "Silencing the intestinal GUCY2C tumor suppressor axis requires <i>APC</i> loss of heterozygosity.",
    "journalTitle": "Cancer Biol Ther",
    "pubYear": "2020",
-   "license": null,
+   "license": "cc by-nc-nd",
    "authorString": "Pattison AM, Barton JR, Entezari AA, Zalewski A, Rappaport JA, Snook AE, Waldman SA."
   },
   {
@@ -2971,7 +2971,7 @@
    "title": "Assessment of a Polygenic Risk Score for Colorectal Cancer to Predict Risk of Lynch Syndrome Colorectal Cancer.",
    "journalTitle": "JNCI Cancer Spectr",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by-nc",
    "authorString": "Jenkins MA, Buchanan DD, Lai J, Makalic E, Dite GS, Win AK, Clendenning M, Winship IM, Hayes RB, Huyghe JR, Peters U, Gallinger S, Marchand LL, Figueiredo JC, Pai RK, Newcomb PA, Church JM, Casey G, Hopper JL."
   },
   {
@@ -2981,7 +2981,7 @@
    "title": "Clinical Utilization Pattern of Liquid Biopsies (LB) to Detect Actionable Driver Mutations, Guide Treatment Decisions and Monitor Disease Burden During Treatment of 33 Metastatic Colorectal Cancer (mCRC) Patients (pts) at a Fox Chase Cancer Center GI Oncology Subspecialty Clinic.",
    "journalTitle": "Front Oncol",
    "pubYear": "2018",
-   "license": null,
+   "license": "cc by",
    "authorString": "Ghatalia P, Smith CH, Winer A, Gou J, Kiedrowski LA, Slifker M, Saltzberg PD, Bubes N, Anari FM, Kasireddy V, Varshavsky A, Liu Y, Ross EA, El-Deiry WS."
   },
   {
@@ -2991,7 +2991,7 @@
    "title": "Pathway analysis of expression-related SNPs on genome-wide association study of basal cell carcinoma.",
    "journalTitle": "Oncotarget",
    "pubYear": "2016",
-   "license": null,
+   "license": "cc by",
    "authorString": "Li X, Liang L, De Vivo I, Tang JY, Han J."
   },
   {
@@ -3001,7 +3001,7 @@
    "title": "Reconstructing single-cell karyotype alterations in colorectal cancer identifies punctuated and gradual diversification patterns.",
    "journalTitle": "Nat Genet",
    "pubYear": "2021",
-   "license": null,
+   "license": "cc by",
    "authorString": "Bollen Y, Stelloo E, van Leenen P, van den Bos M, Ponsioen B, Lu B, van Roosmalen MJ, Bolhaqueiro ACF, Kimberley C, Mossner M, Cross WCH, Besselink NJM, van der Roest B, Boymans S, Oost KC, de Vries SG, Rehmann H, Cuppen E, Lens SMA, Kops GJPL, Kloosterman WP, Terstappen LWMM, Barnes CP, Sottoriva A, Graham TA, Snippert HJG."
   }
  ]

@@ -1,0 +1,39 @@
+
+CANCER: leukemia | population 1272 papers | sample 300 | supplements retrieved for 288
+
+PER PAPER (what is the best thing in its attachments)
+  no_tabular_data       196  65.3%
+  dataset_medium         34  11.3%
+  dataset_large          29   9.7%
+  small_table            24   8.0%
+  no_supp_retrieved      12   4.0%
+  tables_only             5   1.7%
+
+  => papers with at least one real dataset file (>=50 rows x 3 cols, or >=1000 rows): 63 of 300 = 21.0%
+  => of papers whose supplements were retrieved: 21.9%
+
+PER FILE
+  document               391  50.1%
+  small_table            102  13.1%
+  dataset_medium          88  11.3%
+  other                   60   7.7%
+  dataset_large           60   7.7%
+  figure_image            33   4.2%
+  tiny_table              23   2.9%
+  media                   13   1.7%
+  empty_or_text            9   1.2%
+  unreadable_table         2   0.3%
+
+DATASET FILES: 148; kinds: {'omics': 58, 'numeric': 48, 'mixed': 39, 'clinical': 3}
+  largest-table rows: median 396, p90 12537, max 77442
+  by extension: {'.xlsx': 114, '.pdf': 15, '.xls': 4, '.docx': 5, '.csv': 8, '.txt': 2}
+  papers with a NATIVE spreadsheet/csv dataset: 46 (15.3% of sample) | dataset only as a table inside a PDF/DOCX: 17 (5.7%)
+  papers with a PRIMARY-looking dataset (measurements, cohort/sample tables): 58 (19.3%) | only DERIVED result tables (enrichment, DEG lists, stats): 5 (1.7%)
+  licenses of dataset papers: {'cc by-nc': 5, 'cc by-nc-nd': 11, 'cc by': 43, 'cc by-nc-sa': 2, 'untagged': 2} | freely re-depositable (cc by / cc0): 43 of 63
+
+LICENSES of sampled papers: {'cc by-nc-nd': 48, 'cc by-nc': 42, 'unknown': 50, 'cc by': 156, 'cc0': 2, 'cc by-nc-sa': 2}
+
+TOP JOURNALS among dataset papers: [('Nat Commun', 8), ('Blood Cancer J', 4), ('Leukemia', 4), ('Proc Natl Acad Sci U S A', 3), ('Commun Biol', 3), ('PLoS One', 3), ('Blood Adv', 3), ('Oncotarget', 3)]
+
+EXTRAPOLATION (rough): 21.0% of 1272 leukemia papers ~= 267 papers with rescuable datasets in this cancer alone;
+  applied to the ~32,000 NCI-funded papers with supplements and no accession -> ~6,720 papers (upper-bound heuristic, needs validation)

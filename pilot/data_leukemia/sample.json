@@ -1,0 +1,3008 @@
+{
+ "cancer": "leukemia",
+ "query": "GRANT_AGENCY:\"NCI NIH HHS\" AND PUB_YEAR:[2016 TO 2022] AND OPEN_ACCESS:y AND HAS_SUPPL:Y AND NOT (ACCESSION_TYPE:gen OR ACCESSION_TYPE:sra OR ACCESSION_TYPE:dbgap OR ACCESSION_TYPE:ega OR ACCESSION_TYPE:arrayexpress OR ACCESSION_TYPE:pride OR ACCESSION_TYPE:bioproject OR ACCESSION_TYPE:metabolights OR ACCESSION_TYPE:pdb) AND (TITLE:\"leukemia\" OR ABSTRACT:\"leukemia\")",
+ "population": 1272,
+ "seed": 20260923,
+ "papers": [
+  {
+   "pmcid": "PMC9797243",
+   "pmid": "29144866",
+   "doi": "10.1200/jop.2017.024778",
+   "title": "Challenges in the Clinical Application of the American Society of Clinical Oncology Value Framework: A Medicare Cost-Benefit Analysis in Chronic Lymphocytic Leukemia.",
+   "journalTitle": "J Oncol Pract",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Seymour EK, Schiffer CA, de Souza JA."
+  },
+  {
+   "pmcid": "PMC8599380",
+   "pmid": "34618345",
+   "doi": "10.1007/s13318-021-00722-z",
+   "title": "Population Pharmacokinetic Analysis from First-in-Human Data for HDAC Inhibitor, REC-2282 (AR-42), in Patients with Solid Tumors and Hematologic Malignancies: A Case Study for Evaluating Flat vs. Body Size Normalized Dosing.",
+   "journalTitle": "Eur J Drug Metab Pharmacokinet",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Liva S, Chen M, Mortazavi A, Walker A, Wang J, Dittmar K, Hofmeister C, Coss CC, Phelps MA."
+  },
+  {
+   "pmcid": "PMC8364569",
+   "pmid": "33589747",
+   "doi": "10.1038/s41375-021-01160-1",
+   "title": "Targeting the membrane-proximal C2-set domain of CD33 for improved CD33-directed immunotherapy.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Godwin CD, Laszlo GS, Fiorenza S, Garling EE, Phi TD, Bates OM, Correnti CE, Hoffstrom BG, Lunn MC, Humbert O, Kiem HP, Turtle CJ, Walter RB."
+  },
+  {
+   "pmcid": "PMC9177690",
+   "pmid": "35351983",
+   "doi": "10.1038/s41375-022-01547-8",
+   "title": "RNAseqCNV: analysis of large-scale copy number variations from RNA-seq data.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Ba\u0159inka J, Hu Z, Wang L, Wheeler DA, Rahbarinia D, McLeod C, Gu Z, Mullighan CG."
+  },
+  {
+   "pmcid": "PMC7012907",
+   "pmid": "32047189",
+   "doi": "10.1038/s41598-020-59101-4",
+   "title": "Role of Vitamins A and D in BCR-ABL Arf<sup>-/-</sup> Acute Lymphoblastic Leukemia.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Annu K, Cline C, Yasuda K, Ganguly S, Pesch A, Cooper B, Janke L, Payton M, Mukherjee K, Surman SL, Hurwitz JL, Schuetz EG."
+  },
+  {
+   "pmcid": "PMC4705648",
+   "pmid": "26490963",
+   "doi": "10.1093/nar/gkv1066",
+   "title": "Functional coordination and HuR-mediated regulation of mRNA stability during T cell activation.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2016",
+   "license": "cc by-nc",
+   "authorString": "Blackinton JG, Keene JD."
+  },
+  {
+   "pmcid": "PMC8794880",
+   "pmid": "35064090",
+   "doi": "10.1073/pnas.2118752119",
+   "title": "A large fraction of trisomy 12, 17p<sup>-</sup>, and 11q<sup>-</sup> CLL cases carry unidentified microdeletions of <i>miR-15a/16-1</i>.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Pepe F, Rassenti LZ, Pekarsky Y, Labanowska J, Nakamura T, Nigita G, Kipps TJ, Balatti V, Croce CM."
+  },
+  {
+   "pmcid": "PMC6624260",
+   "pmid": "31296870",
+   "doi": "10.1038/s41467-019-11044-9",
+   "title": "Blockade of leukemia inhibitory factor as a therapeutic approach to KRAS driven pancreatic cancer.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Wang MT, Fer N, Galeas J, Collisson EA, Kim SE, Sharib J, McCormick F."
+  },
+  {
+   "pmcid": "PMC5354847",
+   "pmid": "27965460",
+   "doi": "10.18632/oncotarget.13882",
+   "title": "Opposing roles of KIT and ABL1 in the therapeutic response of gastrointestinal stromal tumor (GIST) cells to imatinib mesylate.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Rausch JL, Boichuk S, Ali AA, Patil SS, Liu L, Lee DM, Brown MF, Makielski KR, Liu Y, Taguchi T, Kuan SF, Duensing A."
+  },
+  {
+   "pmcid": "PMC9522595",
+   "pmid": "36042317",
+   "doi": "10.1038/s41375-022-01663-5",
+   "title": "Loss of AID exacerbates the malignant progression of CLL.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Lee AC, Pingali SR, Pinilla-Ibarz JA, Atchison ML, Koumenis C, Argon Y, Thomas-Tikhonenko A, De Trez C, Hu CA, Tang CA."
+  },
+  {
+   "pmcid": "PMC6601074",
+   "pmid": "31221785",
+   "doi": "10.3324/haematol.2018.208751",
+   "title": "Chimeric antigen receptor T-cell therapy for acute myeloid leukemia: how close to reality?",
+   "journalTitle": "Haematologica",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Cummins KD, Gill S."
+  },
+  {
+   "pmcid": "PMC5815604",
+   "pmid": "29451924",
+   "doi": "10.1371/journal.pone.0193141",
+   "title": "Late effects awareness website for pediatric survivors of acute lymphocytic leukemia.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Klonoff-Cohen H, Navarro A, Klonoff EA."
+  },
+  {
+   "pmcid": "PMC6969520",
+   "pmid": "31882448",
+   "doi": "10.1073/pnas.1914589117",
+   "title": "Revisiting the tumorigenesis timeline with a data-driven generative model.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Lahouel K, Younes L, Danilova L, Giardiello FM, Hruban RH, Groopman J, Kinzler KW, Vogelstein B, Geman D, Tomasetti C."
+  },
+  {
+   "pmcid": "PMC8243474",
+   "pmid": "34187548",
+   "doi": "10.1186/s13045-021-01107-0",
+   "title": "Anti-tumor NAMPT inhibitor, KPT-9274, mediates gender-dependent murine anemia and nephrotoxicity by regulating SIRT3-mediated SOD deacetylation.",
+   "journalTitle": "J Hematol Oncol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Mitchell S, Zhang P, Cannon M, Beaver L, Lehman A, Harrington B, Sampath D, Byrd JC, Lapalombella R."
+  },
+  {
+   "pmcid": "PMC8720242",
+   "pmid": "34183765",
+   "doi": "10.1038/s41375-021-01331-0",
+   "title": "Exploring the genetic and epigenetic origins of juvenile myelomonocytic leukemia using newborn screening samples.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Behnert A, Meyer J, Parsa JY, Hechmer A, Loh ML, Olshen A, de Smith AJ, Stieglitz E."
+  },
+  {
+   "pmcid": "PMC9768237",
+   "pmid": "36251744",
+   "doi": "10.1182/bloodadvances.2022008557",
+   "title": "Clofarabine treatment of KMT2Ar infantile patients with acute lymphoblastic leukemia in St. Jude Total Therapy Study 16.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Gruber TA, Pei D, Choi J, Cheng C, Coustan-Smith E, Campana D, Swanson HD, Pauley JL, Inaba H, Metzger ML, Rubnitz JE, Ribeiro RC, Raimondi SC, Pui CH, Jeha S."
+  },
+  {
+   "pmcid": "PMC7849578",
+   "pmid": "32381579",
+   "doi": "10.3324/haematol.2019.236745",
+   "title": "The clinical and biological characteristics of NUP98-KDM5A in pediatric acute myeloid leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Noort S, Wander P, Alonzo TA, Smith J, Ries RE, Gerbing RB, Dolman MEM, Locatelli F, Reinhardt D, Baruchel A, Stary J, Molenaar JJ, Stam RW, van den Heuvel-Eibrink MM, Zwaan MC, Meshinchi S."
+  },
+  {
+   "pmcid": "PMC6533116",
+   "pmid": "31092926",
+   "doi": "10.1038/s41586-019-1198-z",
+   "title": "Epigenetic evolution and lineage histories of chronic lymphocytic leukaemia.",
+   "journalTitle": "Nature",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Gaiti F, Chaligne R, Gu H, Brand RM, Kothen-Hill S, Schulman RC, Grigorev K, Risso D, Kim KT, Pastore A, Huang KY, Alonso A, Sheridan C, Omans ND, Biederstedt E, Clement K, Wang L, Felsenfeld JA, Bhavsar EB, Aryee MJ, Allan JN, Furman R, Gnirke A, Wu CJ, Meissner A, Landau DA."
+  },
+  {
+   "pmcid": "PMC5856557",
+   "pmid": "29476010",
+   "doi": "10.1073/pnas.1721899115",
+   "title": "Highly multiplexed and quantitative cell-surface protein profiling using genetically barcoded antibodies.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Pollock SB, Hu A, Mou Y, Martinko AJ, Julien O, Hornsby M, Ploder L, Adams JJ, Geng H, M\u00fcschen M, Sidhu SS, Moffat J, Wells JA."
+  },
+  {
+   "pmcid": "PMC6312012",
+   "pmid": "30573510",
+   "doi": "10.3324/haematol.2018.196105",
+   "title": "Peering through zebrafish to understand inherited bone marrow failure syndromes.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Oyarbide U, Topczewski J, Corey SJ."
+  },
+  {
+   "pmcid": "PMC5670032",
+   "pmid": "28465528",
+   "doi": "10.1038/leu.2017.132",
+   "title": "Wnt5a induces ROR1 to associate with 14-3-3\u03b6 for enhanced chemotaxis and proliferation of chronic lymphocytic leukemia cells.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Yu J, Chen L, Chen Y, Hasan MK, Ghia EM, Zhang L, Wu R, Rassenti LZ, Widhopf GF, Shen Z, Briggs SP, Kipps TJ."
+  },
+  {
+   "pmcid": "PMC5709252",
+   "pmid": "28555080",
+   "doi": "10.1038/leu.2017.166",
+   "title": "Deregulation of kinase signaling and lymphoid development in EBF1-PDGFRB ALL leukemogenesis.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Welsh SJ, Churchman ML, Togni M, Mullighan CG, Hagman J."
+  },
+  {
+   "pmcid": "PMC7590517",
+   "pmid": "33134818",
+   "doi": "10.1093/jncics/pkaa024",
+   "title": "Body Mass Index and Weight Loss in Metastatic Colorectal Cancer in CALGB (Alliance)/SWOG 80405.",
+   "journalTitle": "JNCI Cancer Spectr",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Guercio BJ, Zhang S, Venook AP, Ou FS, Niedzwiecki D, Lenz HJ, Innocenti F, Mullen BC, O'Neil BH, Shaw JE, Polite BN, Hochster HS, Atkins JN, Goldberg RM, Brown JC, O'Reilly EM, Mayer RJ, Blanke CD, Fuchs CS, Meyerhardt JA."
+  },
+  {
+   "pmcid": "PMC9107507",
+   "pmid": "35422476",
+   "doi": "10.1038/s41388-022-02310-0",
+   "title": "Inhibitor of DNA binding 2 (ID2) regulates the expression of developmental genes and tumorigenesis in ewing sarcoma.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Koppenhafer SL, Goss KL, Voigt E, Croushore E, Terry WW, Ostergaard J, Gordon PM, Gordon DJ."
+  },
+  {
+   "pmcid": "PMC9406943",
+   "pmid": "36010641",
+   "doi": "10.3390/cells11162565",
+   "title": "Expression of IL-37 Induces a Regulatory T-Cell-like Phenotype and Function in Jurkat Cells.",
+   "journalTitle": "Cells",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Osborne DG, Domenico J, Fujita M."
+  },
+  {
+   "pmcid": "PMC5431828",
+   "pmid": "28500307",
+   "doi": "10.1038/s41598-017-01913-y",
+   "title": "ALOX5 exhibits anti-tumor and drug-sensitizing effects in MLL-rearranged leukemia.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Wang Y, Skibbe JR, Hu C, Dong L, Ferchen K, Su R, Li C, Huang H, Weng H, Huang H, Qin X, Jin J, Chen J, Jiang X."
+  },
+  {
+   "pmcid": "PMC7886901",
+   "pmid": "33594072",
+   "doi": "10.1038/s41467-021-21357-3",
+   "title": "ZMYND11-MBTD1 induces leukemogenesis through hijacking NuA4/TIP60 acetyltransferase complex and a PWWP-mediated chromatin association mechanism.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Li J, Galbo PM, Gong W, Storey AJ, Tsai YH, Yu X, Ahn JH, Guo Y, Mackintosh SG, Edmondson RD, Byrum SD, Farrar JE, He S, Cai L, Jin J, Tackett AJ, Zheng D, Wang GG."
+  },
+  {
+   "pmcid": "PMC7538974",
+   "pmid": "33024076",
+   "doi": "10.1038/s41408-020-00362-7",
+   "title": "FBXO11 is a candidate tumor suppressor in the leukemic transformation of myelodysplastic syndrome.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Schieber M, Marinaccio C, Bolanos LC, Haffey WD, Greis KD, Starczynowski DT, Crispino JD."
+  },
+  {
+   "pmcid": "PMC8310324",
+   "pmid": "34372612",
+   "doi": "10.3390/v13071406",
+   "title": "Targeting JAK/STAT Signaling Antagonizes Resistance to Oncolytic Reovirus Therapy Driven by Prior Infection with HTLV-1 in Models of T-Cell Lymphoma.",
+   "journalTitle": "Viruses",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Islam S, Espitia CM, Persky DO, Carew JS, Nawrocki ST."
+  },
+  {
+   "pmcid": "PMC5577668",
+   "pmid": "28854978",
+   "doi": "10.1186/s13073-017-0468-3",
+   "title": "The neoepitope landscape in pediatric cancers.",
+   "journalTitle": "Genome Med",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Chang TC, Carter RA, Li Y, Li Y, Wang H, Edmonson MN, Chen X, Arnold P, Geiger TL, Wu G, Peng J, Dyer M, Downing JR, Green DR, Thomas PG, Zhang J."
+  },
+  {
+   "pmcid": "PMC5132067",
+   "pmid": "27754578",
+   "doi": "10.1002/cyto.a.22999",
+   "title": "Consistent quantitative gene product expression: #2. Antigen intensities on bone marrow cells are invariant between individuals.",
+   "journalTitle": "Cytometry A",
+   "pubYear": "2016",
+   "license": "cc by-nc",
+   "authorString": "Loken MR, Voigt AP, Eidenschink Brodersen L, Fritschle W, Menssen AJ, Meshinchi S, Wells DA."
+  },
+  {
+   "pmcid": "PMC7576156",
+   "pmid": "33082322",
+   "doi": "10.1038/s41419-020-03098-1",
+   "title": "Downregulation of PUMA underlies resistance to FGFR1 inhibitors in the stem cell leukemia/lymphoma syndrome.",
+   "journalTitle": "Cell Death Dis",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Liu Y, Cai B, Chong Y, Zhang H, Kemp CA, Lu S, Chang CS, Ren M, Cowell JK, Hu T."
+  },
+  {
+   "pmcid": "PMC5805309",
+   "pmid": "29420604",
+   "doi": "10.1371/journal.pone.0192529",
+   "title": "Opioid utilization among pediatric patients treated for newly diagnosed acute myeloid leukemia.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Getz KD, Miller TP, Seif AE, Li Y, Huang YV, Fisher BT, Aplenc R."
+  },
+  {
+   "pmcid": "PMC9246987",
+   "pmid": "35773471",
+   "doi": "10.1038/s42003-022-03579-3",
+   "title": "Variational autoencoders learn transferrable representations of metabolomics data.",
+   "journalTitle": "Commun Biol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Gomari DP, Schweickart A, Cerchietti L, Paietta E, Fernandez H, Al-Amin H, Suhre K, Krumsiek J."
+  },
+  {
+   "pmcid": "PMC8141515",
+   "pmid": "34024909",
+   "doi": "10.1038/s41392-021-00578-4",
+   "title": "FLT3 tyrosine kinase inhibitors synergize with BCL-2 inhibition to eliminate FLT3/ITD acute leukemia cells through BIM activation.",
+   "journalTitle": "Signal Transduct Target Ther",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Zhu R, Li L, Nguyen B, Seo J, Wu M, Seale T, Levis M, Duffield A, Hu Y, Small D."
+  },
+  {
+   "pmcid": "PMC8929598",
+   "pmid": "35298544",
+   "doi": "10.1371/journal.pone.0265278",
+   "title": "Performance characteristics of the first Food and Drug Administration (FDA)-cleared digital droplet PCR (ddPCR) assay for BCR::ABL1 monitoring in chronic myelogenous leukemia.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Shelton DN, Bhagavatula P, Sepulveda N, Beppu L, Gandhi S, Qin D, Hauenstein S, Radich J."
+  },
+  {
+   "pmcid": "PMC4948888",
+   "pmid": "27427906",
+   "doi": "10.1371/journal.pone.0158649",
+   "title": "Context Matters: Distinct Disease Outcomes as a Result of Crebbp Hemizygosity in Different Mouse Bone Marrow Compartments.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Zhou T, Perez SN, Cheng Z, Kinney MC, Lemieux ME, Scott LM, Rebel VI."
+  },
+  {
+   "pmcid": "PMC5777029",
+   "pmid": "29279389",
+   "doi": "10.1073/pnas.1708584115",
+   "title": "RSK2 drives cell motility by serine phosphorylation of LARG and activation of Rho GTPases.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Shi GX, Yang WS, Jin L, Matter ML, Ramos JW."
+  },
+  {
+   "pmcid": "PMC6374186",
+   "pmid": "30305729",
+   "doi": "10.1038/s41388-018-0523-6",
+   "title": "Leukemia inhibitory factor functions in parallel with interleukin-6 to promote ovarian cancer growth.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "McLean K, Tan L, Bolland DE, Coffman LG, Peterson LF, Talpaz M, Neamati N, Buckanovich RJ."
+  },
+  {
+   "pmcid": "PMC6683199",
+   "pmid": "31383849",
+   "doi": "10.1038/s41408-019-0220-x",
+   "title": "Association of elevated serumfree light chains with chronic lymphocytic leukemia and monoclonal B-cell lymphocytosis.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Clay-Gilmour AI, Rishi AR, Goldin LR, Greenberg-Worisek AJ, Achenbach SJ, Rabe KG, Maurer MJ, Kay NE, Shanafelt TD, Call TG, Brice Weinberg J, Camp NJ, Cerhan JR, Leis J, Norman A, Murray DL, Vincent Rajkumar S, Caporaso NE, Landgren O, McMaster ML, Slager SL, Vachon CM."
+  },
+  {
+   "pmcid": "PMC7927994",
+   "pmid": "32499238",
+   "doi": "10.3324/haematol.2020.252569",
+   "title": "Outcomes of relapsed or refractory acute myeloid leukemia after frontline hypomethylating agent and venetoclax regimens.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Maiti A, Rausch CR, Cortes JE, Pemmaraju N, Daver NG, Ravandi F, Garcia-Manero G, Borthakur G, Naqvi K, Ohanian M, Short NJ, Alvarado Y, Kadia TM, Takahashi K, Yilmaz M, Jain N, Kornblau S, Montalban Bravo G, Sasaki K, Andreeff M, Bose P, Ferrajoli A, Issa GC, Jabbour EJ, Masarova L, Thompson PA, Wang S, Konoplev S, Pierce SA, Ning J, Qiao W, Welch JS, Kantarjian HM, DiNardo CD, Konopleva MY."
+  },
+  {
+   "pmcid": "PMC9935551",
+   "pmid": "35914226",
+   "doi": "10.1182/blood.2021015020",
+   "title": "Engineering naturally occurring CD7- T cells for the immunotherapy of hematological malignancies.",
+   "journalTitle": "Blood",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Freiwan A, Zoine JT, Crawford JC, Vaidya A, Schattgen SA, Myers JA, Patil SL, Khanlari M, Inaba H, Klco JM, Mullighan CG, Krenciute G, Chockley PJ, Naik S, Langfitt DM, Mamonkin M, Obeng EA, Thomas PG, Gottschalk S, Velasquez MP."
+  },
+  {
+   "pmcid": "PMC6480977",
+   "pmid": "30967555",
+   "doi": "10.1038/s41597-019-0015-8",
+   "title": "Phospho serine and threonine analysis of normal and mutated granulocyte colony stimulating factor receptors.",
+   "journalTitle": "Sci Data",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Dwivedi P, Muench DE, Wagner M, Azam M, Grimes HL, Greis KD."
+  },
+  {
+   "pmcid": "PMC4924788",
+   "pmid": "27351836",
+   "doi": "10.1371/journal.pcbi.1004890",
+   "title": "A Crowdsourcing Approach to Developing and Assessing Prediction Algorithms for AML Prognosis.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Noren DP, Long BL, Norel R, Rrhissorrakrai K, Hess K, Hu CW, Bisberg AJ, Schultz A, Engquist E, Liu L, Lin X, Chen GM, Xie H, Hunter GA, Boutros PC, Stepanov O, DREAM 9 AML-OPC Consortium, Norman T, Friend SH, Stolovitzky G, Kornblau S, Qutub AA."
+  },
+  {
+   "pmcid": "PMC5959866",
+   "pmid": "29777171",
+   "doi": "10.1038/s41467-018-04329-y",
+   "title": "MLL-fusion-driven leukemia requires SETD2 to safeguard genomic integrity.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Skucha A, Ebner J, Schm\u00f6llerl J, Roth M, Eder T, C\u00e9sar-Razquin A, Stukalov A, Vittori S, Muhar M, Lu B, Aichinger M, Jude J, M\u00fcller AC, Gy\u0151rffy B, Vakoc CR, Valent P, Bennett KL, Zuber J, Superti-Furga G, Grebien F."
+  },
+  {
+   "pmcid": "PMC5332311",
+   "pmid": "27573555",
+   "doi": "10.1038/leu.2016.244",
+   "title": "Phosphorylation of a constrained azacyclic FTY720 analog enhances anti-leukemic activity without inducing S1P receptor activation.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "McCracken AN, McMonigle RJ, Tessier J, Fransson R, Perryman MS, Chen B, Keebaugh A, Selwan E, Barr SA, Kim SM, Roy SG, Liu G, Fallegger D, Sernissi L, Brandt C, Moitessier N, Snider AJ, Clare S, M\u00fcschen M, Huwiler A, Kleinman MT, Hanessian S, Edinger AL."
+  },
+  {
+   "pmcid": "PMC6428263",
+   "pmid": "30897179",
+   "doi": "10.1371/journal.pone.0214059",
+   "title": "HTLV-1 Tax-1 interacts with SNX27 to regulate cellular localization of the HTLV-1 receptor molecule, GLUT1.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Al-Saleem J, Dirksen WP, Martinez MP, Shkriabai N, Kvaratskhelia M, Ratner L, Green PL."
+  },
+  {
+   "pmcid": "PMC5215491",
+   "pmid": "27573556",
+   "doi": "10.1038/leu.2016.249",
+   "title": "Cathepsin G is broadly expressed in acute myeloid leukemia and is an effective immunotherapeutic target.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Alatrash G, Garber HR, Zhang M, Sukhumalchandra P, Qiu Y, Jakher H, Perakis AA, Becker L, Yoo SY, Dwyer KC, Coombes K, Talukder AH, John LSS, Senyukov V, Lee DA, Sergeeva A, He H, Ma Q, Armistead PM, Roszik J, Mittendorf EA, Molldrem JJ, Hawke D, Lizee G, Kornblau SM."
+  },
+  {
+   "pmcid": "PMC9621143",
+   "pmid": "36074578",
+   "doi": "10.1172/jci143950",
+   "title": "The druggable transcription factor Fli-1 regulates T cell immunity and tolerance in graft-versus-host disease.",
+   "journalTitle": "J Clin Invest",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Schutt SD, Wu Y, Kharel A, Bastian D, Choi HJ, Hanief Sofi M, Mealer C, McDaniel Mims B, Nguyen H, Liu C, Helke K, Cui W, Zhang X, Ben-David Y, Yu XZ."
+  },
+  {
+   "pmcid": "PMC5323144",
+   "pmid": "27556501",
+   "doi": "10.18632/oncotarget.11431",
+   "title": "RALB provides critical survival signals downstream of Ras in acute myeloid leukemia.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Eckfeldt CE, Pomeroy EJ, Lee RD, Hazen KS, Lee LA, Moriarity BS, Largaespada DA."
+  },
+  {
+   "pmcid": "PMC7321988",
+   "pmid": "32513686",
+   "doi": "10.1073/pnas.1916206117",
+   "title": "Reversible suppression of T cell function in the bone marrow microenvironment of acute myeloid leukemia.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Lamble AJ, Kosaka Y, Laderas T, Maffit A, Kaempf A, Brady LK, Wang W, Long N, Saultz JN, Mori M, Soong D, LeFave CV, Huang F, Adams H, Loriaux MM, Tognon CE, Lo P, Tyner JW, Fan G, McWeeney SK, Druker BJ, Lind EF."
+  },
+  {
+   "pmcid": "PMC6694122",
+   "pmid": "31413257",
+   "doi": "10.1038/s41467-019-11591-1",
+   "title": "A general approach for detecting expressed mutations in AML cells using single cell RNA-sequencing.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Petti AA, Williams SR, Miller CA, Fiddes IT, Srivatsan SN, Chen DY, Fronick CC, Fulton RS, Church DM, Ley TJ."
+  },
+  {
+   "pmcid": "PMC6920560",
+   "pmid": "31570774",
+   "doi": "10.1038/s41374-019-0325-7",
+   "title": "Machine-based detection and classification for bone marrow aspirate differential counts: initial development focusing on nonneoplastic cells.",
+   "journalTitle": "Lab Invest",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Chandradevan R, Aljudi AA, Drumheller BR, Kunananthaseelan N, Amgad M, Gutman DA, Cooper LAD, Jaye DL."
+  },
+  {
+   "pmcid": "PMC9327550",
+   "pmid": "35838753",
+   "doi": "10.1182/bloodadvances.2022007197",
+   "title": "Disparities in trial enrollment and outcomes of Hispanic adolescent and young adult acute lymphoblastic leukemia.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Muffly L, Yin J, Jacobson S, Wall A, Quiroz E, Advani AS, Luger SM, Tallman MS, Litzow MR, Foster MC, Erba HP, Appelbaum FR, Larson RA, Keegan THM, Stock W."
+  },
+  {
+   "pmcid": "PMC7005177",
+   "pmid": "32029705",
+   "doi": "10.1038/s41408-020-0282-9",
+   "title": "The RUNX1-ETO target gene RASSF2 suppresses t(8;21) AML development and regulates Rac GTPase signaling.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Stoner SA, Liu KTH, Andrews ET, Liu M, Arimoto KI, Yan M, Davis AG, Weng S, Dow M, Xian S, DeKelver RC, Carter H, Zhang DE."
+  },
+  {
+   "pmcid": "PMC7477986",
+   "pmid": "32900862",
+   "doi": "10.1136/jitc-2020-000990",
+   "title": "Cell-based artificial APC resistant to lentiviral transduction for efficient generation of CAR-T cells from various cell sources.",
+   "journalTitle": "J Immunother Cancer",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Schmidts A, Marsh LC, Srivastava AA, Bouffard AA, Boroughs AC, Scarf\u00f2 I, Larson RC, Bedoya F, Choi BD, Frigault MJ, Bailey SR, Leick MB, Vatsa S, Kann MC, Prew MS, Kleinstiver BP, Joung JK, Maus MV."
+  },
+  {
+   "pmcid": "PMC7120351",
+   "pmid": "32224839",
+   "doi": "10.5808/gi.2020.18.1.e6",
+   "title": "Strong concordance between RNA structural and single nucleotide variants identified via next generation sequencing techniques in primary pediatric leukemia and patient-derived xenograft samples.",
+   "journalTitle": "Genomics Inform",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Barwe SP, Gopalakrisnapillai A, Mahajan N, Druley TE, Kolb EA, Crowgey EL."
+  },
+  {
+   "pmcid": "PMC8606166",
+   "pmid": "34802457",
+   "doi": "10.1186/s13578-021-00713-2",
+   "title": "Impaired neutralizing antibody response to COVID-19 mRNA vaccines in cancer patients.",
+   "journalTitle": "Cell Biosci",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Zeng C, Evans JP, Reisinger S, Woyach J, Liscynesky C, Boghdadly ZE, Rubinstein MP, Chakravarthy K, Saif L, Oltz EM, Gumina RJ, Shields PG, Li Z, Liu SL."
+  },
+  {
+   "pmcid": "PMC6128690",
+   "pmid": "30192230",
+   "doi": "10.7554/elife.37202",
+   "title": "<i>tp53</i> deficiency causes a wide tumor spectrum and increases embryonal rhabdomyosarcoma metastasis in zebrafish.",
+   "journalTitle": "Elife",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Ignatius MS, Hayes MN, Moore FE, Tang Q, Garcia SP, Blackburn PR, Baxi K, Wang L, Jin A, Ramakrishnan A, Reeder S, Chen Y, Nielsen GP, Chen EY, Hasserjian RP, Tirode F, Ekker SC, Langenau DM."
+  },
+  {
+   "pmcid": "PMC6497463",
+   "pmid": "31073371",
+   "doi": "10.18632/oncotarget.26876",
+   "title": "PIM kinase inhibitor, AZD1208, inhibits protein translation and induces autophagy in primary chronic lymphocytic leukemia cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Cervantes-Gomez F, Stellrecht CM, Ayres ML, Keating MJ, Wierda WG, Gandhi V."
+  },
+  {
+   "pmcid": "PMC7425159",
+   "pmid": "32817791",
+   "doi": "10.1186/s40364-020-00208-1",
+   "title": "AML risk stratification models utilizing ELN-2017 guidelines and additional prognostic factors: a SWOG report.",
+   "journalTitle": "Biomark Res",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Pogosova-Agadjanyan EL, Moseley A, Othus M, Appelbaum FR, Chauncey TR, Chen IL, Erba HP, Godwin JE, Jenkins IC, Fang M, Huynh M, Kopecky KJ, List AF, Naru J, Radich JP, Stevens E, Willborg BE, Willman CL, Wood BL, Zhang Q, Meshinchi S, Stirewalt DL."
+  },
+  {
+   "pmcid": "PMC4863962",
+   "pmid": "27168185",
+   "doi": "10.1371/journal.ppat.1005615",
+   "title": "Virus Infections Incite Pain Hypersensitivity by Inducing Indoleamine 2,3 Dioxygenase.",
+   "journalTitle": "PLoS Pathog",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Huang L, Ou R, Rabelo de Souza G, Cunha TM, Lemos H, Mohamed E, Li L, Pacholczyk G, Randall J, Munn DH, Mellor AL."
+  },
+  {
+   "pmcid": "PMC8982388",
+   "pmid": "35603850",
+   "doi": "10.1093/jncics/pkac020",
+   "title": "Maternal Body Mass Index, Diabetes, and Gestational Weight Gain and Risk for Pediatric Cancer in Offspring: A Systematic Review and Meta-Analysis.",
+   "journalTitle": "JNCI Cancer Spectr",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Marley AR, Domingues A, Ghosh T, Turcotte LM, Spector LG."
+  },
+  {
+   "pmcid": "PMC9570078",
+   "pmid": "36232688",
+   "doi": "10.3390/ijms231911387",
+   "title": "FBP1-Altered Carbohydrate Metabolism Reduces Leukemic Viability through Activating P53 and Modulating the Mitochondrial Quality Control System In Vitro.",
+   "journalTitle": "Int J Mol Sci",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Xu Y, Tran L, Tang J, Nguyen V, Sewell E, Xiao J, Hino C, Wasnik S, Francis-Boyle OL, Zhang KK, Xie L, Zhong JF, Baylink DJ, Chen CS, Reeves ME, Cao H."
+  },
+  {
+   "pmcid": "PMC9631557",
+   "pmid": "35413095",
+   "doi": "10.1182/bloodadvances.2022006968",
+   "title": "Cell origin-dependent cooperativity of mutant Dnmt3a and Npm1 in\u00a0clonal hematopoiesis and myeloid malignancy.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "SanMiguel JM, Eudy E, Loberg MA, Miles LA, Stearns T, Mistry JJ, Rauh MJ, Levine RL, Trowbridge JJ."
+  },
+  {
+   "pmcid": "PMC9006266",
+   "pmid": "34768282",
+   "doi": "10.1182/bloodadvances.2021005845",
+   "title": "Coping strategies in patients with acute myeloid leukemia.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Amonoo HL, Bodd MH, Reynolds MJ, Nelson AM, Newcomb R, Johnson PC, Dhawale TM, Plotke R, Heuer L, Gillani S, Yang D, Deary EC, Daskalakis E, Goldschen L, Brunner A, Fathi AT, LeBlanc TW, El-Jawahri A."
+  },
+  {
+   "pmcid": "PMC9631572",
+   "pmid": "35500222",
+   "doi": "10.1182/bloodadvances.2021006821",
+   "title": "Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Feng Q, Zhou M, Li S, Morimoto L, Hansen H, Myint SS, Wang R, Metayer C, Kang A, Fear AL, Pappas D, Erlich H, Hollenbach JA, Mancuso N, Trachtenberg E, de Smith AJ, Ma X, Wiemels JL."
+  },
+  {
+   "pmcid": "PMC8531894",
+   "pmid": "34686212",
+   "doi": "10.1186/s40959-021-00122-x",
+   "title": "Acute cardiotoxicity after initiation of the novel tyrosine kinase inhibitor gilteritinib for acute myeloid leukemia.",
+   "journalTitle": "Cardiooncology",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Kim L, Fowler B, Campbell CM, Slivnick J, Nawaz H, Kaka Y, Ruz P, Vallakati A, Baliga R, Vasu S, Addison D."
+  },
+  {
+   "pmcid": "PMC6082162",
+   "pmid": "30061600",
+   "doi": "10.1038/s41594-018-0094-9",
+   "title": "Mechanisms of genetic instability caused by (CGG)<sub>n</sub> repeats in an experimental mammalian system.",
+   "journalTitle": "Nat Struct Mol Biol",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Kononenko AV, Ebersole T, Vasquez KM, Mirkin SM."
+  },
+  {
+   "pmcid": "PMC9043933",
+   "pmid": "35244681",
+   "doi": "10.1182/bloodadvances.2021006831",
+   "title": "Outcome of donor-derived TAA-T cell therapy in patients with high-risk or relapsed acute leukemia post allogeneic BMT.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Kinoshita H, Cooke KR, Grant M, Stanojevic M, Cruz CR, Keller M, Fortiz MF, Hoq F, Lang H, Barrett AJ, Liang H, Tanna J, Zhang N, Shibli A, Datar A, Fulton K, Kukadiya D, Zhang A, Williams KM, Dave H, Dome JS, Jacobsohn D, Hanley PJ, Jones RJ, Bollard CM."
+  },
+  {
+   "pmcid": "PMC6331136",
+   "pmid": "30601803",
+   "doi": "10.1371/journal.pcbi.1006663",
+   "title": "Global analysis of N6-methyladenosine functions and its disease association using deep learning and network-based methods.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Zhang SY, Zhang SW, Fan XN, Meng J, Chen Y, Gao SJ, Huang Y."
+  },
+  {
+   "pmcid": "PMC7387317",
+   "pmid": "32439895",
+   "doi": "10.1038/s41375-020-0866-1",
+   "title": "Specific, targetable interactions with the microenvironment influence imatinib-resistant chronic myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Kumar R, Pereira RS, Zanetti C, Minciacchi VR, Merten M, Meister M, Niemann J, Dietz MS, R\u00fcssel N, Schn\u00fctgen F, Tamai M, Akahane K, Inukai T, Oellerich T, Kvasnicka HM, Pfeifer H, Nicolini FE, Heilemann M, Van Etten RA, Krause DS."
+  },
+  {
+   "pmcid": "PMC8973317",
+   "pmid": "33589748",
+   "doi": "10.1038/s41375-021-01166-9",
+   "title": "Cytoplasmic DROSHA and non-canonical mechanisms of MiR-155 biogenesis in FLT3-ITD acute myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Nguyen LXT, Zhang B, Hoang DH, Zhao D, Wang H, Wu H, Su YL, Dong H, Rodriguez-Rodriguez S, Armstrong B, Ghoda LY, Perrotti D, Pichiorri F, Chen J, Li L, Kortylewski M, Rockne RC, Kuo YH, Khaled S, Carlesso N, Marcucci G."
+  },
+  {
+   "pmcid": "PMC5709258",
+   "pmid": "28555084",
+   "doi": "10.1038/leu.2017.165",
+   "title": "Mitoxantrone, etoposide and cytarabine following epigenetic priming with decitabine in adults with relapsed/refractory acute myeloid leukemia or other high-grade myeloid neoplasms: a phase 1/2 study.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Halpern AB, Othus M, Huebner EM, Buckley SA, Pogosova-Agadjanyan EL, Orlowski KF, Scott BL, Becker PS, Hendrie PC, Chen TL, Percival MM, Estey EH, Stirewalt DL, Walter RB."
+  },
+  {
+   "pmcid": "PMC5312311",
+   "pmid": "27517749",
+   "doi": "10.18632/oncotarget.11150",
+   "title": "Targeting the RAS/MAPK pathway with miR-181a in acute myeloid leukemia.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Huang X, Schwind S, Santhanam R, Eisfeld AK, Chiang CL, Lankenau M, Yu B, Hoellerbauer P, Jin Y, Tarighat SS, Khalife J, Walker A, Perrotti D, Bloomfield CD, Wang H, Lee RJ, Lee LJ, Marcucci G."
+  },
+  {
+   "pmcid": "PMC5462858",
+   "pmid": "27904138",
+   "doi": "10.1038/leu.2016.368",
+   "title": "Cirmtuzumab inhibits Wnt5a-induced Rac1 activation in chronic lymphocytic leukemia treated with ibrutinib.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Yu J, Chen L, Cui B, Wu C, Choi MY, Chen Y, Zhang L, Rassenti LZ, Widhopf Ii GF, Kipps TJ."
+  },
+  {
+   "pmcid": "PMC6320735",
+   "pmid": "29977015",
+   "doi": "10.1038/s41375-018-0188-8",
+   "title": "Time resolved quantitative phospho-tyrosine analysis reveals Bruton's Tyrosine kinase mediated signaling downstream of the mutated granulocyte-colony stimulating factor receptors.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Dwivedi P, Muench DE, Wagner M, Azam M, Grimes HL, Greis KD."
+  },
+  {
+   "pmcid": "PMC9383266",
+   "pmid": "35975995",
+   "doi": "10.1289/ehp11092",
+   "title": "Unconventional Oil and Gas Development Exposure and Risk of Childhood Acute Lymphoblastic Leukemia: A Case-Control Study in Pennsylvania, 2009-2017.",
+   "journalTitle": "Environ Health Perspect",
+   "pubYear": "2022",
+   "license": "cc0",
+   "authorString": "Clark CJ, Johnson NP, Soriano M, Warren JL, Sorrentino KM, Kadan-Lottick NS, Saiers JE, Ma X, Deziel NC."
+  },
+  {
+   "pmcid": "PMC6010788",
+   "pmid": "29663688",
+   "doi": "10.1002/cam4.1466",
+   "title": "Living on a farm, contact with farm animals and pets, and childhood acute lymphoblastic leukemia: pooled and meta-analyses from the Childhood Leukemia International Consortium.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Orsi L, Magnani C, Petridou ET, Dockerty JD, Metayer C, Milne E, Bailey HD, Dessypris N, Kang AY, Wesseling C, Infante-Rivard C, W\u00fcnsch-Filho V, Mora AM, Spector LG, Clavel J."
+  },
+  {
+   "pmcid": "PMC8566485",
+   "pmid": "34732703",
+   "doi": "10.1038/s41467-021-26582-4",
+   "title": "Convergence of oncogenic cooperation at single-cell and single-gene levels drives leukemic transformation.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Liu Y, Gu Z, Cao H, Kaphle P, Lyu J, Zhang Y, Hu W, Chung SS, Dickerson KE, Xu J."
+  },
+  {
+   "pmcid": "PMC6537233",
+   "pmid": "31205984",
+   "doi": "10.1177/2333794x19849749",
+   "title": "Presentation and Outcomes of Childhood Cancer Patients at Uganda Cancer Institute.",
+   "journalTitle": "Glob Pediatr Health",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Mutyaba I, Wabinga HR, Orem J, Casper C, Phipps W."
+  },
+  {
+   "pmcid": "PMC7034898",
+   "pmid": "32084225",
+   "doi": "10.1371/journal.pone.0229352",
+   "title": "Utilization of archived neonatal dried blood spots for genome-wide genotyping.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Sok P, Lupo PJ, Richard MA, Rabin KR, Ehli EA, Kallsen NA, Davies GE, Scheurer ME, Brown AL."
+  },
+  {
+   "pmcid": "PMC8727916",
+   "pmid": "35024306",
+   "doi": "10.1016/j.apsb.2021.11.022",
+   "title": "Mechanistic studies of PEG-asparaginase-induced liver injury and hepatic steatosis in mice.",
+   "journalTitle": "Acta Pharm Sin B",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Kumar GVN, Hoshitsuki K, Rathod S, Ramsey MJ, Kokai L, Kershaw EE, Xie W, Fernandez CA."
+  },
+  {
+   "pmcid": "PMC8580619",
+   "pmid": "34778803",
+   "doi": "10.1158/2643-3230.bcd-20-0208",
+   "title": "NOT-Gated CD93 CAR T Cells Effectively Target AML with Minimized Endothelial Cross-Reactivity.",
+   "journalTitle": "Blood Cancer Discov",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Richards RM, Zhao F, Freitas KA, Parker KR, Xu P, Fan A, Sotillo E, Daugaard M, Oo HZ, Liu J, Hong WJ, Sorensen PH, Chang HY, Satpathy AT, Majzner RG, Majeti R, Mackall CL."
+  },
+  {
+   "pmcid": "PMC5973864",
+   "pmid": "29872501",
+   "doi": "10.18632/oncotarget.25340",
+   "title": "Cirmtuzumab inhibits ibrutinib-resistant, Wnt5a-induced Rac1 activation and proliferation in mantle cell lymphoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Yu J, Chen Y, Chen L, Zhang L, Rassenti LZ, Widhopf GF, Kipps TJ."
+  },
+  {
+   "pmcid": "PMC6165819",
+   "pmid": "29773601",
+   "doi": "10.3324/haematol.2017.185082",
+   "title": "Combinatorial targeting of XPO1 and FLT3 exerts synergistic anti-leukemia effects through induction of differentiation and apoptosis in <i>FLT3</i>-mutated acute myeloid leukemias: from concept to clinical trial.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Zhang W, Ly C, Ishizawa J, Mu H, Ruvolo V, Shacham S, Daver N, Andreeff M."
+  },
+  {
+   "pmcid": "PMC6680647",
+   "pmid": "31340431",
+   "doi": "10.3390/molecules24142656",
+   "title": "Structural and Biological Investigations for a Series of N-5 Substituted Pyrrolo[3,2-<i>d</i>]pyrimidines as Potential Anti-Cancer Therapeutics.",
+   "journalTitle": "Molecules",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Cawrse BM, Robinson NM, Lee NC, Wilson GM, Seley-Radtke KL."
+  },
+  {
+   "pmcid": "PMC9139225",
+   "pmid": "35626095",
+   "doi": "10.3390/cancers14102491",
+   "title": "Antagonizing Glutamine Bioavailability Promotes Radiation Sensitivity in Prostate Cancer.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Thiruvalluvan M, Billet S, Bhowmick NA."
+  },
+  {
+   "pmcid": "PMC9718684",
+   "pmid": "36424441",
+   "doi": "10.1038/s41592-022-01673-2",
+   "title": "Image-seq: spatially resolved single-cell sequencing guided by in situ and in vivo imaging.",
+   "journalTitle": "Nat Methods",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Haase C, Gustafsson K, Mei S, Yeh SC, Richter D, Milosevic J, Turcotte R, Kharchenko PV, Sykes DB, Scadden DT, Lin CP."
+  },
+  {
+   "pmcid": "PMC10976320",
+   "pmid": "33199836",
+   "doi": "10.1038/s41375-020-01080-6",
+   "title": "Venetoclax and pegcrisantaspase for complex karyotype acute myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Emadi A, Kapadia B, Bollino D, Bhandary B, Baer MR, Niyongere S, Strovel ET, Kaizer H, Chang E, Choi EY, Ma X, Tighe KM, Carter-Cooper B, Moses BS, Civin CI, Mahurkar A, Shetty AC, Gartenhaus RB, Kamangar F, Lapidus RG."
+  },
+  {
+   "pmcid": "PMC6090987",
+   "pmid": "30068368",
+   "doi": "10.1186/s13045-018-0641-1",
+   "title": "Targeting WEE1 to enhance conventional therapies for acute lymphoblastic leukemia.",
+   "journalTitle": "J Hematol Oncol",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Ghelli Luserna Di Ror\u00e0 A, Beeharry N, Imbrogno E, Ferrari A, Robustelli V, Righi S, Sabattini E, Verga Falzacappa MV, Ronchini C, Testoni N, Baldazzi C, Papayannidis C, Abbenante MC, Marconi G, Paolini S, Parisi S, Sartor C, Fontana MC, De Matteis S, Iacobucci I, Pelicci PG, Cavo M, Yen TJ, Martinelli G."
+  },
+  {
+   "pmcid": "PMC7596813",
+   "pmid": "32736380",
+   "doi": "10.1084/jem.20191526",
+   "title": "Constructing and deconstructing GATA2-regulated cell fate programs to establish developmental trajectories.",
+   "journalTitle": "J Exp Med",
+   "pubYear": "2020",
+   "license": "cc by-nc-sa",
+   "authorString": "Johnson KD, Conn DJ, Shishkova E, Katsumura KR, Liu P, Shen S, Ranheim EA, Kraus SG, Wang W, Calvo KR, Hsu AP, Holland SM, Coon JJ, Keles S, Bresnick EH."
+  },
+  {
+   "pmcid": "PMC7368465",
+   "pmid": "32704618",
+   "doi": "10.1093/jncics/pkaa025",
+   "title": "Late Effects in Survivors of Adolescent and Young Adult Acute Lymphoblastic Leukemia.",
+   "journalTitle": "JNCI Cancer Spectr",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Muffly L, Maguire FB, Li Q, Kennedy V, Keegan TH."
+  },
+  {
+   "pmcid": "PMC6883925",
+   "pmid": "31788667",
+   "doi": "10.20517/cdr.2017.03",
+   "title": "Identification and targeting of CD22\u0394E12 as a molecular RNAi target to overcome drug resistance in high-risk B-lineage leukemias and lymphomas.",
+   "journalTitle": "Cancer Drug Resist",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Uckun FM, Qazi S."
+  },
+  {
+   "pmcid": "PMC6858733",
+   "pmid": "31729982",
+   "doi": "10.1186/s12955-019-1232-8",
+   "title": "Idelalisib addition has neutral to beneficial effects on quality of life in bendamustine/rituximab-treated patients: results of a phase 3, randomized, controlled trial.",
+   "journalTitle": "Health Qual Life Outcomes",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Montillo M, Ill\u00e9s \u00c1, Robak T, Pristupa AS, Wach M, Egyed M, Delgado J, Jurczak W, Morschhauser F, Schuh A, Eradat H, Shreay S, Barrientos JC, Zelenetz AD."
+  },
+  {
+   "pmcid": "PMC5802628",
+   "pmid": "29423272",
+   "doi": "10.1038/s41421-017-0004-z",
+   "title": "Loss of ASXL1 in the bone marrow niche dysregulates hematopoietic stem and progenitor cell fates.",
+   "journalTitle": "Cell Discov",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Zhang P, Chen Z, Li R, Guo Y, Shi H, Bai J, Yang H, Sheng M, Li Z, Li Z, Li J, Chen S, Yuan W, Cheng T, Xu M, Zhou Y, Yang FC."
+  },
+  {
+   "pmcid": "PMC7438233",
+   "pmid": "32080344",
+   "doi": "10.1038/s41375-020-0771-7",
+   "title": "Investigating the role of the innate immune response in relapse or blast crisis in chronic myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Huang W, Liu B, Eklund EA."
+  },
+  {
+   "pmcid": "PMC9177679",
+   "pmid": "35411095",
+   "doi": "10.1038/s41375-022-01558-5",
+   "title": "JAK3 mutations and mitochondrial apoptosis resistance in T-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Bodaar K, Yamagata N, Barthe A, Landrigan J, Chonghaile TN, Burns M, Stevenson KE, Devidas M, Loh ML, Hunger SP, Wood B, Silverman LB, Teachey DT, Meijerink JP, Letai A, Gutierrez A."
+  },
+  {
+   "pmcid": "PMC8727287",
+   "pmid": "34321607",
+   "doi": "10.1038/s41375-021-01346-7",
+   "title": "The RNA-binding protein IGF2BP3 is critical for MLL-AF4-mediated leukemogenesis.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Tran TM, Philipp J, Bassi JS, Nibber N, Draper JM, Lin TL, Palanichamy JK, Jaiswal AK, Silva O, Paing M, King J, Katzman S, Sanford JR, Rao DS."
+  },
+  {
+   "pmcid": "PMC8885421",
+   "pmid": "34711926",
+   "doi": "10.1038/s41375-021-01455-3",
+   "title": "Inhibition of the RacGEF VAV3 by the small molecule IODVA1 impedes RAC signaling and overcomes resistance to tyrosine kinase inhibition in acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Hegde S, Gasilina A, Wunderlich M, Lin Y, Buchholzer M, Krumbach OHF, Akbarzadeh M, Ahmadian MR, Seibel W, Zheng Y, Perentesis JP, Mizukawa BE, Vinnedge LP, Cancelas JA, Nassar NN."
+  },
+  {
+   "pmcid": "PMC5808068",
+   "pmid": "28990581",
+   "doi": "10.1038/leu.2017.306",
+   "title": "Blinatumomab retreatment after relapse in patients with relapsed/refractory B-precursor acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Topp MS, Stelljes M, Zugmaier G, Barnette P, Heffner LT, Trippett T, Duell J, Bargou RC, Holland C, Benjamin JE, Klinger M, Litzow MR."
+  },
+  {
+   "pmcid": "PMC5517805",
+   "pmid": "28724437",
+   "doi": "10.1186/s12943-017-0692-x",
+   "title": "The lncRNA CASC15 regulates SOX4 expression in RUNX1-rearranged acute leukemia.",
+   "journalTitle": "Mol Cancer",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Fernando TR, Contreras JR, Zampini M, Rodriguez-Malave NI, Alberti MO, Anguiano J, Tran TM, Palanichamy JK, Gajeton J, Ung NM, Aros CJ, Waters EV, Casero D, Basso G, Pigazzi M, Rao DS."
+  },
+  {
+   "pmcid": "PMC7724912",
+   "pmid": "33278301",
+   "doi": "10.1182/bloodadvances.2020003170",
+   "title": "Outcomes of patients with hematologic malignancies and COVID-19: a report from the ASH Research Collaborative Data Hub.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Wood WA, Neuberg DS, Thompson JC, Tallman MS, Sekeres MA, Sehn LH, Anderson KC, Goldberg AD, Pennell NA, Niemeyer CM, Tucker E, Hewitt K, Plovnick RM, Hicks LK."
+  },
+  {
+   "pmcid": "PMC7183909",
+   "pmid": "32115575",
+   "doi": "10.1038/s41435-020-0094-8",
+   "title": "The lysine methyltransferase SMYD2 is required for normal lymphocyte development and survival of hematopoietic leukemias.",
+   "journalTitle": "Genes Immun",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Brown MA, Edwards MA, Alshiraihi I, Geng H, Dekker JD, Tucker HO."
+  },
+  {
+   "pmcid": "PMC5841735",
+   "pmid": "29513759",
+   "doi": "10.1371/journal.pone.0193249",
+   "title": "Subtype assignment of CLL based on B-cell subset associated gene signatures from normal bone marrow - A proof of concept study.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "N\u00f8rgaard CH, Jakobsen LH, Gentles AJ, Dybk\u00e6r K, El-Galaly TC, B\u00f8dker JS, Schmitz A, Johansen P, Herold T, Spiekermann K, Brown JR, Klitgaard JL, Johnsen HE, B\u00f8gsted M."
+  },
+  {
+   "pmcid": "PMC8261916",
+   "pmid": "34229733",
+   "doi": "10.1186/s13045-021-01118-x",
+   "title": "Precision oncology in AML: validation of the prognostic value of the knowledge bank approach and suggestions for improvement.",
+   "journalTitle": "J Hematol Oncol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Bill M, Mr\u00f3zek K, Giacopelli B, Kohlschmidt J, Nicolet D, Papaioannou D, Eisfeld AK, Kolitz JE, Powell BL, Carroll AJ, Stone RM, Garzon R, Byrd JC, Bloomfield CD, Oakes CC."
+  },
+  {
+   "pmcid": "PMC5558867",
+   "pmid": "28496177",
+   "doi": "10.1038/leu.2017.147",
+   "title": "Targeting FLT3 by chimeric antigen receptor T cells for the treatment of acute myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Chen L, Mao H, Zhang J, Chu J, Devine S, Caligiuri MA, Yu J."
+  },
+  {
+   "pmcid": "PMC6148437",
+   "pmid": "29654263",
+   "doi": "10.1038/s41375-018-0097-x",
+   "title": "Hedgehog pathway mutations drive oncogenic transformation in high-risk T-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Burns MA, Liao ZW, Yamagata N, Pouliot GP, Stevenson KE, Neuberg DS, Thorner AR, Ducar M, Silverman EA, Hunger SP, Loh ML, Winter SS, Dunsmore KP, Wood B, Devidas M, Harris MH, Silverman LB, Sallan SE, Gutierrez A."
+  },
+  {
+   "pmcid": "PMC8869715",
+   "pmid": "35205126",
+   "doi": "10.3390/biology11020260",
+   "title": "DRPPM-EASY: A Web-Based Framework for Integrative Analysis of Multi-Omics Cancer Datasets.",
+   "journalTitle": "Biology (Basel)",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Obermayer A, Dong L, Hu Q, Golden M, Noble JD, Rodriguez P, Robinson TJ, Teng M, Tan AC, Shaw TI."
+  },
+  {
+   "pmcid": "PMC5650952",
+   "pmid": "28344320",
+   "doi": "10.1038/leu.2017.98",
+   "title": "DPP4 truncated GM-CSF and IL-3 manifest distinct receptor-binding and regulatory functions compared with their full-length forms.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "O'Leary HA, Capitano M, Cooper S, Mantel C, Boswell HS, Kapur R, Ramdas B, Chan R, Deng L, Qu CK, Broxmeyer HE."
+  },
+  {
+   "pmcid": "PMC8222245",
+   "pmid": "34162911",
+   "doi": "10.1038/s41598-021-92448-w",
+   "title": "Focused CRISPR-Cas9 genetic screening reveals USO1 as a vulnerability in B-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Jaiswal AK, Truong H, Tran TM, Lin TL, Casero D, Alberti MO, Rao DS."
+  },
+  {
+   "pmcid": "PMC6200731",
+   "pmid": "30356155",
+   "doi": "10.1038/s41598-018-34024-3",
+   "title": "Characterizing Deformability of Drug Resistant Patient-Derived Acute Lymphoblastic Leukemia (ALL) Cells Using Acoustic Tweezers.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Liu HC, Gang EJ, Kim HN, Lim HG, Jung H, Chen R, Abdel-Azim H, Shung KK, Kim YM."
+  },
+  {
+   "pmcid": "PMC5560704",
+   "pmid": "28817678",
+   "doi": "10.1371/journal.pone.0180488",
+   "title": "Family-based exome-wide association study of childhood acute lymphoblastic leukemia among Hispanics confirms role of ARID5B in susceptibility.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Archer NP, Perez-Andreu V, Stoltze U, Scheurer ME, Wilkinson AV, Lin TN, Qian M, Goodings C, Swartz MD, Ranjit N, Rabin KR, Peckham-Gregory EC, Plon SE, de Alarcon PA, Zabriskie RC, Antillon-Klussmann F, Najera CR, Yang JJ, Lupo PJ."
+  },
+  {
+   "pmcid": "PMC4944897",
+   "pmid": "27098006",
+   "doi": "10.1002/cam4.721",
+   "title": "Subsequent primary malignancies and acute myelogenous leukemia transformation among myelodysplastic syndrome patients treated with or without lenalidomide.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Rollison DE, Shain KH, Lee JH, Hampras SS, Fulp W, Fisher K, Al Ali NH, Padron E, Lancet J, Xu Q, Olesnyckyj M, Kenvin L, Knight R, Dalton W, List A, Komrokji RS."
+  },
+  {
+   "pmcid": "PMC5302887",
+   "pmid": "27509060",
+   "doi": "10.18632/oncotarget.11093",
+   "title": "Immortalization of human AE pre-leukemia cells by hTERT allows leukemic transformation.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Lin S, Wei J, Wunderlich M, Chou FS, Mulloy JC."
+  },
+  {
+   "pmcid": "PMC4911325",
+   "pmid": "26669973",
+   "doi": "10.1038/leu.2015.343",
+   "title": "In vivo targeting of leukemia stem cells by directing parthenolide-loaded nanoparticles to the bone marrow niche.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Zong H, Sen S, Zhang G, Mu C, Albayati ZF, Gorenstein DG, Liu X, Ferrari M, Crooks PA, Roboz GJ, Shen H, Guzman ML."
+  },
+  {
+   "pmcid": "PMC6486546",
+   "pmid": "30805632",
+   "doi": "10.1093/nar/gkz127",
+   "title": "The CDK7 inhibitor THZ1 alters RNA polymerase dynamics at the 5' and 3' ends of genes.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Sampathi S, Acharya P, Zhao Y, Wang J, Stengel KR, Liu Q, Savona MR, Hiebert SW."
+  },
+  {
+   "pmcid": "PMC7050288",
+   "pmid": "31425756",
+   "doi": "10.1016/j.bbmt.2019.08.007",
+   "title": "Donor HLA-E Status Associates with Disease-Free Survival and Transplant-Related Mortality after Non In Vivo T Cell-Depleted HSCT for Acute Leukemia.",
+   "journalTitle": "Biol Blood Marrow Transplant",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Tsamadou C, F\u00fcrst D, Wang T, He N, Lee SJ, Spellman SR, Fleischhauer K, Hsu KC, Paczesny S, Verneris MR, Schrezenmeier H, Mytilineos J."
+  },
+  {
+   "pmcid": "PMC8932663",
+   "pmid": "35302840",
+   "doi": "10.1126/sciadv.abf8627",
+   "title": "H3K9 dimethylation safeguards cancer cells against activation of the interferon pathway.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Hansen AM, Ge Y, Schuster MB, Pundhir S, Jakobsen JS, Kalvisa A, Tapia MC, Gordon S, Ambri F, Bagger FO, Pandey D, Helin K, Porse BT."
+  },
+  {
+   "pmcid": "PMC4846597",
+   "pmid": "26500062",
+   "doi": "10.1038/onc.2015.405",
+   "title": "Sleeping Beauty transposon screen identifies signaling modules that cooperate with STAT5 activation to induce B-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Heltemes-Harris LM, Larson JD, Starr TK, Hubbard GK, Sarver AL, Largaespada DA, Farrar MA."
+  },
+  {
+   "pmcid": "PMC5965255",
+   "pmid": "26806350",
+   "doi": "10.1016/j.neo.2015.11.012",
+   "title": "Synthesis, Characterization, and In Vitro and In Vivo Evaluations of 4-(N)-Docosahexaenoyl 2', 2'-Difluorodeoxycytidine with Potent and Broad-Spectrum Antitumor Activity.",
+   "journalTitle": "Neoplasia",
+   "pubYear": "2016",
+   "license": "cc by-nc-nd",
+   "authorString": "Naguib YW, Lansakara-P D, Lashinger LM, Rodriguez BL, Valdes S, Niu M, Aldayel AM, Peng L, Hursting SD, Cui Z."
+  },
+  {
+   "pmcid": "PMC7042303",
+   "pmid": "32296028",
+   "doi": "10.1038/s41392-020-0112-3",
+   "title": "Inhibition of CDK9 by voruciclib synergistically enhances cell death induced by the Bcl-2 selective inhibitor venetoclax in preclinical models of acute myeloid leukemia.",
+   "journalTitle": "Signal Transduct Target Ther",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Luedtke DA, Su Y, Ma J, Li X, Buck SA, Edwards H, Polin L, Kushner J, Dzinic SH, White K, Lin H, Taub JW, Ge Y."
+  },
+  {
+   "pmcid": "PMC9534506",
+   "pmid": "36197977",
+   "doi": "10.1126/sciadv.add3339",
+   "title": "CARM1-mediated methylation of ASXL2 impairs tumor-suppressive function of MLL3/COMPASS.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Zhao Z, Rendleman EJ, Szczepanski AP, Morgan MA, Wang L, Shilatifard A."
+  },
+  {
+   "pmcid": "PMC7084745",
+   "pmid": "32121378",
+   "doi": "10.3390/ijerph17051581",
+   "title": "Longitudinal Patterns of Social Problem-Solving Skills in an Ethnically Diverse Sample of Pediatric Patients with Cancer and their Caregivers.",
+   "journalTitle": "Int J Environ Res Public Health",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Isaac EI, Sivagnanalingam U, Meisman AR, Wetherington Donewar C, Ewing LJ, Katz ER, Muriel AC, Rohan JM."
+  },
+  {
+   "pmcid": "PMC8532198",
+   "pmid": "34077953",
+   "doi": "10.1182/blood.2020009871",
+   "title": "Activated natural killer cells predict poor clinical prognosis in high-risk B- and T-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Blood",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Duault C, Kumar A, Taghi Khani A, Lee SJ, Yang L, Huang M, Hurtz C, Manning B, Ghoda L, McDonald T, Lacayo NJ, Sakamoto KM, Carroll M, Tasian SK, Marcucci G, Yu J, Caligiuri MA, Maecker HT, Swaminathan S."
+  },
+  {
+   "pmcid": "PMC8632331",
+   "pmid": "34858726",
+   "doi": "10.1080/2162402x.2021.2000109",
+   "title": "Unifying heterogeneous expression data to predict targets for CAR-T cell therapy.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Schreiner P, Velasquez MP, Gottschalk S, Zhang J, Fan Y."
+  },
+  {
+   "pmcid": "PMC7604631",
+   "pmid": "33131256",
+   "doi": "10.3324/haematol.2019.242826",
+   "title": "Venetoclax as monotherapy and in combination with hypomethylating agents or low dose cytarabine in relapsed and treatment refractory acute myeloid leukemia: a systematic review and meta-analysis.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Bewersdorf JP, Giri S, Wang R, Williams RT, Tallman MS, Zeidan AM, Stahl M."
+  },
+  {
+   "pmcid": "PMC5500007",
+   "pmid": "28683103",
+   "doi": "10.1371/journal.pcbi.1005482",
+   "title": "Combination therapeutics of Nilotinib and radiation in acute lymphoblastic leukemia as an effective method against drug-resistance.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Kaveh K, Takahashi Y, Farrar MA, Storme G, Guido M, Piepenburg J, Penning J, Foo J, Leder KZ, Hui SK."
+  },
+  {
+   "pmcid": "PMC7526544",
+   "pmid": "32809971",
+   "doi": "10.1172/jci.insight.124465",
+   "title": "Granzyme A-producing T helper cells are critical for acute graft-versus-host disease.",
+   "journalTitle": "JCI Insight",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Park S, Griesenauer B, Jiang H, Adom D, Mehrpouya-Bahrami P, Chakravorty S, Kazemian M, Imam T, Srivastava R, Hayes TA, Pardo J, Janga SC, Paczesny S, Kaplan MH, Olson MR."
+  },
+  {
+   "pmcid": "PMC5394958",
+   "pmid": "27927766",
+   "doi": "10.3324/haematol.2016.152710",
+   "title": "Phase 1 dose-finding study of rebastinib (DCC-2036) in patients with relapsed chronic myeloid leukemia and acute myeloid leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Cortes J, Talpaz M, Smith HP, Snyder DS, Khoury J, Bhalla KN, Pinilla-Ibarz J, Larson R, Mitchell D, Wise SC, Rutkoski TJ, Smith BD, Flynn DL, Kantarjian HM, Rosen O, Van Etten RA."
+  },
+  {
+   "pmcid": "PMC5442648",
+   "pmid": "28535802",
+   "doi": "10.1186/s13059-017-1224-0",
+   "title": "N-BLR, a primate-specific non-coding transcript leads to colorectal cancer invasion and migration.",
+   "journalTitle": "Genome Biol",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Rigoutsos I, Lee SK, Nam SY, Anfossi S, Pasculli B, Pichler M, Jing Y, Rodriguez-Aguayo C, Telonis AG, Rossi S, Ivan C, Catela Ivkovic T, Fabris L, Clark PM, Ling H, Shimizu M, Redis RS, Shah MY, Zhang X, Okugawa Y, Jung EJ, Tsirigos A, Huang L, Ferdin J, Gaf\u00e0 R, Spizzo R, Nicoloso MS, Paranjape AN, Shariati M, Tiron A, Yeh JJ, Teruel-Montoya R, Xiao L, Melo SA, Menter D, Jiang ZQ, Flores ER, Negrini M, Goel A, Bar-Eli M, Mani SA, Liu CG, Lopez-Berestein G, Berindan-Neagoe I, Esteller M, Kopetz S, Lanza G, Calin GA, Calin GA."
+  },
+  {
+   "pmcid": "PMC8556368",
+   "pmid": "34716410",
+   "doi": "10.1038/s42003-021-02741-7",
+   "title": "LIFR inhibition enhances the therapeutic efficacy of HDAC inhibitors in triple negative breast cancer.",
+   "journalTitle": "Commun Biol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Li M, Viswanadhapalli S, Santhamma B, Pratap UP, Luo Y, Liu J, Altwegg KA, Tang W, Liu Z, Li X, Ebrahimi B, Yan H, Zou Y, Konda S, Sareddy GR, Xu Z, Chen Y, Rao MK, Brenner AJ, Kaklamani VG, Tekmal RR, Ahmed G, Raj GV, Nickisch KJ, Nair HB, Vadlamudi RK."
+  },
+  {
+   "pmcid": "PMC7776347",
+   "pmid": "32336680",
+   "doi": "10.3324/haematol.2019.245795",
+   "title": "Fc\u03b3RIIb-BCR coligation inhibits BCR signaling in chronic lymphocytic leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Bosch R, Mora A, Cuellar C, Ferrer G, Gorlatov S, Nomded\u00e9u J, Montserrat E, Sierra J, Rai KR, Chiorazzi N, Moreno C."
+  },
+  {
+   "pmcid": "PMC6442980",
+   "pmid": "30361418",
+   "doi": "10.3324/haematol.2018.205252",
+   "title": "CD123 expression patterns and selective targeting with a CD123-targeted antibody-drug conjugate (IMGN632) in acute lymphoblastic leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Angelova E, Audette C, Kovtun Y, Daver N, Wang SA, Pierce S, Konoplev SN, Khogeer H, Jorgensen JL, Konopleva M, Zweidler-McKay PA, Medeiros LJ, Kantarjian HM, Jabbour EJ, Khoury JD."
+  },
+  {
+   "pmcid": "PMC9152975",
+   "pmid": "34732043",
+   "doi": "10.3324/haematol.2021.278369",
+   "title": "AXL/MERTK inhibitor ONO-7475 potently synergizes with venetoclax and overcomes venetoclax resistance to kill <i>FLT3</i>-ITD acute myeloid leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Post SM, Ma H, Malaney P, Zhang X, Aitken MJL, Mak PY, Ruvolo VR, Yasuhiro T, Kozaki R, Chan LE, Ostermann LB, Konopleva M, Carter BZ, DiNardo C, Andreeff MD, Khoury JD, Ruvolo PP."
+  },
+  {
+   "pmcid": "PMC6192860",
+   "pmid": "29720734",
+   "doi": "10.1038/s41375-018-0135-8",
+   "title": "Phase 1/2 trial of GCLAM with dose-escalated mitoxantrone for newly diagnosed AML or other high-grade myeloid neoplasms.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Halpern AB, Othus M, Huebner EM, Scott BL, Becker PS, Percival MM, Hendrie PC, Gardner KM, Chen TL, Buckley SA, Orlowski KF, Anwar A, Appelbaum FR, Erba HP, Estey EH, Walter RB."
+  },
+  {
+   "pmcid": "PMC8830224",
+   "pmid": "35154579",
+   "doi": "10.18632/oncotarget.28193",
+   "title": "ABT199/venetoclax potentiates the cytotoxicity of alkylating agents and fludarabine in acute myeloid leukemia cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Valdez BC, Murray D, Yuan B, Nieto Y, Popat U, Andersson BS."
+  },
+  {
+   "pmcid": "PMC6636280",
+   "pmid": "31333801",
+   "doi": "10.7150/jca.33989",
+   "title": "<i>RAG1</i> high expression associated with <i>IKZF1</i> dysfunction in adult B-cell acute lymphoblastic leukemia.",
+   "journalTitle": "J Cancer",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Han Q, Ma J, Gu Y, Song H, Kapadia M, Kawasawa YI, Dovat S, Song C, Ge Z."
+  },
+  {
+   "pmcid": "PMC7644662",
+   "pmid": "33154356",
+   "doi": "10.1038/s41408-020-00384-1",
+   "title": "Hairy cell leukemia expresses programmed death-1.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Kumar P, Gao Q, Chan A, Lewis N, Sigler A, Pichardo J, Xiao W, Roshal M, Dogan A."
+  },
+  {
+   "pmcid": "PMC6916423",
+   "pmid": "31407403",
+   "doi": "10.1002/gcc.22799",
+   "title": "Insertional oncogenesis by HPV70 revealed by multiple genomic analyses in a clinically HPV-negative cervical cancer.",
+   "journalTitle": "Genes Chromosomes Cancer",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Van Arsdale A, Patterson NE, Maggi EC, Agoni L, Van Doorslaer K, Harmon B, Nevadunsky N, Kuo DYS, Einstein MH, Lenz J, Montagna C."
+  },
+  {
+   "pmcid": "PMC8100891",
+   "pmid": "33968771",
+   "doi": "10.3389/fonc.2021.665763",
+   "title": "Adipocytes Provide Fatty Acids to Acute Lymphoblastic Leukemia Cells.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Tucci J, Chen T, Margulis K, Orgel E, Paszkiewicz RL, Cohen MD, Oberley MJ, Wahhab R, Jones AE, Divakaruni AS, Hsu CC, Noll SE, Sheng X, Zare RN, Mittelman SD."
+  },
+  {
+   "pmcid": "PMC7314847",
+   "pmid": "32581241",
+   "doi": "10.1038/s41467-020-16927-w",
+   "title": "Synergism between IL7R and CXCR4 drives BCR-ABL induced transformation in Philadelphia chromosome-positive acute lymphoblastic leukemia.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Abdelrasoul H, Vadakumchery A, Werner M, Lenk L, Khadour A, Young M, El Ayoubi O, Vogiatzi F, Kr\u00e4mer M, Schmid V, Chen Z, Yousafzai Y, Cario G, Schrappe M, M\u00fcschen M, Halsey C, Mulaw MA, Schewe DM, Hobeika E, Alsadeq A, Jumaa H."
+  },
+  {
+   "pmcid": "PMC6249323",
+   "pmid": "30464179",
+   "doi": "10.1038/s41598-018-33873-2",
+   "title": "Pre-B acute lymphoblastic leukemia expresses cell surface nucleolin as a 9-O-acetylated sialoglycoprotein.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Joo EJ, Wasik BR, Parrish C, Paz H, M\u03cbhlenhoff M, Abdel-Azim H, Groffen J, Heisterkamp N."
+  },
+  {
+   "pmcid": "PMC5175335",
+   "pmid": "27436288",
+   "doi": "10.1093/nar/gkw633",
+   "title": "RAG1 targeting in the genome is dominated by chromatin interactions mediated by the non-core regions of RAG1 and RAG2.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2016",
+   "license": "cc by-nc",
+   "authorString": "Maman Y, Teng G, Seth R, Kleinstein SH, Schatz DG."
+  },
+  {
+   "pmcid": "PMC5792275",
+   "pmid": "29217783",
+   "doi": "10.3324/haematol.2017.175729",
+   "title": "Somatic <i>STAT3</i> mutations in Felty syndrome: an implication for a common pathogenesis with large granular lymphocyte leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Savola P, Br\u00fcck O, Olson T, Kelkka T, Kauppi MJ, Kovanen PE, Kyt\u00f6l\u00e4 S, Sokka-Isler T, Loughran TP, Leirisalo-Repo M, Mustjoki S."
+  },
+  {
+   "pmcid": "PMC5663521",
+   "pmid": "29137349",
+   "doi": "10.18632/oncotarget.19042",
+   "title": "Tumor <i>Trp53</i> status and genotype affect the bone marrow microenvironment in acute myeloid leukemia.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Jacamo R, Davis RE, Ling X, Sonnylal S, Wang Z, Ma W, Zhang M, Ruvolo P, Ruvolo V, Wang RY, McQueen T, Lowe S, Zuber J, Kornblau SM, Konopleva M, Andreeff M."
+  },
+  {
+   "pmcid": "PMC8092005",
+   "pmid": "33707228",
+   "doi": "10.1101/gr.269233.120",
+   "title": "DNA methylation epitypes highlight underlying developmental and disease pathways in acute myeloid leukemia.",
+   "journalTitle": "Genome Res",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Giacopelli B, Wang M, Cleary A, Wu YZ, Schultz AR, Schmutz M, Blachly JS, Eisfeld AK, Mundy-Bosse B, Vosberg S, Greif PA, Claus R, Bullinger L, Garzon R, Coombes KR, Bloomfield CD, Druker BJ, Tyner JW, Byrd JC, Oakes CC."
+  },
+  {
+   "pmcid": "PMC8155811",
+   "pmid": "32132655",
+   "doi": "10.1038/s41375-020-0783-3",
+   "title": "Management of hyperleukocytosis and impact of leukapheresis among patients with acute myeloid leukemia (AML) on short- and long-term clinical outcomes: a large, retrospective, multicenter, international study.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Stahl M, Shallis RM, Wei W, Montesinos P, Lengline E, Neukirchen J, Bhatt VR, Sekeres MA, Fathi AT, Konig H, Luger S, Khan I, Roboz GJ, Cluzeau T, Mart\u00ednez-Cuadron D, Raffoux E, Germing U, Umakanthan JM, Mukherjee S, Brunner AM, Miller A, McMahon CM, Ritchie EK, Rodr\u00edguez-Veiga R, Itzykson R, Boluda B, Rabian F, Tormo M, Acu\u00f1a-Cruz E, Rabinovich E, Yoo B, Cano I, Podoltsev NA, Bewersdorf JP, Gore S, Zeidan AM."
+  },
+  {
+   "pmcid": "PMC7084408",
+   "pmid": "32138279",
+   "doi": "10.3390/ijms21051718",
+   "title": "Regulation of Small GTPase Rab20 by Ikaros in B-Cell Acute Lymphoblastic Leukemia.",
+   "journalTitle": "Int J Mol Sci",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Payne JL, Song C, Ding Y, Dhanyamraju PK, Bamme Y, Schramm JW, Desai D, Sharma A, Gowda C, Dovat S."
+  },
+  {
+   "pmcid": "PMC8807390",
+   "pmid": "34341479",
+   "doi": "10.1038/s41375-021-01361-8",
+   "title": "Targeting serine hydroxymethyltransferases 1 and 2 for T-cell acute lymphoblastic leukemia therapy.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Pikman Y, Ocasio-Martinez N, Alexe G, Dimitrov B, Kitara S, Diehl FF, Robichaud AL, Conway AS, Ross L, Su A, Ling F, Qi J, Roti G, Lewis CA, Puissant A, Vander Heiden MG, Stegmaier K."
+  },
+  {
+   "pmcid": "PMC5410248",
+   "pmid": "28186983",
+   "doi": "10.18632/oncotarget.15146",
+   "title": "Differentiation status of primary chronic myeloid leukemia cells affects sensitivity to BCR-ABL1 inhibitors.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Pietarinen PO, Eide CA, Ayuda-Dur\u00e1n P, Potdar S, Kuusanm\u00e4ki H, Andersson EI, Mpindi JP, Pemovska T, Kontro M, Heckman CA, Kallioniemi O, Wennerberg K, Hjorth-Hansen H, Druker BJ, Enserink JM, Tyner JW, Mustjoki S, Porkka K."
+  },
+  {
+   "pmcid": "PMC7574303",
+   "pmid": "33076970",
+   "doi": "10.1186/s13045-020-00973-4",
+   "title": "Synergistic effect of BCL2 and FLT3 co-inhibition in acute myeloid leukemia.",
+   "journalTitle": "J Hematol Oncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Brinton LT, Zhang P, Williams K, Canfield D, Orwick S, Sher S, Wasmuth R, Beaver L, Cempre C, Skinner J, Cannon M, Govande M, Harrington B, Lehman A, Byrd JC, Lapalombella R, Blachly JS."
+  },
+  {
+   "pmcid": "PMC8719088",
+   "pmid": "34670359",
+   "doi": "10.3324/haematol.2021.279601",
+   "title": "Tumor suppressor function of <i>WT1</i> in acute promyelocytic leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Christopher MJ, Katerndahl CDS, LeBlanc HR, Elmendorf TT, Basu V, Gang M, Menssen AJ, Spencer DH, Duncavage EJ, Ketkar S, Wartman LD, Ramakrishnan SM, Miller CA, Ley TJ."
+  },
+  {
+   "pmcid": "PMC7693375",
+   "pmid": "33120864",
+   "doi": "10.3390/cancers12113134",
+   "title": "Reduced SLIT2 is Associated with Increased Cell Proliferation and Arsenic Trioxide Resistance in Acute Promyelocytic Leukemia.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Weinh\u00e4user I, Pereira-Martins DA, Ortiz C, Silveira DR, Sim\u00f5es LAA, Bianco TM, Araujo CL, Koury LC, Melo RAM, Bittencourt RI, Pagnano K, Pasquini R, Nunes EC, Fagundes EM, Gloria AB, Kerbauy F, Chauffaille ML, Keating A, Tallman MS, Ribeiro RC, Dillon R, Ganser A, L\u00f6wenberg B, Valk P, Lo-Coco F, Sanz MA, Berliner N, Ammatuna E, Lucena-Araujo AR, Schuringa JJ, Rego EM."
+  },
+  {
+   "pmcid": "PMC7776352",
+   "pmid": "32079693",
+   "doi": "10.3324/haematol.2019.241539",
+   "title": "Comparative analysis of targeted novel therapies in relapsed, refractory chronic lymphocytic leukaemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Eyre TA, Lamanna N, Roeker LE, Ujjani CS, Hill BT, Barr PM, Lansigan E, Cheson BD, Yazdy M, Allan JN, Rhodes J, Schuster SJ, Nabhan C, Skarbnik A, Leslie L, Islam P, Whitaker K, Coombs CC, Tuncer HH, Pagel JM, Jacobs R, Winter AM, Bailey N, Sitlinger A, Schuh AH, Follows G, Fox CP, Brander DM, Shadman M, Mato AR."
+  },
+  {
+   "pmcid": "PMC8752192",
+   "pmid": "35008104",
+   "doi": "10.1182/bloodadvances.2021006282",
+   "title": "Successful outcome of pre-engraftment COVID-19 in an HCT patient: impact of targeted therapies and cellular immunity.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Pourhassan H, La Rosa C, Chiuppesi F, Puing A, Aldoss I, Park Y, Zhou Q, Karpinski V, Faircloth K, Kaltcheva T, Johnson D, Francisco SO, Zaia JA, Nakamura R, Al Malki MM, Diamond DJ, Dadwal SS, Forman SJ."
+  },
+  {
+   "pmcid": "PMC9153019",
+   "pmid": "34614509",
+   "doi": "10.1182/bloodadvances.2021005614",
+   "title": "Gilteritinib-induced upregulation of S100A9 is mediated through BCL6 in acute myeloid leukemia.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Zavorka Thomas ME, Jeon JY, Talebi Z, Buelow DR, Silvaroli J, Campbell MJ, Sparreboom A, Pabla N, Baker SD."
+  },
+  {
+   "pmcid": "PMC5638296",
+   "pmid": "29023469",
+   "doi": "10.1371/journal.pone.0185762",
+   "title": "The common oncogenomic program of NOTCH1 and NOTCH3 signaling in T-cell acute lymphoblastic leukemia.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Choi SH, Severson E, Pear WS, Liu XS, Aster JC, Blacklow SC."
+  },
+  {
+   "pmcid": "PMC5064867",
+   "pmid": "27598230",
+   "doi": "10.1038/nbt.3666",
+   "title": "High-throughput measurement of single-cell growth rates using serial microfluidic mass sensor arrays.",
+   "journalTitle": "Nat Biotechnol",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Cermak N, Olcum S, Delgado FF, Wasserman SC, Payer KR, A Murakami M, Knudsen SM, Kimmerling RJ, Stevens MM, Kikuchi Y, Sandikci A, Ogawa M, Agache V, Bal\u00e9ras F, Weinstock DM, Manalis SR."
+  },
+  {
+   "pmcid": "PMC6649800",
+   "pmid": "31360884",
+   "doi": "10.1093/jncics/pky069",
+   "title": "Validation of Minimal Residual Disease as Surrogate Endpoint for Event-Free Survival in Childhood Acute Lymphoblastic Leukemia.",
+   "journalTitle": "JNCI Cancer Spectr",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Galimberti S, Devidas M, Lucenti A, Cazzaniga G, M\u00f6ricke A, Bartram CR, Mann G, Carroll W, Winick N, Borowitz M, Wood B, Basso G, Conter V, Zimmermann M, Suciu S, Biondi A, Schrappe M, Hunger SP, Valsecchi MG."
+  },
+  {
+   "pmcid": "PMC8248901",
+   "pmid": "34223559",
+   "doi": "10.33696/haematology.2.028",
+   "title": "Flavopiridol (Alvocidib), a Cyclin-dependent Kinases (CDKs) Inhibitor, Found Synergy Effects with Niclosamide in Cutaneous T-cell Lymphoma.",
+   "journalTitle": "J Clin Haematol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Zhang XH, Hsiang J, Rosen ST."
+  },
+  {
+   "pmcid": "PMC7647286",
+   "pmid": "32483590",
+   "doi": "10.1093/jamia/ocaa060",
+   "title": "Unsupervised machine learning and prognostic factors of survival in chronic lymphocytic leukemia.",
+   "journalTitle": "J Am Med Inform Assoc",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Coombes CE, Abrams ZB, Li S, Abruzzo LV, Coombes KR."
+  },
+  {
+   "pmcid": "PMC8119290",
+   "pmid": "33257776",
+   "doi": "10.1038/s41409-020-01149-x",
+   "title": "Cord blood maternal microchimerism following unrelated cord blood transplantation.",
+   "journalTitle": "Bone Marrow Transplant",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Kanaan SB, Delaney C, Milano F, Scaradavou A, Besien KV, Allen J, Lambert NC, Cousin E, Thur LA, Kahn E, Forsyth AM, Sensoy O, Nelson JL."
+  },
+  {
+   "pmcid": "PMC4838884",
+   "pmid": "27098097",
+   "doi": "10.1038/srep24307",
+   "title": "From molecular interaction to acute promyelocytic leukemia: Calculating leukemogenesis and remission from endogenous molecular-cellular network.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Yuan R, Zhu X, Radich JP, Ao P."
+  },
+  {
+   "pmcid": "PMC4856559",
+   "pmid": "26707936",
+   "doi": "10.1038/leu.2015.353",
+   "title": "CDK6-mediated repression of CD25 is required for induction and maintenance of Notch1-induced T-cell acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Jena N, Sheng J, Hu JK, Li W, Zhou W, Lee G, Tsichlis N, Pathak A, Brown N, Deshpande A, Luo C, Hu GF, Hinds PW, Van Etten RA, Hu MG."
+  },
+  {
+   "pmcid": "PMC8248805",
+   "pmid": "34220922",
+   "doi": "10.3389/fgene.2021.554948",
+   "title": "Genome-Wide Association Analyses Identify Variants in <i>IRF4</i> Associated With Acute Myeloid Leukemia and Myelodysplastic Syndrome Susceptibility.",
+   "journalTitle": "Front Genet",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Wang J, Clay-Gilmour AI, Karaesmen E, Rizvi A, Zhu Q, Yan L, Preus L, Liu S, Wang Y, Griffiths E, Stram DO, Pooler L, Sheng X, Haiman C, Van Den Berg D, Webb A, Brock G, Spellman S, Pasquini M, McCarthy P, Allan J, St\u00f6lzel F, Onel K, Hahn T, Sucheston-Campbell LE."
+  },
+  {
+   "pmcid": "PMC6013781",
+   "pmid": "29728305",
+   "doi": "10.1016/j.ebiom.2018.04.018",
+   "title": "Prognostic Role of Gene Mutations in Chronic Myelomonocytic Leukemia Patients Treated With Hypomethylating Agents.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Duchmann M, Yalniz FF, Sanna A, Sallman D, Coombs CC, Renneville A, Kosmider O, Braun T, Platzbecker U, Willems L, Ad\u00e8s L, Fontenay M, Rampal R, Padron E, Droin N, Preudhomme C, Santini V, Patnaik MM, Fenaux P, Solary E, Itzykson R."
+  },
+  {
+   "pmcid": "PMC7894150",
+   "pmid": "33141929",
+   "doi": "10.1002/cncr.33298",
+   "title": "Long-term survival of patients with relapsed/refractory acute lymphoblastic leukemia treated with blinatumomab.",
+   "journalTitle": "Cancer",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Topp MS, G\u00f6kbuget N, Zugmaier G, Stein AS, Dombret H, Chen Y, Ribera JM, Bargou RC, Horst HA, Kantarjian HM."
+  },
+  {
+   "pmcid": "PMC9616867",
+   "pmid": "36307398",
+   "doi": "10.1038/s41408-022-00742-1",
+   "title": "Prognostic impact of ASXL1 mutations in chronic phase chronic myeloid leukemia.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Bidikian A, Kantarjian H, Jabbour E, Short NJ, Patel K, Ravandi F, Sasaki K, Issa GC."
+  },
+  {
+   "pmcid": "PMC5625299",
+   "pmid": "28805820",
+   "doi": "10.1038/nm.4378",
+   "title": "Prostate cancer-associated SPOP mutations confer resistance to BET inhibitors through stabilization of BRD4.",
+   "journalTitle": "Nat Med",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Dai X, Gan W, Li X, Wang S, Zhang W, Huang L, Liu S, Zhong Q, Guo J, Zhang J, Chen T, Shimizu K, Beca F, Blattner M, Vasudevan D, Buckley DL, Qi J, Buser L, Liu P, Inuzuka H, Beck AH, Wang L, Wild PJ, Garraway LA, Rubin MA, Barbieri CE, Wong KK, Muthuswamy SK, Huang J, Chen Y, Bradner JE, Wei W."
+  },
+  {
+   "pmcid": "PMC5012566",
+   "pmid": "27598410",
+   "doi": "10.1371/journal.pone.0161748",
+   "title": "A Cell-Based Assay for Measuring Endogenous BcrAbl Kinase Activity and Inhibitor Resistance.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Ouellette SB, Noel BM, Parker LL."
+  },
+  {
+   "pmcid": "PMC9043926",
+   "pmid": "35008101",
+   "doi": "10.1182/bloodadvances.2021005753",
+   "title": "Clofarabine with topotecan, vinorelbine, and thiotepa reinduction regimen for children and young adults with relapsed AML.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Ramaswamy K, Steinherz PG, Agrawal AK, Forlenza CJ, Mauguen A, Roshal M, Trippett T, Kernan NA, Sulis ML, Shukla N."
+  },
+  {
+   "pmcid": "PMC5772495",
+   "pmid": "29343685",
+   "doi": "10.1038/s41467-017-02687-7",
+   "title": "The protective role of DOT1L in UV-induced melanomagenesis.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Zhu B, Chen S, Wang H, Yin C, Han C, Peng C, Liu Z, Wan L, Zhang X, Zhang J, Lian CG, Ma P, Xu ZX, Prince S, Wang T, Gao X, Shi Y, Liu D, Liu M, Wei W, Wei Z, Pan J, Wang Y, Xuan Z, Hess J, Hayward NK, Goding CR, Chen X, Zhou J, Cui R."
+  },
+  {
+   "pmcid": "PMC5451334",
+   "pmid": "28255022",
+   "doi": "10.3324/haematol.2016.159772",
+   "title": "Molecular features of early onset adult myelodysplastic syndrome.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Hirsch CM, Przychodzen BP, Radivoyevitch T, Patel B, Thota S, Clemente MJ, Nagata Y, LaFramboise T, Carraway HE, Nazha A, Sekeres MA, Makishima H, Maciejewski JP."
+  },
+  {
+   "pmcid": "PMC9213819",
+   "pmid": "35561683",
+   "doi": "10.1016/j.stemcr.2022.04.009",
+   "title": "Ripk3 signaling regulates HSCs during stress and represses radiation-induced leukemia in mice.",
+   "journalTitle": "Stem Cell Reports",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Zhang L, Luo H, Ni HM, Liu S, Xing H, Zhang J, Sellin M, Breslin S J P, Wei W, Denning MF, Small W, Ding WX, Huang S, Zhang J."
+  },
+  {
+   "pmcid": "PMC7515845",
+   "pmid": "32684632",
+   "doi": "10.1038/s41375-020-0977-8",
+   "title": "Therapeutic inhibition of Fc\u03b3RIIb signaling targets leukemic stem cells in chronic myeloid leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Parting O, Langer S, Kuepper MK, Wessling C, Li S, Braunschweig T, Chatain N, Mai\u00e9 T, Costa IG, Crysandt M, Huber M, Br\u00fcmmendorf TH, Koschmieder S, Schemionek M."
+  },
+  {
+   "pmcid": "PMC5716937",
+   "pmid": "28579617",
+   "doi": "10.1038/leu.2017.174",
+   "title": "HDAC1,2 inhibition and doxorubicin impair Mre11-dependent DNA repair and DISC to override BCR-ABL1-driven DSB repair in Philadelphia chromosome-positive B-cell precursor acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Tharkar-Promod S, Johnson DP, Bennett SE, Dennis EM, Banowsky BG, Jones SS, Shearstone JR, Quayle SN, Min C, Jarpe M, Mosbruger T, Pomicter AD, Miles RR, Chen WY, Bhalla KN, Zweidler-McKay PA, Shrieve DC, Deininger MW, Chandrasekharan MB, Bhaskara S."
+  },
+  {
+   "pmcid": "PMC5041898",
+   "pmid": "27007052",
+   "doi": "10.18632/oncotarget.8199",
+   "title": "Differential regulation of the c-Myc/Lin28 axis discriminates subclasses of rearranged MLL leukemia.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Chen L, Sun Y, Wang J, Jiang H, Muntean AG."
+  },
+  {
+   "pmcid": "PMC7956145",
+   "pmid": "33714981",
+   "doi": "10.1038/s41408-021-00436-0",
+   "title": "The multi-kinase inhibitor TG02 induces apoptosis and blocks B-cell receptor signaling in chronic lymphocytic leukemia through dual mechanisms of action.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Chen R, Tsai J, Thompson PA, Chen Y, Xiong P, Liu C, Burrows F, Sivina M, Burger JA, Keating MJ, Wierda WG, Plunkett W."
+  },
+  {
+   "pmcid": "PMC5927978",
+   "pmid": "29545342",
+   "doi": "10.3324/haematol.2017.172429",
+   "title": "Distinct protein signatures of acute myeloid leukemia bone marrow-derived stromal cells are prognostic for patient survival.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Kornblau SM, Ruvolo PP, Wang RY, Battula VL, Shpall EJ, Ruvolo VR, McQueen T, Qui Y, Zeng Z, Pierce S, Jacamo R, Yoo SY, Le PM, Sun J, Hail N, Konopleva M, Andreeff M."
+  },
+  {
+   "pmcid": "PMC5814232",
+   "pmid": "29464092",
+   "doi": "10.18632/oncotarget.24020",
+   "title": "mTOR inhibition enhances efficacy of dasatinib in <i>ABL</i>-rearranged Ph-like B-ALL.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Gotesman M, Vo TT, Herzog LO, Tea T, Mallya S, Tasian SK, Konopleva M, Fruman DA."
+  },
+  {
+   "pmcid": "PMC8037139",
+   "pmid": "33801661",
+   "doi": "10.3390/ijerph18073486",
+   "title": "Bayesian Group Index Regression for Modeling Chemical Mixtures and Cancer Risk.",
+   "journalTitle": "Int J Environ Res Public Health",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Wheeler DC, Rustom S, Carli M, Whitehead TP, Ward MH, Metayer C."
+  },
+  {
+   "pmcid": "PMC9481139",
+   "pmid": "36112677",
+   "doi": "10.1126/sciadv.abp9005",
+   "title": "Targeting OXPHOS de novo purine synthesis as the nexus of &lt;i&gt;FLT3&lt;/i&gt; inhibitor-mediated synergistic antileukemic actions.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Zhang P, Brinton LT, Gharghabi M, Sher S, Williams K, Cannon M, Walker JS, Canfield D, Beaver L, Cempre CB, Phillips H, Chen X, Yan P, Lehman A, Scherle P, Wang M, Vaddi K, Baiocchi R, Wang R, Sampath D, Alinari L, Blachly JS, Lapalombella R."
+  },
+  {
+   "pmcid": "PMC6853146",
+   "pmid": "31350825",
+   "doi": "10.1111/cts.12669",
+   "title": "Uncovering the Genomic Landscape in Newly Diagnosed and Relapsed Pediatric Cytogenetically Normal FLT3-ITD AML.",
+   "journalTitle": "Clin Transl Sci",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Buelow DR, Pounds SB, Wang YD, Shi L, Li Y, Finkelstein D, Shurtleff S, Neale G, Inaba H, Ribeiro RC, Palumbo R, Garrison D, Orwick SJ, Blachly JS, Kroll K, Byrd JC, Gruber TA, Rubnitz JE, Baker SD."
+  },
+  {
+   "pmcid": "PMC7291851",
+   "pmid": "32060420",
+   "doi": "10.1038/s41388-020-1201-z",
+   "title": "Therapeutic targeting of TP53-mutated acute myeloid leukemia by inhibiting HIF-1\u03b1 with echinomycin.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Wang Y, Liu Y, Bailey C, Zhang H, He M, Sun D, Zhang P, Parkin B, Baer MR, Zheng P, Malek SN, Liu Y."
+  },
+  {
+   "pmcid": "PMC8508452",
+   "pmid": "34638385",
+   "doi": "10.3390/cancers13194889",
+   "title": "DJ4 Targets the Rho-Associated Protein Kinase Pathway and Attenuates Disease Progression in Preclinical Murine Models of Acute Myeloid Leukemia.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Golla U, Ehudin MA, Annageldiyev C, Zeng Z, Bastihalli Tukaramrao D, Tarren A, Date AA, Elcheva I, Berg A, Amin S, Loughran TP, Kester M, Desai D, Dovat S, Claxton D, Sharma A."
+  },
+  {
+   "pmcid": "PMC5066240",
+   "pmid": "27664237",
+   "doi": "10.1101/gad.283762.116",
+   "title": "Superenhancer reprogramming drives a B-cell-epithelial transition and high-risk leukemia.",
+   "journalTitle": "Genes Dev",
+   "pubYear": "2016",
+   "license": "cc by-nc",
+   "authorString": "Hu Y, Zhang Z, Kashiwagi M, Yoshida T, Joshi I, Jena N, Somasundaram R, Emmanuel AO, Sigvardsson M, Fitamant J, El-Bardeesy N, Gounari F, Van Etten RA, Georgopoulos K."
+  },
+  {
+   "pmcid": "PMC9327559",
+   "pmid": "35584376",
+   "doi": "10.1182/bloodadvances.2022007613",
+   "title": "Allelic complexity of KMT2A partial tandem duplications in acute myeloid leukemia and myelodysplastic syndromes.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Tsai HK, Gibson CJ, Murdock HM, Davineni P, Harris MH, Wang ES, Gondek LP, Kim AS, Nardi V, Lindsley RC."
+  },
+  {
+   "pmcid": "PMC6557490",
+   "pmid": "31181069",
+   "doi": "10.1371/journal.pone.0217314",
+   "title": "Influence of genetic factors on long-term treatment related neurocognitive complications, and on anxiety and depression in survivors of childhood acute lymphoblastic leukemia: The Petale study.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Petrykey K, Lipp\u00e9 S, Robaey P, Sultan S, Laniel J, Drouin S, Bertout L, Beaulieu P, St-Onge P, Boulet-Craig A, Rezgui A, Yasui Y, Sapkota Y, Krull KR, Hudson MM, Laverdi\u00e8re C, Sinnett D, Krajinovic M."
+  },
+  {
+   "pmcid": "PMC9006306",
+   "pmid": "35030628",
+   "doi": "10.1182/bloodadvances.2021005948",
+   "title": "Triple combination of BET plus PI3K and NF-\u03baB inhibitors exhibit synergistic activity in adult T-cell leukemia/lymphoma.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Daenthanasanmak A, Bamford RN, Yoshioka M, Yang SM, Homan P, Karim B, Bryant BR, Petrus MN, Thomas CJ, Green PL, Miljkovic MD, Conlon KC, Waldmann TA."
+  },
+  {
+   "pmcid": "PMC8548922",
+   "pmid": "34746714",
+   "doi": "10.1016/j.eclinm.2021.101093",
+   "title": "Novel genetic variants associated with mortality after unrelated donor allogeneic hematopoietic cell transplantation.",
+   "journalTitle": "EClinicalMedicine",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Hahn T, Wang J, Preus LM, Karaesmen E, Rizvi A, Clay-Gilmour AI, Zhu Q, Wang Y, Yan L, Liu S, Stram DO, Pooler L, Sheng X, Haiman CA, Berg DVD, Webb A, Brock G, Spellman SR, Onel K, McCarthy PL, Pasquini MC, Sucheston-Campbell LE."
+  },
+  {
+   "pmcid": "PMC8945291",
+   "pmid": "34727170",
+   "doi": "10.1182/bloodadvances.2021005522",
+   "title": "Decreased IL-10 accelerates B-cell leukemia/lymphoma in a mouse model of pediatric lymphoid leukemia.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Fitch BA, Zhou M, Situ J, Surianarayanan S, Reeves MQ, Hermiston ML, Wiemels JL, Kogan SC."
+  },
+  {
+   "pmcid": "PMC6773521",
+   "pmid": "30936419",
+   "doi": "10.1038/s41375-019-0462-4",
+   "title": "Kdm6b regulates context-dependent hematopoietic stem cell self-renewal and leukemogenesis.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Mallaney C, Ostrander EL, Celik H, Kramer AC, Martens A, Kothari A, Koh WK, Haussler E, Iwamori N, Gontarz P, Zhang B, Challen GA."
+  },
+  {
+   "pmcid": "PMC6756038",
+   "pmid": "30872781",
+   "doi": "10.1038/s41375-019-0444-6",
+   "title": "KRAS, NRAS, and BRAF mutations are highly enriched in trisomy 12 chronic lymphocytic leukemia and are associated with shorter treatment-free survival.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Vendramini E, Bomben R, Pozzo F, Benedetti D, Bittolo T, Rossi FM, Dal Bo M, Rabe KG, Pozzato G, Zaja F, Chiarenza A, Di Raimondo F, Braggio E, Parikh SA, Kay NE, Shanafelt TD, Del Poeta G, Gattei V, Zucchetto A."
+  },
+  {
+   "pmcid": "PMC6354733",
+   "pmid": "30579863",
+   "doi": "10.1016/j.ebiom.2018.12.013",
+   "title": "Modeling anti-CD19 CAR T cell therapy in humanized mice with human immunity and autologous leukemia.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Jin CH, Xia J, Rafiq S, Huang X, Hu Z, Zhou X, Brentjens RJ, Yang YG."
+  },
+  {
+   "pmcid": "PMC6068018",
+   "pmid": "29724902",
+   "doi": "10.3324/haematol.2017.183418",
+   "title": "Phase I trial of plerixafor combined with decitabine in newly diagnosed older patients with acute myeloid leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Roboz GJ, Ritchie EK, Dault Y, Lam L, Marshall DC, Cruz NM, Hsu HC, Hassane DC, Christos PJ, Ippoliti C, Scandura JM, Guzman ML."
+  },
+  {
+   "pmcid": "PMC5870673",
+   "pmid": "28882002",
+   "doi": "10.1093/bioinformatics/btx270",
+   "title": "Tumor phylogeny inference using tree-constrained importance sampling.",
+   "journalTitle": "Bioinformatics",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Satas G, Raphael BJ."
+  },
+  {
+   "pmcid": "PMC4972639",
+   "pmid": "27125204",
+   "doi": "10.1038/leu.2016.70",
+   "title": "CDKN2A-independent role of BMI1 in promoting growth and survival of Ph+ acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Mariani SA, Minieri V, De Dominici M, Iacobucci I, Peterson LF, Calabretta B."
+  },
+  {
+   "pmcid": "PMC6944109",
+   "pmid": "31637848",
+   "doi": "10.1002/1878-0261.12588",
+   "title": "miR-15a-5p, miR-15b-5p, and miR-16-5p inhibit tumor progression by directly targeting MYCN in neuroblastoma.",
+   "journalTitle": "Mol Oncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Chava S, Reynolds CP, Pathania AS, Gorantla S, Poluektova LY, Coulter DW, Gupta SC, Pandey MK, Challagundla KB."
+  },
+  {
+   "pmcid": "PMC7604634",
+   "pmid": "33131260",
+   "doi": "10.3324/haematol.2019.240564",
+   "title": "The role of 18F-FDG-PET in detecting Richter's transformation of chronic lymphocytic leukemia in patients receiving therapy with a B-cell receptor inhibitor.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Wang Y, Rabe KG, Bold MS, Shi M, Hanson CA, Schwager SM, Call TG, Kenderian SS, Muchtar E, Hayman SR, Koehler AB, Fonder AL, Chanan-Khan AA, Van Dyke DL, Slager SL, Kay NE, Ding W, Leis JF, Parikh SA."
+  },
+  {
+   "pmcid": "PMC5945587",
+   "pmid": "29748555",
+   "doi": "10.1038/s41419-018-0551-8",
+   "title": "PTBP1 enhances miR-101-guided AGO2 targeting to MCL1 and promotes miR-101-induced apoptosis.",
+   "journalTitle": "Cell Death Dis",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Cui J, Placzek WJ."
+  },
+  {
+   "pmcid": "PMC9335101",
+   "pmid": "34937317",
+   "doi": "10.3324/haematol.2021.279410",
+   "title": "Rational drug combinations with CDK4/6 inhibitors in acute lymphoblastic leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Bride KL, Hu H, Tikhonova A, Fuller TJ, Vincent TL, Shraim R, Li MM, Carroll WL, Raetz EA, Aifantis I, Teachey DT."
+  },
+  {
+   "pmcid": "PMC6668401",
+   "pmid": "31366893",
+   "doi": "10.1038/s41598-019-47297-z",
+   "title": "Clonal Evolution and Changes in Two AML Patients Detected with A Novel Single-Cell DNA Sequencing Platform.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Xu L, Durruthy-Durruthy R, Eastburn DJ, Pellegrino M, Shah O, Meyer E, Zehnder J."
+  },
+  {
+   "pmcid": "PMC8905691",
+   "pmid": "35042232",
+   "doi": "10.1182/bloodadvances.2021005978",
+   "title": "Outcomes of relapsed B-cell acute lymphoblastic leukemia after sequential treatment with blinatumomab and inotuzumab.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Wudhikarn K, King AC, Geyer MB, Roshal M, Bernal Y, Gyurkocza B, Perales MA, Park JH."
+  },
+  {
+   "pmcid": "PMC8579250",
+   "pmid": "34473244",
+   "doi": "10.1182/bloodadvances.2021005148",
+   "title": "Racial and ethnic enrollment disparities and demographic reporting requirements in acute leukemia clinical trials.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Hantel A, Luskin MR, Garcia JS, Stock W, DeAngelo DJ, Abel GA."
+  },
+  {
+   "pmcid": "PMC7196584",
+   "pmid": "32127492",
+   "doi": "10.1074/mcp.ra119.001857",
+   "title": "An Improved Boosting to Amplify Signal with Isobaric Labeling (iBASIL) Strategy for Precise Quantitative Single-cell Proteomics.",
+   "journalTitle": "Mol Cell Proteomics",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Tsai CF, Zhao R, Williams SM, Moore RJ, Schultz K, Chrisler WB, Pasa-Tolic L, Rodland KD, Smith RD, Shi T, Zhu Y, Liu T."
+  },
+  {
+   "pmcid": "PMC5355038",
+   "pmid": "28208123",
+   "doi": "10.18632/oncotarget.15392",
+   "title": "Analysis of acquired mutations in transgenes arising in Ba/F3 transformation assays: findings and recommendations.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Watanabe-Smith K, Godil J, Agarwal A, Tognon C, Druker B."
+  },
+  {
+   "pmcid": "PMC6529443",
+   "pmid": "31113932",
+   "doi": "10.1038/s41408-019-0211-y",
+   "title": "ABCB1 SNP predicts outcome in patients with acute myeloid leukemia treated with Gemtuzumab ozogamicin: a report from Children's Oncology Group AAML0531 Trial.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Rafiee R, Chauhan L, Alonzo TA, Wang YC, Elmasry A, Loken MR, Pollard J, Aplenc R, Raimondi S, Hirsch BA, Bernstein ID, Gamis AS, Meshinchi S, Lamba JK."
+  },
+  {
+   "pmcid": "PMC7520302",
+   "pmid": "32710497",
+   "doi": "10.1002/cam4.3249",
+   "title": "Fluoroquinolone prophylaxis does not increase risk of neuropathy in children with acute lymphoblastic leukemia.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Karol SE, Sun Y, Tang L, Pui CH, Ferrolino J, Allison KJ, Cross SJ, Evans WE, Crews KR, Jeha S, Wolf J."
+  },
+  {
+   "pmcid": "PMC5979452",
+   "pmid": "29662006",
+   "doi": "10.3390/ijms19041198",
+   "title": "Hyperinsulinemia Promotes Esophageal Cancer Development in a Surgically-Induced Duodeno-Esophageal Reflux Murine Model.",
+   "journalTitle": "Int J Mol Sci",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Arcidiacono D, Dedja A, Giacometti C, Fassan M, Nucci D, Francia S, Fabris F, Zaramella A, Gallagher EJ, Cassaro M, Rugge M, LeRoith D, Alberti A, Realdon S."
+  },
+  {
+   "pmcid": "PMC5349906",
+   "pmid": "27863389",
+   "doi": "10.18632/oncotarget.13364",
+   "title": "NT1721, a novel epidithiodiketopiperazine, exhibits potent in vitro and in vivo efficacy against acute myeloid leukemia.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Kowolik CM, Lin M, Xie J, Overman LE, Horne DA."
+  },
+  {
+   "pmcid": "PMC6586617",
+   "pmid": "31222125",
+   "doi": "10.1038/s41598-019-45346-1",
+   "title": "Methylation and transcription patterns are distinct in IDH mutant gliomas compared to other IDH mutant cancers.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Unruh D, Zewde M, Buss A, Drumm MR, Tran AN, Scholtens DM, Horbinski C."
+  },
+  {
+   "pmcid": "PMC6680714",
+   "pmid": "31284599",
+   "doi": "10.3390/pharmaceutics11070319",
+   "title": "Intracellular Signaling in Key Pathways Is Induced by Treatment with Ultrasound and Microbubbles in a Leukemia Cell Line, but Not in Healthy Peripheral Blood Mononuclear Cells.",
+   "journalTitle": "Pharmaceutics",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Haugse R, Langer A, Gullaksen SE, Sund\u00f8y SM, Gjertsen BT, Kotopoulis S, McCormack E."
+  },
+  {
+   "pmcid": "PMC6856069",
+   "pmid": "31727977",
+   "doi": "10.1038/s41598-019-53262-7",
+   "title": "Functional and topographic effects on DNA methylation in IDH1/2 mutant cancers.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Bledea R, Vasudevaraja V, Patel S, Stafford J, Serrano J, Esposito G, Tredwin LM, Goodman N, Kloetgen A, Golfinos JG, Zagzag D, Weigelt B, Iafrate AJ, Sulman EP, Chi AS, Dogan S, Reis-Filho JS, Chiang S, Placantonakis D, Tsirigos A, Snuderl M."
+  },
+  {
+   "pmcid": "PMC5089920",
+   "pmid": "27019981",
+   "doi": "10.1038/tpj.2016.7",
+   "title": "Expression and polymorphism (rs4880) of mitochondrial superoxide dismutase (SOD2) and asparaginase induced hepatotoxicity in adult patients with acute lymphoblastic leukemia.",
+   "journalTitle": "Pharmacogenomics J",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Alachkar H, Fulton N, Sanford B, Malnassy G, Mutonga M, Larson RA, Bloomfield CD, Marcucci G, Nakamura Y, Stock W."
+  },
+  {
+   "pmcid": "PMC6400938",
+   "pmid": "30837643",
+   "doi": "10.1038/s41598-019-40218-0",
+   "title": "Effect of CHK1 Inhibition on CPX-351 Cytotoxicity in vitro and ex vivo.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Vincelette ND, Ding H, Huehls AM, Flatten KS, Kelly RL, Kohorst MA, Webster J, Hess AD, Pratz KW, Karnitz LM, Kaufmann SH."
+  },
+  {
+   "pmcid": "PMC5369961",
+   "pmid": "28187444",
+   "doi": "10.18632/oncotarget.15180",
+   "title": "Idelalisib and bendamustine combination is synergistic and increases DNA damage response in chronic lymphocytic leukemia cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Modi P, Balakrishnan K, Yang Q, Wierda WG, Keating MJ, Gandhi V."
+  },
+  {
+   "pmcid": "PMC6988309",
+   "pmid": "31992353",
+   "doi": "10.1186/s13045-019-0821-7",
+   "title": "Preclinical efficacy for a novel tyrosine kinase inhibitor, ArQule 531 against acute myeloid leukemia.",
+   "journalTitle": "J Hematol Oncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Elgamal OA, Mehmood A, Jeon JY, Carmichael B, Lehman A, Orwick SJ, Truxall J, Goettl VM, Wasmuth R, Tran M, Mitchell S, Lapalombella R, Eathiraj S, Schwartz B, Stegmaier K, Baker SD, Hertlein E, Byrd JC."
+  },
+  {
+   "pmcid": "PMC8559504",
+   "pmid": "34528411",
+   "doi": "10.1002/cam4.4281",
+   "title": "Levocarnitine for pegaspargase-induced hepatotoxicity in older children and young adults with acute lymphoblastic leukemia.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Schulte R, Hinson A, Huynh V, Breese EH, Pierro J, Rotz S, Mixon BA, McNeer JL, Burke MJ, Orgel E."
+  },
+  {
+   "pmcid": "PMC6469926",
+   "pmid": "30958261",
+   "doi": "10.7554/elife.45105",
+   "title": "Single-cell lineage tracing by endogenous mutations enriched in transposase accessible mitochondrial DNA.",
+   "journalTitle": "Elife",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Xu J, Nuno K, Litzenburger UM, Qi Y, Corces MR, Majeti R, Chang HY."
+  },
+  {
+   "pmcid": "PMC5526055",
+   "pmid": "26657156",
+   "doi": "10.1038/onc.2015.438",
+   "title": "CBP/catenin antagonist safely eliminates drug-resistant leukemia-initiating cells.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Zhao Y, Masiello D, McMillian M, Nguyen C, Wu Y, Melendez E, Smbatyan G, Kida A, He Y, Teo JL, Kahn M."
+  },
+  {
+   "pmcid": "PMC8222551",
+   "pmid": "33503336",
+   "doi": "10.1002/cnr2.1335",
+   "title": "Novel germline TRAF3IP3 mutation in a dyad with familial acute B lymphoblastic leukemia.",
+   "journalTitle": "Cancer Rep (Hoboken)",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Pommert L, Burns R, Furumo Q, Pulakanti K, Brandt J, Burke MJ, Rao S."
+  },
+  {
+   "pmcid": "PMC5986286",
+   "pmid": "29768210",
+   "doi": "10.1016/j.celrep.2018.04.051",
+   "title": "Engineered Tumor-Targeted T Cells Mediate Enhanced Anti-Tumor Efficacy Both Directly and through Activation of the Endogenous Immune System.",
+   "journalTitle": "Cell Rep",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Avanzi MP, Yeku O, Li X, Wijewarnasuriya DP, van Leeuwen DG, Cheung K, Park H, Purdon TJ, Daniyan AF, Spitzer MH, Brentjens RJ."
+  },
+  {
+   "pmcid": "PMC9631628",
+   "pmid": "35797240",
+   "doi": "10.1182/bloodadvances.2022007952",
+   "title": "BMX kinase mediates gilteritinib resistance in FLT3-mutated AML through microenvironmental factors.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Buelow DR, Bhatnagar B, Orwick SJ, Jeon JY, Eisenmann ED, Stromatt JC, Pabla NS, Blachly JS, Baker SD, Blaser BW."
+  },
+  {
+   "pmcid": "PMC5140770",
+   "pmid": "27270437",
+   "doi": "10.1038/onc.2016.167",
+   "title": "Myeloid translocation genes differentially regulate colorectal cancer programs.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Parang B, Bradley AM, Mittal MK, Short SP, Short SP, Thompson JJ, Barrett CW, Naik RD, Bilotta AJ, Washington MK, Revetta FL, Smith JJ, Chen X, Wilson KT, Hiebert SW, Williams CS."
+  },
+  {
+   "pmcid": "PMC7067886",
+   "pmid": "32165703",
+   "doi": "10.1038/s41598-020-61237-2",
+   "title": "Population-Based Analysis of Demographic and Socioeconomic Disparities in Pediatric CNS Cancer Survival in the United States.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Fineberg R, Zahedi S, Eguchi M, Hart M, Cockburn M, Green AL."
+  },
+  {
+   "pmcid": "PMC7493976",
+   "pmid": "32933554",
+   "doi": "10.1186/s13059-020-02152-7",
+   "title": "Cancer-specific CTCF binding facilitates oncogenic transcriptional dysregulation.",
+   "journalTitle": "Genome Biol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Fang C, Wang Z, Han C, Safgren SL, Helmin KA, Adelman ER, Serafin V, Basso G, Eagen KP, Gaspar-Maia A, Figueroa ME, Singer BD, Ratan A, Ntziachristos P, Zang C."
+  },
+  {
+   "pmcid": "PMC8773437",
+   "pmid": "32909665",
+   "doi": "10.1002/pbc.28360",
+   "title": "Allopurinol use during pediatric acute lymphoblastic leukemia maintenance therapy safely corrects skewed 6-mercaptopurine metabolism, improving inadequate myelosuppression and reducing gastrointestinal toxicity.",
+   "journalTitle": "Pediatr Blood Cancer",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Cohen G, Cooper S, Sison EA, Annesley C, Bhuiyan M, Brown P."
+  },
+  {
+   "pmcid": "PMC6536934",
+   "pmid": "30983123",
+   "doi": "10.1002/cam4.2134",
+   "title": "Major hemorrhage in chronic lymphocytic leukemia patients in the US Veterans Health Administration system in the pre-ibrutinib era: Incidence and risk factors.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Georgantopoulos P, Yang H, Norris LB, Bennett CL."
+  },
+  {
+   "pmcid": "PMC6269310",
+   "pmid": "30049824",
+   "doi": "10.3324/haematol.2018.193086",
+   "title": "BCR-ABL1 mediated miR-150 downregulation through MYC contributed to myeloid differentiation block and drug resistance in chronic myeloid leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Srutova K, Curik N, Burda P, Savvulidi F, Silvestri G, Trotta R, Klamova H, Pecherkova P, Sovova Z, Koblihova J, Stopka T, Perrotti D, Polakova KM."
+  },
+  {
+   "pmcid": "PMC8190296",
+   "pmid": "34108527",
+   "doi": "10.1038/s41598-021-90500-3",
+   "title": "DNA-PK inhibitor peposertib enhances p53-dependent cytotoxicity of DNA double-strand break inducing therapy in acute leukemia.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Haines E, Nishida Y, Carr MI, Montoya RH, Ostermann LB, Zhang W, Zenke FT, Blaukat A, Andreeff M, Vassilev LT."
+  },
+  {
+   "pmcid": "PMC4877578",
+   "pmid": "27217294",
+   "doi": "10.1038/srep26643",
+   "title": "MUC1-C Stabilizes MCL-1 in the Oxidative Stress Response of Triple-Negative Breast Cancer Cells to BCL-2 Inhibitors.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Hiraki M, Suzuki Y, Alam M, Hinohara K, Hasegawa M, Jin C, Kharbanda S, Kufe D."
+  },
+  {
+   "pmcid": "PMC6647096",
+   "pmid": "31331399",
+   "doi": "10.1186/s13148-019-0704-3",
+   "title": "Genomic and epigenomic predictors of response to guadecitabine in relapsed/refractory acute myelogenous leukemia.",
+   "journalTitle": "Clin Epigenetics",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Chung W, Kelly AD, Kropf P, Fung H, Jelinek J, Su XY, Roboz GJ, Kantarjian HM, Azab M, Issa JJ."
+  },
+  {
+   "pmcid": "PMC6336352",
+   "pmid": "30615612",
+   "doi": "10.1371/journal.pcbi.1006664",
+   "title": "Mutation, drift and selection in single-driver hematologic malignancy: Example of secondary myelodysplastic syndrome following treatment of inherited neutropenia.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Wojdyla T, Mehta H, Glaubach T, Bertolusso R, Iwanaszko M, Braun R, Corey SJ, Kimmel M."
+  },
+  {
+   "pmcid": "PMC9441716",
+   "pmid": "36053753",
+   "doi": "10.1084/jem.20212228",
+   "title": "Megakaryopoiesis impairment through acute innate immune signaling activation by azacitidine.",
+   "journalTitle": "J Exp Med",
+   "pubYear": "2022",
+   "license": "cc by-nc-sa",
+   "authorString": "Okoye-Okafor UC, Javarappa KK, Javarappa KK, Tsallos D, Saad J, Yang D, Zhang C, Benard L, Thiruthuvanathan VJ, Cole S, Ruiz S, Tatiparthy M, Choudhary G, Choudhary G, DeFronzo S, Bartholdy BA, Pallaud C, Ramos PM, Shastri A, Verma A, Verma A, Heckman CA, Will B."
+  },
+  {
+   "pmcid": "PMC4856318",
+   "pmid": "27145341",
+   "doi": "10.1371/journal.pcbi.1004888",
+   "title": "Identifying Network Perturbation in Cancer.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Grechkin M, Logsdon BA, Gentles AJ, Lee SI."
+  },
+  {
+   "pmcid": "PMC4823160",
+   "pmid": "26621337",
+   "doi": "10.1038/leu.2015.327",
+   "title": "The TGF-\u03b2/SMAD pathway is an important mechanism for NK cell immune evasion in childhood B-acute lymphoblastic leukemia.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Rouce RH, Shaim H, Sekine T, Weber G, Ballard B, Ku S, Barese C, Murali V, Wu MF, Liu H, Shpall EJ, Bollard CM, Rabin KR, Rezvani K."
+  },
+  {
+   "pmcid": "PMC9059786",
+   "pmid": "35483876",
+   "doi": "10.1101/mcs.a006167",
+   "title": "Acute myeloid leukemia with an <i>MN1-ETV6</i> fusion in a young child with Down syndrome.",
+   "journalTitle": "Cold Spring Harb Mol Case Stud",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Rosenzweig J, Pillai PM, Prockop S, Benayed R, Eidenschink Brodersen L, Najfeld V, Loken MR, Zhang Y, Shukla N."
+  },
+  {
+   "pmcid": "PMC9223383",
+   "pmid": "35743010",
+   "doi": "10.3390/ijms23126568",
+   "title": "Arsenic Trioxide and Venetoclax Synergize against AML Progenitors by ROS Induction and Inhibition of Nrf2 Activation.",
+   "journalTitle": "Int J Mol Sci",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Hoang DH, Buettner R, Valerio M, Ghoda L, Zhang B, Kuo YH, Rosen ST, Burnett J, Marcucci G, Pullarkat V, Nguyen LXT."
+  },
+  {
+   "pmcid": "PMC4913309",
+   "pmid": "27320899",
+   "doi": "10.1038/srep28163",
+   "title": "Ultrasensitive proteomic quantitation of cellular signaling by digitized nanoparticle-protein counting.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Jacob T, Agarwal A, Ramunno-Johnson D, O'Hare T, G\u00f6nen M, Tyner JW, Druker BJ, Vu TQ."
+  },
+  {
+   "pmcid": "PMC8327883",
+   "pmid": "34074652",
+   "doi": "10.1101/mcs.a006089",
+   "title": "Twists and turns from \"tumor in tumor\" profiling: surveillance of chronic lymphocytic leukemia (CLL) leads to detection of a lung adenocarcinoma, whose genomic characterization alters the original hematologic diagnosis.",
+   "journalTitle": "Cold Spring Harb Mol Case Stud",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Terraf P, Sholl LM, Davids MS, Awad MM, Garcia EP, MacConaill LE, Dal Cin P, Kim A, Lindeman NI, Stachler M, Hwang DH, Dubuc AM."
+  },
+  {
+   "pmcid": "PMC5352411",
+   "pmid": "28039479",
+   "doi": "10.18632/oncotarget.14220",
+   "title": "Sensitizing leukemia stem cells to NF-\u03baB inhibitor treatment in vivo by inactivation of both TNF and IL-1 signaling.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Li J, Volk A, Zhang J, Cannova J, Dai S, Hao C, Hu C, Sun J, Xu Y, Wei W, Breslin P, Nand S, Chen J, Kini A, Zhu J, Zhang J."
+  },
+  {
+   "pmcid": "PMC8455651",
+   "pmid": "34548472",
+   "doi": "10.1038/s41408-021-00538-9",
+   "title": "Identification of adult Philadelphia-like acute lymphoblastic leukemia using a FISH-based algorithm distinguishes prognostic groups and outcomes.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Abdel-Rahman ZH, Heckman MG, Anagnostou T, White LJ, Kloft-Nelson SM, Knudson RA, Alkhateeb HB, Sproat LZ, Khera N, Murthy HS, Ayala E, Hogan WJ, Roy V, Peterson JF, Kharfan-Dabaja MA, Ketterling RP, Litzow MR, Baughn LB, Patnaik M, Greipp PT, Foran JM."
+  },
+  {
+   "pmcid": "PMC6814808",
+   "pmid": "31653912",
+   "doi": "10.1038/s41467-019-12555-1",
+   "title": "Antitumor immunity augments the therapeutic effects of p53 activation on acute myeloid leukemia.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Hayashi Y, Goyama S, Liu X, Tamura M, Asada S, Tanaka Y, Fukuyama T, Wunderlich M, O'Brien E, Mizukawa B, Yamazaki S, Matsumoto A, Yamasaki S, Shibata T, Matsuda K, Sashida G, Takizawa H, Kitamura T."
+  },
+  {
+   "pmcid": "PMC4872784",
+   "pmid": "26771236",
+   "doi": "10.18632/oncotarget.6896",
+   "title": "Artemisinin-derived dimer ART-838 potently inhibited human acute leukemias, persisted in vivo, and synergized with antileukemic drugs.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Fox JM, Moynihan JR, Mott BT, Mazzone JR, Anders NM, Brown PA, Rudek MA, Liu JO, Arav-Boger R, Posner GH, Civin CI, Chen X."
+  },
+  {
+   "pmcid": "PMC9533407",
+   "pmid": "36212452",
+   "doi": "10.3389/fonc.2022.972323",
+   "title": "A distinct subpopulation of leukemia initiating cells in acute precursor B lymphoblastic leukemia: quiescent phenotype and unique transcriptomic profile.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Lee AQ, Konishi H, Duong C, Yoshida S, Davis RR, Van Dyke JE, Ijiri M, McLaughlin B, Kim K, Li Y, Beckett L, Nitin N, McPherson JD, Tepper CG, Satake N."
+  },
+  {
+   "pmcid": "PMC7688551",
+   "pmid": "32704159",
+   "doi": "10.1038/s41375-020-0987-6",
+   "title": "Second cancer incidence in CLL patients receiving BTK inhibitors.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Bond DA, Huang Y, Fisher JL, Ruppert AS, Owen DH, Bertino EM, Rogers KA, Bhat SA, Grever MR, Jaglowski SM, Maddocks KJ, Byrd JC, Woyach JA."
+  },
+  {
+   "pmcid": "PMC6445099",
+   "pmid": "30940846",
+   "doi": "10.1038/s41598-019-41805-x",
+   "title": "Insertional mutagenesis using the Sleeping Beauty transposon system identifies drivers of erythroleukemia in mice.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Loeb KR, Hughes BT, Fissel BM, Osteen NJ, Knoblaugh SE, Grim JE, Drury LJ, Sarver A, Dupuy AJ, Clurman BE."
+  },
+  {
+   "pmcid": "PMC7271568",
+   "pmid": "31582547",
+   "doi": "10.3324/haematol.2019.228171",
+   "title": "A laboratory-based scoring system predicts early treatment in Rai 0 chronic lymphocytic leukemia.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Cohen JA, Rossi FM, Zucchetto A, Bomben R, Terzi-di-Bergamo L, Rabe KG, Degan M, Steffan A, Polesel J, Santinelli E, Innocenti I, Cutrona G, D'Arena G, Pozzato G, Zaja F, Chiarenza A, Rossi D, Di Raimondo F, Laurenti L, Gentile M, Morabito F, Neri A, Ferrarini M, Fegan CD, Pepper CJ, Del Poeta G, Parikh SA, Kay NE, Gattei V."
+  },
+  {
+   "pmcid": "PMC5754357",
+   "pmid": "29302031",
+   "doi": "10.1038/s41467-017-02427-x",
+   "title": "A non-cell-autonomous role for Pml in the maintenance of leukemia from the niche.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Guarnerio J, Mendez LM, Asada N, Menon AV, Fung J, Berry K, Frenette PS, Ito K, Pandolfi PP."
+  },
+  {
+   "pmcid": "PMC6467779",
+   "pmid": "30500073",
+   "doi": "10.1002/cncr.31896",
+   "title": "The distribution of T-cell subsets and the expression of immune checkpoint receptors and ligands in patients with newly diagnosed and relapsed acute myeloid leukemia.",
+   "journalTitle": "Cancer",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Williams P, Basu S, Garcia-Manero G, Hourigan CS, Oetjen KA, Cortes JE, Ravandi F, Jabbour EJ, Al-Hamal Z, Konopleva M, Ning J, Xiao L, Hidalgo Lopez J, Kornblau SM, Andreeff M, Flores W, Bueso-Ramos C, Blando J, Galera P, Calvo KR, Al-Atrash G, Allison JP, Kantarjian HM, Sharma P, Daver NG."
+  },
+  {
+   "pmcid": "PMC9545983",
+   "pmid": "35168291",
+   "doi": "10.1002/hon.2978",
+   "title": "The safety and clinical effectiveness of rapid infusion with CT-P10 in patients with non-Hodgkin's lymphoma or chronic lymphocytic leukemia: A retrospective non-interventional post-authorization safety study in Europe.",
+   "journalTitle": "Hematol Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Bishton M, Marshall S, Harchowal J, Salles G, Golfier C, Tucci A, Fern\u00e1ndez AR, Sanchez Blanco JJ, Bocchia M, Kim S, Lee YN, Zinzani PL."
+  },
+  {
+   "pmcid": "PMC5332289",
+   "pmid": "27941764",
+   "doi": "10.1038/bmt.2016.265",
+   "title": "GvHD after umbilical cord blood transplantation for acute leukemia: an analysis of risk factors and effect on outcomes.",
+   "journalTitle": "Bone Marrow Transplant",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Chen YB, Wang T, Hemmer MT, Brady C, Couriel DR, Alousi A, Pidala J, Urbano-Ispizua A, Choi SW, Nishihori T, Teshima T, Inamoto Y, Wirk B, Marks DI, Abdel-Azim H, Lehmann L, Yu L, Bitan M, Cairo MS, Qayed M, Salit R, Gale RP, Martino R, Jaglowski S, Bajel A, Savani B, Frangoul H, Lewis ID, Storek J, Askar M, Kharfan-Dabaja MA, Aljurf M, Ringden O, Reshef R, Olsson RF, Hashmi S, Seo S, Spitzer TR, MacMillan ML, Lazaryan A, Spellman SR, Arora M, Cutler CS."
+  },
+  {
+   "pmcid": "PMC8596993",
+   "pmid": "34255899",
+   "doi": "10.1002/stem.3434",
+   "title": "Human multipotent adult progenitor cells effectively reduce graft-vs-host disease while preserving graft-vs-leukemia activity.",
+   "journalTitle": "Stem Cells",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Metheny L, Eid S, Wuttisarnwattana P, Auletta JJ, Liu C, Van Dervort A, Paez C, Lee Z, Wilson D, Lazarus HM, Deans R, Vant Hof W, Ktena Y, Cooke KR."
+  },
+  {
+   "pmcid": "PMC7696413",
+   "pmid": "33182496",
+   "doi": "10.3390/v12111281",
+   "title": "HIV-1 Gag Forms Ribonucleoprotein Complexes with Unspliced Viral RNA at Transcription Sites.",
+   "journalTitle": "Viruses",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Tuffy KM, Maldonado RJK, Chang J, Rosenfeld P, Cochrane A, Parent LJ."
+  },
+  {
+   "pmcid": "PMC6858565",
+   "pmid": "31611688",
+   "doi": "10.1038/s41594-019-0313-z",
+   "title": "PRMT5 methylome profiling uncovers a direct link to splicing regulation in acute myeloid leukemia.",
+   "journalTitle": "Nat Struct Mol Biol",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Radzisheuskaya A, Shliaha PV, Grinev V, Lorenzini E, Kovalchuk S, Shlyueva D, Gorshkov V, Hendrickson RC, Jensen ON, Helin K."
+  },
+  {
+   "pmcid": "PMC6405293",
+   "pmid": "30291333",
+   "doi": "10.1038/s41375-018-0281-z",
+   "title": "Genome-wide association study identifies an acute myeloid leukemia susceptibility locus near BICRA.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Walker CJ, Oakes CC, Genutis LK, Giacopelli B, Liyanarachchi S, Nicolet D, Eisfeld AK, Scholz M, Brock P, Kohlschmidt J, Mr\u00f3zek K, Bill M, Carroll AJ, Kolitz JE, Powell BL, Wang ES, Niederwieser DW, Stone RM, Byrd JC, Schwind S, de la Chapelle A, Bloomfield CD."
+  },
+  {
+   "pmcid": "PMC7407511",
+   "pmid": "32629802",
+   "doi": "10.3390/cancers12071737",
+   "title": "CXCR4 Inhibition Enhances Efficacy of FLT3 Inhibitors in FLT3-Mutated AML Augmented by Suppressed TGF-b Signaling.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Kim BR, Jung SH, Han AR, Park G, Kim HJ, Yuan B, Battula VL, Andreeff M, Konopleva M, Chung YJ, Cho BS."
+  },
+  {
+   "pmcid": "PMC4985262",
+   "pmid": "27385341",
+   "doi": "10.1091/mbc.e16-05-0292",
+   "title": "Abelson kinase acts as a robust, multifunctional scaffold in regulating embryonic morphogenesis.",
+   "journalTitle": "Mol Biol Cell",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Rogers EM, Spracklen AJ, Bilancia CG, Sumigray KD, Allred SC, Nowotarski SH, Schaefer KN, Ritchie BJ, Peifer M."
+  },
+  {
+   "pmcid": "PMC9278301",
+   "pmid": "35533262",
+   "doi": "10.1182/bloodadvances.2022007378",
+   "title": "High-sensitivity next-generation sequencing MRD assessment in ALL identifies patients at very low risk of relapse.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Short NJ, Kantarjian H, Ravandi F, Konopleva M, Jain N, Kanagal-Shamanna R, Patel KP, Macaron W, Kadia TM, Wang S, Jorgensen JL, Khoury JD, Yilmaz M, Kebriaei P, Takahashi K, Garcia-Manero G, Daver N, Post SM, Huang X, Kornblau SM, Pelletier S, Flores W, Matthews J, Garris R, Jabbour E."
+  },
+  {
+   "pmcid": "PMC8403728",
+   "pmid": "34461601",
+   "doi": "10.1016/j.ebiom.2021.103559",
+   "title": "Loss of synergistic transcriptional feedback loops drives diverse B-cell cancers.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Andrews JM, Pyfrom SC, Schmidt JA, Koues OI, Kowalewski RA, Grams NR, Sun JJ, Berman LR, Duncavage EJ, Lee YS, Cashen AF, Oltz EM, Payton JE."
+  },
+  {
+   "pmcid": "PMC7327051",
+   "pmid": "32606424",
+   "doi": "10.1038/s41408-020-0337-y",
+   "title": "B-cell maturation antigen expression across hematologic cancers: a systematic literature review.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Dogan A, Siegel D, Tran N, Fu A, Fowler J, Belani R, Landgren O."
+  },
+  {
+   "pmcid": "PMC8183032",
+   "pmid": "34092254",
+   "doi": "10.1186/s12943-021-01370-2",
+   "title": "Germinal epimutation of Fragile Histidine Triad (FHIT) gene is associated with progression to acute and chronic adult T-cell leukemia diseases.",
+   "journalTitle": "Mol Cancer",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Bellon M, Bialuk I, Galli V, Bai XT, Farre L, Bittencourt A, Mar\u00e7ais A, Petrus MN, Ratner L, Waldmann TA, Asnafi V, Gessain A, Matsuoka M, Franchini G, Hermine O, Watanabe T, Nicot C."
+  },
+  {
+   "pmcid": "PMC6612510",
+   "pmid": "30679799",
+   "doi": "10.1038/s41375-019-0382-3",
+   "title": "CEBPA-mutated leukemia is sensitive to genetic and pharmacological targeting of the MLL1 complex.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Schmidt L, Heyes E, Scheiblecker L, Eder T, Volpe G, Frampton J, Nerlov C, Valent P, Grembecka J, Grebien F."
+  },
+  {
+   "pmcid": "PMC7513343",
+   "pmid": "32984700",
+   "doi": "10.1021/acsomega.0c03001",
+   "title": "HSD1787, a Tetrahydro-3<i>H</i>-Pyrazolo[4,3-<i>f</i>]Quinoline Compound Synthesized via Povarov Reaction, Potently Inhibits Proliferation of Cancer Cell Lines at Nanomolar Concentrations.",
+   "journalTitle": "ACS Omega",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Dayal N, Wang M, Sintim HO."
+  },
+  {
+   "pmcid": "PMC5773964",
+   "pmid": "29274118",
+   "doi": "10.1002/cam4.1206",
+   "title": "Cost comparison by treatment arm and center-level variations in cost and inpatient days on the phase III high-risk B acute lymphoblastic leukemia trial AALL0232.",
+   "journalTitle": "Cancer Med",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "DiNofia AM, Seif AE, Devidas M, Li Y, Hall M, Huang YV, Cahen V, Hunger SP, Winick NJ, Carroll WL, Fisher BT, Larsen EC, Aplenc R."
+  },
+  {
+   "pmcid": "PMC4703539",
+   "pmid": "26205084",
+   "doi": "10.1038/leu.2015.200",
+   "title": "Runx1 repression by histone deacetylation is critical for Setbp1-induced mouse myeloid leukemia development.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Vishwakarma BA, Nguyen N, Makishima H, Hosono N, Gudmundsson KO, Negi V, Oakley K, Han Y, Przychodzen B, Maciejewski JP, Du Y."
+  },
+  {
+   "pmcid": "PMC6211598",
+   "pmid": "30410754",
+   "doi": "10.1186/s40170-018-0189-0",
+   "title": "Switch to low-fat diet improves outcome of acute lymphoblastic leukemia in obese mice.",
+   "journalTitle": "Cancer Metab",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Tucci J, Alhushki W, Chen T, Sheng X, Kim YM, Mittelman SD."
+  },
+  {
+   "pmcid": "PMC8586352",
+   "pmid": "34764293",
+   "doi": "10.1038/s41467-021-26867-8",
+   "title": "Discovery of putative tumor suppressors from CRISPR screens reveals rewired lipid metabolism in acute myeloid leukemia cells.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Lenoir WF, Morgado M, DeWeirdt PC, McLaughlin M, Griffith AL, Sangree AK, Feeley MN, Esmaeili Anvar N, Kim E, Bertolet LL, Colic M, Dede M, Doench JG, Hart T."
+  },
+  {
+   "pmcid": "PMC9052896",
+   "pmid": "35172563",
+   "doi": "10.3324/haematol.2021.280146",
+   "title": "Outstanding outcomes in infants with <i>KMT2A</i>-germline acute lymphoblastic leukemia treated with chemotherapy alone: results of the Children's Oncology Group AALL0631 trial.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Guest EM, Kairalla JA, Hilden JM, Dreyer ZE, Carroll AJ, Heerema NA, Wang CY, Devidas M, Gore L, Salzer WL, Winick NJ, Carroll WL, Raetz EA, Borowitz M, Loh ML, Hunger SP, Brown PA."
+  },
+  {
+   "pmcid": "PMC5342712",
+   "pmid": "27732946",
+   "doi": "10.18632/oncotarget.12493",
+   "title": "Autophagy mediates proteolysis of NPM1 and HEXIM1 and sensitivity to BET inhibition in AML cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Huang M, Garcia JS, Thomas D, Zhu L, Nguyen LX, Chan SM, Majeti R, Medeiros BC, Mitchell BS."
+  },
+  {
+   "pmcid": "PMC6440839",
+   "pmid": "30478448",
+   "doi": "10.1038/s41388-018-0567-7",
+   "title": "Targeting EIF4E signaling with ribavirin in infant acute lymphoblastic leukemia.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Urtishak KA, Wang LS, Culjkovic-Kraljacic B, Davenport JW, Porazzi P, Vincent TL, Teachey DT, Tasian SK, Moore JS, Seif AE, Jin S, Barrett JS, Robinson BW, Chen IL, Harvey RC, Carroll MP, Carroll AJ, Heerema NA, Devidas M, Dreyer ZE, Hilden JM, Hunger SP, Willman CL, Borden KLB, Felix CA."
+  },
+  {
+   "pmcid": "PMC9051098",
+   "pmid": "35484199",
+   "doi": "10.1038/s42003-022-03340-w",
+   "title": "Loss of SIRT1 inhibits hematopoietic stem cell aging and age-dependent mixed phenotype acute leukemia.",
+   "journalTitle": "Commun Biol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Wang Z, Zhang C, Warden CD, Liu Z, Yuan YC, Guo C, Wang C, Wang J, Wu X, Ermel R, Vonderfecht SL, Wang X, Brown C, Forman S, Yang Y, James You M, Chen W."
+  },
+  {
+   "pmcid": "PMC9485122",
+   "pmid": "36123353",
+   "doi": "10.1038/s41467-022-33244-6",
+   "title": "Integrated stem cell signature and cytomolecular risk determination in pediatric acute myeloid leukemia.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Huang BJ, Smith JL, Farrar JE, Wang YC, Umeda M, Ries RE, Leonti AR, Crowgey E, Furlan SN, Tarlock K, Armendariz M, Liu Y, Shaw TI, Wei L, Gerbing RB, Cooper TM, Gamis AS, Aplenc R, Kolb EA, Rubnitz J, Ma J, Klco JM, Ma X, Alonzo TA, Triche T, Meshinchi S."
+  },
+  {
+   "pmcid": "PMC5622850",
+   "pmid": "28659335",
+   "doi": "10.3324/haematol.2017.167726",
+   "title": "Bone marrow pathologic abnormalities in familial platelet disorder with propensity for myeloid malignancy and germline RUNX1 mutation.",
+   "journalTitle": "Haematologica",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Kanagal-Shamanna R, Loghavi S, DiNardo CD, Medeiros LJ, Garcia-Manero G, Jabbour E, Routbort MJ, Luthra R, Bueso-Ramos CE, Khoury JD."
+  },
+  {
+   "pmcid": "PMC9110299",
+   "pmid": "34980912",
+   "doi": "10.1038/s41587-021-01109-w",
+   "title": "Fluctuating methylation clocks for cell lineage tracing at high temporal resolution in human tissues.",
+   "journalTitle": "Nat Biotechnol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Gabbutt C, Schenck RO, Weisenberger DJ, Kimberley C, Berner A, Househam J, Lakatos E, Robertson-Tessi M, Martin I, Patel R, Clark SK, Latchford A, Barnes CP, Leedham SJ, Anderson ARA, Graham TA, Shibata D."
+  },
+  {
+   "pmcid": "PMC8445225",
+   "pmid": "34541464",
+   "doi": "10.20517/cdr.2020.51",
+   "title": "Genomic stability at the coding regions of the multidrug transporter gene &lt;i&gt;ABCB1&lt;/i&gt;: insights into the development of alternative drug resistance mechanisms in human leukemia cells.",
+   "journalTitle": "Cancer Drug Resist",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Chen KG, Duran GE, Mogul MJ, Wang YC, Ross KL, Jaffr\u00e9zou JP, Huff LM, Johnson KR, Fojo T, Lacayo NJ, Sikic BI."
+  },
+  {
+   "pmcid": "PMC4871414",
+   "pmid": "27191957",
+   "doi": "10.1371/journal.pone.0155408",
+   "title": "Trib2 Suppresses Tumor Initiation in Notch-Driven T-ALL.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Stein SJ, Mack EA, Rome KS, Pajcini KV, Ohtani T, Xu L, Li Y, Meijerink JP, Faryabi RB, Pear WS."
+  },
+  {
+   "pmcid": "PMC9577622",
+   "pmid": "35788257",
+   "doi": "10.1182/bloodadvances.2022007544",
+   "title": "High early death rates, treatment resistance, and short survival of\u00a0Black adolescents and young adults with AML.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Larkin KT, Nicolet D, Kelly BJ, Mr\u00f3zek K, LaHaye S, Miller KE, Wijeratne S, Wheeler G, Kohlschmidt J, Blachly JS, Mims AS, Walker CJ, Oakes CC, Orwick S, Boateng I, Buss J, Heyrosa A, Desai H, Carroll AJ, Blum W, Powell BL, Kolitz JE, Moore JO, Mayer RJ, Larson RA, Stone RM, Paskett ED, Byrd JC, Mardis ER, Eisfeld AK."
+  },
+  {
+   "pmcid": "PMC9701798",
+   "pmid": "36437247",
+   "doi": "10.1038/s41419-022-05434-z",
+   "title": "Activation of orphan receptor GPR132 induces cell differentiation in acute myeloid leukemia.",
+   "journalTitle": "Cell Death Dis",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Yi C, He J, Huang D, Zhao Y, Zhang C, Ye X, Huang Y, Nussinov R, Zheng J, Liu M, Lu W."
+  },
+  {
+   "pmcid": "PMC11022957",
+   "pmid": "35231101",
+   "doi": "10.1182/blood.2021014671",
+   "title": "Evidence supporting a role for the immune checkpoint protein B7-H3 in NK cell-mediated cytotoxicity against AML.",
+   "journalTitle": "Blood",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Tyagi A, Ly S, El-Dana F, Yuan B, Jaggupilli A, Grimm S, Konopleva M, B\u00fchring HJ, Battula VL."
+  },
+  {
+   "pmcid": "PMC8753197",
+   "pmid": "34535013",
+   "doi": "10.1182/bloodadvances.2021004271",
+   "title": "Association of allele-specific methylation of the ASNS gene with asparaginase sensitivity and prognosis in T-ALL.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Akahane K, Kimura S, Miyake K, Watanabe A, Kagami K, Yoshimura K, Shinohara T, Harama D, Kasai S, Goi K, Kawai T, Hata K, Kiyokawa N, Koh K, Imamura T, Horibe K, Look AT, Minegishi M, Sugita K, Takita J, Inukai T."
+  },
+  {
+   "pmcid": "PMC7854800",
+   "pmid": "32733011",
+   "doi": "10.1038/s41375-020-0998-3",
+   "title": "Fusion of the CRM1 nuclear export receptor to AF10 causes leukemia and transcriptional activation of HOXA genes.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Aumann WK, Heath JL, Conway AE, Sze SK, Gupta VK, Kazi RR, Tope DR, Wechsler DS, Lavau CP."
+  },
+  {
+   "pmcid": "PMC9523374",
+   "pmid": "35895896",
+   "doi": "10.1182/blood.2022016033",
+   "title": "Proteomic and phosphoproteomic landscapes of acute myeloid leukemia.",
+   "journalTitle": "Blood",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Kramer MH, Zhang Q, Sprung R, Day RB, Erdmann-Gilmore P, Li Y, Xu Z, Helton NM, George DR, Mi Y, Westervelt P, Payton JE, Ramakrishnan SM, Miller CA, Link DC, DiPersio JF, Walter MJ, Townsend RR, Ley TJ."
+  },
+  {
+   "pmcid": "PMC10257143",
+   "pmid": "36350986",
+   "doi": "10.1126/scitranslmed.abn7336",
+   "title": "BLIMP1 and NR4A3 transcription factors reciprocally regulate antitumor CAR T cell stemness and exhaustion.",
+   "journalTitle": "Sci Transl Med",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Jung IY, Narayan V, McDonald S, Rech AJ, Bartoszek R, Hong G, Davis MM, Xu J, Boesteanu AC, Barber-Rotenberg JS, Plesa G, Lacey SF, Jadlowsky JK, Siegel DL, Hammill DM, Cho-Park PF, Berger SL, Haas NB, Fraietta JA."
+  },
+  {
+   "pmcid": "PMC8864666",
+   "pmid": "34551074",
+   "doi": "10.1182/bloodadvances.2021004966",
+   "title": "Successful treatment and integrated genomic analysis of an infant with FIP1L1-RARA fusion-associated myeloid neoplasm.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Miltiadous O, Petrova-Drus K, Kaicker S, Mathew S, Kluk M, Geyer JT, Rodriguez-Sanchez I, Bouvier N, Inghirami G, Stieglitz E, Khedoudja N, Benayed R, Richardson M, Anderson W, Benhamida J, You D, Londono D, Kung AL, Prockop SE, Roshal M, Zhang Y, Shukla N."
+  },
+  {
+   "pmcid": "PMC6317322",
+   "pmid": "30573454",
+   "doi": "10.1101/gad.319830.118",
+   "title": "Regulation of MLL/COMPASS stability through its proteolytic cleavage by taspase1 as a possible approach for clinical therapy of leukemia.",
+   "journalTitle": "Genes Dev",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Zhao Z, Wang L, Volk AG, Birch NW, Stoltz KL, Bartom ET, Marshall SA, Rendleman EJ, Nestler CM, Shilati J, Schiltz GE, Crispino JD, Shilatifard A."
+  },
+  {
+   "pmcid": "PMC9529062",
+   "pmid": "36204688",
+   "doi": "10.1097/hs9.0000000000000785",
+   "title": "Duplex Sequencing Uncovers Recurrent Low-frequency Cancer-associated Mutations in Infant and Childhood <i>KMT2A</i>-rearranged Acute Leukemia.",
+   "journalTitle": "Hemasphere",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Pilheden M, Ahlgren L, Hyrenius-Wittsten A, Gonzalez-Pena V, Sturesson H, Hansen Marquart HV, Lausen B, Castor A, Pronk CJ, Barbany G, Pokrovskaja Tamm K, Fogelstrand L, Lohi O, Nor\u00e9n-Nystr\u00f6m U, Asklin J, Chen Y, Song G, Walsh M, Ma J, Zhang J, Saal LH, Gawad C, Hagstr\u00f6m-Andersson AK."
+  },
+  {
+   "pmcid": "PMC8881579",
+   "pmid": "35217681",
+   "doi": "10.1038/s41467-022-28682-1",
+   "title": "Phosphoproteomic profiling of T cell acute lymphoblastic leukemia reveals targetable kinases and combination treatment strategies.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Cordo' V, Meijer MT, Hagelaar R, de Goeij-de Haas RR, Poort VM, Henneman AA, Piersma SR, Pham TV, Oshima K, Ferrando AA, Zaman GJR, Jimenez CR, Meijerink JPP."
+  },
+  {
+   "pmcid": "PMC4816303",
+   "pmid": "27031987",
+   "doi": "10.1371/journal.pone.0152692",
+   "title": "Cardiac Glycosides Activate the Tumor Suppressor and Viral Restriction Factor Promyelocytic Leukemia Protein (PML).",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc0",
+   "authorString": "Milutinovic S, Heynen-Genel S, Chao E, Dewing A, Solano R, Milan L, Barron N, He M, Diaz PW, Matsuzawa S, Reed JC, Hassig CA."
+  },
+  {
+   "pmcid": "PMC7196026",
+   "pmid": "31768017",
+   "doi": "10.1038/s41375-019-0656-9",
+   "title": "RNA-binding protein IGF2BP1 maintains leukemia stem cell properties by regulating HOXB4, MYB, and ALDH1A1.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Elcheva IA, Wood T, Chiarolanzio K, Chim B, Wong M, Singh V, Gowda CP, Lu Q, Hafner M, Dovat S, Liu Z, Muljo SA, Spiegelman VS."
+  },
+  {
+   "pmcid": "PMC7479488",
+   "pmid": "32603763",
+   "doi": "10.1016/j.jmoldx.2020.06.006",
+   "title": "Targeted Informatics for Optimal Detection, Characterization, and Quantification of FLT3 Internal Tandem Duplications Across Multiple Next-Generation Sequencing Platforms.",
+   "journalTitle": "J Mol Diagn",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Tsai HK, Brackett DG, Szeto D, Frazier R, MacLeay A, Davineni P, Manning DK, Garcia E, Lindeman NI, Le LP, Lennerz JK, Gibson CJ, Lindsley RC, Kim AS, Nardi V."
+  },
+  {
+   "pmcid": "PMC6202254",
+   "pmid": "29743725",
+   "doi": "10.1038/s41375-018-0141-x",
+   "title": "UFD1 contributes to MYC-mediated leukemia aggressiveness through suppression of the proapoptotic unfolded protein response.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Huiting LN, Samaha Y, Zhang GL, Roderick JE, Li B, Anderson NM, Wang YW, Wang L, Laroche F, Choi JW, Liu CT, Kelliher MA, Feng H."
+  },
+  {
+   "pmcid": "PMC7833659",
+   "pmid": "33187811",
+   "doi": "10.1016/j.blre.2020.100775",
+   "title": "When hematologic malignancies meet COVID-19 in the United States: Infections, death and disparities.",
+   "journalTitle": "Blood Rev",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Wang Q, Berger NA, Xu R."
+  },
+  {
+   "pmcid": "PMC6168426",
+   "pmid": "29720732",
+   "doi": "10.1038/s41375-018-0124-y",
+   "title": "FGFR1 fusion kinase regulation of MYC expression drives development of stem cell leukemia/lymphoma syndrome.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Hu T, Wu Q, Chong Y, Qin H, Poole CJ, van Riggelen J, Ren M, Cowell JK."
+  },
+  {
+   "pmcid": "PMC8606012",
+   "pmid": "34021247",
+   "doi": "10.1038/s41375-021-01295-1",
+   "title": "Genomic analysis of cellular hierarchy in acute myeloid leukemia using ultrasensitive LC-FACSeq.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Saygin C, Hu E, Zhang P, Sher S, Lozanski A, Doong TJ, Nicolet D, Orwick S, Labanowska J, Skinner JN, Cempre C, Kauffman T, Goettl VM, Heerema NA, Abruzzo L, Miller C, Lapalombella R, Behbehani G, Mims AS, Larkin K, Grieselhuber N, Walker A, Bhatnagar B, Bloomfield CD, Byrd JC, Lozanski G, Blachly JS."
+  },
+  {
+   "pmcid": "PMC7934939",
+   "pmid": "33465053",
+   "doi": "10.1172/jci.insight.141683",
+   "title": "CD84 is a regulator of the immunosuppressive microenvironment in multiple myeloma.",
+   "journalTitle": "JCI Insight",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Lewinsky H, Gunes EG, David K, Radomir L, Kramer MP, Pellegrino B, Perpinial M, Chen J, He TF, Mansour AG, Teng KY, Bhattacharya S, Caserta E, Troadec E, Lee P, Feng M, Keats J, Krishnan A, Rosenzweig M, Yu J, Caligiuri MA, Cohen Y, Shevetz O, Becker-Herman S, Pichiorri F, Rosen S, Shachar I."
+  },
+  {
+   "pmcid": "PMC7272263",
+   "pmid": "31862959",
+   "doi": "10.1038/s41375-019-0682-7",
+   "title": "The BET inhibitor GS-5829 targets chronic lymphocytic leukemia cells and their supportive microenvironment.",
+   "journalTitle": "Leukemia",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Kim E, Ten Hacken E, Sivina M, Clarke A, Thompson PA, Jain N, Ferrajoli A, Estrov Z, Keating MJ, Wierda WG, Bhalla KN, Burger JA."
+  },
+  {
+   "pmcid": "PMC8931092",
+   "pmid": "35301276",
+   "doi": "10.1038/s41408-022-00623-7",
+   "title": "Proteomic profiling based classification of CLL provides prognostication for modern therapy and identifies novel therapeutic targets.",
+   "journalTitle": "Blood Cancer J",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Griffen TL, Hoff FW, Qiu Y, Lillard JW, Ferrajoli A, Thompson P, Toro E, Ruiz K, Burger J, Wierda W, Kornblau SM."
+  },
+  {
+   "pmcid": "PMC8753211",
+   "pmid": "34610104",
+   "doi": "10.1182/bloodadvances.2021005278",
+   "title": "Orthopedic toxicities among adolescents and young adults treated in DFCI ALL Consortium Trials.",
+   "journalTitle": "Blood Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Valtis YK, Stevenson KE, Place AE, Silverman LB, Vrooman LM, Gotti G, Brunner AM, Nauffal M, DeAngelo DJ, Luskin MR."
+  }
+ ]
+}

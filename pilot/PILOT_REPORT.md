@@ -108,3 +108,24 @@ The two methods agree on the headline: 21% of papers by filename, 20% by opening
 **Caveats.** 4.7% of papers could not be read (server errors) and are excluded, so counts are slight undercounts.
 Zip archives were not opened. "Dataset" is a size threshold, not a judgment of scientific value; about half of
 rescued tables are derived results (see hand check above).
+
+---
+
+# Four-cancer replication (added 2026-09-23)
+
+Same method as the glioblastoma pilot, three more cancer types, seed 20260923. Folders `data_breast_cancer/`,
+`data_colorectal_cancer/`, `data_leukemia/`; summary in `data/four_cancers.json`.
+
+| Cancer | Population | Sample | Papers with a dataset | Share | Native spreadsheet | CC BY / CC0 | Dataset files |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| Glioblastoma | 630 | 300 | 61 | 20.3% | 46 | 46 | 121 |
+| Breast cancer | 3,104 | 300 | 65 | 21.7% | 49 | 60 | 155 |
+| Colorectal cancer | 888 | 300 | 67 | 22.3% | 51 | 58 | 157 |
+| Leukemia | 1,272 | 300 | 63 | 21.0% | 46 | 43 | 148 |
+| **Pooled** | | **1,200** | **256** | **21.3%** (95% CI 19.0–23.7%) | 192 | 207 (81%) | 581 |
+
+The census (21.2% of papers have a spreadsheet attachment, by filename) and the pooled sample (21.3% have a
+dataset-size table, by opening files) agree to within a tenth of a point. Applying 21.3% to the 28,949 readable
+census papers gives about 6,170 papers; applying the observed 2.3 dataset files per paper gives about 14,000
+files. The essay quotes the more conservative 11,000 to 12,000, derived from the census's 21,186 spreadsheet
+files times the 70% of spreadsheet files that met the dataset threshold in the samples.
