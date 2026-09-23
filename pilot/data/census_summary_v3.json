@@ -1,0 +1,95 @@
+{
+ "population": 26228,
+ "readable": 25138,
+ "unreadable": 985,
+ "attachments": 73795,
+ "attachments_before_parser_fix": 72450,
+ "papers_with_tabular": 4759,
+ "share_tabular": 18.9,
+ "tabular_files": 15458,
+ "excel_files": 14448,
+ "excel_gb": 15.9,
+ "free_papers": 3824,
+ "free_share": 80.4,
+ "free_files": 12738,
+ "licenses": {
+  "cc by": 3739,
+  "cc by-nc-nd": 425,
+  "untagged": 222,
+  "cc by-nc": 209,
+  "cc0": 85,
+  "cc by-nc-sa": 79
+ },
+ "by_year": {
+  "2016": [
+   362,
+   2626
+  ],
+  "2017": [
+   476,
+   2776
+  ],
+  "2018": [
+   490,
+   2780
+  ],
+  "2019": [
+   629,
+   3176
+  ],
+  "2020": [
+   859,
+   3950
+  ],
+  "2021": [
+   954,
+   4666
+  ],
+  "2022": [
+   989,
+   5164
+  ]
+ },
+ "top_journals": [
+  [
+   "Nat Commun",
+   889
+  ],
+  [
+   "PLoS One",
+   412
+  ],
+  [
+   "Sci Rep",
+   271
+  ],
+  [
+   "Elife",
+   226
+  ],
+  [
+   "Oncotarget",
+   148
+  ],
+  [
+   "Commun Biol",
+   106
+  ],
+  [
+   "PLoS Genet",
+   99
+  ],
+  [
+   "Proc Natl Acad Sci U S A",
+   79
+  ],
+  [
+   "Genome Biol",
+   71
+  ],
+  [
+   "PLoS Comput Biol",
+   65
+  ]
+ ]
+}

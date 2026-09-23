@@ -4,10 +4,10 @@ Sample N papers from the census population, fetch full text, extract the data-av
 and any repository mentions anywhere in the text, and classify."""
 import json, random, re, gzip, sys, time, urllib.request, collections, concurrent.futures as cf, threading
 N=int(sys.argv[1]) if len(sys.argv)>1 else 500
-ids=json.load(open("data/census_ids.json")); random.seed(2026); samp=random.sample(ids,N)
+ids=json.load(open("data/census_ids_v2.json")); random.seed(2026); samp=random.sample(ids,N)
 UA={"User-Agent":"ods-rescue-das/1.0","Accept-Encoding":"gzip"}
 REPO=re.compile(r"\b(GSE\d{4,7}|GSM\d{5,8}|SRP\d{5,8}|PRJNA\d{4,8}|PRJEB\d{4,8}|SRR\d{5,9}|ERP\d{5,8}|phs\d{6}|EGA[SD]\d{8,11}|E-MTAB-\d+|PXD\d{5,7}|MTBLS\d+|MSV\d{9}|syn\d{6,9}|zenodo\.org|figshare\.com|datadryad|dryad\.|osf\.io|github\.com|gitlab\.com|mendeley data|cbioportal|proteomexchange|dbGaP|dbgap|Gene Expression Omnibus|Sequence Read Archive|ArrayExpress|ImmPort|GDC|Genomic Data Commons|TCGA|cancer genome atlas|CCLE|DepMap|Synapse|MassIVE|PRIDE|MetaboLights|BioProject|BioStudies|Kaggle|Data Dryad|Harvard Dataverse|dataverse|Xena|GTEx|ENCODE|ClinicalTrials\.gov|NCT\d{8})\b", re.I)
-DAS=re.compile(r"(?is)<sec[^>]*>\s*<title>[^<]*(data|code|material)s?\s+(and\s+\w+\s+)?availability[^<]*</title>(.*?)</sec>|(?is)<(?:sec|p|notes)[^>]*>\s*(?:<title>)?\s*(availability of data[^<]{0,80}|data (?:and (?:code|materials?) )?availability(?: statement)?)\s*(?:</title>)?(.*?)</(?:sec|p|notes)>")
+DAS=re.compile(r"<sec[^>]*>\s*<title>[^<]*(?:data|code|material)s?\s+(?:and\s+\w+\s+)?availability[^<]*</title>.*?</sec>|<(?:sec|p|notes)[^>]*>\s*(?:<title>)?\s*(?:availability of data[^<]{0,80}|data (?:and (?:code|materials?) )?availability(?: statement)?)\s*(?:</title>)?.*?</(?:sec|p|notes)>", re.I|re.S)
 def get(u):
     for k in range(3):
         try:

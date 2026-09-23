@@ -23,24 +23,24 @@ a{color:#0a4a80;text-decoration:none}
 <h2>1. Census of the full population (files listed by name, nothing downloaded)</h2>
 <table>
 <tr><th>NCI-funded open-access papers, 2016–2022, with supplementary files and no data-repository accession</th><th class="n">Count</th></tr>
-<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no GEO/SRA/dbGaP/EGA/ArrayExpress/PRIDE/BioProject/MetaboLights/PDB accession)</td><td class="n">30,376</td></tr>
-<tr><td>Papers whose full text was readable · attachments listed</td><td class="n">28,949 · 89,820</td></tr>
-<tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>6,130 (21.2%)</b></td></tr>
-<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 19,818; 15.3 GB)</td><td class="n"><b>21,186</b></td></tr>
-<tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">4,673 (76%)</td></tr>
-<tr><td>Share of papers with a spreadsheet attachment, by year 2016 → 2022</td><td class="n">17% · 20% · 22% · 23% · 22% · 22% · 21%</td></tr>
+<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB or GenBank)</td><td class="n">26,228</td></tr>
+<tr><td>Papers whose full text was readable · attachments listed</td><td class="n">25,138 · 73,795</td></tr>
+<tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
+<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB)</td><td class="n"><b>15,458</b></td></tr>
+<tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">3,824 (80%)</td></tr>
+<tr><td>Share of papers with a spreadsheet attachment, by year 2016 → 2022</td><td class="n">14% · 17% · 18% · 20% · 22% · 20% · 19%</td></tr>
 </table>
 
-<h2>2. Four random samples of 300 papers, every attachment downloaded and opened</h2>
+<h2>2. Four random samples of 300 papers, every attachment downloaded and opened (124 papers later found to carry a GEO accession are excluded)</h2>
 <table>
-<tr><th>Cancer type</th><th class="n">Population</th><th class="n">Papers with a dataset*</th><th class="n">Share</th><th class="n">CC BY / CC0</th><th class="n">Dataset files</th></tr>
-<tr><td>Glioblastoma</td><td class="n">630</td><td class="n">61 / 300</td><td class="n">20.3%</td><td class="n">46</td><td class="n">121</td></tr>
-<tr><td>Breast cancer</td><td class="n">3,104</td><td class="n">65 / 300</td><td class="n">21.7%</td><td class="n">60</td><td class="n">155</td></tr>
-<tr><td>Colorectal cancer</td><td class="n">888</td><td class="n">67 / 300</td><td class="n">22.3%</td><td class="n">58</td><td class="n">157</td></tr>
-<tr><td>Leukemia</td><td class="n">1,272</td><td class="n">63 / 300</td><td class="n">21.0%</td><td class="n">43</td><td class="n">148</td></tr>
-<tr><td><b>Pooled</b></td><td class="n"></td><td class="n"><b>256 / 1,200</b></td><td class="n"><b>21.3%</b> (95% CI 19.0–23.7%)</td><td class="n"><b>207 (81%)</b></td><td class="n"><b>581</b></td></tr>
+<tr><th>Cancer type</th><th class="n">Analysed</th><th class="n">Any dataset*</th><th class="n">Native spreadsheet</th><th class="n">CC BY / CC0</th><th class="n">Dataset files</th></tr>
+<tr><td>Glioblastoma</td><td class="n">271</td><td class="n">53 (19.6%)</td><td class="n">41 (15.1%)</td><td class="n">41</td><td class="n">106</td></tr>
+<tr><td>Breast cancer</td><td class="n">271</td><td class="n">51 (18.8%)</td><td class="n">41 (15.1%)</td><td class="n">46</td><td class="n">132</td></tr>
+<tr><td>Colorectal cancer</td><td class="n">273</td><td class="n">53 (19.4%)</td><td class="n">41 (15.0%)</td><td class="n">47</td><td class="n">112</td></tr>
+<tr><td>Leukemia</td><td class="n">261</td><td class="n">45 (17.2%)</td><td class="n">33 (12.6%)</td><td class="n">33</td><td class="n">112</td></tr>
+<tr><td><b>Pooled</b></td><td class="n"><b>1,076</b></td><td class="n"><b>202 (18.8%)</b></td><td class="n"><b>156 (14.5%</b>, CI 12–17%)</td><td class="n"><b>167 (83%)</b></td><td class="n"><b>462</b></td></tr>
 </table>
-<p class="small">*Dataset = largest table ≥ 50 rows × 3 columns, or ≥ 1,000 rows; PDF/Word tables count only as numeric grids; peer-review files, reporting summaries and figures excluded. Largest table: 152,683 rows. Hand check of 105 machine decisions: 60/60 "dataset" calls were real data tables; 26/30 rejections correct, every miss a table under 50 rows. About half of rescued tables are primary measurements, half derived results.</p>
+<p class="small">*Dataset = largest table ≥ 50 rows × 3 columns, or ≥ 1,000 rows; PDF/Word tables count only as numeric grids; peer-review files, reporting summaries and figures excluded. Largest table: 152,683 rows. Hand check of 105 machine decisions (verdicts published): 60/60 "dataset" calls were real data tables; every miss was a table under 50 rows. About half of rescued tables are primary measurements, half derived results. Filter check on 500 random population papers: 15% reference a repository somewhere; 13.5% of spreadsheet papers already have a Figshare identifier. Netting those out: roughly 2,800 to 3,900 papers, 8,000 to 11,000 buried dataset files.</p>
 
 <div class="two">
 <div>
@@ -58,7 +58,7 @@ a{color:#0a4a80;text-decoration:none}
 <h2>5. Code, data, site (open, MIT)</h2>
 <ul>
 <li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — census and classification code, raw census output, per-cancer results, packages.</li>
-<li>Public page with searchable list of the 581 dataset files and plain-language descriptions: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>
+<li>Public page with searchable list of the 462 dataset files and plain-language descriptions: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>
 </ul>
 <h2>6. Prior work cited</h2>
 <ul>

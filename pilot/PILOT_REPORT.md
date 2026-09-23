@@ -147,3 +147,38 @@ seed 77; list in `data/handcheck_sample2.json`), opened and judged by a person w
 **Combined across both rounds (105 files): 60 of 60 "dataset" calls were real data tables; 26 of 30 rejections were
 correct, and every miss was a table under 50 rows.** By content, about half of rescued tables are primary measurements
 and half derived results.
+
+---
+
+# Corrections after an independent methods review (2026-09-23)
+
+A methods reviewer re-derived every figure and found one real error and several softer problems. All are fixed
+below, and the earlier sections above are left as written so the change is visible.
+
+| | Before | After | Why |
+|---|---|---|---|
+| Population | 30,376 papers | **26,228** | The exclusion filter used `ACCESSION_TYPE:gen` (GenBank) and never excluded **GEO**. 4,150 papers with a GEO accession were wrongly included. Filter now excludes GEO too. |
+| Sample: papers with a dataset (any file type) | 256 / 1,200 = 21.3% | **202 / 1,076 = 18.8%** | 124 sampled papers carried a GEO accession and are removed. PDF tables are no longer pooled across pages (earlier code merged unrelated small PDF tables into one "dataset"). |
+| Sample: papers with a **native spreadsheet** dataset | not reported as primary | **156 / 1,076 = 14.5%** (95% CI 12.4–16.6%) | Reported as the primary figure; PDF/Word-only tables are secondary. |
+| Per cancer (any / native) | 20–22% | glioblastoma 19.6 / 15.1 · breast 18.8 / 15.1 · colorectal 19.4 / 15.0 · leukemia 17.2 / 12.6 | Still within three points of each other. |
+| Census: papers with a spreadsheet attachment | 6,130 (21.2%) | **4,759 (18.9%)** | Corrected population; includes 504 papers recovered on retry. |
+| Census: spreadsheet/CSV files | 21,186 | **15,458** | Corrected population, plus a parser fix (below). |
+| Freely licensed (CC BY / CC0) | 76% of papers | **80% of papers (12,738 files)**; 83% of sampled dataset papers | Unchanged in substance. |
+| "Census and sample agree to a tenth of a point" | 21.2% vs 21.3% | **18.9% vs 17.9%** | Now a like-for-like comparison: both are "any spreadsheet attachment, by filename". The dataset-size rate by opening files is 18.8% any / 14.5% native. |
+| Already mirrored on Figshare | "roughly one in five" (publisher pattern) | **13.5%** (27 of 200 random spreadsheet papers, same-paper match verified) | A raw filename search gave 40%, but generic names like `Table_1` matched unrelated items; only same-DOI or exact-title matches count. |
+| Population filter validity | assumed | **15% of population papers point to a repository somewhere** (71 of 483: 50 with a data accession in the text, mostly GSE/PXD/PRJNA/phs, that the text miner missed; 62 whose data-availability statement names a repository). 17% state the data is "in the paper/supplement"; 15% say "on request". `das_check.py`, `data/das_check_summary.json` | Folded into the estimate range. |
+| Hand check | described in prose | **`data/handcheck_verdicts.csv`**: 105 files, single rater (the assistant), not blind, machine fields visible. 58 clear + 2 weak real tables of 60 positives; of 30 negatives, 23 correct, 3 missed small tables, 1 borderline, 3 unreadable | Limitation stated; a second blind rater is the next step. |
+| Threshold sensitivity (native, ≥3 cols) | not reported | ≥20 rows 15.9% · **≥50 rows 14.5%** · ≥100 13.1% · ≥200 11.6% · ≥1,000 rows 7.2% | The claim is not knife-edge on the threshold. |
+| Census parser | `<media>` inside `<supplementary-material>` only | now every `<media>`/`<inline-supplementary-material>` in the article | Nature Communications "Source Data" and BMC "Additional files" use bare `<media>`; 6,891 papers from those publishers were rescanned. Attachments counted: 73,795 (was 72,450 before the parser fix on the same population). |
+| Extrapolation arithmetic | "11,000–12,000 from 21,186 × 70%" (wrong: that product is 14,830) | see below | |
+
+**Corrected estimate.** Start from 15,458 spreadsheet/CSV files in 4,759 papers. In the samples, 81% of
+spreadsheet-bearing papers hold at least one dataset-size table and 70% of spreadsheet files meet the threshold.
+Discount 15% for papers that do reference a repository somewhere and 13.5% for files already on Figshare.
+That gives roughly **2,800 to 3,900 papers and 8,000 to 11,000 buried dataset files**, about three-quarters
+under CC BY or CC0. The defensible headline is therefore **"roughly one in six such papers, on the order of
+10,000 files,"** not "one in five, 21,000".
+
+**Still open.** The four cancers were chosen for population size, not at random, so the pooled interval is
+indicative rather than a strict population estimate. Only the open-access subset (about 36% of NCI papers)
+was studied; author manuscripts are excluded and may behave differently. Zip archives were not opened.

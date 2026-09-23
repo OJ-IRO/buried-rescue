@@ -1,0 +1,6162 @@
+[
+{
+"pmcid": "PMC5522578",
+"year": "2017",
+"journal": "Open Forum Infect Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5664398",
+"year": "2017",
+"journal": "Haematologica",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9738935",
+"year": "2022",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement Clinical data is not publicly available due to patient privacy. Datasets can be browsed by their accession number: GSE156699 . The validation part of this study was performed in silico, with de-identified publicly available data. All data from TCGA is available at their w",
+"das_hits": [
+"gdc",
+"gse156699",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"dbgap",
+"gdc",
+"genomic data commons",
+"gse156699",
+"tcga"
+],
+"accessions": [
+"gse156699"
+]
+},
+{
+"pmcid": "PMC8576477",
+"year": "2021",
+"journal": "Lancet Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct00261456",
+"nct02543905",
+"nct02705846"
+],
+"accessions": [
+"nct00261456",
+"nct02543905",
+"nct02705846"
+]
+},
+{
+"pmcid": "PMC8843091",
+"year": "2021",
+"journal": "Elife",
+"has_das": true,
+"das": "Materials availability See Supplementary file 1 for plasmids generated and used in this study. See Key Resources Table for C. elegans strains used in this study.",
+"das_hits": [],
+"any_hits": [
+"encode",
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6604668",
+"year": "2019",
+"journal": "EBioMedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8018312",
+"year": "2021",
+"journal": "Oncologist",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7802231",
+"year": "2021",
+"journal": "BMC Med Res Methodol",
+"has_das": true,
+"das": "Availability of data and materials The data used in this study contain Protected Health Information of KPNC members and cannot be shared. Code for generating simulated data used in the paper and that were similar to those analyzed in the data application are provided as additional files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8293327",
+"year": "2021",
+"journal": "Tomography",
+"has_das": true,
+"das": "Data Availability Statement The single-site datasets presented in this study are available on request from the corresponding author and are not publicly available due to extra precaution with any potential protected health information as well as the fact that data collection is ongoing. The multi-si",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5958120",
+"year": "2018",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available from the corresponding author upon request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8751383",
+"year": "2022",
+"journal": "mSystems",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7372149",
+"year": "2020",
+"journal": "Prev Med Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8156789",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available on request from the corresponding author. The data are not publicly available due to data access requirements of UPDB.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8270897",
+"year": "2021",
+"journal": "NPJ Breast Cancer",
+"has_das": true,
+"das": "Data availability The data generated and analyzed during this study are described in the following data record: 10.6084/m9.figshare.14681250 59 . Files underlying the figures are openly available in Excel format with this data record. All other data supporting the study can be found in the supplemen",
+"das_hits": [
+"tcga"
+],
+"any_hits": [
+"cbioportal",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8766854",
+"year": "2021",
+"journal": "Front Cell Infect Microbiol",
+"has_das": true,
+"das": "Data Availability Statement The original contributions presented in the study are included in the article/ Supplementary Material . Further inquiries can be directed to the corresponding author.",
+"das_hits": [],
+"any_hits": [
+"massive",
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9116940",
+"year": "2022",
+"journal": "Elife",
+"has_das": true,
+"das": "Data availability All data generated or analysed during this study are included in the manuscript and supporting file; Source Data files have been provided for Figs 1, 3, and 5.",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8795448",
+"year": "2022",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability The RNA sequencing data included in this study are deposited in Gene Expression Omnibus (GEO) with the accession code GSE191018 . Source data for graphs in the main figures are provided in Supplementary Data 1 . Log1p transformed gene count matrix for 110 intestine marker genes gen",
+"das_hits": [
+"gene expression omnibus",
+"gse191018"
+],
+"any_hits": [
+"gene expression omnibus",
+"gse191018"
+],
+"accessions": [
+"gse191018"
+]
+},
+{
+"pmcid": "PMC9119356",
+"year": "2022",
+"journal": "Cancer Med",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT The data underlying this article are available in Supporting Files ( https://github.com/ksorice/nSES\u2010Systematic\u2010Review ).",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8997625",
+"year": "2022",
+"journal": "Int J Environ Res Public Health",
+"has_das": true,
+"das": "Data Availability Statement The data that support the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8040731",
+"year": "2021",
+"journal": "Cold Spring Harb Mol Case Stud",
+"has_das": true,
+"das": "Data Availability Statement The RAD51C variant c.394A &gt; C pT132P has been submitted to ClinVar ( https://www.ncbi.nlm.nih.gov/clinvar/ ) under accession number VCV000996829.1.",
+"das_hits": [],
+"any_hits": [
+"cbioportal"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8842371",
+"year": "2022",
+"journal": "Oncologist",
+"has_das": true,
+"das": "Data Availability The data underlying this article will be shared at reasonable request to the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5141570",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7302442",
+"year": "2020",
+"journal": "Oncoimmunology",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5831535",
+"year": "2018",
+"journal": "BMC Bioinformatics",
+"has_das": true,
+"das": "Availability of data and materials The datasets analysed during the current study are available in the 1000GP repository, https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/pilot/_data/data/ , [ 34 , 35 ]. The source codes of R-GENSENG are freely available at https://sourceforge.net/projects/genseng/ .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7850530",
+"year": "2021",
+"journal": "J Natl Cancer Inst",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5566117",
+"year": "2017",
+"journal": "Cell Discov",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6754166",
+"year": "2019",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the manuscript and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5706997",
+"year": "2017",
+"journal": "Mol Biol Cell",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5075913",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9442791",
+"year": "2022",
+"journal": "J Proteome Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"ccle",
+"depmap",
+"github.com",
+"pride",
+"proteomexchange",
+"pxd035070",
+"synapse"
+],
+"accessions": [
+"pxd035070"
+]
+},
+{
+"pmcid": "PMC7239769",
+"year": "2020",
+"journal": "Oncogene",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cbioportal",
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6663662",
+"year": "2020",
+"journal": "Mol Psychiatry",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9439193",
+"year": "2022",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are provided in Supporting information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6597054",
+"year": "2019",
+"journal": "JNCI Cancer Spectr",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7505987",
+"year": "2020",
+"journal": "NPJ Breast Cancer",
+"has_das": true,
+"das": "Data availability The data generated and analyzed during this study are described in the following metadata record: 10.6084/m9.figshare.12752582 58 . The data supporting the findings of this study are not publicly available in order to protect patient privacy. The data will be made available to auth",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6003232",
+"year": "2018",
+"journal": "Mol Biol Cell",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6037876",
+"year": "2018",
+"journal": "Neoplasia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6356857",
+"year": "2019",
+"journal": "ACS Omega",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7685479",
+"year": "2020",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All simple somatic and gene-expression files used in this study are accessible from the ICGC Data Portal (DCC Data Releases \u2013 release_28, available at: https://dcc.icgc.org/releases/release_28/Projects ) as PRAD-US, BRCA-US &amp; OV-US and/or GDC data portal (TCGA) (available at: h",
+"das_hits": [
+"gdc",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"dbgap",
+"gdc",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6370879",
+"year": "2019",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available within the Article and its Supplementary Information or, on reasonable request, from the corresponding author.",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8551827",
+"year": "2021",
+"journal": "Front Cell Dev Biol",
+"has_das": true,
+"das": "Data Availability Statement The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/ Supplementary Material .",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"dbgap",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7519582",
+"year": "2021",
+"journal": "Leukemia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4823117",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9124310",
+"year": "2022",
+"journal": "Aging Cell",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT All data will be made available on request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4688084",
+"err": 1
+},
+{
+"pmcid": "PMC5743034",
+"year": "2017",
+"journal": "Biores Open Access",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9229761",
+"year": "2022",
+"journal": "Tomography",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available upon request from the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8445182",
+"year": "2021",
+"journal": "Infect Immun",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8428393",
+"year": "2021",
+"journal": "Cell Rep",
+"has_das": true,
+"das": "Material availability Mds1 lacZ mice (also referred to as Mds1 m1 mice) have been submitted to MMRRC (Mds1-lacZ, Stock No. MMRRC:68126); please contact the MMRRC regarding availability. Mds1 CreERT2 mice (also referred to as Mds1 m2 mice) have been submitted to Jackson Labs for distribution (Mds1-Cr",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7360150",
+"year": "2019",
+"journal": "Ann Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct00004931",
+"nct00026273",
+"nct00079274",
+"nct00096278",
+"nct00112918",
+"nct00265811"
+],
+"accessions": [
+"nct00004931",
+"nct00026273",
+"nct00079274",
+"nct00096278",
+"nct00112918",
+"nct00265811"
+]
+},
+{
+"pmcid": "PMC7416516",
+"year": "2020",
+"journal": "Nature",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6749627",
+"year": "2019",
+"journal": "J Immunother Cancer",
+"has_das": true,
+"das": "Availability of data and materials Data and material presented in this study are available upon request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9813823",
+"year": "2022",
+"journal": "Cell Rep",
+"has_das": true,
+"das": "Materials availability All reagents generated during this study are available from the lead contact .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9252988",
+"year": "2022",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability Source data are provided as a Source Data file. Barcode lentiviral vectors were generously provided by Dr. Todd R. Golub; barcode sequences are shown in Supplementary Fig. 1 , as originally published in Additional Data File 2 of Peck, et al. 40 . Next generation sequencing was only",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9203275",
+"year": "2022",
+"journal": "Nat Cell Biol",
+"has_das": true,
+"das": "Data availability Deep-sequencing (RNA-seq) data that support the findings of this study have been deposited into the NCBI Sequence Read Archive, and the accession codes for each biological sample are SAMN25414087, SAMN25414088, SAMN25414089, SAMN25414090, SAMN25414091, SAMN25414002, SAMN25414093, S",
+"das_hits": [
+"metabolights",
+"mtbls4654",
+"sequence read archive"
+],
+"any_hits": [
+"encode",
+"metabolights",
+"mtbls4654",
+"sequence read archive"
+],
+"accessions": [
+"mtbls4654"
+]
+},
+{
+"pmcid": "PMC8150141",
+"year": "2021",
+"journal": "Bioinformatics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6606595",
+"year": "2019",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability The ConsHMM conservation state annotations of hg19 are available at 10.6084/m9.figshare.8162036.v1 and https://github.com/ernstlab/ConsHMM . Data behind Supplementary Figs. 2 , 5 , 6 , 8 , 9 , 13 \u2013 16 , 23 \u2013 27 is available in Supplementary Data 2 and additional data behind the mai",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"encode",
+"github.com",
+"zenodo.org"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9265949",
+"year": "2022",
+"journal": "Int J Environ Res Public Health",
+"has_das": true,
+"das": "Data Availability Statement The datasets are not publicly available, but deidentified and anonymized information is potentially available upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7733503",
+"year": "2020",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The datasets generated during or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6756121",
+"year": "2019",
+"journal": "Leukemia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5012858",
+"year": "2016",
+"journal": "Elife",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7190072",
+"year": "2020",
+"journal": "BMJ",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7341878",
+"year": "2020",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6555482",
+"err": 1
+},
+{
+"pmcid": "PMC5746095",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC10501525",
+"year": "2021",
+"journal": "JMIR Dermatol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8305148",
+"year": "2021",
+"journal": "Diagnostics (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available on request from the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7554657",
+"year": "2020",
+"journal": "Neuroimage Clin",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8832334",
+"year": "2021",
+"journal": "Ther Adv Hematol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5655742",
+"year": "2017",
+"journal": "Am J Hematol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7935979",
+"year": "2021",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability Sequences are available via the National Center for Biotechnology Information Short Read Archive (BioProject PRJNA597168).",
+"das_hits": [
+"bioproject",
+"prjna597168"
+],
+"any_hits": [
+"bioproject",
+"github.com",
+"prjna597168"
+],
+"accessions": [
+"prjna597168"
+]
+},
+{
+"pmcid": "PMC8569145",
+"year": "2021",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability The datasets generated and/or analysed during the current study are available through the GTEx portal ( https://gtexportal.org/home/datasets , GTEx V6p, dbGaP accession phs000424.v6.p1) and the Synapse portal for ROSMAP data ( https://adknowledgeportal.synapse.org/Explore/Studies/D",
+"das_hits": [
+"dbgap",
+"gtex",
+"phs000424",
+"syn3219045",
+"synapse"
+],
+"any_hits": [
+"dbgap",
+"figshare.com",
+"github.com",
+"gtex",
+"phs000424",
+"syn3219045",
+"synapse"
+],
+"accessions": [
+"phs000424",
+"syn3219045"
+]
+},
+{
+"pmcid": "PMC7583158",
+"year": "2020",
+"journal": "JNCI Cancer Spectr",
+"has_das": true,
+"das": "Data availability statement The datasets generated during and/or analysed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8990024",
+"year": "2022",
+"journal": "Dis Model Mech",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"bioproject"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8747418",
+"year": "2021",
+"journal": "Nutrients",
+"has_das": true,
+"das": "Data Availability Statement Raw data and statistical coding is available from A.S.K. or L.J.P. upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"nct02352779"
+],
+"accessions": [
+"nct02352779"
+]
+},
+{
+"pmcid": "PMC5656536",
+"err": 1
+},
+{
+"pmcid": "PMC7499251",
+"year": "2020",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability RNA-seq data has been deposited to GSE121645 , GSE135909 and GSE153269 . Supplementary excel files for the raw gene counts per gene in all of our sequencing experiments. These supplementary files are Whole DRG (Female Vs Male) for sequencing from whole DRG; Hindpaw skin (Female vs ",
+"das_hits": [
+"gse121645",
+"gse135909",
+"gse153269"
+],
+"any_hits": [
+"encode",
+"gse121645",
+"gse135909",
+"gse153269",
+"synapse"
+],
+"accessions": [
+"gse121645",
+"gse135909",
+"gse153269"
+]
+},
+{
+"pmcid": "PMC7360741",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability Due to the multi-terabyte size of the dataset, the data that supports the findings of this study can only be made available upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5985044",
+"year": "2018",
+"journal": "Mol Metab",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8440121",
+"year": "2021",
+"journal": "J Clin Pathol",
+"has_das": true,
+"das": "Data availability statement All data relevant to the study are included in the article or uploaded as supplementary information. The datasets generated during and/or analysed during the current study are available from the corresponding authors upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC12969993",
+"year": "2021",
+"journal": "J Thorac Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7202077",
+"year": "2020",
+"journal": "Mol Biol Cell",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode",
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8592513",
+"year": "2021",
+"journal": "CPT Pharmacometrics Syst Pharmacol",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT Deidentified individual participant data and applicable supporting clinical trial documents may be available upon request at https://www.clinicalstudydatarequest.com . In cases where clinical trial data and supporting documents are provided pursuant to our company policie",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4979999",
+"year": "2016",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information file.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8102034",
+"year": "2021",
+"journal": "Lancet Healthy Longev",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8524287",
+"year": "2021",
+"journal": "J Immunother Cancer",
+"has_das": true,
+"das": "Data availability statement Data are available upon reasonable request. All data relevant to the study are included in the article or uploaded as supplementary information.",
+"das_hits": [],
+"any_hits": [
+"nct02601014",
+"nct02788773",
+"nct02985957",
+"nct03204812"
+],
+"accessions": [
+"nct02601014",
+"nct02788773",
+"nct02985957",
+"nct03204812"
+]
+},
+{
+"pmcid": "PMC5986273",
+"year": "2018",
+"journal": "Elife",
+"has_das": true,
+"das": "Data availability All data generated or analysed during this study are included in the manuscript and supporting files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8957055",
+"year": "2022",
+"journal": "Mol Cell Proteomics",
+"has_das": true,
+"das": "Data Availability The mass spectral data files have been deposited to the ProteomeXchange Consortium ( http://proteomecentral.proteomexchange.org ) via the PRIDE partner repository ( 74 , 75 ) with the dataset identifier PXD028931. The peaks project file is available at Zenodo with 10.5281/zenodo.59",
+"das_hits": [
+"pride",
+"proteomexchange",
+"pxd028931"
+],
+"any_hits": [
+"cancer genome atlas",
+"github.com",
+"pride",
+"proteomexchange",
+"pxd028931",
+"tcga"
+],
+"accessions": [
+"pxd028931"
+]
+},
+{
+"pmcid": "PMC4915981",
+"year": "2016",
+"journal": "Nat Immunol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8448771",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9508258",
+"year": "2022",
+"journal": "Blood Cancer J",
+"has_das": true,
+"das": "Data availability De-identified patient-level clinical and molecular data from NCT00046930 will be deposited into the National Institutes of Health\u2019s NCTN/NCORP Data Archive ( https://nctn-data-archive.nci.nih.gov ) 6 months after publication. De-identified patient-level next generation sequencing d",
+"das_hits": [
+"nct00046930"
+],
+"any_hits": [
+"nct00046930",
+"nct00049517"
+],
+"accessions": [
+"nct00046930",
+"nct00049517"
+]
+},
+{
+"pmcid": "PMC9358515",
+"year": "2022",
+"journal": "Ann Transl Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5695572",
+"year": "2017",
+"journal": "NPJ Precis Oncol",
+"has_das": true,
+"das": "Data availability statement The raw data that support the findings of this study is included Supplemental Table 2 . Upon reasonable request further information can be requested from the University of Arizona Prevention of Skin Cancer P01 Data Sharing Committee (UACC-SkinPPG@uacc.arizona.edu).",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7521844",
+"year": "2020",
+"journal": "Mol Biol Cell",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8163257",
+"year": "2021",
+"journal": "Biol Psychiatry",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9171974",
+"year": "2022",
+"journal": "Microbiome",
+"has_das": true,
+"das": "Availability of data and materials The dataset of upper respiratory tract microbiome study [ 24 ] used in our simulation study is available in R package GUniFrac . The 16S rRNA sequencing dataset and metadata of the vaginal microbiome and bacterial vaginosis study [ 43 ] used in the real data analys",
+"das_hits": [
+"prjna600021"
+],
+"any_hits": [
+"prjna600021"
+],
+"accessions": [
+"prjna600021"
+]
+},
+{
+"pmcid": "PMC7011040",
+"year": "2020",
+"journal": "Heliyon",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5397577",
+"year": "2017",
+"journal": "Neoplasia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5914708",
+"year": "2018",
+"journal": "BMJ Glob Health",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7262743",
+"year": "2020",
+"journal": "Neurooncol Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5505621",
+"year": "2017",
+"journal": "Int J Nanomedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8095338",
+"year": "2021",
+"journal": "Neurooncol Adv",
+"has_das": true,
+"das": "Data Availability The data that support the findings of this study are available from the corresponding author, A.L.W., upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9318530",
+"year": "2022",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement Data results for the mass spectrometry experiments are provided in the supplemental materials .",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"nct00612495",
+"nct04092673",
+"tcga"
+],
+"accessions": [
+"nct00612495",
+"nct04092673"
+]
+},
+{
+"pmcid": "PMC7276696",
+"year": "2020",
+"journal": "Adv Radiat Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct01993810"
+],
+"accessions": [
+"nct01993810"
+]
+},
+{
+"pmcid": "PMC7032740",
+"year": "2020",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability Original data underlying this manuscript can be accessed from the Stowers Original Data Repository at http://www.stowers.org/research/publications/libpb-1433 .",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9257656",
+"year": "2022",
+"journal": "Eur Urol Open Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9510895",
+"year": "2022",
+"journal": "Front Mol Biosci",
+"has_das": true,
+"das": "Data availability statement Publicly available datasets were analyzed in this study. This data can be found here: https://doi.org/10.5281/zenodo.6973776 .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8306152",
+"year": "2021",
+"journal": "Int J Environ Res Public Health",
+"has_das": true,
+"das": "Data Availability Statement The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to restrictions, such as containing information that could compromise the privacy of research participants.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5839789",
+"year": "2018",
+"journal": "J Cell Biol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7473671",
+"year": "2020",
+"journal": "Sci Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9546531",
+"year": "2022",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": true,
+"das": "Data Availability Statement [DNA sequencing] data have been deposited in [GEO]( GSE200351 ) ( 41 ).",
+"das_hits": [
+"gse200351"
+],
+"any_hits": [
+"gse200351"
+],
+"accessions": [
+"gse200351"
+]
+},
+{
+"pmcid": "PMC5577362",
+"err": 1
+},
+{
+"pmcid": "PMC6619828",
+"year": "2019",
+"journal": "PLoS Pathog",
+"has_das": true,
+"das": "Data Availability The integration sites discussed in this publication have been deposited in NCI Retrovirus Integration Database. The sites can be directly accessed at https://rid.ncifcrf.gov/drpdata/Ferris-2019-PLOSPathogens .",
+"das_hits": [],
+"any_hits": [
+"nct00001846"
+],
+"accessions": [
+"nct00001846"
+]
+},
+{
+"pmcid": "PMC8410038",
+"year": "2021",
+"journal": "JCI Insight",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8211653",
+"year": "2021",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability All data and materials used in the analysis are provided within the manuscript. Source data are provided with this paper.",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8847983",
+"year": "2022",
+"journal": "Mol Oncol",
+"has_das": true,
+"das": "Data Availability Statement The data that support the findings of this study are available in Tables S3\u2013S6 of this article, and were derived from the following resources in the public domain: TCGA WES\u2010based MC3 data of HPV\u2010positive head and neck and HPV\u2010positive common\u2010type cervical cancers were obt",
+"das_hits": [
+"gdc",
+"genomic data commons",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9542347",
+"year": "2022",
+"journal": "Cancer Biol Ther",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"nct02478931",
+"tcga"
+],
+"accessions": [
+"nct02478931"
+]
+},
+{
+"pmcid": "PMC8599854",
+"year": "2021",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The WES data in this study have been deposited in the European Bioinformatics Institute European Genome\u2013phenome Archive (EGA) (accession number: EGAS00001005087 ) through controlled access. TCR sequencing data in this study are available through the immuneACCESS platform (10.21417/",
+"das_hits": [
+"egas00001005087"
+],
+"any_hits": [
+"cancer genome atlas",
+"egas00001000925",
+"egas00001002247",
+"egas00001004026",
+"egas00001005087",
+"gdc",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9299552",
+"year": "2022",
+"journal": "Sci Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7539180",
+"year": "2020",
+"journal": "EMBO Mol Med",
+"has_das": true,
+"das": "Data availability The datasets and computer code produced in this study are available in the following database: Exome sequencing: dbGAP at NHGRI. Accession Number: phs001802.v2.p1 ( https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001802.v2.p1 ).",
+"das_hits": [
+"dbgap",
+"phs001802"
+],
+"any_hits": [
+"dbgap",
+"phs001802"
+],
+"accessions": [
+"phs001802"
+]
+},
+{
+"pmcid": "PMC6957805",
+"year": "2020",
+"journal": "Neoplasia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7319896",
+"year": "2020",
+"journal": "Nature",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6154783",
+"year": "2018",
+"journal": "EBioMedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5341999",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6902090",
+"year": "2019",
+"journal": "Front Immunol",
+"has_das": true,
+"das": "Data Availability Statement All datasets generated for this study are included in the article/ Supplementary Material .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4929455",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9632313",
+"year": "2022",
+"journal": "Oncologist",
+"has_das": true,
+"das": "Data Availability The data underlying this article are available in the article and in its online supplementary material .",
+"das_hits": [],
+"any_hits": [
+"nct04729322"
+],
+"accessions": [
+"nct04729322"
+]
+},
+{
+"pmcid": "PMC8455611",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability All data and materials are available in this study.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8092321",
+"year": "2021",
+"journal": "mBio",
+"has_das": true,
+"das": "Data availability. Data files for all IMS and LS-MS/MS analyses can be found in the MassIVE database under ID MSV000085327.",
+"das_hits": [
+"massive",
+"msv000085327"
+],
+"any_hits": [
+"massive",
+"msv000085327"
+],
+"accessions": [
+"msv000085327"
+]
+},
+{
+"pmcid": "PMC6796553",
+"year": "2019",
+"journal": "EBioMedicine",
+"has_das": true,
+"das": "Data Availability Statement The data that support the findings in this study are available upon request.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7361027",
+"year": "2020",
+"journal": "Tob Control",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6299152",
+"year": "2019",
+"journal": "Transl Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"gdc"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6231919",
+"year": "2018",
+"journal": "J Vis Exp",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9346131",
+"year": "2022",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability All data generated in this study are presented in the Figures and Tables. Source data are provided with this paper. Additional information required to reanalyze the data reported in this paper are available from the corresponding author upon reasonable request. Source data are prov",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7000723",
+"year": "2020",
+"journal": "Br J Cancer",
+"has_das": true,
+"das": "Data availability No publicly available datasets have been generated as part of this study. All data generated or analysed during this study are included in this published article and its supplementary information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7029137",
+"year": "2020",
+"journal": "mBio",
+"has_das": true,
+"das": "Data availability. The data supporting the findings of this study are available in the supplemental material ( Tables S1 and S2 ). The raw sequence files were deposited in the database of Genotypes and Phenotypes ( https://www.ncbi.nlm.nih.gov/gap ) with the study accession number phs001204.v1.p1 at",
+"das_hits": [
+"phs001204"
+],
+"any_hits": [
+"phs001204"
+],
+"accessions": [
+"phs001204"
+]
+},
+{
+"pmcid": "PMC8562817",
+"year": "2021",
+"journal": "PLoS Comput Biol",
+"has_das": true,
+"das": "Data Availability The BEAVR software is available as open source software at github.com/bogdanlab/BEAVR.",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8710908",
+"year": "2021",
+"journal": "J Immunother Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8854387",
+"year": "2022",
+"journal": "NPJ Breast Cancer",
+"has_das": true,
+"das": "Data availability Due to the national regulations anonymized data can be shared after approval of the local IRB and data sharing committee. The interested researchers should contact the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7297383",
+"year": "2020",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability The RNA sequencing data have been deposited at Gene Expression Omnibus (GEO) ( https://www.ncbi.nlm.nih.gov/geo/ ) (accession: GSE150640). Human HGSC data were obtained from the TCGA dataset (Nature, 2011) at cBioportal ( https://www.cbioportal.org/ ). Human fallopian tube data wer",
+"das_hits": [
+"cbioportal",
+"gene expression omnibus",
+"gse150640",
+"gtex",
+"tcga"
+],
+"any_hits": [
+"cbioportal",
+"gene expression omnibus",
+"gse150640",
+"gtex",
+"tcga"
+],
+"accessions": [
+"gse150640"
+]
+},
+{
+"pmcid": "PMC5509478",
+"err": 1
+},
+{
+"pmcid": "PMC8267659",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available on request from the corresponding author.",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct03509467"
+],
+"accessions": [
+"nct03509467"
+]
+},
+{
+"pmcid": "PMC5190016",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6739971",
+"year": "2019",
+"journal": "Clin Sarcoma Res",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6557209",
+"year": "2019",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7610258",
+"err": 1
+},
+{
+"pmcid": "PMC7083881",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The source data underlying Fig. 1 b, c, d, e, Fig. 3 a, d, Fig. 4 a, b, c, and Fig. 5b, c, d , and Supplementary Fig. 3b, c and Supplementary Fig. 4 are provided as a Source Data file. All other relevant data supporting the key findings of this study are available within the articl",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5636817",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7241002",
+"year": "2020",
+"journal": "Microbiome",
+"has_das": true,
+"das": "Availability of data and materials Raw 16S rRNA gene sequences for all samples used in this study have been deposited in European Nucleotide Archive under project accession no. PRJEB34265.",
+"das_hits": [
+"prjeb34265"
+],
+"any_hits": [
+"massive",
+"prjeb34265"
+],
+"accessions": [
+"prjeb34265"
+]
+},
+{
+"pmcid": "PMC5897134",
+"err": 1
+},
+{
+"pmcid": "PMC9355983",
+"year": "2022",
+"journal": "Cell Death Dis",
+"has_das": true,
+"das": "Data availability The data supporting the findings of this study are available within the article and its Supplementary information files.",
+"das_hits": [],
+"any_hits": [
+"encode",
+"nct03691207"
+],
+"accessions": [
+"nct03691207"
+]
+},
+{
+"pmcid": "PMC8528456",
+"year": "2021",
+"journal": "Ann Clin Transl Neurol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8724805",
+"year": "2022",
+"journal": "BMJ Open Ophthalmol",
+"has_das": true,
+"das": "Data availability statement All data relevant to the study are included in the article or uploaded as online supplemental information. Not applicable.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7142241",
+"year": "2020",
+"journal": "Front Cell Dev Biol",
+"has_das": true,
+"das": "Data Availability Statement All datasets generated for this study are included in the article/ Supplementary Material .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9593766",
+"year": "2022",
+"journal": "Mater Today Bio",
+"has_das": true,
+"das": "Data availability Data will be made available on request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9170540",
+"year": "2022",
+"journal": "Immunity",
+"has_das": true,
+"das": "Materials availability This study did not generate new unique materials. Information regarding antibody conjugates is presented in Table S5 .",
+"das_hits": [],
+"any_hits": [
+"github.com",
+"mendeley data"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7336299",
+"year": "2020",
+"journal": "J Exp Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"gse147554",
+"nct02010242",
+"nct03226067"
+],
+"accessions": [
+"gse147554",
+"nct02010242",
+"nct03226067"
+]
+},
+{
+"pmcid": "PMC6233226",
+"year": "2018",
+"journal": "Cell Death Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7065184",
+"year": "2020",
+"journal": "J Pathol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4829937",
+"year": "2016",
+"journal": "ACS Biomater Sci Eng",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9142654",
+"year": "2022",
+"journal": "iScience",
+"has_das": true,
+"das": "Materials availability This study did not generate new unique reagents.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9348753",
+"year": "2022",
+"journal": "Sci Transl Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct04283461",
+"nct04380896",
+"nct04796896"
+],
+"accessions": [
+"nct04283461",
+"nct04380896",
+"nct04796896"
+]
+},
+{
+"pmcid": "PMC6923847",
+"year": "2019",
+"journal": "BMC Bioinformatics",
+"has_das": true,
+"das": "Availability of data and materials The datasets analysed during the current study are available from supplementary materials of the study by Sansbury et al. (2014): https://www.ahajournals.org/doi/suppl/10.1161/CIRCHEARTFAILURE.114.001151 .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8657201",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available in this article and supplementary material .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5655325",
+"year": "2017",
+"journal": "NPJ Biofilms Microbiomes",
+"has_das": true,
+"das": "Data availability All sequences are located in the servers of Argonne National Lab (MG-RAST) and relevant data are available from the authors.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6143548",
+"year": "2018",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7721442",
+"year": "2020",
+"journal": "Elife",
+"has_das": true,
+"das": "Data and software availability Data are available via ProteomeXchange with identifier PXD018411. FLEXIQuant-LF is available with graphical user interface (GUI) as standalone executable EXE file. Additionally, a command line interface (CLI) version is available as PY file. Both versions as well as th",
+"das_hits": [
+"github.com",
+"proteomexchange",
+"pxd018411"
+],
+"any_hits": [
+"github.com",
+"pride",
+"proteomexchange",
+"pxd005573",
+"pxd018411"
+],
+"accessions": [
+"pxd005573",
+"pxd018411"
+]
+},
+{
+"pmcid": "PMC8997600",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The datasets generated and/or analyzed during the current study are not publicly available. Further information including the procedures to obtain and access data from the Nurses\u2019 Health Studies and the Health Professionals Follow-up Study is described at https://www.nurs",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7416949",
+"year": "2020",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All postural control files of epoch estimates are available from the Dryad database ( https://datadryad.org/stash/share/Cmoos4w5D_pjV2ZVH56f9yH68FYi1YoCGyG7VqvEjh4 ).",
+"das_hits": [
+"datadryad"
+],
+"any_hits": [
+"datadryad"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5432345",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7180185",
+"year": "2020",
+"journal": "Front Physiol",
+"has_das": true,
+"das": "Data Availability Statement All datasets generated for this study are included in the article/ Supplementary Material .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5129827",
+"year": "2016",
+"journal": "Br J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5727236",
+"year": "2017",
+"journal": "Cancer Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5189936",
+"year": "2016",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability The individual level DASL expression, miRNA, and mRNA data have been deposited in Gene Expression Omnibus (GEO) with accession number GSE89194. All other relevant data are within the paper and its Supporting Information files.",
+"das_hits": [
+"gene expression omnibus",
+"gse89194"
+],
+"any_hits": [
+"cancer genome atlas",
+"gene expression omnibus",
+"gse89194",
+"tcga"
+],
+"accessions": [
+"gse89194"
+]
+},
+{
+"pmcid": "PMC9336218",
+"year": "2020",
+"journal": "EMBO Rep",
+"has_das": true,
+"das": "Data availability The raw data from this publication have been deposited. The RNA sequencing data that support the findings of this study are available in NCBI's Gene Expression Omnibus and are accessible through GEO Senes reference GSE145044 ( https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1",
+"das_hits": [
+"gene expression omnibus",
+"gse145044"
+],
+"any_hits": [
+"gene expression omnibus",
+"gse145044"
+],
+"accessions": [
+"gse145044"
+]
+},
+{
+"pmcid": "PMC8093553",
+"year": "2021",
+"journal": "Beilstein J Org Chem",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8303109",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available on request from the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4681589",
+"year": "2016",
+"journal": "Addiction",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7874902",
+"year": "2021",
+"journal": "BMJ Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7437157",
+"err": 1
+},
+{
+"pmcid": "PMC6163871",
+"year": "2018",
+"journal": "Nutrients",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5973810",
+"year": "2018",
+"journal": "Cell Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8672050",
+"year": "2022",
+"journal": "J Biol Chem",
+"has_das": true,
+"das": "Data availability All data generated or analysed during this study are included in this published article (and its supplementary information files).",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5509739",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8385286",
+"year": "2021",
+"journal": "Eur Urol Open Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01136733"
+],
+"accessions": [
+"nct01136733"
+]
+},
+{
+"pmcid": "PMC6436917",
+"year": "2016",
+"journal": "Mod Pathol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7828429",
+"year": "2021",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available on request from the corresponding author. The data are not publicly available due to privacy of participants.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"gene expression omnibus",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9027470",
+"year": "2022",
+"journal": "Biology (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are included in this published article or in the Supplementary Materials .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6895163",
+"year": "2019",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9641340",
+"year": "2022",
+"journal": "J Thorac Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8900372",
+"year": "2022",
+"journal": "Genome Biol",
+"has_das": true,
+"das": "Availability of data and materials TraSig is implemented in Python and is available at Github ( https://github.com/doraadong/TraSig ) [ 55 ] and Zenodo (10.5281/zenodo.5949000) [ 56 ]. TraSig is licensed under the MIT license.",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"gene expression omnibus",
+"github.com",
+"gse123335",
+"gse159491"
+],
+"accessions": [
+"gse123335",
+"gse159491"
+]
+},
+{
+"pmcid": "PMC7242799",
+"year": "2019",
+"journal": "Integr Cancer Ther",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5445618",
+"year": "2017",
+"journal": "NPJ Breast Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5341291",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6586848",
+"year": "2019",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability Additional supporting data of this study include added metabolic, cytological, ultrastructure, and lifespan data. Additional supporting data also include extended methodology examples and statistical analyses. The data that support the findings of this study are available from the ",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8048685",
+"year": "2021",
+"journal": "Br J Haematol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct00114101",
+"nct02181413"
+],
+"accessions": [
+"nct00114101",
+"nct02181413"
+]
+},
+{
+"pmcid": "PMC9636422",
+"year": "2022",
+"journal": "Exp Mol Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8083254",
+"year": "2021",
+"journal": "Open Forum Infect Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8131731",
+"year": "2021",
+"journal": "Transl Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8692621",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The code and the data that generated and support the findings of this study are available at https://github.com/ZeynabM/cell_classifier . For general correspondence and material requests, please email nbagheri@uw.edu .",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8830998",
+"year": "2022",
+"journal": "Pharm Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5448018",
+"year": "2017",
+"journal": "Genes (Basel)",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gse89107",
+"tcga"
+],
+"accessions": [
+"gse89107"
+]
+},
+{
+"pmcid": "PMC9479133",
+"year": "2022",
+"journal": "Nano Lett",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9166700",
+"year": "2022",
+"journal": "NPJ Precis Oncol",
+"has_das": true,
+"das": "Data availability The D1 (TCGA-LUAD) 22 and D2 (TCGA-LUSC) 23 datasets were generated by TCGA Research Network ( http://cancergenome.nih.gov/ ), and are deposited in dbGAP under accession phs000178. The D3 (Yale-LUAD) 9 , D4 (YALE-LUSC) 24 , D5 (UBern-LUAD) 25 , and D6 (CA209-057) 26 include data th",
+"das_hits": [
+"dbgap",
+"phs000178",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"clinicaltrials.gov",
+"dbgap",
+"github.com",
+"nct01673867",
+"phs000178",
+"tcga"
+],
+"accessions": [
+"nct01673867",
+"phs000178"
+]
+},
+{
+"pmcid": "PMC8448982",
+"year": "2021",
+"journal": "Clin Cancer Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7038991",
+"year": "2020",
+"journal": "Nucleic Acids Res",
+"has_das": true,
+"das": "DATA AVAILABILITY The authors declare that all data supporting the findings in this study are available within the paper and its Supplementary Information files .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5453976",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability All data generated or analyzed during this study are included in this published article (and its supplementary information files). A detailed step by step protocol on the methods to create transgenic viruses are available as supplemental material.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8017006",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The datasets generated during and/or analysed during the current study are included within manuscript or available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6032999",
+"year": "2018",
+"journal": "Br J Haematol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct00628498"
+],
+"accessions": [
+"nct00628498"
+]
+},
+{
+"pmcid": "PMC9371646",
+"year": "2022",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": true,
+"das": "Data Availability Raw data and associated analysis files for RNA-seq and ChIP-seq data have been deposited in the Gene Expression Omnibus data repository (ID GSE205453 ). All other study data are included in the article and/or supporting information. Previously published data sets used for comparati",
+"das_hits": [
+"gene expression omnibus",
+"gse205453",
+"gse32311",
+"gse46662",
+"srp142342"
+],
+"any_hits": [
+"gene expression omnibus",
+"gse205453",
+"gse32311",
+"gse46662",
+"srp142342"
+],
+"accessions": [
+"gse205453",
+"gse32311",
+"gse46662",
+"srp142342"
+]
+},
+{
+"pmcid": "PMC8021099",
+"year": "2021",
+"journal": "JCI Insight",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct03214250"
+],
+"accessions": [
+"nct03214250"
+]
+},
+{
+"pmcid": "PMC6726654",
+"year": "2019",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data Availability The MAXX software, which generates tumor specific references genomes based on a mutation list is available for download at https://github.com/Adglink/MAXX .",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"cancer genome atlas",
+"encode",
+"gdc",
+"github.com",
+"gtex",
+"tcga",
+"zenodo.org"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9563693",
+"year": "2022",
+"journal": "Bioinformatics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7580249",
+"year": "2020",
+"journal": "STAR Protoc",
+"has_das": true,
+"das": "Materials Availability This study did not generate new unique reagents.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8577021",
+"year": "2021",
+"journal": "Biol Sex Differ",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5355343",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8040734",
+"year": "2021",
+"journal": "Cold Spring Harb Mol Case Stud",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8748689",
+"year": "2022",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The TCGA genomic and transcriptomic data used in this study are from the Broad Institute\u2019s Firehose data portal ( https://gdac.broadinstitute.org/ ). The RNA-seq data of the 411 melanoma samples complied from the 6 published patient cohorts: Auslander 16 (available in Gene Expressi",
+"das_hits": [
+"dbgap",
+"gene expression omnibus",
+"gse115821",
+"gse78220",
+"gse91061",
+"phs000452",
+"prjeb23709",
+"tcga"
+],
+"any_hits": [
+"dbgap",
+"gene expression omnibus",
+"github.com",
+"gse115821",
+"gse78220",
+"gse91061",
+"phs000452",
+"phs001919",
+"prjeb23709",
+"tcga"
+],
+"accessions": [
+"gse115821",
+"gse78220",
+"gse91061",
+"phs000452",
+"phs001919",
+"prjeb23709"
+]
+},
+{
+"pmcid": "PMC8758674",
+"year": "2022",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability Data are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6676409",
+"year": "2019",
+"journal": "J Am Chem Soc",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8756090",
+"year": "2021",
+"journal": "BJS Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7477426",
+"year": "2020",
+"journal": "J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct02872259",
+"nct03572634"
+],
+"accessions": [
+"nct02872259",
+"nct03572634"
+]
+},
+{
+"pmcid": "PMC5418444",
+"year": "2017",
+"journal": "Br J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7588055",
+"year": "2020",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability The raw sequencing data for this project have been deposited at the NCBI under the umbrella project number PRJNA335625. Processed data files are available from the CyVerse Data Store via the information in S1 Spreadsheet . All other relevant data are within the paper and its Suppor",
+"das_hits": [
+"prjna335625"
+],
+"any_hits": [
+"prjna335625"
+],
+"accessions": [
+"prjna335625"
+]
+},
+{
+"pmcid": "PMC8522581",
+"year": "2021",
+"journal": "Front Immunol",
+"has_das": true,
+"das": "Data Availability Statement The datasets presented in this article are not readily available because of restrictions on licensing for use by the University of Michigan School of Medicine. The data sets may be available from the corresponding author on request, with appropriate permissions from the i",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7724203",
+"year": "2020",
+"journal": "iScience",
+"has_das": true,
+"das": "Materials Availability This study did no generate new unique reagents. There are restrictions on the availability of LX-2 cell line since they were gifted from Dr. Scott Friedman at Icahn School of Medicine.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6146568",
+"year": "2018",
+"journal": "J Bone Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01077154",
+"nct01624766"
+],
+"accessions": [
+"nct01077154",
+"nct01624766"
+]
+},
+{
+"pmcid": "PMC5047744",
+"year": "2016",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All raw mass spec files are available from the Harvard Dataverse database ( https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2ALQMM ).",
+"das_hits": [
+"dataverse",
+"harvard dataverse"
+],
+"any_hits": [
+"dataverse",
+"harvard dataverse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5590816",
+"year": "2017",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability Dr. Merner studies human breast cancer genetics under Auburn University IRB-approved protocols, 14-232, 14-335, and 15-111. The Auburn University IRB can be contacted by emailing IRBchair@auburn.edu , or the Auburn University Office of Research Compliance by calling 334-844-5966. T",
+"das_hits": [
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7560610",
+"year": "2020",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The datasets generated and analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4726323",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4666830",
+"err": 1
+},
+{
+"pmcid": "PMC4876992",
+"year": "2016",
+"journal": "Carcinogenesis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9394105",
+"year": "2022",
+"journal": "Blood Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6333625",
+"year": "2019",
+"journal": "Light Sci Appl",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6370766",
+"year": "2019",
+"journal": "Blood Cancer J",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5931375",
+"err": 1
+},
+{
+"pmcid": "PMC8832730",
+"year": "2022",
+"journal": "BMC Genomics",
+"has_das": true,
+"das": "Availability of data and materials The data generated in this Whole Genome Shotgun project are available at DDBJ/ENA/GenBank under the accession JAIHOL01, https://www.ncbi.nlm.nih.gov/Traces/wgs/JAIHOL01 . The assembly of this sequencing data is found at https://www.ncbi.nlm.nih.gov/assembly/GCA_020",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5108324",
+"year": "2016",
+"journal": "Cell Death Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8543877",
+"year": "2021",
+"journal": "BMC Res Notes",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4978460",
+"year": "2016",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6972743",
+"year": "2020",
+"journal": "Sci Data",
+"has_das": true,
+"das": "Code availability All of the R code used for the computational analysis described in this report is included within this report as Supplemental Files 1 and 2 .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6471793",
+"year": "2019",
+"journal": "Breast Cancer Res",
+"has_das": true,
+"das": "Availability of data and materials The datasets analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6682141",
+"year": "2019",
+"journal": "ACS Omega",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9409561",
+"year": "2022",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability ***PA AT ACCEPT: Please confirm with the authors that all relevant data are in the MS and SI files*** All relevant data are within the manuscript and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6495077",
+"year": "2019",
+"journal": "VideoGIE",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct03076216"
+],
+"accessions": [
+"nct03076216"
+]
+},
+{
+"pmcid": "PMC7156452",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available from the corresponding author upon reasonable request. The authors declare that the data supporting the findings of this study are available within the paper and its supplementary information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8743717",
+"year": "2021",
+"journal": "Ann Transl Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct01658878",
+"nct02562755",
+"nct03211416",
+"nct04152356",
+"nct04229355",
+"nct04518852"
+],
+"accessions": [
+"nct01658878",
+"nct02562755",
+"nct03211416",
+"nct04152356",
+"nct04229355",
+"nct04518852"
+]
+},
+{
+"pmcid": "PMC5617492",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8205605",
+"year": "2021",
+"journal": "Mol Imaging",
+"has_das": true,
+"das": "Data Availability The data is available on request.",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7058343",
+"year": "2020",
+"journal": "PLoS Pathog",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information files except for the transposon-junction sequencing data which are available from NCBI Sequence Read Archive ( www.ncbi.nlm.nih.gov/sra ) under BioProject PRJNA575878.",
+"das_hits": [
+"bioproject",
+"prjna575878",
+"sequence read archive"
+],
+"any_hits": [
+"bioproject",
+"encode",
+"github.com",
+"prjna575878",
+"sequence read archive"
+],
+"accessions": [
+"prjna575878"
+]
+},
+{
+"pmcid": "PMC8156883",
+"year": "2021",
+"journal": "Int J Environ Res Public Health",
+"has_das": true,
+"das": "Data Availability Statement All analyses were performed in the Inter-university Consortium for Political and Social Research\u2019s Virtual Data Enclave (VDE) using the PATH Restricted Use Files [ 55 ]. Details on how to access these data are found here: https://www.icpsr.umich.edu/web/NAHDAP/studies/362",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8024915",
+"year": "2021",
+"journal": "EBioMedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"gene expression omnibus"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7207068",
+"year": "2017",
+"journal": "Nicotine Tob Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01063972"
+],
+"accessions": [
+"nct01063972"
+]
+},
+{
+"pmcid": "PMC8554846",
+"year": "2021",
+"journal": "ACS Cent Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5283638",
+"year": "2017",
+"journal": "Oncoimmunology",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6240468",
+"year": "2018",
+"journal": "F1000Res",
+"has_das": true,
+"das": "Data availability The data referenced by this article are under copyright with the following copyright statement: Copyright: \u00a9 2018 Vanderford NL et al. Data associated with the article are available under the terms of the Creative Commons Zero \"No rights reserved\" data waiver (CC0 1.0 Public domain",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7330751",
+"year": "2020",
+"journal": "J Thorac Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"clinicaltrials.gov",
+"nct01752114",
+"tcga"
+],
+"accessions": [
+"nct01752114"
+]
+},
+{
+"pmcid": "PMC6425021",
+"year": "2019",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data Availability All data generated or analyzed during the study are included in this published article (and its Supplementary Information files).",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7952589",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Code availability Code and interactive website available at https://github.com/pressleym/pseudohypoxia/wiki/Cycling-hypoxia-selects-for-constitutive-HIF-stabilization .",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7927624",
+"year": "2021",
+"journal": "Adv Sci (Weinh)",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5883544",
+"year": "2018",
+"journal": "Environ Health",
+"has_das": true,
+"das": "Availability of data and materials Please contact author for data requests.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7145421",
+"year": "2020",
+"journal": "Elife",
+"has_das": true,
+"das": "Data availability Sequencing data have been deposited in GEO under accession code GSE138692 . The following dataset was generated: Farabaugh KT, Hatzoglou M. 2019. RNA-sequencing in Mouse Embryonic Fibroblasts exposed to different Intensities of Hyperosmotic Stress. NCBI Gene Expression Omnibus. GSE",
+"das_hits": [
+"gene expression omnibus",
+"gse138692"
+],
+"any_hits": [
+"encode",
+"gene expression omnibus",
+"gse138692"
+],
+"accessions": [
+"gse138692"
+]
+},
+{
+"pmcid": "PMC9464090",
+"year": "2022",
+"journal": "N Biotechnol",
+"has_das": true,
+"das": "Data availability Data will be made available on request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4868715",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"syn1461151",
+"synapse",
+"tcga"
+],
+"accessions": [
+"syn1461151"
+]
+},
+{
+"pmcid": "PMC7493280",
+"year": "2020",
+"journal": "Ther Adv Med Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4990809",
+"year": "2016",
+"journal": "Cold Spring Harb Mol Case Stud",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6168352",
+"year": "2018",
+"journal": "Nat Genet",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"ccle",
+"encode",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5220129",
+"year": "2017",
+"journal": "Leukemia",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct00458822",
+"nct01527032"
+],
+"accessions": [
+"nct00458822",
+"nct01527032"
+]
+},
+{
+"pmcid": "PMC4919728",
+"year": "2016",
+"journal": "EBioMedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9737420",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data supporting the findings of this study are available upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9684458",
+"year": "2022",
+"journal": "Blood Cancer J",
+"has_das": true,
+"das": "Data availability Data generated and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8306694",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are openly available.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4874389",
+"year": "2016",
+"journal": "Philos Trans R Soc Lond B Biol Sci",
+"has_das": true,
+"das": "Data Availability Statement All data were previously published, and where appropriate is present in the electronic supplementary material.",
+"das_hits": [],
+"any_hits": [
+"dryad."
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8927332",
+"year": "2022",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9764542",
+"year": "2022",
+"journal": "Breast Cancer Res",
+"has_das": true,
+"das": "Availability of data and materials All data from participants who consented to data sharing will be deposited in the NHLBI biorepository at BioLINCC.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6220362",
+"year": "2018",
+"journal": "Mol Pharm",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6969520",
+"year": "2020",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": true,
+"das": "Data Availability. Data and code are available on GitHub ( https://github.com/cristomasetti/ ).",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"cancer genome atlas",
+"github.com",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9333372",
+"year": "2022",
+"journal": "J Am Heart Assoc",
+"has_das": true,
+"das": "Data Availability Statement Data described in the manuscript, codebook, and analytic code will be made available upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02431676"
+],
+"accessions": [
+"nct02431676"
+]
+},
+{
+"pmcid": "PMC9523374",
+"err": 1
+},
+{
+"pmcid": "PMC5308691",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02128282"
+],
+"accessions": [
+"nct02128282"
+]
+},
+{
+"pmcid": "PMC9433962",
+"year": "2022",
+"journal": "Clin Cancer Res",
+"has_das": true,
+"das": "Data availability The data generated in this study are publicly available in [Harvard Dataverse] at ( https://dataverse.harvard.edu/api/access/datafile/6078697 ).",
+"das_hits": [
+"dataverse",
+"harvard dataverse"
+],
+"any_hits": [
+"dataverse",
+"harvard dataverse",
+"nct04592887"
+],
+"accessions": [
+"nct04592887"
+]
+},
+{
+"pmcid": "PMC8443139",
+"err": 1
+},
+{
+"pmcid": "PMC9774720",
+"year": "2022",
+"journal": "Antioxidants (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The datasets generated and analyzed for the current study are available in the National Center for Biotechnology Information (NCBI) repository, Accession Number PRJNA882649.",
+"das_hits": [
+"prjna882649"
+],
+"any_hits": [
+"prjna882649"
+],
+"accessions": [
+"prjna882649"
+]
+},
+{
+"pmcid": "PMC5669858",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5991188",
+"year": "2018",
+"journal": "AIDS",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8409004",
+"year": "2021",
+"journal": "Alzheimers Res Ther",
+"has_das": true,
+"das": "Availability of data and materials Python scripts and sample data are made available on GitHub ( https://github.com/vkola-lab/azrt2021 ). Data in this study cannot be shared publicly due to regulations of local ethical committees. Data might be made available to researchers upon request. All request",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9209751",
+"year": "2022",
+"journal": "Neurooncol Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8512403",
+"year": "2021",
+"journal": "Molecules",
+"has_das": true,
+"das": "Data Availability Statement Mass spectrometric datasets are available from GNPS under accession number MSV000086394.",
+"das_hits": [
+"msv000086394"
+],
+"any_hits": [
+"msv000086394"
+],
+"accessions": [
+"msv000086394"
+]
+},
+{
+"pmcid": "PMC5562266",
+"year": "2017",
+"journal": "Invest Ophthalmol Vis Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6483385",
+"year": "2018",
+"journal": "Precis Nanomed",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5319801",
+"year": "2017",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data availability All relevant data are within the paper and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9600735",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available in the article.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7735425",
+"err": 1
+},
+{
+"pmcid": "PMC6872716",
+"year": "2019",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank under the accession SWDT00000000 . The version described in this paper is version SWDT01000000 . The raw Illumina DNA and RNA data, and PacBio DNA data are available on the Sequence Reads Archive (SRA) at acce",
+"das_hits": [
+"gene expression omnibus",
+"gse133178",
+"prjna528747"
+],
+"any_hits": [
+"encode",
+"gene expression omnibus",
+"gse133178",
+"prjna280107",
+"prjna438576",
+"prjna528747"
+],
+"accessions": [
+"gse133178",
+"prjna280107",
+"prjna438576",
+"prjna528747"
+]
+},
+{
+"pmcid": "PMC7681065",
+"year": "2020",
+"journal": "Aging Cell",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT The data that support the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7327173",
+"year": "2020",
+"journal": "mBio",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4849807",
+"year": "2016",
+"journal": "J Natl Cancer Inst",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01934790",
+"nct02023697",
+"nct02043678",
+"nct02406521"
+],
+"accessions": [
+"nct01934790",
+"nct02023697",
+"nct02043678",
+"nct02406521"
+]
+},
+{
+"pmcid": "PMC7398169",
+"year": "2020",
+"journal": "J Exp Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8377095",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability This project's source of data is the TCGA database, which is publicly available on the Web ( https://portal.gdc.cancer.gov/projects/TCGA-LGG ).",
+"das_hits": [
+"gdc",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"clinicaltrials.gov",
+"gdc",
+"github.com",
+"nct03180502",
+"tcga"
+],
+"accessions": [
+"nct03180502"
+]
+},
+{
+"pmcid": "PMC7672279",
+"year": "2020",
+"journal": "iScience",
+"has_das": true,
+"das": "Materials Availability All materials (cell lines) can be obtained via MTA.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6386480",
+"year": "2019",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the manuscript.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6637640",
+"year": "2019",
+"journal": "BMC Bioinformatics",
+"has_das": true,
+"das": "Availability of data and materials The mass spectrometry datasets generated during the current study were deposited to the ProteomeXchange database and are available via the PRIDE repository with the dataset identifier PXD010436 and 10.6019/PXD010436. All data analyzed during this study are included",
+"das_hits": [
+"pride",
+"proteomexchange",
+"pxd010436"
+],
+"any_hits": [
+"github.com",
+"massive",
+"pride",
+"proteomexchange",
+"pxd010436"
+],
+"accessions": [
+"pxd010436"
+]
+},
+{
+"pmcid": "PMC6195513",
+"year": "2018",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability All data are publicly available. The genome-wide RNA-seq data has been deposited into Gene Expression Omnibus (GEO) and has a number of GSE117972 . All relevant data are available from the authors associated with this manuscript and will be disseminated upon request.",
+"das_hits": [
+"gene expression omnibus",
+"gse117972"
+],
+"any_hits": [
+"gene expression omnibus",
+"gse117972"
+],
+"accessions": [
+"gse117972"
+]
+},
+{
+"pmcid": "PMC5839388",
+"year": "2018",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"genomic data commons",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7042303",
+"year": "2020",
+"journal": "Signal Transduct Target Ther",
+"has_das": true,
+"das": "Data availability The data supporting the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5412844",
+"year": "2017",
+"journal": "Psychooncology",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02322905"
+],
+"accessions": [
+"nct02322905"
+]
+},
+{
+"pmcid": "PMC7465678",
+"year": "2020",
+"journal": "Cancers (Basel)",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6299502",
+"year": "2018",
+"journal": "BMC Med Res Methodol",
+"has_das": true,
+"das": "Availability of data and materials This is a manuscript demonstrating a novel application of a statistical method on data collected from a previous study [ 15 ]. Data requests should be addressed to JLT, the principle investigator of the Enhanced Quit &amp; Win study.",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01096108"
+],
+"accessions": [
+"nct01096108"
+]
+},
+{
+"pmcid": "PMC8682781",
+"year": "2021",
+"journal": "Nucleic Acids Res",
+"has_das": true,
+"das": "DATA AVAILABILITY All source data underlying each of the figures, including the values plotted in graphs, the exact P -values, and the uncropped blots are presented in Supplementary Table S1 .",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6751822",
+"year": "2019",
+"journal": "BMC Med Genomics",
+"has_das": true,
+"das": "Availability of data and materials Main source R codes that are used in this work are available from Github ( https://github.com/XingyiGuo/APOBEC/tree-save/master/Associations/APOBEC-Sig ). Completed data sets, which included expressions of genes (RNAseqv2, Level_3, RSEM_genes_normalized) and isofor",
+"das_hits": [
+"github.com",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"github.com",
+"massive",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8763169",
+"year": "2022",
+"journal": "Environ Health Perspect",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7031496",
+"year": "2020",
+"journal": "Front Immunol",
+"has_das": true,
+"das": "Data Availability Statement Plasmids developed in this study are available through Addgene. Sequence data are publicly available through Firebrowse.org (Broad Institute of MIT and Harvard) and in accordance with the TCGA data usage policy ( https://www.cancer.gov/about-nci/organization/ccg/research/",
+"das_hits": [
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"encode",
+"gene expression omnibus",
+"gse91061",
+"synapse",
+"tcga"
+],
+"accessions": [
+"gse91061"
+]
+},
+{
+"pmcid": "PMC6511871",
+"year": "2019",
+"journal": "Nucleic Acids Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"gse124470"
+],
+"accessions": [
+"gse124470"
+]
+},
+{
+"pmcid": "PMC5548879",
+"year": "2017",
+"journal": "Cancer Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7345837",
+"year": "2020",
+"journal": "Neurooncol Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct03158389",
+"nct03970447"
+],
+"accessions": [
+"nct03158389",
+"nct03970447"
+]
+},
+{
+"pmcid": "PMC8496048",
+"year": "2021",
+"journal": "J Cell Biol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8495289",
+"year": "2021",
+"journal": "Cancer Med",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT The individual registry and claims data (even de\u2010identified) used and/or analyzed during this study are not publicly available due to the Cancer Information and Population Health Resource (CIPHR) policies. Collaboration requests and data use agreements with CIPHR ( https:",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7193585",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability All the relevant data that support the findings of this study are available from the corresponding author upon request. The source data underlying Figs. 1a\u2013e , 2a\u2013d , 3a\u2013d , 4a, b , 5a, b , 6a\u2013c , 7a\u2013c , 8a\u2013c and Supplementary Figs. 1a\u2013k , 2a\u2013d , 3a\u2013d , 4a, b , 5a, b , 6a, b , 7a, ",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8504964",
+"year": "2022",
+"journal": "Ann Surg Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02492607",
+"nct02926911"
+],
+"accessions": [
+"nct02492607",
+"nct02926911"
+]
+},
+{
+"pmcid": "PMC8471952",
+"year": "2021",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement Data available upon request.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC10785227",
+"year": "2022",
+"journal": "IEEE Trans Radiat Plasma Med Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6877598",
+"year": "2019",
+"journal": "Front Immunol",
+"has_das": true,
+"das": "Data Availability Statement The raw data supporting the conclusions of this manuscript will be made available by the authors, without undue reservation, to any qualified researcher.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5665987",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability Most data generated or analyzed during this study are included in this published article (and its Supplementary Information file). Data not reported are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6071520",
+"year": "2018",
+"journal": "Theranostics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5890281",
+"year": "2018",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data Availability Statement The authors declare that they will make materials, data and associated protocols promptly available to readers without undue qualifications in material transfer agreements.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5674015",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability This paper was produced using large publicly available image datasets. The authors have made every effort to make available links to these resources as well as making publicly available the software methods used to produce these analyses and summary information. All data not publis",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"gdc",
+"genomic data commons",
+"github.com",
+"massive",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7120351",
+"year": "2020",
+"journal": "Genomics Inform",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9737034",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement Data are contained within the article.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5349914",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7462063",
+"year": "2020",
+"journal": "Genes Dev",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8291708",
+"year": "2021",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All data are fully available without restriction. The raw sequence reads for this study are available at https://www.ncbi.nlm.nih.gov/bioproject , accession: PRJNA701493. Raw western blot images are in the Supporting information file \u201c S1_raw_images \u201d. All other data is available i",
+"das_hits": [
+"bioproject",
+"prjna701493"
+],
+"any_hits": [
+"bioproject",
+"prjna701493",
+"synapse"
+],
+"accessions": [
+"prjna701493"
+]
+},
+{
+"pmcid": "PMC6472805",
+"year": "2019",
+"journal": "PLoS Comput Biol",
+"has_das": true,
+"das": "Data Availability All relevant data are within the manuscript and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8752785",
+"year": "2022",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The sequencing data generated in this study are publicly available in the GEO database under accession code \u201c GSE169262 \u201d. The reference genome is mm10 and can be accessed by downloading the mouse Gencode release M22 at the following \u201cFTP link [ ftp://ftp.ebi.ac.uk/pub/databases/ge",
+"das_hits": [
+"gse169262"
+],
+"any_hits": [
+"github.com",
+"gse169262"
+],
+"accessions": [
+"gse169262"
+]
+},
+{
+"pmcid": "PMC6235965",
+"year": "2018",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Code availability Hardware control and analysis code is available from corresponding author S.R.M. upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02315326",
+"nct02981940"
+],
+"accessions": [
+"nct02315326",
+"nct02981940"
+]
+},
+{
+"pmcid": "PMC9638851",
+"year": "2022",
+"journal": "EMBO Rep",
+"has_das": true,
+"das": "Data availability The datasets produced in this study are available in the following databases: RPPA: These data are available in Dataset EV3 . Mass spectrometry proteomics: These data are available in Datasets EV1 and EV2 and on the ProteomeXchange Consortium via the PRIDE partner repository, datas",
+"das_hits": [
+"pride",
+"proteomexchange",
+"pxd029132"
+],
+"any_hits": [
+"cbioportal",
+"pride",
+"proteomexchange",
+"pxd029132",
+"tcga"
+],
+"accessions": [
+"pxd029132"
+]
+},
+{
+"pmcid": "PMC5342330",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5408340",
+"year": "2017",
+"journal": "ACS Cent Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6344567",
+"year": "2019",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data Availability RNA-seq data for the LLC1 and GL261 samples are available online in the Gene Expression Omnibus at http://www.ncbi.nlm.nih.gov/geo/ (accession number GSE97975 ).",
+"das_hits": [
+"gene expression omnibus",
+"gse97975"
+],
+"any_hits": [
+"gene expression omnibus",
+"gse97975"
+],
+"accessions": [
+"gse97975"
+]
+},
+{
+"pmcid": "PMC8262349",
+"year": "2021",
+"journal": "JCI Insight",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode",
+"nct01865617",
+"nct02028455",
+"nct02614066",
+"nct02631044",
+"nct02706392",
+"nct02706405",
+"nct03103971",
+"nct03105336",
+"nct03244306",
+"nct03277729",
+"nct03330691",
+"nct03331198",
+"nct03338972",
+"nct03502577"
+],
+"accessions": [
+"nct01865617",
+"nct02028455",
+"nct02614066",
+"nct02631044",
+"nct02706392",
+"nct02706405",
+"nct03103971",
+"nct03105336",
+"nct03244306",
+"nct03277729"
+]
+},
+{
+"pmcid": "PMC6590366",
+"year": "2019",
+"journal": "Stat Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8214146",
+"year": "2021",
+"journal": "Mol Cell Proteomics",
+"has_das": true,
+"das": "Data Availability The mass spectrometry glycomics data have been uploaded to the GlycoPost repository ( https://glycopost.glycosmos.org/ ) with the dataset identifier [GPST000014].",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9403502",
+"year": "2022",
+"journal": "Mater Today Bio",
+"has_das": true,
+"das": "Data availability The data used to support the findings of this study are available from the corresponding author upon request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6165794",
+"year": "2018",
+"journal": "Haematologica",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8804196",
+"year": "2022",
+"journal": "J Biol Chem",
+"has_das": true,
+"das": "Data availability All data are available in the article.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga",
+"xena"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5570897",
+"year": "2017",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8362636",
+"year": "2021",
+"journal": "Transl Vis Sci Technol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7807068",
+"year": "2021",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available in accordance with policies developed by the NHLBI and WHI in order to protect sensitive participant information and approved by the Fred Hutchinson Cancer Research Center, which currently serves as the IRB of record fo",
+"das_hits": [],
+"any_hits": [
+"dbgap",
+"phs000200",
+"phs000746"
+],
+"accessions": [
+"phs000200",
+"phs000746"
+]
+},
+{
+"pmcid": "PMC9242854",
+"year": "2022",
+"journal": "Nature",
+"has_das": true,
+"das": "Data availability The datasets and materials generated during the current study are available from the corresponding author on reasonable request. Source data are provided with this paper.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6874417",
+"year": "2019",
+"journal": "Elife",
+"has_das": true,
+"das": "Data availability All data described have been included in the manuscript. No data sets were generated during the course of this study.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8190772",
+"year": "2021",
+"journal": "Anal Chem",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8953070",
+"year": "2022",
+"journal": "BMC Med",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analysed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"nct04207255"
+],
+"accessions": [
+"nct04207255"
+]
+},
+{
+"pmcid": "PMC8256816",
+"year": "2021",
+"journal": "J Proteome Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9213823",
+"year": "2022",
+"journal": "Stem Cell Reports",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6010437",
+"year": "2018",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Availability of data and material All data generated or analyzed during this study are included in this published article and its supplementary information files.",
+"das_hits": [],
+"any_hits": [
+"synapse"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6749330",
+"year": "2019",
+"journal": "Molecules",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8186042",
+"year": "2021",
+"journal": "Infect Agent Cancer",
+"has_das": true,
+"das": "Availability of data and materials Data and code used in the current analysis will be made available upon request from the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8181388",
+"year": "2021",
+"journal": "Front Oncol",
+"has_das": true,
+"das": "Data Availability Statement The original contributions presented in the study are included in the article/ Supplementary Material . Further inquiries can be directed to the corresponding authors.",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6904878",
+"year": "2019",
+"journal": "mBio",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC9563029",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement RNA sequencing data are available by following this link: https://www.ncbi.nlm.nih.gov/bioproject/878663 (accessed on 20 September 2022).",
+"das_hits": [
+"bioproject"
+],
+"any_hits": [
+"bioproject",
+"massive",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8268945",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The search strategy is available in the Supplementary Materials .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5639470",
+"year": "2017",
+"journal": "Stem Cell Reports",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"gene expression omnibus",
+"gse85365"
+],
+"accessions": [
+"gse85365"
+]
+},
+{
+"pmcid": "PMC5452069",
+"year": "2017",
+"journal": "Ann Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01028222"
+],
+"accessions": [
+"nct01028222"
+]
+},
+{
+"pmcid": "PMC8781317",
+"year": "2022",
+"journal": "N Engl J Med",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6031265",
+"year": "2018",
+"journal": "Gut",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5698099",
+"year": "2017",
+"journal": "Nat Chem Biol",
+"has_das": true,
+"das": "Code availability The algorithm used to analyze the deep sequencing results has been published previously [ 40 ].",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5696161",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9481922",
+"year": "2022",
+"journal": "Stem Cell Reports",
+"has_das": true,
+"das": "Data availability and additional method details The main data supporting the results in this study and additional method details are available within the paper and its supplemental information . The raw imaging data files are available from the corresponding authors on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4977054",
+"year": "2016",
+"journal": "Environ Health Perspect",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5344201",
+"year": "2017",
+"journal": "Cell Death Differ",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7253156",
+"year": "2020",
+"journal": "Sci Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8915995",
+"year": "2022",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": true,
+"das": "Data Availability All study data are included in the article and/or supporting information.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6590261",
+"year": "2019",
+"journal": "Int J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9752452",
+"year": "2022",
+"journal": "J Med Internet Res",
+"has_das": true,
+"das": "Data Availability The data sets generated or analyzed during this study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6207734",
+"year": "2018",
+"journal": "Sci Rep",
+"has_das": true,
+"das": "Availability of Data and Materials The dataset supporting the conclusions of this article is available in the GEO repository, (accession # GSE106100 : https//www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc= GSE106100 ) and is also included within the article (and in Supplementary Data S1 ).",
+"das_hits": [
+"gse106100"
+],
+"any_hits": [
+"gse106100"
+],
+"accessions": [
+"gse106100"
+]
+},
+{
+"pmcid": "PMC7772567",
+"year": "2021",
+"journal": "Redox Biol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5658761",
+"year": "2017",
+"journal": "ACS Cent Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8590166",
+"year": "2021",
+"journal": "JAMA Netw Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct04354701"
+],
+"accessions": [
+"nct04354701"
+]
+},
+{
+"pmcid": "PMC6584691",
+"year": "2019",
+"journal": "Cell Death Discov",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"depmap",
+"pride",
+"proteomexchange",
+"pxd009541",
+"tcga"
+],
+"accessions": [
+"pxd009541"
+]
+},
+{
+"pmcid": "PMC7003148",
+"year": "2019",
+"journal": "J Biomed Opt",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8028104",
+"year": "2021",
+"journal": "Clin Infect Dis",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6764123",
+"year": "2019",
+"journal": "JAMA Netw Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02366143",
+"nct02578680"
+],
+"accessions": [
+"nct02366143",
+"nct02578680"
+]
+},
+{
+"pmcid": "PMC5384346",
+"year": "2017",
+"journal": "Oncoimmunology",
+"has_das": true,
+"das": "Data and materials availability All the data used in this article were downloaded from the community resource project TCGA ( https://gdac.broadinstitute.org/ \u2014standardized data run release 2016_01_28) and were available without restriction of use on the date of May 1, 2016. All analysis results are ",
+"das_hits": [
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6570471",
+"year": "2019",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cbioportal",
+"encode",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5749539",
+"year": "2018",
+"journal": "J Clin Invest",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5778454",
+"year": "2018",
+"journal": "Nucleic Acids Res",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4775073",
+"year": "2016",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5050522",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7754490",
+"year": "2020",
+"journal": "Diagn Cytopathol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5817100",
+"year": "2018",
+"journal": "Theranostics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8833451",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement A portion of the data presented in this study are available in the Results section of the manuscript and Table 3 ; the remainder of the data is not publicly available due to the sensitive nature of the transcripts of the focus groups. Please contact the corresponding auth",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7432006",
+"year": "2020",
+"journal": "Int J Environ Res Public Health",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5526090",
+"year": "2016",
+"journal": "Clin Pharmacokinet",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct02398552"
+],
+"accessions": [
+"nct02398552"
+]
+},
+{
+"pmcid": "PMC9300929",
+"err": 1
+},
+{
+"pmcid": "PMC4951279",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5707103",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5865162",
+"year": "2018",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4997333",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5494131",
+"year": "2017",
+"journal": "J Neuroinflammation",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6602258",
+"year": "2019",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability GAIL is freely and publicly available at http://chunglab.io/GAIL/ .",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5755723",
+"year": "2017",
+"journal": "Genes Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4994539",
+"err": 1
+},
+{
+"pmcid": "PMC9420996",
+"year": "2022",
+"journal": "Front Physiol",
+"has_das": true,
+"das": "Data availability statement Publicly available datasets were analyzed in this study. This data can be found here: https://www.gtexportal.org/home/datasets . The scripts used for data analysis, figure generation and the R files required for covariate corrected DCCD analysis are available at https://g",
+"das_hits": [
+"github.com"
+],
+"any_hits": [
+"github.com",
+"gtex"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8171086",
+"year": "2021",
+"journal": "Theranostics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6386027",
+"year": "2019",
+"journal": "Ann Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode",
+"nct02122913",
+"nct02576431"
+],
+"accessions": [
+"nct02122913",
+"nct02576431"
+]
+},
+{
+"pmcid": "PMC8221796",
+"year": "2021",
+"journal": "PLoS Comput Biol",
+"has_das": true,
+"das": "Data Availability RNA-Seq data, somatic mutation data and copy number data for The Cancer Genome Atlas were obtained through the Xena Cancer Genome Browser database ( https://xenabrowser.net ) from individual cancer type cohorts. Computational functionality for the optimization procedure is provided",
+"das_hits": [
+"cancer genome atlas",
+"github.com",
+"xena"
+],
+"any_hits": [
+"cancer genome atlas",
+"encode",
+"github.com",
+"massive",
+"tcga",
+"xena"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6636280",
+"year": "2019",
+"journal": "J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8783009",
+"year": "2022",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability The source data of graphs are provided as Supplementary Data 1 . Uncropped and unedited blot/gel images corresponding to Figs. 7 a and 10b are provided as Supplementary Figs. 11 and 12 , respectively. All other data are available from the authors upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7353162",
+"year": "2020",
+"journal": "Mol Biol Cell",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7782530",
+"year": "2021",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability All data generated or analyzed during this study are included in this published article (and its supplementary information files). Mass spec data are available under MassIVE ID: MSV000085028.",
+"das_hits": [
+"massive",
+"msv000085028"
+],
+"any_hits": [
+"massive",
+"msv000085028"
+],
+"accessions": [
+"msv000085028"
+]
+},
+{
+"pmcid": "PMC7887429",
+"year": "2021",
+"journal": "J Extracell Vesicles",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9647832",
+"year": "2022",
+"journal": "Blood Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01937468"
+],
+"accessions": [
+"nct01937468"
+]
+},
+{
+"pmcid": "PMC7896194",
+"year": "2021",
+"journal": "JAMA Netw Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9239178",
+"year": "2022",
+"journal": "mBio",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6579902",
+"year": "2019",
+"journal": "Addict Behav Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7545716",
+"year": "2020",
+"journal": "Int J Biol Sci",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4907448",
+"year": "2016",
+"journal": "PLoS Med",
+"has_das": true,
+"das": "Data Availability The Health Professionals Follow-up Study, the Nurses\u2019 Health Study, and the Nurses\u2019 Health Study 2 data may be used in collaboration with a principal investigator. Please see the study websites for more information: https://www.hsph.harvard.edu/hpfs/hpfs_collaborators.htm , and htt",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6162114",
+"year": "2018",
+"journal": "Mucosal Immunol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7909682",
+"year": "2021",
+"journal": "PLoS Negl Trop Dis",
+"has_das": true,
+"das": "Data Availability The datasets for this manuscript are not publicly available because it is needed a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using app",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7986876",
+"year": "2021",
+"journal": "BMJ Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct03765177"
+],
+"accessions": [
+"nct03765177"
+]
+},
+{
+"pmcid": "PMC9504323",
+"year": "2022",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement Not applicable.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7069273",
+"year": "2020",
+"journal": "J Immunother Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct00743496",
+"nct01857934"
+],
+"accessions": [
+"nct00743496",
+"nct01857934"
+]
+},
+{
+"pmcid": "PMC7718501",
+"year": "2020",
+"journal": "Adv Radiat Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9585637",
+"year": "2022",
+"journal": "ACS Meas Sci Au",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7529409",
+"year": "2020",
+"journal": "Nucleus",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5516991",
+"year": "2017",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability Simulation data can be re-generated using procedures described in the paper; Data from VISTA study may be requested via Takeda pharmaceutical. The clinical trial data used in this paper were published in another publication, http://clincancerres.aacrjournals.org/content/22/16/4206.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9423609",
+"year": "2022",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability No datasets were generated or analysed during the current study. All relevant data from this study will be made available upon study completion.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5838391",
+"year": "2018",
+"journal": "ChemistryOpen",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8654061",
+"year": "2021",
+"journal": "Chem Sci",
+"has_das": true,
+"das": "Data availability Experimental data associated with this work have been provided in the ESI. \u2020",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6720378",
+"year": "2019",
+"journal": "BMC Genomics",
+"has_das": true,
+"das": "Availability of data and materials Raw sequencing data are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5008339",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7567836",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The data that support the findings of this study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6412162",
+"year": "2019",
+"journal": "EBioMedicine",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct01908478"
+],
+"accessions": [
+"nct01908478"
+]
+},
+{
+"pmcid": "PMC9154255",
+"year": "2022",
+"journal": "Bioinformatics",
+"has_das": true,
+"das": "Data availability The data underlying this article are available from the European Nucleotide Archive (ENA), Sequence Read Archive (SRA), and Gene Expression Omnibus (GEO) and can be accessed with the following study accessions: PRJEB35652 (ENA), SRP166020 (SRA), and GSE52681 (GEO).",
+"das_hits": [
+"gene expression omnibus",
+"gse52681",
+"prjeb35652",
+"sequence read archive",
+"srp166020"
+],
+"any_hits": [
+"gene expression omnibus",
+"github.com",
+"gse52681",
+"prjeb35652",
+"sequence read archive",
+"srp166020"
+],
+"accessions": [
+"gse52681",
+"prjeb35652",
+"srp166020"
+]
+},
+{
+"pmcid": "PMC9221321",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The raw data supporting the conclusions of this article will be made available by the authors without undue reservation.",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC4999796",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9331968",
+"year": "2022",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available in the supplementary materials . The raw data are available on request from the corresponding authors.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6843027",
+"year": "2019",
+"journal": "Front Mol Neurosci",
+"has_das": true,
+"das": "Data Availability Statement The raw data supporting the conclusions of this manuscript will be made available by the authors, without undue reservation, to any qualified researcher.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7260222",
+"year": "2020",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The data that support this study are available from the corresponding author upon reasonable request. Mass spectrometry datasets are available via the ProteomeXchange accessions: PXD011979, PXD006799. MS data were searched against the Human Uniprot Database ( https://www.uniprot.or",
+"das_hits": [
+"gse128541",
+"gse128547",
+"gse128555",
+"proteomexchange",
+"pxd006799",
+"pxd011979"
+],
+"any_hits": [
+"gse128541",
+"gse128547",
+"gse128555",
+"proteomexchange",
+"pxd006799",
+"pxd011979"
+],
+"accessions": [
+"gse128541",
+"gse128547",
+"gse128555",
+"pxd006799",
+"pxd011979"
+]
+},
+{
+"pmcid": "PMC6456230",
+"year": "2019",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All data are provided in the manuscript text and Supporting Information files.",
+"das_hits": [],
+"any_hits": [
+"massive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8853345",
+"year": "2022",
+"journal": "J Clin Psychol Med Settings",
+"has_das": true,
+"das": "Data Availability All data relevant to the study are included in the article.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9134932",
+"year": "2022",
+"journal": "CNS Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct01904123",
+"nct02977780",
+"nct04334863"
+],
+"accessions": [
+"nct01904123",
+"nct02977780",
+"nct04334863"
+]
+},
+{
+"pmcid": "PMC5499059",
+"year": "2017",
+"journal": "BMC Genomics",
+"has_das": true,
+"das": "Availability of data and materials R\ufeffNA-seq data \ufeffwas deposited into the National Center for Biotechnology Information's \ufeffSequence Read Archive with the identification SRP1096\ufeff72.\ufeff All other data supporting the findings is contained within the manuscript.",
+"das_hits": [
+"sequence read archive"
+],
+"any_hits": [
+"sequence read archive"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC6838937",
+"year": "2019",
+"journal": "Mol Ther",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct00931931",
+"nct01048892",
+"nct01071941",
+"nct01174537",
+"nct01240538",
+"nct01380600"
+],
+"accessions": [
+"nct00931931",
+"nct01048892",
+"nct01071941",
+"nct01174537",
+"nct01240538",
+"nct01380600"
+]
+},
+{
+"pmcid": "PMC6704443",
+"year": "2019",
+"journal": "Transl Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7520360",
+"year": "2020",
+"journal": "Cancer Med",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT The data that support the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [
+"github.com"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8870190",
+"year": "2022",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement The data presented in this study are available in this article (and supplementary material ).",
+"das_hits": [],
+"any_hits": [
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8069638",
+"year": "2021",
+"journal": "Cancers (Basel)",
+"has_das": true,
+"das": "Data Availability Statement Surveillance, Epidemiology, and End Results (SEER) Program. http://www.seer.cancer.gov (accessed on 2 November 2020). SEER*Stat Database: Incidence\u2014SEER 18 Regs Research Data + Hurricane Katrina Impacted Lousiana Cases, November 2018 Sub (1975\u20132016 varying)\u2014Linked to Coun",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6538373",
+"year": "2019",
+"journal": "Elife",
+"has_das": true,
+"das": "Data and materials availability All data are available in the main text or the supplementary materials.",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5056966",
+"year": "2016",
+"journal": "Blood Cancer J",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6170330",
+"year": "2018",
+"journal": "Nanotheranostics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6411215",
+"year": "2019",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability All relevant data are within the manuscript and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8563413",
+"year": "2021",
+"journal": "Bone Marrow Transplant",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct01816230"
+],
+"accessions": [
+"nct01816230"
+]
+},
+{
+"pmcid": "PMC8409151",
+"year": "2021",
+"journal": "Front Oral Health",
+"has_das": true,
+"das": "Data Availability Statement The original contributions presented in the study are included in the article/ Supplementary Material , further inquiries can be directed to the corresponding authors.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4991399",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"encode",
+"tcga"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC5355259",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9196939",
+"year": "2022",
+"journal": "Front Oncol",
+"has_das": true,
+"das": "Data Availability Statement The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5542248",
+"year": "2017",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7817040",
+"year": "2021",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5574612",
+"year": "2017",
+"journal": "PLoS Genet",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information files. Mouse Ccrk genomic and transcript sequences can be found at NCBI, accession numbers NC_000079.6 and NM_053180.2, respectively.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5572179",
+"year": "2017",
+"journal": "Br J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"nct02530437",
+"tcga"
+],
+"accessions": [
+"nct02530437"
+]
+},
+{
+"pmcid": "PMC5558679",
+"year": "2017",
+"journal": "Br J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC4916422",
+"year": "2016",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8458405",
+"year": "2021",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability Data for CPTAC cohorts can be found on CPTAC data portal: https://cptac-data-portal.georgetown.edu/cptacPublic/ . In addition, the HCC cohort is available on the PRIDE database ( www.ebi.ac.uk/pride/archive , accession numbers PXD006512 and PXD008373) 44 or iProX database ( www.ipr",
+"das_hits": [
+"gdc",
+"massive",
+"msv000081552",
+"pride",
+"pxd006512",
+"pxd008373"
+],
+"any_hits": [
+"cancer genome atlas",
+"depmap",
+"gdc",
+"github.com",
+"massive",
+"msv000081552",
+"pride",
+"pxd006512",
+"pxd008373",
+"tcga"
+],
+"accessions": [
+"msv000081552",
+"pxd006512",
+"pxd008373"
+]
+},
+{
+"pmcid": "PMC6333836",
+"year": "2019",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct01112527",
+"nct01520870"
+],
+"accessions": [
+"nct01112527",
+"nct01520870"
+]
+},
+{
+"pmcid": "PMC9732437",
+"year": "2022",
+"journal": "Front Psychol",
+"has_das": true,
+"das": "Data availability statement The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8571120",
+"err": 1
+},
+{
+"pmcid": "PMC9639146",
+"year": "2022",
+"journal": "J Immunother Cancer",
+"has_das": true,
+"das": "Data availability statement Data are available in a public, open access repository. Data are available upon reasonable request. Data are available in a public, open source repository at https://osf.io/6r2me/ . Clinical data are available upon reasonable request.",
+"das_hits": [
+"osf.io"
+],
+"any_hits": [
+"nct02083692",
+"nct02325401",
+"osf.io"
+],
+"accessions": [
+"nct02083692",
+"nct02325401"
+]
+},
+{
+"pmcid": "PMC6683777",
+"year": "2019",
+"journal": "Sarcoma",
+"has_das": true,
+"das": "Data Availability The data used to support the findings of this study are included within the article and supplementary information file(s).",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7946936",
+"year": "2021",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The raw image files used in this paper are available on https://www.zliugroup.com/data/Public/Blind_SIM_packages.html . All other data that support the findings of this study are available from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5079680",
+"year": "2016",
+"journal": "Autophagy",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7114952",
+"year": "2020",
+"journal": "AIDS Behav",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5477115",
+"year": "2017",
+"journal": "Cell Commun Signal",
+"has_das": true,
+"das": "Availability of data and materials Not applicable.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7385963",
+"year": "2020",
+"journal": "BMC Med Educ",
+"has_das": true,
+"das": "Availability of data and materials Additional qualitative data analyzed during the current study, which is not published in this article, are not publicly available due to participant confidentiality but may be made available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC7598454",
+"year": "2020",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the manuscript and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8093266",
+"year": "2021",
+"journal": "Commun Biol",
+"has_das": true,
+"das": "Data availability All 4,598,599 variants tested for Singapore Chinese LTL rare variants GWAS in the SCHS Discovery is available in https://figshare.com/articles/dataset/telomere_rare_variants_SCHS_txt/12951689 (10.6084/m9.figshare.12951689.v1).",
+"das_hits": [
+"figshare.com"
+],
+"any_hits": [
+"encode",
+"figshare.com",
+"gse8711211"
+],
+"accessions": [
+"gse8711211"
+]
+},
+{
+"pmcid": "PMC7757567",
+"year": "2020",
+"journal": "STAR Protoc",
+"has_das": true,
+"das": "Materials Availability DihXD3 cells will be available upon request with a completed Materials Transfer Agreement.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5970015",
+"year": "2018",
+"journal": "Oncogene",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC7689745",
+"year": "2020",
+"journal": "J Inherit Metab Dis",
+"has_das": true,
+"das": "DATA AVAILABILITY STATEMENT The data that support the findings of this study are available from the author, PMvH, upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6145680",
+"year": "2018",
+"journal": "JAMA Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9555090",
+"year": "2022",
+"journal": "J Exp Clin Cancer Res",
+"has_das": true,
+"das": "Availability of data and materials Data are available on reasonable request. All data relevant to the study are included in the article or uploaded as supplementary information.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6451658",
+"year": "2019",
+"journal": "Int J Cancer",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8796425",
+"year": "2022",
+"journal": "BMC Infect Dis",
+"has_das": true,
+"das": "Availability of data and materials The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8872779",
+"year": "2022",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": true,
+"das": "Data Availability The single cell RNA sequencing data reported in this paper have been deposited and publicly released in the Gene Expression Omnibus database, https://www.ncbi.nlm.nih.gov/geo (accession no. GSE152368 ). Coding analyses for single cell RNA sequencing data are available in GitHub wit",
+"das_hits": [
+"gene expression omnibus",
+"github.com",
+"gse152368"
+],
+"any_hits": [
+"cancer genome atlas",
+"gene expression omnibus",
+"github.com",
+"gse152368",
+"tcga"
+],
+"accessions": [
+"gse152368"
+]
+},
+{
+"pmcid": "PMC5302940",
+"year": "2016",
+"journal": "Oncotarget",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"encode"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8305935",
+"year": "2021",
+"journal": "Mol Neurodegener",
+"has_das": true,
+"das": "Availability of data and materials All data generated during this study are included in this published article.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9618047",
+"year": "2022",
+"journal": "Proc Natl Acad Sci U S A",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC6243397",
+"year": "2018",
+"journal": "ACS Chem Biol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5484604",
+"year": "2017",
+"journal": "PLoS One",
+"has_das": true,
+"das": "Data Availability All relevant data are within the paper and its Supporting Information files.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8655391",
+"year": "2021",
+"journal": "Adv Radiat Oncol",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9181331",
+"year": "2022",
+"journal": "Int J Mol Sci",
+"has_das": true,
+"das": "Data Availability Statement All data presented in this study are available upon request from the corresponding author.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC9396774",
+"year": "2022",
+"journal": "BMC Pulm Med",
+"has_das": true,
+"das": "Availability of data and materials The data that support the findings presented in this study are available for interrogation at the following online resources: TIMER: https://cistrome.shinyapps.io/timer/ . TIMER2.0: http://timer.cistrome.org/ . GEPIA2.0: http://gepia2.cancer-pku.cn/#index . LCE: ht",
+"das_hits": [
+"cbioportal",
+"tcga"
+],
+"any_hits": [
+"cancer genome atlas",
+"cbioportal",
+"ccle",
+"depmap",
+"tcga",
+"xena"
+],
+"accessions": []
+},
+{
+"pmcid": "PMC8245463",
+"year": "2021",
+"journal": "BMJ Open",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"nct03489707"
+],
+"accessions": [
+"nct03489707"
+]
+},
+{
+"pmcid": "PMC7511954",
+"year": "2020",
+"journal": "Sci Rep",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5743473",
+"year": "2018",
+"journal": "Theranostics",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC8945291",
+"year": "2022",
+"journal": "Blood Adv",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5379057",
+"year": "2017",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The authors declare that all data supporting the findings of this study are available within the article and its Supplementary Information Files or from the corresponding author upon reasonable request.",
+"das_hits": [],
+"any_hits": [],
+"accessions": []
+},
+{
+"pmcid": "PMC5925216",
+"year": "2018",
+"journal": "Front Public Health",
+"has_das": false,
+"das": "",
+"das_hits": [],
+"any_hits": [
+"clinicaltrials.gov",
+"nct02005497"
+],
+"accessions": [
+"nct02005497"
+]
+},
+{
+"pmcid": "PMC5007461",
+"year": "2016",
+"journal": "Nat Commun",
+"has_das": true,
+"das": "Data availability The mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium ( http://proteomecentral.proteomexchange.org/cgi/GetDataset ) via the PRIDE 70 partner repository with the data set identifier PXD003668. The data set is also accessible via the user-friendl",
+"das_hits": [
+"pride",
+"proteomexchange",
+"pxd003668"
+],
+"any_hits": [
+"cancer genome atlas",
+"ccle",
+"pride",
+"proteomexchange",
+"pxd003668",
+"tcga"
+],
+"accessions": [
+"pxd003668"
+]
+},
+{
+"pmcid": "PMC5108575",
+"err": 1
+}
+]
