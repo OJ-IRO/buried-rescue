@@ -14,7 +14,7 @@ PMC5537714,Mol Oncol,2017,cc by,NIHMS886924-supplement-Suppl__1.pdf,.pdf,0,docum
 PMC8694557,Cancer Res Commun,2021,cc by,crc-21-0026-s01.docx,.docx,3690969,small_table,numeric,False,7,45,4,0.73,0.0,0,True,Enrichment FDR Genes in list Total genes Functional Category
 PMC8072233,Proc Natl Acad Sci U S A,2021,cc by-nc-nd,pnas.2017148118.sapp.pdf,.pdf,2226779,document,,False,0,,,,,,,
 PMC5589661,Oncotarget,2017,cc by,oncotarget-08-55319-s001.pdf,.pdf,2342435,document,,False,0,,,,,,,
-PMC7705378,Front Oncol,2020,cc by,Data_Sheet_1.PDF,.pdf,849701,small_table,mixed,False,1,14,5,0.5,0.0,0,False,"Age Group Number of
+PMC7705378,Front Oncol,2020,cc by,Data_Sheet_1.PDF,.pdf,849701,tiny_table,numeric,False,1,8,4,0.66,0.0,0,False,"Age Group Number of
 cystic GBM
 (n=87)* CBTRUS
 count**
@@ -84,7 +84,7 @@ PMC5464843,Oncotarget,2017,cc by,oncotarget-08-32977-s001.pdf,.pdf,3261957,docum
 PMC7464128,Molecules,2020,cc by,molecules-25-03672-s001.pdf,.pdf,553494,document,,False,0,,,,,,,
 PMC8865426,Cell Rep Methods,2022,cc by,mmc3.pdf,.pdf,19363028,document,,False,0,,,,,,,
 PMC8865426,Cell Rep Methods,2022,cc by,mmc2.xlsx,.xlsx,109857,dataset_medium,omics,True,6,82,1025,0.67,0.62,0,False,Table S1B: Results from the benchmark analysis for the various methods.
-PMC8865426,Cell Rep Methods,2022,cc by,mmc1.pdf,.pdf,12276893,small_table,numeric,False,1,35,16,1.0,0.0,0,False, 1   1   1   1    1 
+PMC8865426,Cell Rep Methods,2022,cc by,mmc1.pdf,.pdf,12276893,small_table,numeric,False,1,11,16,1.0,0.0,0,False, 1   1       1   1 
 PMC5777496,Neuro Oncol,2018,cc by-nc,nox154_suppl_supplementary_material.docx,.docx,30451,document,,False,0,,,,,,,
 PMC7549116,iScience,2020,cc by-nc-nd,mmc3.flv,.flv,2669532,other,,False,0,,,,,,,
 PMC7549116,iScience,2020,cc by-nc-nd,mmc2.flv,.flv,3325471,other,,False,0,,,,,,,
@@ -138,7 +138,7 @@ PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM6_ESM.pdf,.pdf,3684826,do
 PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM8_ESM.xlsx,.xlsx,10109817,dataset_large,omics,True,18,48227,17,0.92,0.76,0,True,Gene Symbol ID nc Avg (log2) znf117 Avg (log2) actual.fold.change  P-val rank actual.q.value
 PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM2_ESM.docx,.docx,60778,document,,False,0,,,,,,,
 PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM5_ESM.xlsx,.xlsx,53320,dataset_medium,mixed,True,1,334,20,0.31,0.0,0,False,Table S6. ChIP-seq analysis
-PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM1_ESM.pdf,.pdf,3741081,dataset_large,omics,False,1,1804,10,0.36,1.0,0,True,"siRNA ID Gene Symbol Plate PlateID WellRef Cells
+PMC9033827,Nat Commun,2022,cc by,41467_2022_29884_MOESM1_ESM.pdf,.pdf,3741081,dataset_large,omics,False,1,1173,8,0.5,1.0,0,True,"siRNA ID Gene Symbol Plate PlateID WellRef Cells
 Analysed Nes+
 (%) Growth
 inhibition (%)"
@@ -199,7 +199,7 @@ PMC4615268,Oncogene,2016,,NIHMS674517-supplement-8.docx,.docx,0,document,,False,
 PMC8802188,ACS Cent Sci,2022,cc by-nc-nd,oc1c01193_si_001.pdf,.pdf,893085,document,,False,0,,,,,,,
 PMC5863989,PLoS One,2018,cc by,pone.0194183.s001.docx,.docx,16077,document,,False,0,,,,,,,
 PMC5308671,Oncotarget,2016,cc by,oncotarget-07-61544-s002.docx,.docx,149975,dataset_medium,omics,False,2,381,13,0.82,1.0,0,False,SAC PP2A pancancer Breast Lung Colon Liver Prostate Ovarian Cervical Pancreas Kidney AML
-PMC5308671,Oncotarget,2016,cc by,oncotarget-07-61544-s001.pdf,.pdf,6364004,small_table,omics,False,1,41,9,0.71,1.0,0,False,PPP2CA 5515  catalytic subunit
+PMC5308671,Oncotarget,2016,cc by,oncotarget-07-61544-s001.pdf,.pdf,6364004,small_table,omics,False,1,24,9,0.87,1.0,0,False,BLCA 405 19 419 21 127 28 19 21
 PMC7718261,Sci Rep,2020,cc by,41598_2020_78126_MOESM1_ESM.docx,.docx,1291144,dataset_medium,omics,False,7,80,6,0.49,0.92,0,False,LUAD LUAD LUSC LUSC GBM GBM
 PMC8424128,Mol Ther Oncolytics,2021,cc by-nc-nd,mmc3.xlsx,.xlsx,52527,small_table,omics,True,4,32,9,0.78,0.9,0,False,Data from Fig. 5
 PMC8424128,Mol Ther Oncolytics,2021,cc by-nc-nd,mmc2.xlsx,.xlsx,77546,dataset_medium,mixed,True,6,95,11,0.49,0.01,0,True,NAME GS<br> follow link to MSigDB GS DETAILS SIZE ES NES NOM p-val FDR q-val FWER p-val RANK AT MAX LEADING EDGE
@@ -207,11 +207,7 @@ PMC8424128,Mol Ther Oncolytics,2021,cc by-nc-nd,mmc1.xlsx,.xlsx,2043620,dataset_
 PMC6925027,Oncotarget,2019,cc by,oncotarget-10-7080-s001.pdf,.pdf,1577924,document,,False,0,,,,,,,
 PMC4763994,PLoS One,2016,cc by,pone.0149866.s002.docx,.docx,57736,document,,False,0,,,,,,,
 PMC4763994,PLoS One,2016,cc by,pone.0149866.s001.eps,.eps,329002,figure_image,,False,0,,,,,,,
-PMC6531306,Theranostics,2019,cc by-nc,thnov09p2282s1.pdf,.pdf,1647937,dataset_medium,omics,False,1,401,5,0.43,0.95,0,False,"DNA Repair Genes
-(Wood Laboratory) Activity FC
-(BAP2) FC
-(PACMA31) FC
-(siPDI_48hr)"
+PMC6531306,Theranostics,2019,cc by-nc,thnov09p2282s1.pdf,.pdf,1647937,document,,False,0,,,,,,,
 PMC6979491,Neurooncol Adv,2020,cc by-nc,vdz062_suppl_supplementary_materials_and_methods.docx,.docx,36047,document,,False,0,,,,,,,
 PMC6979491,Neurooncol Adv,2020,cc by-nc,vdz062_suppl_supplementary_table_and_figure_legends.docx,.docx,14219,document,,False,0,,,,,,,
 PMC7376246,Nat Commun,2020,cc by,41467_2020_17382_MOESM4_ESM.mov,.mov,2250060,media,,False,0,,,,,,,
@@ -247,7 +243,17 @@ PMC7408354,Cells,2020,cc by,cells-09-01592-s001.pdf,.pdf,223950,document,,False,
 PMC9743090,J Med Chem,2022,cc by,jm2c01457_si_001.pdf,.pdf,1062248,document,,False,0,,,,,,,
 PMC9743090,J Med Chem,2022,cc by,jm2c01457_si_002.csv,.csv,1449,empty_or_text,,True,0,,,,,,,
 PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,pnas.2118697119.sm01.avi,.avi,1652542,media,,False,0,,,,,,,
-PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,pnas.2118697119.sapp.pdf,.pdf,5413489,small_table,numeric,False,1,41,14,0.59,0.0,0,False, Summar y Adjusted P Value
+PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,pnas.2118697119.sapp.pdf,.pdf,5413489,tiny_table,numeric,False,1,9,14,0.65,0.0,0,False,"Nanoparticle Condition Z-Average
+(d.nm)  Number
+Mean (d.nm)  Polydisper
+sity Index
+(PDI)   ZP (mV)  Weight
+loading (mg
+CDDP/mg
+lipid)  CDDP
+concentration
+in 1mg/ml NP
+solution (!M) "
 PMC6952969,Cells,2019,cc by,cells-08-01487-s001.pdf,.pdf,762655,document,,False,0,,,,,,,
 PMC8753448,J Immunother Cancer,2022,cc by-nc,jitc-2021-003368supp004.pdf,.pdf,1661674,document,,False,0,,,,,,,
 PMC8753448,J Immunother Cancer,2022,cc by-nc,jitc-2021-003368supp006.pdf,.pdf,167845,document,,False,0,,,,,,,
@@ -303,7 +309,7 @@ PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM7_ESM.pdf,.pdf,72482,docu
 PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM3_ESM.pdf,.pdf,84466,document,,False,0,,,,,,,
 PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM2_ESM.pdf,.pdf,2362148,document,,False,0,,,,,,,
 PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM6_ESM.xlsx,.xlsx,11677,dataset_medium,numeric,True,1,109,3,0.99,0.0,0,False,Peaks Exclusively Identified by the OMP algorithm (applied on mean spectrum)  Peaks Exclusively Identified by msiPL Peaks Identified by both methods (msiPL and OMP)
-PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM1_ESM.pdf,.pdf,13508773,small_table,mixed,False,1,48,8,0.44,0.0,0,False,"m/z
+PMC8452737,Nat Commun,2021,cc by,41467_2021_25744_MOESM1_ESM.pdf,.pdf,13508773,small_table,mixed,False,1,30,8,0.49,0.0,0,False,"m/z
 experimental correlation m/z Identity Molecular
 formula Adduct m/z
 calculated Database Error
@@ -411,7 +417,7 @@ PMC7727139,BMC Cancer,2020,cc by,12885_2020_7694_MOESM3_ESM.pdf,.pdf,155926,docu
 PMC7727139,BMC Cancer,2020,cc by,12885_2020_7694_MOESM2_ESM.pdf,.pdf,78456,document,,False,0,,,,,,,
 PMC7727139,BMC Cancer,2020,cc by,12885_2020_7694_MOESM5_ESM.pdf,.pdf,1847186,document,,False,0,,,,,,,
 PMC8013708,Biomark Insights,2021,cc by-nc,sj-pdf-1-bmi-10.1177_11772719211006666.pdf,.pdf,159978,document,,False,0,,,,,,,
-PMC4742861,Sci Rep,2016,cc by,srep20189-s1.pdf,.pdf,4024430,dataset_medium,omics,False,1,160,6,0.6,0.69,0,False, 1μM GDC-­‐0941  1μM BKM-­‐120 
+PMC4742861,Sci Rep,2016,cc by,srep20189-s1.pdf,.pdf,4024430,dataset_medium,omics,False,1,143,6,0.59,0.74,0,False,1μM GDC-­‐0941   1μM BKM-­‐120  
 PMC8711129,Cancer Discov,2021,cc by-nc-nd,cd-20-1437_supplementary_figures_suppsf1.pdf,.pdf,3691352,document,,False,0,,,,,,,
 PMC7465678,Cancers (Basel),2020,cc by,cancers-12-02097-s001.pdf,.pdf,745264,document,,False,0,,,,,,,
 PMC5342330,Oncotarget,2016,cc by,oncotarget-07-54102-s001.pdf,.pdf,530585,document,,False,0,,,,,,,
@@ -451,7 +457,11 @@ concentration     ratio   predose 1h 2h    "
 PMC9252128,Neurooncol Adv,2022,cc by,vdac076_suppl_supplementary_data.docx,.docx,1207067,document,,False,0,,,,,,,
 PMC5087864,PLoS One,2016,cc by,pone.0164546.s002.txt,.txt,14634,unreadable_table,,True,0,,,,,,,
 PMC5087864,PLoS One,2016,cc by,pone.0164546.s004.txt,.txt,28859,unreadable_table,,True,0,,,,,,,
-PMC5087864,PLoS One,2016,cc by,pone.0164546.s001.pdf,.pdf,5958743,small_table,mixed,False,1,19,8,0.32,0.0,0,False,CSNK1E     SUFU  
+PMC5087864,PLoS One,2016,cc by,pone.0164546.s001.pdf,.pdf,5958743,small_table,mixed,False,1,18,6,0.33,0.0,0,False,"Cox Proportional
+Hazard Model Predictor Hazard
+Ratio 95% Confidence
+Interval P-value Concordance
+Index"
 PMC5087864,PLoS One,2016,cc by,pone.0164546.s005.txt,.txt,14608,unreadable_table,,True,0,,,,,,,
 PMC5087864,PLoS One,2016,cc by,pone.0164546.s003.txt,.txt,22091,unreadable_table,,True,0,,,,,,,
 PMC5087864,PLoS One,2016,cc by,pone.0164546.s006.txt,.txt,58347,unreadable_table,,True,0,,,,,,,
@@ -529,7 +539,7 @@ PMC7903462,STAR Protoc,2021,cc by-nc-nd,mmc1.flv,.flv,2984843,other,,False,0,,,,
 PMC7677841,J Neuroinflammation,2020,cc by,12974_2020_2026_MOESM1_ESM.docx,.docx,369767,small_table,numeric,False,3,28,13,0.91,0.0,0,False,"Co-culture 1,2 3,4 5,6 7,8 9,10 11,12 13,14 15,16 17,18 19,20 21,22 23,24"
 PMC5887505,Nucleic Acids Res,2018,cc by-nc,gky131_supp.pdf,.pdf,33601235,document,,False,0,,,,,,,
 PMC5815062,Nucleic Acids Res,2018,cc by-nc,gkx1221_supp.pdf,.pdf,1545426,document,,False,0,,,,,,,
-PMC6685102,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,220201,dataset_medium,mixed,False,1,142,7,0.38,0.02,0,False,Basic Panel Melanoma  Breast Cancer  Brain Cancer 
+PMC6685102,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,220201,dataset_medium,mixed,False,1,84,7,0.38,0.02,0,False,Basic Panel Melanoma  Breast Cancer  Brain Cancer 
 PMC9005724,Sci Rep,2022,cc by,41598_2022_10129_MOESM1_ESM.docx,.docx,596521,tiny_table,omics,False,1,7,9,0.38,1.0,0,False,Test Number Particle Diameter (nm) Total Channel Flow Rate (mL/min) PEO oncentration Re Wi Channel exit splitting ratio (Inner : Outer) Percentage of articles ocused the outer half of the channel Resu
 PMC6063898,Nat Commun,2018,cc by,41467_2018_5373_MOESM2_ESM.pdf,.pdf,601646,document,,False,0,,,,,,,
 PMC6063898,Nat Commun,2018,cc by,41467_2018_5373_MOESM4_ESM.xlsx,.xlsx,148003,dataset_large,omics,True,1,1144,13,0.67,0.0,0,True,"Supplementary Data 1. The original list of Group-1 putative enhancers. The genomic location of each putative enhancer in Group-1 cluster, shown in Figure 1, was listed. The H3K4me1 and H3K27ac change "
@@ -581,7 +591,7 @@ PMC5902741,Front Pharmacol,2018,cc by,Video3.MOV,.mov,5185911,media,,False,0,,,,
 PMC5902741,Front Pharmacol,2018,cc by,Video1.MOV,.mov,5166496,media,,False,0,,,,,,,
 PMC5902741,Front Pharmacol,2018,cc by,Video5.MOV,.mov,5204946,media,,False,0,,,,,,,
 PMC5902741,Front Pharmacol,2018,cc by,DataSheet1.DOCX,.docx,90512,document,,False,0,,,,,,,
-PMC7831112,Mar Drugs,2021,cc by,marinedrugs-19-00041-s001.pdf,.pdf,3421219,dataset_medium,omics,False,1,366,7,0.53,0.53,0,False,Breast Cancer Cell Line ER PR HER2 Gene-expression Subtype Media ATCC Number
+PMC7831112,Mar Drugs,2021,cc by,marinedrugs-19-00041-s001.pdf,.pdf,3421219,dataset_medium,numeric,False,1,222,6,0.81,0.29,0,False,Protein Paired TTEST DMSO Av TLT Av Mean diff DMSO-M4 % Change
 PMC5311075,Oncogene,2017,,NIHMS798271-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
 PMC6881905,Neurooncol Adv,2019,cc by-nc,vdz030_suppl_supplemantary_figures_tables_legends.docx,.docx,14532,document,,False,0,,,,,,,
 PMC6881905,Neurooncol Adv,2019,cc by-nc,vdz030_suppl_supplementary_figures_tables.pptx,.pptx,7634109,figure_image,,False,0,,,,,,,
@@ -644,7 +654,8 @@ PMC8086242,Neurooncol Adv,2021,cc by-nc,vdab041_suppl_supplementary_tables_and_l
 PMC8086242,Neurooncol Adv,2021,cc by-nc,vdab041_suppl_supplementary_figure_1.pdf,.pdf,109770,document,,False,0,,,,,,,
 PMC9196939,Front Oncol,2022,cc by,Table_1.pdf,.pdf,409108,document,,False,0,,,,,,,
 PMC9338058,NPJ Precis Oncol,2022,cc by,41698_2022_290_MOESM2_ESM.pdf,.pdf,2143563,document,,False,0,,,,,,,
-PMC9338058,NPJ Precis Oncol,2022,cc by,41698_2022_290_MOESM1_ESM.pdf,.pdf,1553798,dataset_medium,numeric,False,1,127,12,0.7,0.17,0,False,Parameter Variable Value Unit Source
+PMC9338058,NPJ Precis Oncol,2022,cc by,41698_2022_290_MOESM1_ESM.pdf,.pdf,1553798,dataset_medium,numeric,False,1,58,12,0.83,0.12,0,False,"   Invasion
+(% of total cells)   Stemness (%CD71)   Proliferation (% Ki67)  "
 PMC6344513,Sci Rep,2019,cc by,41598_2018_37390_MOESM1_ESM.pdf,.pdf,4267205,document,,False,0,,,,,,,
 PMC9099860,Int J Mol Sci,2022,,ijms-23-05129-s001.zip,.zip,663412,other,,False,0,,,,,,,
 PMC6599391,Nat Commun,2019,cc by,41467_2019_10912_MOESM3_ESM.pdf,.pdf,258906,document,,False,0,,,,,,,
@@ -674,7 +685,7 @@ PMC5813209,Sci Rep,2018,,41598_2018_21358_MOESM1_ESM.pdf,.pdf,405892,document,,F
 PMC5458248,Oncotarget,2017,,oncotarget-08-31785-s001.pdf,.pdf,4514284,document,,False,0,,,,,,,
 PMC7920530,Neurooncol Adv,2021,,vdaa149_suppl_supplementary_figures_s1-s7.pdf,.pdf,685621,document,,False,0,,,,,,,
 PMC7920530,Neurooncol Adv,2021,,vdaa149_suppl_supplementary_materials.docx,.docx,42536,document,,False,0,,,,,,,
-PMC5842038,Sci Adv,2018,,aar2766_SM.pdf,.pdf,1830235,small_table,numeric,False,1,32,15,0.63,0.26,0,False,icture ID   Internalized   Co-localized with membrane   Total cell  
+PMC5842038,Sci Adv,2018,,aar2766_SM.pdf,.pdf,1830235,small_table,numeric,False,1,19,15,0.75,0.44,0,False,    G34   G35   G44   G157 
 PMC5842038,Sci Adv,2018,,aar2766_MovieS1.mov,.mov,3737006,media,,False,0,,,,,,,
 PMC5842038,Sci Adv,2018,,supp_4_3_eaar2766__index.html,.html,2092,other,,False,0,,,,,,,
 PMC6128481,PLoS One,2018,,pone.0203290.s004.xlsx,.xlsx,13687,small_table,numeric,True,4,25,7,0.95,0.0,0,False,ug/ml exos hr after exos addition 24 48 72 90 Fraction increase in average background subtracted value at 90 hr
@@ -684,8 +695,7 @@ PMC5355046,Oncotarget,2017,,oncotarget-08-12695-s001.pdf,.pdf,1924202,document,,
 PMC7806473,Theranostics,2021,,thnov11p2534s2.mp4,.mp4,371012,media,,False,0,,,,,,,
 PMC7806473,Theranostics,2021,,thnov11p2534s4.mp4,.mp4,3502114,media,,False,0,,,,,,,
 PMC7806473,Theranostics,2021,,thnov11p2534s3.mp4,.mp4,3572528,media,,False,0,,,,,,,
-PMC7806473,Theranostics,2021,,thnov11p2534s1.pdf,.pdf,1889808,small_table,mixed,False,1,16,4,0.3,0.0,0,False,"Compound number
-name Calculated m-1 Calculated [m-2]/2 Calculated [m-3]/3"
+PMC7806473,Theranostics,2021,,thnov11p2534s1.pdf,.pdf,1889808,document,,False,0,,,,,,,
 PMC5889290,Oncoimmunology,2018,,koni-07-04-1412909-s002.xlsx,.xlsx,45508,dataset_medium,mixed,True,1,633,6,0.43,0.0,0,False,Group Canonical Pathways  -log(p-value) Ratio z-score Molecules
 PMC5889290,Oncoimmunology,2018,,koni-07-04-1412909-s003.doc,.doc,33792,document,,False,0,,,,,,,
 PMC5889290,Oncoimmunology,2018,,koni-07-04-1412909-s001.xlsx,.xlsx,2454288,dataset_large,omics,True,2,4702,10,0.34,0.0,0,False,Row Labels RGSC_vs_others PGSC_vs_others Gene ID Gene name Protein name Function Subcellular location Gene ontology (GO) Involvement in disease

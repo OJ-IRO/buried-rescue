@@ -96,7 +96,8 @@ PMC8842457,Glob Adv Health Med,2021,cc by-nc,sj-pdf-1-gam-10.1177_21649561211044
 PMC5788646,Oncotarget,2018,cc by,oncotarget-09-2367-s001.pdf,.pdf,1301769,document,,False,0,,,,,,,
 PMC9271408,J Cancer Prev,2022,cc by-nc,jcp-27-2-129-supple.pdf,.pdf,94966,document,,False,0,,,,,,,
 PMC6902810,JAMA Netw Open,2019,cc by,jamanetwopen-2-e1915619-s001.pdf,.pdf,133119,document,,False,0,,,,,,,
-PMC7469292,BMC Med,2020,cc by,12916_2020_1703_MOESM1_ESM.pdf,.pdf,1289108,dataset_medium,numeric,False,1,325,21,0.61,0.11,0,False,Circulating Bilirubin Levels and Risk of Colorectal Cancer:     
+PMC7469292,BMC Med,2020,cc by,12916_2020_1703_MOESM1_ESM.pdf,.pdf,1289108,dataset_medium,numeric,False,1,118,12,0.74,0.01,0,False,"Supplementary Table 1 | Summary statistics for the genetic association with bilirubin levels, and sex-
+stratified colorectal cancer risk           "
 PMC7250871,Sci Rep,2020,cc by,41598_2020_65536_MOESM1_ESM.pdf,.pdf,3259888,document,,False,0,,,,,,,
 PMC9745558,J Cachexia Sarcopenia Muscle,2022,cc by-nc,JCSM-13-2974-s004.pdf,.pdf,173824,document,,False,0,,,,,,,
 PMC9745558,J Cachexia Sarcopenia Muscle,2022,cc by-nc,JCSM-13-2974-s001.docx,.docx,13256,document,,False,0,,,,,,,
@@ -172,7 +173,8 @@ PMC7371703,Nat Commun,2020,cc by,41467_2020_17386_MOESM10_ESM.pdf,.pdf,1361645,d
 PMC7371703,Nat Commun,2020,cc by,41467_2020_17386_MOESM2_ESM.pdf,.pdf,640830,document,,False,0,,,,,,,
 PMC7371703,Nat Commun,2020,cc by,41467_2020_17386_MOESM7_ESM.xlsx,.xlsx,46121,dataset_medium,omics,True,1,427,23,0.61,0.91,0,False,"Supplementary Data 4. Distribution of somatic mutated genes and pathways by tumor stage, adjusted for MSI status and mutation burden."
 PMC7371703,Nat Commun,2020,cc by,41467_2020_17386_MOESM1_ESM.pdf,.pdf,4146405,document,,False,0,,,,,,,
-PMC5453827,Epidemiology,2017,cc by-nc-nd,ede-28-470-s001.pdf,.pdf,1226222,dataset_medium,mixed,False,1,73,9,0.42,0.01,0,False,Parameter family Value Interpretation
+PMC5453827,Epidemiology,2017,cc by-nc-nd,ede-28-470-s001.pdf,.pdf,1226222,small_table,mixed,False,1,21,9,0.39,0.05,0,False,"Risk factor Screening
+propensity  Polyp detection  Disease risk   "
 PMC7463170,BMJ,2020,cc by-nc,zhay054407.ww.pdf,.pdf,3232384,document,,False,0,,,,,,,
 PMC8789617,Cancer Rep (Hoboken),2022,cc by,CNR2-5-e1423-s008.R,.r,21084,code,,False,0,,,,,,,
 PMC8789617,Cancer Rep (Hoboken),2022,cc by,CNR2-5-e1423-s003.pdf,.pdf,148590,document,,False,0,,,,,,,
@@ -245,9 +247,7 @@ PMC9354433,Microbiome,2022,cc by,40168_2022_1310_MOESM2_ESM.xlsx,.xlsx,52969,dat
 PMC9354433,Microbiome,2022,cc by,40168_2022_1310_MOESM1_ESM.docx,.docx,1102700,document,,False,0,,,,,,,
 PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM5_ESM.pdf,.pdf,1215676,document,,False,0,,,,,,,
 PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM4_ESM.xlsx,.xlsx,3998320,dataset_large,omics,True,12,33186,11,0.73,1.0,0,False,Supplementary Data 5: Catalog of DMRs across 14 tumor types from 450K data. Coordinates are hg19 based.
-PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM2_ESM.pdf,.pdf,7733938,tiny_table,mixed,False,1,6,12,0.43,0.0,0,False,"  Class
-1
-2"
+PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM2_ESM.pdf,.pdf,7733938,document,,False,0,,,,,,,
 PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM3_ESM.pdf,.pdf,218680,document,,False,0,,,,,,,
 PMC8563962,Commun Biol,2021,cc by,42003_2021_2761_MOESM1_ESM.pdf,.pdf,4619909,document,,False,0,,,,,,,
 PMC7263654,Clin Transl Gastroenterol,2020,cc by-nc-nd,ct9-11-e00160-s002.docx,.docx,20599,document,,False,0,,,,,,,
@@ -285,7 +285,7 @@ PMC5814196,Oncotarget,2018,cc by,oncotarget-09-6075-s002.docx,.docx,37097,datase
 PMC5814196,Oncotarget,2018,cc by,oncotarget-09-6075-s001.pdf,.pdf,275412,document,,False,0,,,,,,,
 PMC6659640,Sci Rep,2019,cc by,41598_2019_47347_MOESM2_ESM.xls,.xls,82432,dataset_medium,numeric,True,2,95,16,0.98,0.0,0,False,Manuscript title: Antibody responses to flagellin C and Streptococcus gallolyticus pilus proteins in colorectal cancer               
 PMC6659640,Sci Rep,2019,cc by,41598_2019_47347_MOESM1_ESM.pdf,.pdf,165749,document,,False,0,,,,,,,
-PMC7596860,ACS Cent Sci,2020,,oc0c00369_si_001.pdf,.pdf,1591185,small_table,numeric,False,1,20,7,0.61,0.32,0,False,Probe Probe Sequencea MS (calc’d) MS (found) F.C.b
+PMC7596860,ACS Cent Sci,2020,,oc0c00369_si_001.pdf,.pdf,1591185,small_table,numeric,False,1,13,5,0.71,0.0,0,False,Probe Probe Sequencea MS (calc’d) MS (found) F.C.b
 PMC9482803,Clin Transl Med,2022,cc by,CTM2-12-e1037-s005.eps,.eps,281869,figure_image,,False,0,,,,,,,
 PMC9482803,Clin Transl Med,2022,cc by,CTM2-12-e1037-s002.eps,.eps,289160,figure_image,,False,0,,,,,,,
 PMC9482803,Clin Transl Med,2022,cc by,CTM2-12-e1037-s003.eps,.eps,271970,figure_image,,False,0,,,,,,,
@@ -359,7 +359,7 @@ PMC6374075,Elife,2019,cc by,elife-40760-fig2-data1.xlsx,.xlsx,807880,dataset_lar
 PMC6374075,Elife,2019,cc by,elife-40760-fig5-data1.xlsx,.xlsx,539036,dataset_large,numeric,True,1,2793,30,0.93,0.0,0,False,alt_ct tot_ct indel_called overlapping_H3K27ac_peak H3K27ac_signal frac_reads_supporting_mutation
 PMC6374075,Elife,2019,cc by,elife-40760-fig3-data2.xlsx,.xlsx,39505926,dataset_large,numeric,True,9,72929,11,1.0,0.0,0,False,'coor' 'DE_fc' 'p_val' 'H3K27ac_signal' 'signed_log_p' 'enh_l' 'is_VEL' num_recurIndels' 'indelRate'
 PMC6374075,Elife,2019,cc by,elife-40760-fig2-data2.xlsx,.xlsx,16770518,dataset_large,numeric,True,5,72929,14,1.0,0.0,0,False,enh chr enh start enh stop enh length number of indels indel rate (per Mb) median H3K27ac bigWig signal is gained enh.
-PMC7226071,Cancers (Basel),2020,cc by,cancers-12-00772-s001.pdf,.pdf,4221070,document,,False,0,,,,,,,
+PMC7226071,Cancers (Basel),2020,cc by,cancers-12-00772-s001.pdf,.pdf,4221070,tiny_table,numeric,False,1,1,69,1.0,0.0,0,False,1                        2                                            
 PMC9663870,EBioMedicine,2022,cc by-nc-nd,mmc1.docx,.docx,179867,tiny_table,numeric,False,1,9,15,0.65,0.25,0,False,"First author, year Selection Selection Selection Selection 　 Comparability Comparability 　 Outcome Outcome Outcome 　 Total  Quality"
 PMC9663870,EBioMedicine,2022,cc by-nc-nd,mmc2.docx,.docx,14918,document,,False,0,,,,,,,
 PMC9218363,iScience,2022,cc by-nc-nd,mmc1.pdf,.pdf,408142,document,,False,0,,,,,,,
@@ -548,7 +548,7 @@ PMC7532678,Theranostics,2020,cc by,thnov10p11127s1.pdf,.pdf,533171,document,,Fal
 PMC9560553,PLoS Pathog,2022,cc by,ppat.1010894.s001.xlsx,.xlsx,141379,dataset_large,numeric,True,1,3371,4,0.72,0.0,0,False,Average iFOT
 PMC9560553,PLoS Pathog,2022,cc by,ppat.1010894.s002.docx,.docx,14910,document,,False,0,,,,,,,
 PMC7399195,Transl Oncol,2020,cc by-nc-nd,mmc4.xlsx,.xlsx,32095,dataset_medium,clinical,True,1,339,11,0.73,1.0,0,False,Column 2 FAK-RON-cMET Cluster FAK-Hscore RON-Hscore cMET-Hscore pFAK-Hscore PFS Recurrence Censor OS Death Censor
-PMC5106372,Cell Metab,2016,cc by,mmc1.pdf,.pdf,2901370,dataset_medium,numeric,False,1,70,21,0.62,0.0,0,False,   (Protein)   Gene    Mean   Mean   Fold   p-value 
+PMC5106372,Cell Metab,2016,cc by,mmc1.pdf,.pdf,2901370,small_table,numeric,False,1,48,21,0.68,0.0,0,False,   (Protein)   Gene    Mean   Mean   Fold   p-value 
 PMC5106372,Cell Metab,2016,cc by,mmc2.pdf,.pdf,6534729,document,,False,0,,,,,,,
 PMC7923075,Cancers (Basel),2021,cc by,cancers-13-00845-s001.pdf,.pdf,302510,document,,False,0,,,,,,,
 PMC8174505,BMJ Open Gastroenterol,2021,cc by-nc,bmjgast-2021-000601supp001.pdf,.pdf,22861,document,,False,0,,,,,,,
@@ -631,7 +631,7 @@ PMC8404361,Trials,2021,cc by,13063_2021_5548_MOESM2_ESM.docx,.docx,113235,docume
 PMC8404361,Trials,2021,cc by,13063_2021_5548_MOESM1_ESM.docx,.docx,113407,document,,False,0,,,,,,,
 PMC8020170,J Cancer Prev,2021,cc by-nc,jcp-26-1-32-supple.pdf,.pdf,462951,document,,False,0,,,,,,,
 PMC6158611,Nucleic Acids Res,2018,cc by-nc,gky251_supplemental_files.zip,.zip,1649531,other,,False,0,,,,,,,
-PMC4974481,Nat Commun,2016,cc by,ncomms12326-s1.pdf,.pdf,18463010,dataset_medium,numeric,False,1,74,15,0.7,0.22,0,False, 1     2     3   
+PMC4974481,Nat Commun,2016,cc by,ncomms12326-s1.pdf,.pdf,18463010,small_table,numeric,False,1,45,15,0.62,0.0,0,False, Accession   Protein   Score1   Coverage2   MW [kDa] 
 PMC7802943,PLoS One,2021,cc by,pone.0243587.s001.docx,.docx,14847,small_table,mixed,False,1,21,6,0.47,0.3,0,False,Covariate  FIT result FIT result FIT result FIT result p value
 PMC6864075,Sci Rep,2019,cc by,41598_2019_53706_MOESM1_ESM.docx,.docx,1563973,document,,False,0,,,,,,,
 PMC8620763,Nutrients,2021,cc by,nutrients-13-04164-s001.zip,.zip,867563,other,,False,0,,,,,,,
@@ -672,7 +672,12 @@ PMC9331968,Int J Mol Sci,2022,cc by,ijms-23-08251-s001.zip,.zip,1065104,other,,F
 PMC5542868,Oncogene,2017,,NIHMS840672-supplement-2.pdf,.pdf,0,document,,False,0,,,,,,,
 PMC5379150,Br J Cancer,2017,cc by-nc-sa,bjc201738x1.pdf,.pdf,349195,document,,False,0,,,,,,,
 PMC5674097,Br J Cancer,2017,cc by-nc-sa,bjc2017266x1.docx,.docx,19345361,document,,False,0,,,,,,,
-PMC9263148,Sci Rep,2022,cc by,41598_2022_15714_MOESM1_ESM.pdf,.pdf,468071,dataset_medium,numeric,False,1,53,10,0.6,0.25,0,False,Categorical Variable N Median OS (Months) Log Rank Test P Value
+PMC9263148,Sci Rep,2022,cc by,41598_2022_15714_MOESM1_ESM.pdf,.pdf,468071,small_table,omics,False,1,14,10,0.64,1.0,0,False,"Gene Total
+Mutations Missense Nonsense FS
+Insertion FS
+Deletion IF
+Insertion IF
+Deletion Splice Fusion"
 PMC6195818,Oncogene,2018,,NIHMS958876-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
 PMC9101564,Sensors (Basel),2022,cc by,sensors-22-03357-s001.zip,.zip,134590,other,,False,0,,,,,,,
 PMC8790683,JMIR Cancer,2022,cc by,cancer_v8i1e31576_app3.docx,.docx,27639,document,,False,0,,,,,,,
@@ -736,8 +741,7 @@ PMC7081316,Sci Rep,2020,cc by,41598_2020_61643_MOESM3_ESM.pdf,.pdf,502048,docume
 PMC7081316,Sci Rep,2020,cc by,41598_2020_61643_MOESM5_ESM.xlsx,.xlsx,11391,tiny_table,numeric,True,1,4,9,0.57,0.0,0,False,Supplementary Table 2 - QC summary of the Stage III CRC Discovery cohort
 PMC9640550,Sci Rep,2022,cc by,41598_2022_23451_MOESM1_ESM.csv,.csv,15092423,dataset_large,numeric,True,1,152683,13,0.69,0.0,0,False,rsid snpname geneid genename inGIGS effIsCountGIGS effIsRefGIGS inHRC effIsCountHRC effIsRefHRC chr CTweight CTR2
 PMC9640550,Sci Rep,2022,cc by,41598_2022_23451_MOESM2_ESM.docx,.docx,32950,small_table,omics,False,2,19,5,0.51,0.89,0,False,Supplementary Table 2B. Estimated Ratio of Odds Ratio per unit change in variant weight in predicted gene expression for variants modeled in the MTFHR gene for interaction with sex-study specific quan
-PMC5125100,Sci Rep,2016,cc by,srep37982-s1.pdf,.pdf,1296742,dataset_medium,mixed,False,1,58,7,0.32,0.12,0,False,"Sample back-splicing
-mates # No hits # High quality #"
+PMC5125100,Sci Rep,2016,cc by,srep37982-s1.pdf,.pdf,1296742,document,,False,0,,,,,,,
 PMC5125100,Sci Rep,2016,cc by,srep37982-s2.xls,.xls,9857536,dataset_large,mixed,True,15,13566,6,0.33,0.0,0,False,name position length H2T-reads gene status
 PMC8921898,Cancer Med,2022,cc by,CAM4-11-1490-s001.docx,.docx,16039,document,,False,0,,,,,,,
 PMC4716542,Br J Cancer,2016,cc by-nc-sa,bjc2015424x1.docx,.docx,34666,small_table,mixed,False,1,29,7,0.3,0.0,0,False,Table S3. Association between BMI and 10-year PFS in colorectal cancer patients Table S3. Association between BMI and 10-year PFS in colorectal cancer patients Table S3. Association between BMI and 10
@@ -784,13 +788,10 @@ PMC5666592,BMJ,2017,cc by,dimv039614.ww4.pdf,.pdf,51299,document,,False,0,,,,,,,
 PMC5666592,BMJ,2017,cc by,dimv039614.ww3.pdf,.pdf,86175,document,,False,0,,,,,,,
 PMC7398467,Gut,2020,cc by,gutjnl-2019-319313supp001.pdf,.pdf,101004,document,,False,0,,,,,,,
 PMC7398467,Gut,2020,cc by,gutjnl-2019-319313supp003.pdf,.pdf,18106783,document,,False,0,,,,,,,
-PMC7398467,Gut,2020,cc by,gutjnl-2019-319313supp002.pdf,.pdf,626245,dataset_medium,omics,False,1,938,42,0.55,0.59,0,False,"Gene Variant rs number Cases vs. controls
-(number of samples) Ref allele Ref allele freq
-cases Ref allele freq
-controls"
+PMC7398467,Gut,2020,cc by,gutjnl-2019-319313supp002.pdf,.pdf,626245,dataset_medium,omics,False,1,189,22,0.54,0.85,0,False,"MSH2 rs2303425 1775 vs. 2206(3) 3 1.01(0.87,1.17) 0.947 14(0,98) 0.312 0.05 3 2.34(0.56,9.74) 0.243 74(4,99) 0.021 0.98 3 0.97(0.78,1.20) 0.764 47(0,99) 0.150 0.07 Negative"
 PMC6344461,Front Oncol,2018,cc by,Table_1.XLSX,.xlsx,25891,dataset_medium,mixed,True,1,323,9,0.25,0.0,0,False,Patient number maxpct number of alts gene alteration percentage copy number type mutation type
 PMC8346364,Nat Genet,2021,cc by,41588_2021_891_MOESM3_ESM.xlsx,.xlsx,17278,small_table,mixed,True,2,30,12,0.45,0.0,0,False,Manuscript figure Dataset ID Dataset name PDTO/gland size # Handpicked cells # sequenced cells  # succesfully sequenced cells  Imaged (Yes/No) Comments
-PMC8346364,Nat Genet,2021,cc by,41588_2021_891_MOESM1_ESM.pdf,.pdf,12567525,small_table,numeric,False,1,21,14,0.53,0.0,0,False," Dataset   𝒔
+PMC8346364,Nat Genet,2021,cc by,41588_2021_891_MOESM1_ESM.pdf,.pdf,12567525,tiny_table,mixed,False,1,8,14,0.46,0.0,0,False," Dataset   𝒔
 𝟏   𝒔
 𝟐   𝒔
 𝟑   𝒔

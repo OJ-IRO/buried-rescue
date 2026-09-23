@@ -161,15 +161,23 @@ def read_tables(name, b):
                 first = (pages[0].extract_text() or "")[:400] if pages else ""
                 if re.search(r"reviewer|peer review|response to review|rebuttal|graphical abstract|disclaims all liability", first, re.I):
                     return [{"error": "not_data_pdf"}]
-                # keep only real grids (>=3 columns, >=5 rows); merge across pages
-                allrows = []
-                for pg in pages:
+                # keep real grids (>=3 columns, >=5 rows). Merge a table with the previous one only if it
+                # continues it (same column count on the next page); never pool unrelated tables.
+                runs = []  # list of [rows, ncols, last_page_index]
+                for pi, pg in enumerate(pages):
                     for tb in pg.extract_tables() or []:
                         rows = [[(c or "") for c in r] for r in tb if r]
-                        if rows and len(rows) >= 5 and max(len(r) for r in rows) >= 3: allrows += rows
-                if allrows:
-                    st = table_stats(allrows)
-                    if st and st["numfrac"] >= 0.3: st["sheet"] = f"pdf_tables({len(pages)}p)"; out.append(st)
+                        if not rows or len(rows) < 5: continue
+                        nc = max(len(r) for r in rows)
+                        if nc < 3: continue
+                        if runs and runs[-1][1] == nc and pi - runs[-1][2] <= 1 and pi != runs[-1][2]:
+                            runs[-1][0] += rows; runs[-1][2] = pi
+                        else:
+                            runs.append([rows, nc, pi])
+                if runs:
+                    best = max(runs, key=lambda r: len(r[0]) * r[1])
+                    st = table_stats(best[0])
+                    if st and st["numfrac"] >= 0.3: st["sheet"] = f"pdf_table({len(best[0])}r,{best[1]}c)"; out.append(st)
     except Exception as e:
         return [{"error": str(e)[:60]}]
     return out

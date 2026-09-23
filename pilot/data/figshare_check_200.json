@@ -1,0 +1,650 @@
+[
+{
+"pmcid": "PMC7260443",
+"journal": "Heliyon",
+"file": "mmc1.csv",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5995368",
+"journal": "Stem Cell Reports",
+"file": "mmc4.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC6053217",
+"journal": "PLoS One",
+"file": "pone.0200925.s006.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6922346",
+"journal": "PLoS One",
+"file": "pone.0226187.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5578506",
+"journal": "PLoS One",
+"file": "pone.0182870.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7424213",
+"journal": "iScience",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC8214145",
+"journal": "Mol Cell Proteomics",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC9595358",
+"journal": "Cell Rep Med",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5918619",
+"journal": "PLoS One",
+"file": "pone.0194100.s007.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC9743090",
+"journal": "J Med Chem",
+"file": "jm2c01457_si_002.csv",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7788918",
+"journal": "Breast Cancer Res",
+"file": "13058_2020_1379_MOESM2_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC5802857",
+"journal": "PLoS One",
+"file": "pone.0191275.s002.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6245517",
+"journal": "PLoS One",
+"file": "pone.0205992.s001.txt",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8800951",
+"journal": "Cancer Discov",
+"file": "cd-20-1172_table_s1_suppst1.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC9297827",
+"journal": "EBioMedicine",
+"file": "mmc3.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC7720039",
+"journal": "J Hematol Oncol",
+"file": "13045_2020_1013_MOESM2_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC5604343",
+"journal": "Genome Biol",
+"file": "13059_2017_1306_MOESM2_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC8898280",
+"journal": "Cancer Res",
+"file": "can-21-1747_supplementary_data_suppsd1.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC8177490",
+"journal": "PLoS One",
+"file": "pone.0231060.s003.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5582297",
+"journal": "Front Physiol",
+"file": "DataSheet1.XLSX",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC6664780",
+"journal": "Genome Biol",
+"file": "13059_2019_1728_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7063807",
+"journal": "Epigenetics Chromatin",
+"file": "13072_2020_333_MOESM4_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC8243588",
+"journal": "BMC Med Genomics",
+"file": "12920_2021_1012_MOESM3_ESM.xls",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7592917",
+"journal": "PLoS Genet",
+"file": "pgen.1009046.s008.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8971834",
+"journal": "Adv Radiat Oncol",
+"file": "mmc1.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC7010298",
+"journal": "PLoS Genet",
+"file": "pgen.1008537.s032.csv",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6057681",
+"journal": "PLoS One",
+"file": "pone.0201208.s002.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8330021",
+"journal": "Breast Cancer Res",
+"file": "13058_2021_1455_MOESM7_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC9295380",
+"journal": "BMC Urol",
+"file": "12894_2022_1066_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6086938",
+"journal": "Cell",
+"file": "mmc1.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC4868509",
+"journal": "PLoS One",
+"file": "pone.0155548.s004.xls",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8570510",
+"journal": "PLoS Genet",
+"file": "pgen.1009865.s010.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7159235",
+"journal": "PLoS Genet",
+"file": "pgen.1008663.s009.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5617145",
+"journal": "PLoS One",
+"file": "pone.0184500.s006.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7062237",
+"journal": "PLoS One",
+"file": "pone.0229955.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC9561534",
+"journal": "Stem Cell Reports",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5161529",
+"journal": "Stem Cell Reports",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5240936",
+"journal": "PLoS Med",
+"file": "pmed.1002215.s019.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC4734656",
+"journal": "PLoS One",
+"file": "pone.0148139.s005.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5919411",
+"journal": "Stem Cell Reports",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC7253607",
+"journal": "J Bacteriol",
+"file": "JB.00099-20-sd001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5392013",
+"journal": "Cancer Inform",
+"file": "Supplementary_Table_1.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC8903303",
+"journal": "PLoS Pathog",
+"file": "ppat.1010099.s008.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC10035402",
+"journal": "Cancer Res Commun",
+"file": "crc-22-0149-s01.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC5402677",
+"journal": "Mob DNA",
+"file": "13100_2017_89_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6324924",
+"journal": "PLoS Genet",
+"file": "pgen.1007752.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6514269",
+"journal": "iScience",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC6094903",
+"journal": "Breast Cancer Res",
+"file": "13058_2018_1024_MOESM1_ESM.xls",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7203895",
+"journal": "Biotechnol Biofuels",
+"file": "13068_2020_1719_MOESM2_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6300389",
+"journal": "PLoS Genet",
+"file": "pgen.1007813.s002.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6354984",
+"journal": "PLoS One",
+"file": "pone.0210972.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6896723",
+"journal": "BMC Cancer",
+"file": "12885_2019_6363_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6042798",
+"journal": "PLoS Biol",
+"file": "pbio.2004049.s011.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC9170101",
+"journal": "PLoS One",
+"file": "pone.0269552.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8351364",
+"journal": "Genome Med",
+"file": "13073_2021_938_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6533768",
+"journal": "BMC Cancer",
+"file": "12885_2019_5667_MOESM3_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC5051741",
+"journal": "PLoS One",
+"file": "pone.0164273.s001.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7294658",
+"journal": "Cancer Metab",
+"file": "40170_2020_212_MOESM5_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7729705",
+"journal": "BMC Med Genomics",
+"file": "12920_2020_839_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC7487954",
+"journal": "Immun Ageing",
+"file": "12979_2020_195_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC8893712",
+"journal": "PLoS Biol",
+"file": "pbio.3001552.s007.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7301982",
+"journal": "Cancer Cell Int",
+"file": "12935_2020_1337_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6980695",
+"journal": "PLoS Biol",
+"file": "pbio.3000591.s006.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC5867615",
+"journal": "Physiol Genomics",
+"file": "table1.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC10025763",
+"journal": "Genomics Proteomics Bioinformatics",
+"file": "mmc1.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC8862331",
+"journal": "Reprod Biol Endocrinol",
+"file": "12958_2022_908_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC5809088",
+"journal": "PLoS Comput Biol",
+"file": "pcbi.1005973.s004.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8962947",
+"journal": "Front Immunol",
+"file": "Table_2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC6481766",
+"journal": "PLoS Genet",
+"file": "pgen.1008034.s014.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8336338",
+"journal": "Breast Cancer Res",
+"file": "13058_2021_1457_MOESM2_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6357358",
+"journal": "BMC Med Genomics",
+"file": "12920_2018_449_MOESM1_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC8516205",
+"journal": "PLoS One",
+"file": "pone.0257923.s002.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC8192696",
+"journal": "iScience",
+"file": "mmc2.xlsx",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5354391",
+"journal": "PLoS One",
+"file": "pone.0173723.s002.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC6754164",
+"journal": "PLoS Comput Biol",
+"file": "pcbi.1007344.s026.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7055924",
+"journal": "PLoS Comput Biol",
+"file": "pcbi.1007688.s007.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC9348712",
+"journal": "PLoS Comput Biol",
+"file": "pcbi.1010254.s008.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC9685921",
+"journal": "Microbiome",
+"file": "40168_2022_1408_MOESM10_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+},
+{
+"pmcid": "PMC6249791",
+"journal": "Mol Ther Oncolytics",
+"file": "mmc2.xls",
+"figshare": true,
+"generic_name": true,
+"confirmed": false
+},
+{
+"pmcid": "PMC5957350",
+"journal": "PLoS One",
+"file": "pone.0197418.s003.xls",
+"figshare": true,
+"generic_name": false,
+"confirmed": false
+},
+{
+"pmcid": "PMC7418333",
+"journal": "Epigenetics Chromatin",
+"file": "13072_2020_353_MOESM3_ESM.xlsx",
+"figshare": true,
+"generic_name": false,
+"confirmed": true
+}
+]

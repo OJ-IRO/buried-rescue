@@ -1,0 +1,48 @@
+{
+ "rows": [
+  {
+   "cancer": "glioblastoma",
+   "n": 271,
+   "any": 53,
+   "native": 41,
+   "free": 41,
+   "files": 106,
+   "native_files": 92
+  },
+  {
+   "cancer": "breast cancer",
+   "n": 271,
+   "any": 51,
+   "native": 41,
+   "free": 46,
+   "files": 132,
+   "native_files": 120
+  },
+  {
+   "cancer": "colorectal cancer",
+   "n": 273,
+   "any": 53,
+   "native": 41,
+   "free": 47,
+   "files": 112,
+   "native_files": 97
+  },
+  {
+   "cancer": "leukemia",
+   "n": 261,
+   "any": 45,
+   "native": 33,
+   "free": 33,
+   "files": 112,
+   "native_files": 99
+  }
+ ],
+ "pooled": {
+  "n": 1076,
+  "any": 202,
+  "native": 156,
+  "free": 167,
+  "files": 462,
+  "nf": 408
+ }
+}

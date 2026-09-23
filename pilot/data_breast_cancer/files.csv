@@ -35,15 +35,7 @@ PMC5978322,EMBO J,2018,cc by,EMBJ-37-e98359-s011.pdf,.pdf,584138,document,,False
 PMC6899165,Nat Biomed Eng,2019,,NIHMS1530693-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
 PMC4882782,BMC Cancer,2016,cc by,12885_2016_2372_MOESM6_ESM.docx,.docx,13534,document,,False,0,,,,,,,
 PMC4882782,BMC Cancer,2016,cc by,12885_2016_2372_MOESM2_ESM.docx,.docx,12157,document,,False,0,,,,,,,
-PMC7301155,J Natl Cancer Inst,2020,cc by-nc,djz174_supplementary_data.pdf,.pdf,1144059,dataset_medium,numeric,False,1,217,17,0.56,0.01,0,False,"Study Recruitment
-area Controls Cases Years of
-diagnosis
-(cases) Age of
-cases,
-years Control group
-composition Genotyping
-Platform Genotyping site Imputation
-Reference"
+PMC7301155,J Natl Cancer Inst,2020,cc by-nc,djz174_supplementary_data.pdf,.pdf,1144059,dataset_medium,numeric,False,1,181,17,0.57,0.0,0,False,SNP* chr pos Risk Other COLUMBUS - Mexico   COLUMBUS - Colombia   All other studies†   Meta-analysis  
 PMC7749086,Front Digit Health,2020,cc by,Table_1.DOCX,.docx,33768,document,,False,0,,,,,,,
 PMC7200934,iScience,2020,cc by-nc-nd,mmc1.pdf,.pdf,4476997,document,,False,0,,,,,,,
 PMC9526500,Oncologist,2022,cc by-nc,oyac159_suppl_supplementary_material.docx,.docx,22137,document,,False,0,,,,,,,
@@ -57,7 +49,7 @@ PMC5346660,Oncotarget,2016,cc by,oncotarget-07-78566-s001.pdf,.pdf,1539772,docum
 PMC7832892,Cancers (Basel),2021,cc by,cancers-13-00344-s001.zip,.zip,539418,other,,False,0,,,,,,,
 PMC5514148,NPJ Breast Cancer,2017,cc by,41523_2017_27_MOESM6_ESM.pdf,.pdf,47188,dataset_medium,mixed,False,1,72,4,0.34,0.0,0,True,Probe p.value Gene Symbol Associated Pathway
 PMC5514148,NPJ Breast Cancer,2017,cc by,41523_2017_27_MOESM1_ESM.docx,.docx,115640,document,,False,0,,,,,,,
-PMC5514148,NPJ Breast Cancer,2017,cc by,41523_2017_27_MOESM4_ESM.pdf,.pdf,252560,dataset_medium,omics,False,1,801,3,0.61,0.9,0,False,Gene Symb oFlold Chang eq m-VeatlMue-W%nt/
+PMC5514148,NPJ Breast Cancer,2017,cc by,41523_2017_27_MOESM4_ESM.pdf,.pdf,252560,dataset_medium,omics,False,1,740,3,0.65,0.98,0,False,Gene Symb oFlold Chang eq m-VeatlMue-W%nt/
 PMC5514148,NPJ Breast Cancer,2017,cc by,41523_2017_27_MOESM5_ESM.pdf,.pdf,445353,document,,False,0,,,,,,,
 PMC9385763,Breast Cancer,2022,cc by,12282_2022_1366_MOESM1_ESM.xlsx,.xlsx,4092593,dataset_medium,numeric,True,12,277,54,0.94,0.0,0,False,Supplementary Table 2. Allele (A1) frequency and info score of HLA.  
 PMC9385763,Breast Cancer,2022,cc by,12282_2022_1366_MOESM2_ESM.docx,.docx,15609,document,,False,0,,,,,,,
@@ -123,11 +115,8 @@ PMC9537519,Commun Biol,2022,cc by,42003_2022_3978_MOESM4_ESM.xlsx,.xlsx,949581,d
 PMC9537519,Commun Biol,2022,cc by,42003_2022_3978_MOESM5_ESM.pdf,.pdf,1711804,document,,False,0,,,,,,,
 PMC9537519,Commun Biol,2022,cc by,42003_2022_3978_MOESM2_ESM.pdf,.pdf,555499,document,,False,0,,,,,,,
 PMC9537519,Commun Biol,2022,cc by,42003_2022_3978_MOESM3_ESM.pdf,.pdf,514228,document,,False,0,,,,,,,
-PMC5256100,Sci Rep,2017,cc by,srep40773-s1.pdf,.pdf,1453400,dataset_medium,numeric,False,1,135,9,0.73,0.36,0,False,"System ESI Detected
-Peaks Technical
-Filters FC>2 % Real Peaks Changing
-/Filtered Peaks"
-PMC5384279,Sci Rep,2017,cc by,srep45828-s1.pdf,.pdf,2254873,dataset_medium,omics,False,1,188,23,0.83,0.53,0,False,E-TABM-158 129 101 27 89 39   99 29 53 74 60 68   11
+PMC5256100,Sci Rep,2017,cc by,srep40773-s1.pdf,.pdf,1453400,dataset_medium,omics,False,1,53,9,0.71,0.9,0,False,Cell Line ESI Peak m/zmed  rtmed fold log2fold P-value
+PMC5384279,Sci Rep,2017,cc by,srep45828-s1.pdf,.pdf,2254873,small_table,omics,False,1,28,17,0.88,0.96,0,False,E-TABM-158 129 101 27 89 39   99 29 53 74 60 68   11
 PMC5384279,Sci Rep,2017,cc by,srep45828-s2.xls,.xls,4269568,dataset_large,clinical,True,2,4802,62,0.56,0.85,0,False, id dataset3 dataset4 tbig302 age node size grade er pr her2 e.dmfs t.dmfs e.rfs t.rfs e.os e.dss t.os hormonal.treatment chemo.treatment pam50.robust.1 pCR.vs.no e.met.lung e.met.brain e.met.bone bce
 PMC6219670,Sci Data,2018,cc by,sdata2018245-isa1.zip,.zip,2450,other,,False,0,,,,,,,
 PMC4863200,Organometallics,2016,,om6b00051_si_002.xyz,.xyz,32275,other,,False,0,,,,,,,
@@ -191,7 +180,7 @@ PMC9446134,JMIR Cancer,2022,cc by,cancer_v8i3e36889_app4.pdf,.pdf,4394771,docume
 PMC7939353,PLoS One,2021,cc by,pone.0248220.s002.docx,.docx,350107,document,,False,0,,,,,,,
 PMC7939353,PLoS One,2021,cc by,pone.0248220.s001.docx,.docx,557632,document,,False,0,,,,,,,
 PMC5192436,Metabolites,2016,cc by,metabolites-06-00030-s001.pdf,.pdf,114665,document,,False,0,,,,,,,
-PMC8449801,Clin Pharmacol Ther,2021,cc by-nc,CPT-110-1038-s002.pdf,.pdf,1145125,dataset_medium,mixed,False,1,65,15,0.45,0.02,0,False,"SNP Chr BP CA MA geno.
+PMC8449801,Clin Pharmacol Ther,2021,cc by-nc,CPT-110-1038-s002.pdf,.pdf,1145125,dataset_medium,mixed,False,1,60,11,0.45,0.0,0,False,"SNP Chr BP CA MA geno.
 type Key.
 ANA Key.
 EXE Key.Int
@@ -353,16 +342,16 @@ PMC9578182,Breast Cancer Res,2022,cc by,13058_2022_1565_MOESM4_ESM.xlsx,.xlsx,27
 PMC9578182,Breast Cancer Res,2022,cc by,13058_2022_1565_MOESM3_ESM.xlsx,.xlsx,2644997,dataset_large,omics,True,3,1002,122,0.99,1.0,0,False,"Z-scores of expression from 1,000 genes with the highest variance across SUM102PT and CPTAC breast patient tumors"
 PMC9578182,Breast Cancer Res,2022,cc by,13058_2022_1565_MOESM1_ESM.xlsx,.xlsx,67607,dataset_medium,numeric,True,2,273,19,0.88,0.0,0,False,NRAS RNA-SCOPE/FISH analysis by ImageJ
 PMC5674043,Sci Rep,2017,cc by,41598_2017_14607_MOESM1_ESM.doc,.doc,601600,document,,False,0,,,,,,,
-PMC4816761,EBioMedicine,2016,cc by-nc-nd,mmc1.pdf,.pdf,797785,small_table,numeric,False,1,26,4,0.91,0.0,0,False, 0.1408 0.0048 0.0338
+PMC4816761,EBioMedicine,2016,cc by-nc-nd,mmc1.pdf,.pdf,797785,small_table,numeric,False,1,14,4,0.92,0.0,0,False, 0.0013 0.0123 0.8311
 PMC9661734,Breast Cancer Res,2022,cc by,13058_2022_1573_MOESM1_ESM.docx,.docx,35596,small_table,mixed,False,3,37,9,0.41,0.0,0,False,   IHC Cohort (N=262) IHC Cohort (N=262) IHC Cohort (N=262) Expression Only Cohort (N=620) Expression Only Cohort (N=620) Expression Only Cohort (N=620)
 PMC9661734,Breast Cancer Res,2022,cc by,13058_2022_1573_MOESM2_ESM.xlsx,.xlsx,1061798,dataset_medium,numeric,True,1,884,106,0.99,0.0,0,False,Supplementary Table 2. Immune Gene Expression Scores
 PMC9661734,Breast Cancer Res,2022,cc by,13058_2022_1573_MOESM3_ESM.xlsx,.xlsx,20042,dataset_medium,numeric,True,1,111,5,0.79,0.0,0,False,Supplementary Table 3. Spearman's correlation of individual signature score with immune marker immunohistochemistry (IHC)
 PMC9661734,Breast Cancer Res,2022,cc by,13058_2022_1573_MOESM4_ESM.pdf,.pdf,985322,document,,False,0,,,,,,,
 PMC7465409,J Transl Med,2020,cc by,12967_2020_2502_MOESM1_ESM.xlsx,.xlsx,1803991,dataset_large,omics,True,12,17215,29,0.75,1.0,0,True,Table S1
 PMC7465409,J Transl Med,2020,cc by,12967_2020_2502_MOESM2_ESM.pdf,.pdf,490553,document,,False,0,,,,,,,
-PMC6579890,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,13826772,document,,False,0,,,,,,,
-PMC5552748,Sci Rep,2017,cc by,41598_2017_8091_MOESM1_ESM.pdf,.pdf,324299,dataset_medium,numeric,False,1,206,21,0.87,0.0,0,False,  174 320 282 267 214 423 801 1140 165 519 398 270 4973
-PMC6685102,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,220201,dataset_medium,mixed,False,1,142,7,0.38,0.02,0,False,Basic Panel Melanoma  Breast Cancer  Brain Cancer 
+PMC6579890,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,13826772,tiny_table,omics,False,1,7,9,0.32,1.0,0,False,ID Patient Age Years since last childbirth Subtype LVI? LN mets? PDPN+/mm2 PDPN+PDL1+/mm2
+PMC5552748,Sci Rep,2017,cc by,41598_2017_8091_MOESM1_ESM.pdf,.pdf,324299,dataset_medium,numeric,False,1,93,9,0.88,0.0,0,False, Sample    Source   
+PMC6685102,Front Immunol,2019,cc by,Data_Sheet_1.PDF,.pdf,220201,dataset_medium,mixed,False,1,84,7,0.38,0.02,0,False,Basic Panel Melanoma  Breast Cancer  Brain Cancer 
 PMC8241650,Prev Med,2021,,mmc1.pdf,.pdf,97603,document,,False,0,,,,,,,
 PMC6080536,BMC Cancer,2018,cc by,12885_2018_4675_MOESM1_ESM.docx,.docx,202673,document,,False,0,,,,,,,
 PMC7751686,NAR Cancer,2020,cc by,zcaa038_supplemental_files.zip,.zip,5845703,other,,False,0,,,,,,,
@@ -383,7 +372,7 @@ reference Phase Inclusion criteria Total
 (No.) IBC
 (No.) Median age (range), y Years of accrual Risk of bias Risk of bias"
 PMC8573892,Breast Cancer Res,2021,cc by,13058_2021_1481_MOESM1_ESM.pdf,.pdf,201970,document,,False,0,,,,,,,
-PMC6912285,J Clin Med,2019,cc by,jcm-08-01868-s001.pdf,.pdf,278587,dataset_medium,numeric,False,1,151,42,0.71,0.01,0,False, Supplementary Table 1A. Selected patient and tumor characteristics among ER-positive breast                      
+PMC6912285,J Clin Med,2019,cc by,jcm-08-01868-s001.pdf,.pdf,278587,small_table,numeric,False,1,44,42,0.69,0.0,0,False,    Case patients                  Control patients                   
 PMC9454770,Cancers (Basel),2022,cc by,cancers-14-04208-s001.zip,.zip,5861571,other,,False,0,,,,,,,
 PMC6611512,Oncotarget,2019,cc by,oncotarget-10-4307-s001.pdf,.pdf,3519725,document,,False,0,,,,,,,
 PMC7763268,Cancers (Basel),2020,cc by,cancers-12-03711-s001.xlsx,.xlsx,51759,dataset_medium,clinical,True,1,65,23,0.56,0.0,0,False,"# NDRG1 (%) NDRG1 (intensity 1,2,3) NDRG1 H-score NDRG1 status Age Race Histological type Grade Lymphovascular invasion Stage ER staus PR status HER2 status TNBC status Adjuvant radiation Survial stat"
@@ -393,7 +382,7 @@ PMC9248770,Front Biosci (Landmark Ed),2022,cc by,NIHMS1818401-supplement-Interve
 PMC6561946,Sci Rep,2019,cc by,41598_2019_44873_MOESM1_ESM.pdf,.pdf,28913346,document,,False,0,,,,,,,
 PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s008.pdf,.pdf,285424,document,,False,0,,,,,,,
 PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s006.xlsx,.xlsx,83334,dataset_medium,numeric,True,1,786,10,1.0,0.0,0,False,DMSO BEZ235 1uM Trametinib 1uM
-PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s010.pdf,.pdf,279608,small_table,numeric,False,1,48,3,0.88,0.0,0,False,𝜹 = Trametinib+BEZ235  
+PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s010.pdf,.pdf,279608,small_table,numeric,False,1,36,3,0.88,0.0,0,False,𝜹 = DMSO  
 PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s007.pdf,.pdf,958206,tiny_table,mixed,False,1,8,3,0.3,0.0,0,False, Constraint Rationale
 PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s005.xlsx,.xlsx,81843,dataset_medium,numeric,True,7,71,62,0.84,0.04,0,False,Sample: Single Good Cells/EDU+ | Freq. of Parent Single Good Cells/K14hi/EDU+ | Freq. of Parent Single Good Cells/K14lo/EDU+ | Freq. of Parent Single Good Cells/VIMhi/EDU+ | Freq. of Parent Single Goo
 PMC6428348,PLoS Comput Biol,2019,cc by,pcbi.1006840.s002.xlsx,.xlsx,9013,tiny_table,numeric,True,1,5,15,0.75,0.5,0,False,"Dynamics parameters Division parameter, cell state i Death gain, cell state i p12 p13 p14 p21 p23 p24 p31 p32 p34 p41 p42 p43"
@@ -462,14 +451,9 @@ Coeff 9 5 % C I  "
 PMC7011040,Heliyon,2020,cc by-nc-nd,mmc1.xlsx,.xlsx,43957,dataset_medium,numeric,True,1,210,28,0.95,0.0,0,False,RAW DATA OF ANNEXIN 2 EXPRESSION IN ASSOCIATION WITH DEMOGRAPHIC AND CLINICAL PATHOLOGICAL FEATURES AMONG AFRICAN AMERICAN WOMEN
 PMC6656540,Sci Adv,2019,cc by-nc,aaw4197_SM.pdf,.pdf,800715,document,,False,0,,,,,,,
 PMC6656540,Sci Adv,2019,cc by-nc,supp_5_7_eaaw4197__index.html,.html,1265,other,,False,0,,,,,,,
-PMC9008500,JAMA Netw Open,2022,cc by,jamanetwopen-e224361-s001.pdf,.pdf,1100110,dataset_medium,mixed,False,1,573,32,0.39,0.0,0,False,"PMID Study   Phase Regimen 1 (R1)   R2 R3   Total
-N R1
-pts R2
-pts R3
-pts Primary
-Pub Yr 1st
-Update Enrollment
-Years Endpoint"
+PMC9008500,JAMA Netw Open,2022,cc by,jamanetwopen-e224361-s001.pdf,.pdf,1100110,dataset_medium,mixed,False,1,65,23,0.36,0.0,0,False,"10674879 Esteban et al.
+1999   3 FEC
+1000/60/1400   CNF   - - 145 73 72 - - 1999 - - 1987-1993 ORR"
 PMC6966654,Cancers (Basel),2019,cc by,cancers-11-02039-s001.zip,.zip,35142476,other,,False,0,,,,,,,
 PMC5967303,Sci Rep,2018,cc by,41598_2018_25878_MOESM1_ESM.docx,.docx,115020,small_table,numeric,False,3,15,3,0.93,0.0,0,False,Pyrolysis Temperature (°C) Blank Corrected Absorbance Standard Deviation (n=4)
 PMC7238733,Breast Cancer Res,2020,cc by,13058_2020_1286_MOESM1_ESM.docx,.docx,69842,document,,False,0,,,,,,,
@@ -558,9 +542,9 @@ PMC5464343,Pharmacol Res Perspect,2017,cc by,PRP2-5-e00314-s001.doc,.doc,48128,d
 PMC5464343,Pharmacol Res Perspect,2017,cc by,PRP2-5-e00314-s003.doc,.doc,44544,document,,False,0,,,,,,,
 PMC5464343,Pharmacol Res Perspect,2017,cc by,PRP2-5-e00314-s004.docx,.docx,12597,document,,False,0,,,,,,,
 PMC5464343,Pharmacol Res Perspect,2017,cc by,PRP2-5-e00314-s002.doc,.doc,37376,document,,False,0,,,,,,,
-PMC9663828,Sci Rep,2022,cc by,41598_2022_22417_MOESM1_ESM.pdf,.pdf,1289953,small_table,mixed,False,1,22,4,0.44,0.0,0,False,"HMEC
+PMC9663828,Sci Rep,2022,cc by,41598_2022_22417_MOESM1_ESM.pdf,.pdf,1289953,small_table,mixed,False,1,11,4,0.44,0.0,0,False,"HMEC
 clone Passage MFE Fold Δ"
-PMC8025032,Adv Sci (Weinh),2021,cc by,ADVS-8-2003396-s001.pdf,.pdf,511932,document,,False,0,,,,,,,
+PMC8025032,Adv Sci (Weinh),2021,cc by,ADVS-8-2003396-s001.pdf,.pdf,511932,tiny_table,mixed,False,1,6,14,0.33,0.0,0,False,   11%  1  4  4%  56%  
 PMC4823109,Oncotarget,2016,cc by,oncotarget-07-3332-s001.pdf,.pdf,1601341,document,,False,0,,,,,,,
 PMC8763369,JNCI Cancer Spectr,2022,cc by-nc-nd,pkab089_supplementary_data.pdf,.pdf,32309,document,,False,0,,,,,,,
 PMC7674704,JNCI Cancer Spectr,2020,cc by-nc,pkaa058_supplementary_data.pdf,.pdf,508926,tiny_table,mixed,False,1,5,5,0.5,0.0,0,False,  Modified method  
@@ -613,7 +597,7 @@ PMC9007999,Nat Commun,2022,cc by,41467_2022_29636_MOESM2_ESM.pdf,.pdf,360797,doc
 PMC8585614,Cytokine,2021,cc by,NIHMS1748102-supplement-Table_S1_and_S2.docx,.docx,0,document,,False,0,,,,,,,
 PMC8740706,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,pnas.2112491119.s01.wmv,.wmv,9717747,media,,False,0,,,,,,,
 PMC8740706,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,pnas.2112491119.sapp.pdf,.pdf,8770996,document,,False,0,,,,,,,
-PMC7893974,Cancer Metab,2021,cc by,40170_2021_245_MOESM1_ESM.pdf,.pdf,1105301,dataset_medium,mixed,False,1,105,20,0.3,0.0,0,False,    Untreated   Luciferase   Chk-   PD-L1   Chk- + PD-L1  
+PMC7893974,Cancer Metab,2021,cc by,40170_2021_245_MOESM1_ESM.pdf,.pdf,1105301,small_table,numeric,False,1,34,15,0.76,0.0,0,True,Tumor type    Spearman's  p-Value   q-Value    # 
 PMC6437174,Sci Rep,2019,cc by,41598_2019_40888_MOESM1_ESM.pdf,.pdf,720750,document,,False,0,,,,,,,
 PMC5758798,Sci Rep,2018,cc by,41598_2017_18436_MOESM1_ESM.pdf,.pdf,162352,document,,False,0,,,,,,,
 PMC6429899,BMJ Open,2019,cc by-nc,bmjopen-2018-026797supp002.pdf,.pdf,22897,document,,False,0,,,,,,,
@@ -632,7 +616,7 @@ PMC6378979,J Biol Chem,2019,cc by,supp_294_7_2302__index.html,.html,1223,other,,
 PMC5340126,Oncotarget,2016,cc by,oncotarget-07-72777-s001.pdf,.pdf,4362049,document,,False,0,,,,,,,
 PMC7961649,Cancers (Basel),2021,cc by,cancers-13-01132-s001.pdf,.pdf,991048,document,,False,0,,,,,,,
 PMC8305148,Diagnostics (Basel),2021,cc by,diagnostics-11-01188-s001.zip,.zip,373651,other,,False,0,,,,,,,
-PMC8943134,NPJ Breast Cancer,2022,cc by,41523_2022_401_MOESM1_ESM.pdf,.pdf,36341731,dataset_medium,mixed,False,1,110,11,0.45,0.1,0,False,Patient characteristics N (%)         
+PMC8943134,NPJ Breast Cancer,2022,cc by,41523_2022_401_MOESM1_ESM.pdf,.pdf,36341731,small_table,mixed,False,1,46,11,0.44,0.13,0,False,Patient characteristics N (%)         
 PMC8943134,NPJ Breast Cancer,2022,cc by,41523_2022_401_MOESM2_ESM.pdf,.pdf,1851461,document,,False,0,,,,,,,
 PMC7767145,Molecules,2020,cc by,molecules-25-05976-s001.pdf,.pdf,1231951,document,,False,0,,,,,,,
 PMC8301582,Clin Transl Sci,2021,cc by-nc-nd,CTS-14-1265-s001.pdf,.pdf,94709,document,,False,0,,,,,,,
@@ -652,11 +636,13 @@ PMC9040206,BMC Med,2022,cc by,12916_2022_2334_MOESM1_ESM.pdf,.pdf,546709,documen
 PMC9040206,BMC Med,2022,cc by,12916_2022_2334_MOESM3_ESM.csv,.csv,494,small_table,numeric,True,1,15,6,0.93,0.0,0,False,t BC_INCIDENCE BC_INCIDENCE_CHINESE BC_INCIDENCE_MALAY BC_INCIDENCE_INDIAN DEATH_INCIDENCE
 PMC5331147,Data Brief,2017,cc by,mmc1.pdf,.pdf,600206,document,,False,0,,,,,,,
 PMC7001949,PLoS One,2020,cc0,pone.0228198.s001.zip,.zip,678589,other,,False,0,,,,,,,
-PMC9459895,JAMA Oncol,2022,cc by,jamaoncol-e223846-s002.pdf,.pdf,1601306,dataset_medium,mixed,False,1,109,10,0.35,0.24,0,False,Type Name Coordinates
+PMC9459895,JAMA Oncol,2022,cc by,jamaoncol-e223846-s002.pdf,.pdf,1601306,small_table,omics,False,1,31,7,0.56,0.83,0,False,"Sample
+methylation
+Gene TNBC cases  HGSOC cases  Controls "
 PMC9459895,JAMA Oncol,2022,cc by,jamaoncol-e223846-s001.pdf,.pdf,150396,document,,False,0,,,,,,,
 PMC5412118,J Natl Cancer Inst,2017,cc by-nc,djx035_Supp.docx,.docx,253116,small_table,mixed,False,1,20,10,0.38,0.0,0,False,Covariate 1-year Interval 1-year Interval 1-year Interval 3-year Interval 3-year Interval 3-year Interval 5-year Interval 5-year Interval 5-year Interval
 PMC5750231,Nat Commun,2018,cc by,41467_2017_2481_MOESM1_ESM.pdf,.pdf,49783871,document,,False,0,,,,,,,
-PMC9083187,Int J Cancer,2022,cc by,IJC-150-2072-s001.pdf,.pdf,371283,dataset_medium,mixed,False,1,881,8,0.38,0.03,0,True,Gene Category Hallmark Gene Ontology Biological Processes
+PMC9083187,Int J Cancer,2022,cc by,IJC-150-2072-s001.pdf,.pdf,371283,dataset_medium,mixed,False,1,794,8,0.4,0.0,0,True,ProbeID Gene t-statistics Ultralow expression P-value FDR Sensitivity Hallmark Gene Category
 PMC8492335,JCI Insight,2021,cc by,jciinsight-6-150532-s239.pdf,.pdf,2711387,document,,False,0,,,,,,,
 PMC8492335,JCI Insight,2021,cc by,jciinsight-6-150532-s240.pdf,.pdf,123638,document,,False,0,,,,,,,
 PMC7103487,Oncogene,2020,,NIHMS1552032-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
@@ -689,10 +675,10 @@ treatment
 PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s013.pdf,.pdf,29588,document,,False,0,,,,,,,
 PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s007.pdf,.pdf,215050,document,,False,0,,,,,,,
 PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s009.pdf,.pdf,26549,small_table,numeric,False,1,39,10,0.95,0.0,0,False, Prior treatment   Post Treatment   Metastasis  
-PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s003.pdf,.pdf,200461,small_table,numeric,False,1,37,11,1.0,0.0,0,False,13          
+PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s003.pdf,.pdf,200461,tiny_table,numeric,False,1,1,11,1.0,0.0,0,False,13          
 PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s011.pdf,.pdf,40154,small_table,numeric,False,1,38,7,0.56,0.0,0,False,ID clustPhenO clustGen clustPG GenEnt PhenEnt GenPhenEnt
 PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s006.pdf,.pdf,190242,document,,False,0,,,,,,,
-PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s004.pdf,.pdf,217537,small_table,numeric,False,1,37,8,1.0,0.0,0,False,13       
+PMC6210052,Mol Oncol,2018,cc by,MOL2-12-1838-s004.pdf,.pdf,217537,tiny_table,numeric,False,1,1,8,1.0,0.0,0,False,13       
 PMC5460115,NPJ Breast Cancer,2017,cc by,41523_2017_19_MOESM2_ESM.docx,.docx,13832,document,,False,0,,,,,,,
 PMC5460115,NPJ Breast Cancer,2017,cc by,41523_2017_19_MOESM1_ESM.docx,.docx,19472,small_table,numeric,False,1,48,15,0.77,0.17,0,False,  Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at baseline (n=78) Gene expression at base
 PMC7033104,Nat Commun,2020,cc by,41467_2020_14780_MOESM4_ESM.pdf,.pdf,160185,document,,False,0,,,,,,,
@@ -700,7 +686,7 @@ PMC7033104,Nat Commun,2020,cc by,41467_2020_14780_MOESM1_ESM.pdf,.pdf,2331953,do
 PMC7033104,Nat Commun,2020,cc by,41467_2020_14780_MOESM3_ESM.mp4,.mp4,5742945,media,,False,0,,,,,,,
 PMC7033104,Nat Commun,2020,cc by,41467_2020_14780_MOESM5_ESM.xlsx,.xlsx,10679469,dataset_large,numeric,True,36,9001,18,1.0,0.0,0,False,"Figure 2c Time, min RNA-6 alkyne, mAU RNA-6 PTXs, mAU"
 PMC7033104,Nat Commun,2020,cc by,41467_2020_14780_MOESM2_ESM.pdf,.pdf,7326,document,,False,0,,,,,,,
-PMC4823059,Oncotarget,2016,cc by,oncotarget-07-2611-s001.pdf,.pdf,3742982,dataset_medium,mixed,False,1,54,8,0.46,0.17,0,False,Parameter * Number %
+PMC4823059,Oncotarget,2016,cc by,oncotarget-07-2611-s001.pdf,.pdf,3742982,small_table,mixed,False,1,34,4,0.49,0.24,0,False,Parameter * Number %
 PMC8364654,J Cancer,2021,cc by,jcav12p5687s1.pdf,.pdf,191191,document,,False,0,,,,,,,
 PMC8408146,Sci Rep,2021,cc by,41598_2021_96709_MOESM1_ESM.pdf,.pdf,12747280,document,,False,0,,,,,,,
 PMC9536271,JCI Insight,2022,cc by,jciinsight-7-151851-s148.xls,.xls,406016,dataset_large,omics,True,1,1260,24,0.87,0.99,0,False,Table S1: Y537S-regulated genes                       

@@ -114,10 +114,10 @@ PMC4948888,PLoS One,2016,cc by,pone.0158649.s012.xls,.xls,340480,dataset_medium,
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s006.pdf,.pdf,186463,document,,False,0,,,,,,,
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s009.pdf,.pdf,27301,document,,False,0,,,,,,,
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s005.pdf,.pdf,186823,document,,False,0,,,,,,,
-PMC4948888,PLoS One,2016,cc by,pone.0158649.s011.pdf,.pdf,27553,small_table,numeric,False,1,25,11,0.77,0.0,0,False,CMP recipients          
+PMC4948888,PLoS One,2016,cc by,pone.0158649.s011.pdf,.pdf,27553,small_table,numeric,False,1,14,11,0.75,0.0,0,False, 11  ND‡ ND ND ND ND ND ND ND
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s004.pdf,.pdf,88346,document,,False,0,,,,,,,
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s008.pdf,.pdf,20592,document,,False,0,,,,,,,
-PMC4948888,PLoS One,2016,cc by,pone.0158649.s010.pdf,.pdf,43868,small_table,numeric,False,1,26,15,0.69,0.0,0,False, CMP recipients             
+PMC4948888,PLoS One,2016,cc by,pone.0158649.s010.pdf,.pdf,43868,small_table,numeric,False,1,14,15,0.7,0.0,0,False, 11  12.0 4.9 ND ND ND  E: anisocytosis  No   
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s007.pdf,.pdf,293108,document,,False,0,,,,,,,
 PMC4948888,PLoS One,2016,cc by,pone.0158649.s003.pdf,.pdf,673633,document,,False,0,,,,,,,
 PMC9935551,Blood,2022,cc by-nc-nd,BLOOD_BLD-2021-015020-mmc1.pdf,.pdf,1149886,document,,False,0,,,,,,,
@@ -131,7 +131,7 @@ PMC5215491,Leukemia,2017,,NIHMS808253-supplement-5.pptx,.pptx,0,figure_image,,Fa
 PMC6920560,Lab Invest,2020,,NIHMS1539236-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
 PMC5323144,Oncotarget,2016,cc by,oncotarget-07-65147-s001.pdf,.pdf,1694124,document,,False,0,,,,,,,
 PMC9327550,Blood Adv,2022,cc by-nc-nd,advancesADV2022007197-suppl1.pdf,.pdf,136271,document,,False,0,,,,,,,
-PMC7321988,Proc Natl Acad Sci U S A,2020,cc by-nc-nd,pnas.1916206117.sapp.pdf,.pdf,1645025,dataset_medium,numeric,False,1,126,12,0.52,0.3,0,False,mIgG+mIgG  CD3+mIgG CD3+PD1   CD3+CTLA4   CD3+TIM3  
+PMC7321988,Proc Natl Acad Sci U S A,2020,cc by-nc-nd,pnas.1916206117.sapp.pdf,.pdf,1645025,dataset_medium,numeric,False,1,53,12,0.94,0.0,0,False,mIgG+mIgG  CD3+mIgG CD3+PD1   CD3+CTLA4   CD3+TIM3  
 PMC9621143,J Clin Invest,2022,cc by,jci-132-143950-s022.pdf,.pdf,12861831,document,,False,0,,,,,,,
 PMC7120351,Genomics Inform,2020,cc by,gi-2020-18-1-e6-suppl1.pdf,.pdf,62639,document,,False,0,,,,,,,
 PMC7120351,Genomics Inform,2020,cc by,gi-2020-18-1-e6-suppl2.pdf,.pdf,48006,document,,False,0,,,,,,,
@@ -154,7 +154,7 @@ PMC6694122,Nat Commun,2019,cc by,41467_2019_11591_MOESM4_ESM.xls,.xls,82306,unre
 PMC9570078,Int J Mol Sci,2022,cc by,ijms-23-11387-s001.zip,.zip,243784,other,,False,0,,,,,,,
 PMC8982388,JNCI Cancer Spectr,2022,cc by-nc,pkac020_supplementary_data.pdf,.pdf,1145321,document,,False,0,,,,,,,
 PMC7425159,Biomark Res,2020,cc by,40364_2020_208_MOESM1_ESM.docx,.docx,4953250,dataset_medium,mixed,False,9,87,9,0.48,0.0,0,False,Characteristic Characteristic Total (N=351) Total (N=351) Discovery (N=185) Discovery (N=185) Validation (N=166) Validation (N=166) 
-PMC9006266,Blood Adv,2022,cc by-nc-nd,advancesADV2021005845-suppl1.pdf,.pdf,243491,dataset_medium,mixed,False,1,151,35,0.38,0.0,0,False,Coping Strategies QOL   Depression   Anxiety   PTSD  
+PMC9006266,Blood Adv,2022,cc by-nc-nd,advancesADV2021005845-suppl1.pdf,.pdf,243491,dataset_medium,mixed,False,1,141,35,0.35,0.0,0,False,Variable    Coefficient        SE        P-value        95% Confidence Interval      
 PMC9631572,Blood Adv,2022,cc by-nc-nd,advancesADV2021006821-suppl1.pdf,.pdf,928429,document,,False,0,,,,,,,
 PMC6082162,Nat Struct Mol Biol,2018,,NIHMS976585-supplement-3.doc,.doc,0,document,,False,0,,,,,,,
 PMC7387317,Leukemia,2020,cc by,NIHMS1608782-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
@@ -232,13 +232,7 @@ PMC10976320,Leukemia,2021,cc by,NIHMS1973698-supplement-Supplemental_material.do
 PMC9139225,Cancers (Basel),2022,cc by,cancers-14-02491-s001.zip,.zip,811250,other,,False,0,,,,,,,
 PMC6680647,Molecules,2019,cc by,molecules-24-02656-s001.pdf,.pdf,3788632,document,,False,0,,,,,,,
 PMC6883925,Cancer Drug Resist,2018,cc by,NIHMS1059614-supplement-SupplementaryTable3.pdf,.pdf,0,document,,False,0,,,,,,,
-PMC6090987,J Hematol Oncol,2018,cc by,13045_2018_641_MOESM1_ESM.pdf,.pdf,259479,dataset_medium,numeric,False,1,150,8,0.51,0.5,0,False,"SAMPLE
-ID BCR-ABL1
-translocation Stage of the
-disease Karyotype Type of
-samples WEE1 relative
-transcript level MYT1 relative
-transcript level"
+PMC6090987,J Hematol Oncol,2018,cc by,13045_2018_641_MOESM1_ESM.pdf,.pdf,259479,dataset_medium,omics,False,1,77,8,0.73,0.96,0,False,PRIMARY     Relative  
 PMC6090987,J Hematol Oncol,2018,cc by,13045_2018_641_MOESM2_ESM.pdf,.pdf,1964305,document,,False,0,,,,,,,
 PMC7596813,J Exp Med,2020,cc by-nc-sa,JEM_20191526_TableS1.docx,.docx,13706,small_table,omics,False,1,20,4,0.46,0.95,0,True,Protein Log2 fold change (mut/WT) P value Function
 PMC7596813,J Exp Med,2020,cc by-nc-sa,JEM_20191526_TableS3.docx,.docx,18048,document,,False,0,,,,,,,
@@ -316,16 +310,19 @@ PMC5965255,Neoplasia,2016,cc by-nc-nd,mmc1.pdf,.pdf,252891,document,,False,0,,,,
 PMC6486546,Nucleic Acids Res,2019,cc by,gkz127_supplemental_files.zip,.zip,4214390,other,,False,0,,,,,,,
 PMC7084745,Int J Environ Res Public Health,2020,cc by,ijerph-17-01581-s001.pdf,.pdf,372836,document,,False,0,,,,,,,
 PMC9534506,Sci Adv,2022,cc by-nc,sciadv.add3339_sm.pdf,.pdf,1176342,small_table,omics,False,1,17,3,0.63,1.0,0,False,Protein GFP Flag-LSD2
-PMC7604631,Haematologica,2020,cc by-nc,2019_Sup_242826.pdf,.pdf,56615,dataset_medium,mixed,False,1,57,29,0.42,0.0,0,False,"Study (year of publication) Reporting
-(items 1-10; max. 11
-points) External validity
-(items 11-13; max. 3
-points) Internal validity;
-bias
-(items 14-20;
-max. 7 points) Internal validity;
-confounding
-(i"
+PMC7604631,Haematologica,2020,cc by-nc,2019_Sup_242826.pdf,.pdf,56615,small_table,clinical,False,1,41,29,0.32,0.0,0,False,"Author   Treatment   Median
+age Median
+ECOG   ELN risk
+classification   Secondary
+AML (%) IDH1/2-mut
+(%) NPM1-mut
+(%)   FLT3-mut
+(%)   TP53-mut
+(%)   Median
+number of
+prior lines
+of therapy   Prior
+HM"
 PMC7604631,Haematologica,2020,cc by-nc,2019_242826-Disclosures_Contributions.pdf,.pdf,7175,document,,False,0,,,,,,,
 PMC8932663,Sci Adv,2022,cc by-nc,sciadv.abf8627_sm.pdf,.pdf,3599218,document,,False,0,,,,,,,
 PMC8932663,Sci Adv,2022,cc by-nc,sciadv.abf8627_data_files_s1_to_s6.zip,.zip,10933096,other,,False,0,,,,,,,
@@ -337,7 +334,7 @@ PMC8532198,Blood,2021,,10.1182-2020009871_Figure.ppt,.ppt,260096,figure_image,,F
 PMC8532198,Blood,2021,,blood_BLD2020009871_s2.xlsx,.xlsx,4709663,dataset_large,omics,True,2,44698,10,0.9,0.88,0,False,CD56Bright and CD56Dim molecular signatures (GSE21774)
 PMC8532198,Blood,2021,,blood_BLD2020009871_s1.pdf,.pdf,1141502,document,,False,0,,,,,,,
 PMC5394958,Haematologica,2017,cc by-nc,2016_152710-Disclosures_and_Contributions.pdf,.pdf,5866,document,,False,0,,,,,,,
-PMC5394958,Haematologica,2017,cc by-nc,2016.152710.CORTES_SUPPL.pdf,.pdf,2734662,dataset_medium,mixed,False,1,107,26,0.43,0.0,0,False, Dose of Rebastinib at Onset of Adverse Event by Protocol Dose Level (mg/dose)           
+PMC5394958,Haematologica,2017,cc by-nc,2016.152710.CORTES_SUPPL.pdf,.pdf,2734662,small_table,mixed,False,1,43,26,0.31,0.0,0,False, Table S6. Adverse Events of Special Interest by Worst Common Terminology Criteria for                        
 PMC5394958,Haematologica,2017,cc by-nc,supp_2016.152710_haematol.2016.152710.DC2.html,.html,765,other,,False,0,,,,,,,
 PMC5394958,Haematologica,2017,cc by-nc,supp_2016.152710_haematol.2016.152710.DC1.html,.html,813,other,,False,0,,,,,,,
 PMC7776347,Haematologica,2021,cc by-nc,2019_245795_BOSCH_SUPPL.pdf,.pdf,638283,document,,False,0,,,,,,,
@@ -365,7 +362,7 @@ PMC7644662,Blood Cancer J,2020,cc by,41408_2020_384_MOESM2_ESM.docx,.docx,200690
 PMC6249323,Sci Rep,2018,cc by,41598_2018_33873_MOESM1_ESM.pdf,.pdf,981600,document,,False,0,,,,,,,
 PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM4_ESM.xlsx,.xlsx,2071312,dataset_large,omics,True,8,670,1024,0.75,0.0,0,True,EntrezGene Symbol Gene_name logFC unshrunk.logFC logCPM PValue FDR
 PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM2_ESM.pdf,.pdf,853703,document,,False,0,,,,,,,
-PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM1_ESM.pdf,.pdf,18715740,dataset_medium,numeric,False,1,105,41,0.53,0.1,0,False,No. % Statistics           
+PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM1_ESM.pdf,.pdf,18715740,small_table,numeric,False,1,40,41,0.8,0.0,0,False, Supplementary Figure 3b    IL7R               CXCR4                    
 PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM5_ESM.pdf,.pdf,335054,document,,False,0,,,,,,,
 PMC7314847,Nat Commun,2020,cc by,41467_2020_16927_MOESM3_ESM.docx,.docx,16778,document,,False,0,,,,,,,
 PMC5792275,Haematologica,2018,cc by-nc,supp_2017.175729_haematol.2017.175729.DC1.html,.html,796,other,,False,0,,,,,,,
@@ -408,7 +405,7 @@ PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Table_S5.xls
 PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Table_S3.xlsx,.xlsx,270685,dataset_large,numeric,True,14,365,7,0.71,0.0,0,True,Motif Name Consensus P-value Log P-value q-value (Benjamini) % of Target Sequences with Motif % of Background Sequences with Motif
 PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Tables_S1_S2_S8-11.xlsx,.xlsx,212566,dataset_medium,mixed,True,6,215,94,0.05,0.0,0,False,"Supplemental Table 10: Identification and variant allele frequencies of non-synonymous exonic, splice site and UTR mutations in pretreatment/relapse paired samples"
 PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Table_S6.xlsx,.xlsx,265083,dataset_large,numeric,True,14,365,7,0.71,0.0,0,True,Motif Name Consensus P-value Log P-value q-value (Benjamini) % of Target Sequences with Motif % of Background Sequences with Motif
-PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Information.pdf,.pdf,7341319,small_table,omics,False,1,46,14,0.79,0.87,0,False,E1 E2 E3 E4 E5 E6 E7 E8 E9 E10E11E12E13           
+PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Information.pdf,.pdf,7341319,document,,False,0,,,,,,,
 PMC8092005,Genome Res,2021,cc by-nc,supp_31_5_747__index.html,.html,1370,other,,False,0,,,,,,,
 PMC8092005,Genome Res,2021,cc by-nc,supp_gr.269233.120_Supplemental_Table_S4.xlsx,.xlsx,270993,dataset_large,numeric,True,14,365,7,0.71,0.0,0,True,Motif Name Consensus P-value Log P-value q-value (Benjamini) % of Target Sequences with Motif % of Background Sequences with Motif
 PMC8719088,Haematologica,2022,cc by-nc,2021_279601_CHRISTOPHER_SUPPL.pdf,.pdf,1046315,document,,False,0,,,,,,,
@@ -421,7 +418,7 @@ PMC7693375,Cancers (Basel),2020,cc by,cancers-12-03134-s001.zip,.zip,1990001,oth
 PMC5064867,Nat Biotechnol,2016,,NIHMS809992-supplement-18.pdf,.pdf,0,document,,False,0,,,,,,,
 PMC8248901,J Clin Haematol,2021,cc by,NIHMS1716549-supplement-JCH-21-028-Appendix.zip,.zip,0,other,,False,0,,,,,,,
 PMC8119290,Bone Marrow Transplant,2021,,NIHMS1645257-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
-PMC4838884,Sci Rep,2016,cc by,srep24307-s1.pdf,.pdf,8051841,dataset_medium,numeric,False,1,719,25,0.82,0.0,0,False,0.8981 0.8960 0.8988 0.8857 0.8971 0.8873 0.0160 0.0160  0.8988 0.8981  0.8960 0.0033 0.0000 0.0013 0.0000 0.0160 0.0160  0.8873
+PMC4838884,Sci Rep,2016,cc by,srep24307-s1.pdf,.pdf,8051841,dataset_medium,numeric,False,1,238,18,0.91,0.0,0,False,0.9868 0.9915  0.9627 0.9915 0.9868 0.0001 0.0000 0.0000 0.0000   0.8981 0.8988  0.8857 0.8988 0.8981 0.0033 0.0000 0.0013 0.0000
 PMC4856559,Leukemia,2016,,NIHMS745049-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
 PMC6649800,JNCI Cancer Spectr,2018,cc by,pky069_supp.pdf,.pdf,73445,document,,False,0,,,,,,,
 PMC7647286,J Am Med Inform Assoc,2020,cc by-nc,ocaa060_supplementary_material.docx,.docx,1112253,document,,False,0,,,,,,,
@@ -482,7 +479,9 @@ PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Table_7.pdf,.p
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Table_1.xlsx,.xlsx,15686,small_table,mixed,True,1,18,3,0.0,0.25,0,False,Supplementary Table 1: sgRNA and shRNA sequences used in the manuscript.
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Figure_2.ai,.ai,11076608,figure_image,,False,0,,,,,,,
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Figure_8.ai,.ai,990423,figure_image,,False,0,,,,,,,
-PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Table_2.pdf,.pdf,190532,dataset_medium,numeric,False,1,193,9,0.69,0.0,0,False, Supplem entary table 2A:Genome-wide gene set enrichment results for Avana 19Q 4 CERES dependenc y of T-ALL vs. nonT-A LL 
+PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Table_2.pdf,.pdf,190532,dataset_medium,numeric,False,1,125,8,0.7,0.0,0,True," # Gene set enrichment for CERES dependency of T-ALL vs.
+all other nonT-ALL cell lines NES P-value FDR Size
+gene set Status"
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Figure_Legends.docx,.docx,20120,document,,False,0,,,,,,,
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Figure_7.ai,.ai,1927640,figure_image,,False,0,,,,,,,
 PMC8807390,Leukemia,2022,cc by,EMS131961-supplement-Supplementary_Figure_13.ai,.ai,961881,figure_image,,False,0,,,,,,,
@@ -557,7 +556,7 @@ PMC5066240,Genes Dev,2016,cc by-nc,supp_30.17.1971_Supplemental_Material.pdf,.pd
 PMC5066240,Genes Dev,2016,cc by-nc,supp_30.17.1971_Supplemental_Experimental_Procedures.docx,.docx,185604,document,,False,0,,,,,,,
 PMC5066240,Genes Dev,2016,cc by-nc,supp_30.17.1971_Supplemental_Table_S4.xlsx,.xlsx,148221,dataset_medium,omics,True,2,425,17,0.94,0.0,0,True,name IKDNiDMSO1/ reads IKDNiDMSO2/ reads IKDNi22hr1/ reads IKDNi22hr2/ reads IKDNi48hr/ reads IKDNi72hr1/ reads IKDNi72hr2 reads C vs. 22hr Log2 Fold Change C vs. 22hr p-value C vs. 22hr adj. p-value 
 PMC8579250,Blood Adv,2021,cc by-nc-nd,advancesADV2021005148-suppl1.pdf,.pdf,93570,document,,False,0,,,,,,,
-PMC6668401,Sci Rep,2019,cc by,41598_2019_47297_MOESM1_ESM.pdf,.pdf,3475892,document,,False,0,,,,,,,
+PMC6668401,Sci Rep,2019,cc by,41598_2019_47297_MOESM1_ESM.pdf,.pdf,3475892,small_table,mixed,False,1,21,18,0.32,0.0,0,False, Chrom   Pos   Ref   Alt   Amplicon   ClinVar 
 PMC5979452,Int J Mol Sci,2018,cc by,ijms-19-01198-s001.pdf,.pdf,32270,document,,False,0,,,,,,,
 PMC6529443,Blood Cancer J,2019,cc by,41408_2019_211_MOESM1_ESM.docx,.docx,296317,document,,False,0,,,,,,,
 PMC7520302,Cancer Med,2020,cc by,CAM4-9-6550-s001.docx,.docx,198771,small_table,mixed,False,3,16,13,0.41,0.0,0,False," Any neuropathic pain
@@ -602,7 +601,7 @@ PMC9631628,Blood Adv,2022,cc by-nc-nd,advancesADV2022007952-suppl1.pdf,.pdf,1501
 PMC9631628,Blood Adv,2022,cc by-nc-nd,advancesADV2022007952-suppl2.xlsx,.xlsx,3598101,dataset_large,omics,True,4,33540,9,0.43,0.69,0,False,Supplmental Table 6. Differential gene expression in the myeloblasts post treatment
 PMC7067886,Sci Rep,2020,cc by,41598_2020_61237_MOESM1_ESM.pdf,.pdf,169024,document,,False,0,,,,,,,
 PMC6536934,Cancer Med,2019,cc by,CAM4-8-2233-s001.docx,.docx,36926,document,,False,0,,,,,,,
-PMC6269310,Haematologica,2018,cc by-nc,2018.193086.SRUTOVA_SUPPL.pdf,.pdf,3819667,small_table,mixed,False,1,14,11,0.47,0.46,0,False,Diagnosis MYB  PU.1  MYC  miR-150  miR-155 
+PMC6269310,Haematologica,2018,cc by-nc,2018.193086.SRUTOVA_SUPPL.pdf,.pdf,3819667,tiny_table,mixed,False,1,7,11,0.41,0.5,0,False,Diagnosis MYB  PU.1  MYC  miR-150  miR-155 
 PMC6269310,Haematologica,2018,cc by-nc,2018_193086-Disclosures_and_Contributions.pdf,.pdf,7127,document,,False,0,,,,,,,
 PMC6269310,Haematologica,2018,cc by-nc,supp_2018.193086_haematol.2018.193086.DC2.html,.html,765,other,,False,0,,,,,,,
 PMC6269310,Haematologica,2018,cc by-nc,supp_2018.193086_haematol.2018.193086.DC1.html,.html,837,other,,False,0,,,,,,,
@@ -629,7 +628,7 @@ PMC8222551,Cancer Rep (Hoboken),2021,cc by-nc-nd,CNR2-4-e1335-s004.docx,.docx,31
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM7_ESM.pdf,.pdf,4034179,document,,False,0,,,,,,,
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM9_ESM.docx,.docx,44289,document,,False,0,,,,,,,
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM6_ESM.xlsx,.xlsx,24911,dataset_medium,mixed,True,5,345,3,0.0,0.31,0,False,Cell Type RNA-seq ID ChIP-seq ID
-PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM1_ESM.pdf,.pdf,32474175,small_table,mixed,False,1,23,27,0.44,0.0,0,False,           0.005.05               
+PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM1_ESM.pdf,.pdf,32474175,small_table,numeric,False,1,13,27,0.55,0.0,0,False,           0.005.05               
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM3_ESM.xlsx,.xlsx,17946,dataset_medium,omics,True,6,57,4,0.0,1.0,0,False,Cancer GSM Cancer Cell Type Normal GSM Normal Cell Type
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM2_ESM.xlsx,.xlsx,89378,dataset_medium,omics,True,1,795,11,0.19,1.0,0,False,GSM GSE Cell Type Tissue Journal PMID Contact Release Date Library Organism # Peaks
 PMC7493976,Genome Biol,2020,cc by,13059_2020_2152_MOESM5_ESM.xlsx,.xlsx,37500,tiny_table,omics,True,3,7,7,0.75,1.0,0,False,T-ALL AML BRCA CRC LUAD PRAD
@@ -679,7 +678,7 @@ PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s007.docx,.docx,12733,document,
 PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s009.docx,.docx,13296,document,,False,0,,,,,,,
 PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s006.pdf,.pdf,80610,document,,False,0,,,,,,,
 PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s008.pdf,.pdf,43859,document,,False,0,,,,,,,
-PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s010.pdf,.pdf,23656,dataset_medium,numeric,False,1,90,5,0.76,0.2,0,False,New AML    
+PMC6467779,Cancer,2019,cc by-nc-nd,CNCR-125-1470-s010.pdf,.pdf,23656,small_table,numeric,False,1,33,5,0.77,0.09,0,False,New AML    
 PMC9545983,Hematol Oncol,2022,cc by,HON-40-370-s001.docx,.docx,65620,dataset_medium,mixed,False,3,309,5,0.4,0.0,0,False,Primary system organ class AEs (n = 892) AEs (n = 892) Patients (n = 196)  Patients (n = 196) 
 PMC7271568,Haematologica,2020,cc by-nc,supp_2019.228171_haematol.2019.228171.DC1.html,.html,818,other,,False,0,,,,,,,
 PMC7271568,Haematologica,2020,cc by-nc,2019.228171.COHEN_SUPPL.pdf,.pdf,405854,tiny_table,mixed,False,1,5,6,0.31,0.25,0,False, Mayo Training O-CLL Cardiff Gemelli
@@ -689,7 +688,7 @@ PMC5332289,Bone Marrow Transplant,2017,,NIHMS814513-supplement-1.pdf,.pdf,0,docu
 PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM5_ESM.xlsx,.xlsx,337579,tiny_table,mixed,True,6,7,16384,0.0,0.0,0,False,Column1 Column2 Column3 Column4 Column5 Column6 Column7 Column8 Column9 Column10 Column11 Column12 Column13 Column14 Column15 Column16 Column17 Column18 Column19 Column20 Column21 Column22 Column23 Co
 PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM2_ESM.xlsx,.xlsx,15305,dataset_medium,omics,True,3,54,8,0.28,0.53,0,False,Genotype T2Onc Line Mouse # Tumor # CD3 CD4 CD8
 PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM3_ESM.xlsx,.xlsx,838574,dataset_large,numeric,True,2,7013,9,0.63,0.0,0,False,Address Ave % Max Read Sample ID % IRL Max % IRR Max IRL read # IRR read # Gene ID Orientation
-PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM1_ESM.pdf,.pdf,15930280,dataset_medium,numeric,False,1,92,5,0.62,0.38,0,False,M ouse GFP positive GFP Negative
+PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM1_ESM.pdf,.pdf,15930280,small_table,omics,False,1,37,5,0.72,0.97,0,False,Gene Symbol  # of tumors % of Tumors Chromosome
 PMC6445099,Sci Rep,2019,cc by,41598_2019_41805_MOESM4_ESM.xlsx,.xlsx,28342,dataset_medium,omics,True,2,75,9,0.55,0.0,0,True,Gene Symbol Chi-squared D.F. P-value Q-value # of tumors Reads per tumor Tumors with insertions UCSC link
 PMC5754357,Nat Commun,2018,cc by,41467_2017_2427_MOESM1_ESM.pdf,.pdf,4815713,document,,False,0,,,,,,,
 PMC5754357,Nat Commun,2018,cc by,41467_2017_2427_MOESM2_ESM.pdf,.pdf,747117,document,,False,0,,,,,,,
@@ -710,7 +709,7 @@ PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc6.xlsx,.xlsx,10099,small_table,omics
 PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc1.docx,.docx,13946,document,,False,0,,,,,,,
 PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc4.docx,.docx,9957801,document,,False,0,,,,,,,
 PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc7.xlsx,.xlsx,14601,dataset_medium,omics,True,1,122,6,0.0,1.0,0,False,Cluster1 Cluster2 Cluster3 Cluster4 Cluster5 Cluster6
-PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc2.pdf,.pdf,2357195,small_table,numeric,False,1,10,4,0.81,0.0,0,False,2934 1133 620 4806
+PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc2.pdf,.pdf,2357195,tiny_table,numeric,False,1,5,4,0.77,0.0,0,False,2934 1133 620 4806
 PMC8403728,EBioMedicine,2021,cc by-nc-nd,mmc3.xlsx,.xlsx,81114,small_table,omics,True,2,29,277,0.96,0.82,0,False,sample_id IGHV1-17 IGHV1-18 IGHV1-2 IGHV1-24 IGHV1-3 IGHV1-45 IGHV1-46 IGHV1-58 IGHV1-67 IGHV1-68 IGHV1-69 IGHV1-69-2 IGHV1-69D IGHV1-8 IGHV2-10 IGHV2-26 IGHV2-5 IGHV2-70 IGHV3-11 IGHV3-13 IGHV3-15 IG
 PMC8183032,Mol Cancer,2021,cc by,12943_2021_1370_MOESM1_ESM.pptx,.pptx,1435852,figure_image,,False,0,,,,,,,
 PMC8183032,Mol Cancer,2021,cc by,12943_2021_1370_MOESM2_ESM.doc,.doc,610816,document,,False,0,,,,,,,
@@ -719,8 +718,13 @@ PMC5773964,Cancer Med,2018,cc by,CAM4-7-3-s001.docx,.docx,40473,document,,False,
 PMC4703539,Leukemia,2016,,NIHMS708723-supplement-1.pdf,.pdf,0,document,,False,0,,,,,,,
 PMC7513343,ACS Omega,2020,,ao0c03001_si_002.cif,.cif,2058548,other,,False,0,,,,,,,
 PMC7513343,ACS Omega,2020,,ao0c03001_si_001.pdf,.pdf,4576267,document,,False,0,,,,,,,
-PMC6612510,Leukemia,2019,,EMS81006-supplement-Supplementary_material.pdf,.pdf,4011966,dataset_medium,mixed,False,1,73,11,0.3,0.0,0,False, Target Sequence
-PMC9052896,Haematologica,2022,cc by-nc,2021_280146_GUEST_SUPPL.pdf,.pdf,386155,document,,False,0,,,,,,,
+PMC6612510,Leukemia,2019,,EMS81006-supplement-Supplementary_material.pdf,.pdf,4011966,small_table,numeric,False,1,11,11,0.55,0.0,0,False,"Patient No Material Diagnosis Sex Age
+(diagnosis) Age
+(sampling) WBC, g/L Hb, g/dL Plt, g/L Blasts (BM), % Blasts (PB), %"
+PMC9052896,Haematologica,2022,cc by-nc,2021_280146_GUEST_SUPPL.pdf,.pdf,386155,dataset_medium,mixed,False,1,61,5,0.38,0.0,0,False,"Patient Age at
+diagnosis Diagnosis WBC
+count at
+diagnosis Karyotype"
 PMC6440839,Oncogene,2019,,NIHMS1509636-supplement-1.docx,.docx,0,document,,False,0,,,,,,,
 PMC5622850,Haematologica,2017,cc by-nc,supp_2017.167726_haematol.2017.167726.DC2.html,.html,765,other,,False,0,,,,,,,
 PMC5622850,Haematologica,2017,cc by-nc,2017.167726.KANAGAL-SHAMANNA_SUPPL.pdf,.pdf,503303,document,,False,0,,,,,,,
@@ -760,7 +764,7 @@ PMC10257143,Sci Transl Med,2022,cc by,NIHMS1902477-supplement-Data_file_S1__Raw_
 PMC11022957,Blood,2022,cc by-nc-nd,mmc1_BLOOD633.pdf,.pdf,3533971,document,,False,0,,,,,,,
 PMC9701798,Cell Death Dis,2022,cc by,41419_2022_5434_MOESM3_ESM.pdf,.pdf,2008307,document,,False,0,,,,,,,
 PMC9701798,Cell Death Dis,2022,cc by,41419_2022_5434_MOESM2_ESM.pdf,.pdf,1849487,document,,False,0,,,,,,,
-PMC9701798,Cell Death Dis,2022,cc by,41419_2022_5434_MOESM1_ESM.pdf,.pdf,13424476,dataset_medium,omics,False,1,446,8,0.68,0.6,0,False,Orpha GPCRs       
+PMC9701798,Cell Death Dis,2022,cc by,41419_2022_5434_MOESM1_ESM.pdf,.pdf,13424476,dataset_medium,omics,False,1,251,5,0.79,0.98,0,False,GSE12417-GPL570    
 PMC8586352,Nat Commun,2021,cc by,41467_2021_26867_MOESM9_ESM.csv,.csv,1203685,dataset_large,numeric,True,1,6633,12,0.75,0.0,0,False,condition gene_a gene_b lfc base_lfc_a base_lfc_b guide_pairs pair_z_score_gene_a_anchor pair_z_score_gene_b_anchor pair_z_score p_value fdr_bh
 PMC8586352,Nat Commun,2021,cc by,41467_2021_26867_MOESM7_ESM.xlsx,.xlsx,399180,dataset_large,omics,True,1,12453,7,0.29,1.0,0,False,GENE_1 GUIDE_1 GENE_2 GUIDE_2 Type SGRNA_1 SGRNA_2
 PMC8586352,Nat Commun,2021,cc by,41467_2021_26867_MOESM2_ESM.pdf,.pdf,3336260,document,,False,0,,,,,,,
@@ -844,13 +848,13 @@ PMC9523374,Blood,2022,cc by-nc-nd,bloodBLD2022016033-suppl4.xlsx,.xlsx,14630840,
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl5.xlsx,.xlsx,15685935,dataset_large,omics,True,2,19125,62,0.98,1.0,0,False,Gene 100232 103342 113971 123804 146218 179016 186481 224143 237983 258135 263578 273919 303642 326772 332131 348685 400220 407992 410324 434640 478908 498463 507202 507696 570755 594368 595704 605322
 PMC9523374,Blood,2022,cc by-nc-nd,bloodBLD2022016033-suppl7.xlsx,.xlsx,832659,dataset_large,omics,True,3,2209,24,0.96,1.0,0,False,Protein TurboID only 1 TurboID only 2 TurboID only 3 TurboID only 4 TurboID only 5 TurboID only 6 TurboID only 7 TurboID only 8 TurboID only 9 TurboID only 10 TurboID only 11 NPM1-T 1 NPM1-T 2 NPM1-T 
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl8.xlsx,.xlsx,12583729,dataset_large,mixed,True,2,19516,99,0.39,0.0,0,False,Protein_phosphosite 100232 103342 113971 123804 146218 179016 186481 224143 237983 258135 263578 273919 303642 326772 332131 348685 400220 407992 410324 434640 478908 498463 507202 507696 570755 59436
-PMC9523374,Blood,2022,cc by-nc-nd,bloodBLD2022016033-suppl1.pdf,.pdf,3461514,small_table,numeric,False,1,14,3,0.86,0.0,0,False,"Time interval
+PMC9523374,Blood,2022,cc by-nc-nd,bloodBLD2022016033-suppl1.pdf,.pdf,3461514,tiny_table,numeric,False,1,7,3,0.86,0.0,0,False,"Time interval
 (min) Gradient (%B) Flow rate (nL/min)"
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl3.xlsx,.xlsx,71049,dataset_large,clinical,True,2,45,1997,0.14,0.0,0,True,UPN TCGA Patient ID Expired?  4.30.13 Sex Race/Ethnicity FAB Age %BM Blast WBC %PB Blast Cytogenetics Gene Fusions by RNA-Seq Inferred genomic rearrangement (from RNA-Seq fusion) Cytogenetic Classific
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_Figure.ppt,.ppt,913408,figure_image,,False,0,,,,,,,
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl6.xlsx,.xlsx,293644,dataset_large,omics,True,1,10126,2,0.5,1.0,0,False,Protein / Gene Spearman correlation of protein (TMT) vs mRNA abundance in AML patients
 PMC9523374,Blood,2022,cc by-nc-nd,bloodBLD2022016033-suppl3.xlsx,.xlsx,71049,dataset_large,clinical,True,2,45,1997,0.14,0.0,0,True,UPN TCGA Patient ID Expired?  4.30.13 Sex Race/Ethnicity FAB Age %BM Blast WBC %PB Blast Cytogenetics Gene Fusions by RNA-Seq Inferred genomic rearrangement (from RNA-Seq fusion) Cytogenetic Classific
-PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl1.pdf,.pdf,3461514,small_table,numeric,False,1,14,3,0.86,0.0,0,False,"Time interval
+PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl1.pdf,.pdf,3461514,tiny_table,numeric,False,1,7,3,0.86,0.0,0,False,"Time interval
 (min) Gradient (%B) Flow rate (nL/min)"
 PMC9523374,Blood,2022,cc by-nc-nd,10.1182-2022016033_bloodbld2022016033-suppl2.xlsx,.xlsx,19414,dataset_medium,omics,True,3,50,10,0.95,0.0,0,False,"UPN TCGA Number Protein Yield for Mass Spec 
 (estimated volume) Protein concentration after PPT (µg/µL) Peptide (µg)

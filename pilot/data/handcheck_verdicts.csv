@@ -1,0 +1,91 @@
+round,idx,dir,pmcid,file,machine_class,verdict,content_note,rater,blind
+1,1,data,PMC6249307,41467_2018_7334_MOESM5_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,2,data,PMC6478916,42003_2019_369_MOESM7_ESM.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,3,data,PMC5133638,ncomms13177-s4.xls,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,4,data,PMC5133638,ncomms13177-s7.xls,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,5,data,PMC9617949,41467_2022_34175_MOESM4_ESM.xlsx,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+1,6,data,PMC6599391,41467_2019_10912_MOESM4_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,7,data,PMC7424213,mmc3.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,8,data,PMC6260722,13059_2018_1576_MOESM3_ESM.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,9,data,PMC8136167,13073_2021_906_MOESM4_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,10,data,PMC6441047,41419_2019_1387_MOESM1_ESM.docx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,11,data,PMC9617949,41467_2022_34175_MOESM5_ESM.xlsx,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+1,12,data,PMC8452737,41467_2021_25744_MOESM4_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,13,data,PMC9676504,JEV2-11-12278-s004.xlsx,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+1,14,data,PMC6904446,41598_2019_54286_MOESM2_ESM.pdf,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,15,data,PMC6742368,pone.0222435.s002.txt,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,16,data,PMC8452737,41467_2021_25744_MOESM6_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,17,data,PMC8500868,401_2021_2354_MOESM7_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,18,data,PMC5882303,oncotarget-09-15860-s003.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,19,data,PMC5882303,oncotarget-09-15860-s002.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,20,data,PMC7083893,41467_2020_15129_MOESM4_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,21,data,PMC6063898,41467_2018_5373_MOESM4_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,22,data,PMC6843001,Table_2.XLSX,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,23,data,PMC5630302,oncotarget-08-64932-s002.docx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,24,data,PMC9676504,JEV2-11-12278-s003.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,25,data,PMC6193287,40478_2018_613_MOESM2_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,26,data,PMC6294341,41467_2018_7659_MOESM4_ESM.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+1,27,data,PMC9617949,41467_2022_34175_MOESM13_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,28,data,PMC7744081,abc0221_Table_S1.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+1,29,data,PMC5384647,NIHMS740731-supplement-supp_tables1-4.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+1,30,data,PMC5140055,pmed.1002192.s006.xlsx,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+1,31,data,PMC5454541,ncomms15322-s1.pdf,tiny_table,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,32,data,PMC5078085,oncotarget-07-33192-s001.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,33,data,PMC9365362,ccr-21-3324_supplemental_figure_6_supp6.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,34,data,PMC5537714,NIHMS886924-supplement-Suppl__1.pdf,document,unreadable,pdf,"single rater (assistant), saw machine fields",no
+1,35,data,PMC5454541,ncomms15322-s4.pdf,document,correct_reject,peer review,"single rater (assistant), saw machine fields",no
+1,36,data,PMC5311075,NIHMS798271-supplement-1.docx,document,correct_reject,methods docx,"single rater (assistant), saw machine fields",no
+1,37,data,PMC5799201,41598_2018_20844_MOESM1_ESM.pdf,document,missed_small_table,17-row genetics table,"single rater (assistant), saw machine fields",no
+1,38,data,PMC7005303,41598_2020_58919_MOESM1_ESM.docx,document,correct_reject,methods docx,"single rater (assistant), saw machine fields",no
+1,39,data,PMC8753448,jitc-2021-003368supp003.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,40,data,PMC6197705,mmc1.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,41,data,PMC7471621,mmc1.pdf,document,correct_reject,supplemental text,"single rater (assistant), saw machine fields",no
+1,42,data,PMC6925027,oncotarget-10-7080-s001.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+1,43,data,PMC5342491,oncotarget-07-69466-s001.pdf,document,correct_reject,tiny table,"single rater (assistant), saw machine fields",no
+1,44,data,PMC7083893,41467_2020_15129_MOESM3_ESM.pdf,document,correct_reject,reporting summary,"single rater (assistant), saw machine fields",no
+1,45,data,PMC6128481,pone.0203290.s005.xlsx,small_table,correct_reject,small table,"single rater (assistant), saw machine fields",no
+2,1,data_breast_cancer,PMC7668614,pone.0242384.s083.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,2,data_breast_cancer,PMC7846553,41598_2021_81704_MOESM1_ESM.docx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,3,data_breast_cancer,PMC5762501,oncotarget-08-112170-s002.csv,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+2,4,data_breast_cancer,PMC7668614,pone.0242384.s077.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,5,data_breast_cancer,PMC8449801,CPT-110-1038-s004.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,6,data_breast_cancer,PMC5731933,oncotarget-08-102033-s004.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,7,data_breast_cancer,PMC7668614,pone.0242384.s080.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,8,data_breast_cancer,PMC8886672,Table_11.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,9,data_breast_cancer,PMC6378979,supp_RA118.004364_138692_2_supp_241300_pdv3yd.xlsx,dataset_medium,yes_weak,reagent list,"single rater (assistant), saw machine fields",no
+2,10,data_breast_cancer,PMC7668614,pone.0242384.s074.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,11,data_breast_cancer,PMC8627106,13058_2021_1489_MOESM1_ESM.docx,document,correct_reject,methods docx,"single rater (assistant), saw machine fields",no
+2,12,data_breast_cancer,PMC5493289,pmed.1002335.s008.docx,document,correct_reject,methods docx,"single rater (assistant), saw machine fields",no
+2,13,data_breast_cancer,PMC9837615,NIHMS1859702-supplement-1.pdf,document,unreadable,pdf,"single rater (assistant), saw machine fields",no
+2,14,data_breast_cancer,PMC7071774,13058_2020_1262_MOESM1_ESM.pdf,document,missed_small_table,1-page GEE table,"single rater (assistant), saw machine fields",no
+2,15,data_breast_cancer,PMC8051801,pone.0250057.s005.doc,document,unreadable,doc,"single rater (assistant), saw machine fields",no
+2,16,data_colorectal_cancer,PMC8076175,41416_2020_1210_MOESM1_ESM.docx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,17,data_colorectal_cancer,PMC8907344,41598_2022_6793_MOESM3_ESM.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,18,data_colorectal_cancer,PMC4820809,ncomms10994-s2.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,19,data_colorectal_cancer,PMC5499209,ncomms15107-s11.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,20,data_colorectal_cancer,PMC9684078,41586_2022_5311_MOESM17_ESM.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,21,data_colorectal_cancer,PMC9684078,41586_2022_5311_MOESM9_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,22,data_colorectal_cancer,PMC5499209,ncomms15107-s6.xlsx,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,23,data_colorectal_cancer,PMC9560553,ppat.1010894.s001.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,24,data_colorectal_cancer,PMC9684078,41586_2022_5311_MOESM10_ESM.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,25,data_colorectal_cancer,PMC4866771,pone.0153784.s009.csv,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,26,data_colorectal_cancer,PMC5519024,pone.0179979.s003.pdf,document,missed_small_table,GO list as text,"single rater (assistant), saw machine fields",no
+2,27,data_colorectal_cancer,PMC8789617,CNR2-5-e1423-s006.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+2,28,data_colorectal_cancer,PMC9523497,jamanetwopen-e2234194-s001.pdf,document,borderline,17-row regression tables,"single rater (assistant), saw machine fields",no
+2,29,data_colorectal_cancer,PMC8654799,mmc4.pdf,document,correct_reject,figure,"single rater (assistant), saw machine fields",no
+2,30,data_colorectal_cancer,PMC8812899,pmed.1003897.s023.docx,small_table,correct_reject,small table,"single rater (assistant), saw machine fields",no
+2,31,data_leukemia,PMC8532198,blood_BLD2020009871_s2.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,32,data_leukemia,PMC5663521,oncotarget-08-83354-s006.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,33,data_leukemia,PMC7604631,2019_Sup_242826.pdf,dataset_medium,yes_weak,quality-assessment table in pdf,"single rater (assistant), saw machine fields",no
+2,34,data_leukemia,PMC7886901,41467_2021_21357_MOESM5_ESM.xls,dataset_large,yes,derived,"single rater (assistant), saw machine fields",no
+2,35,data_leukemia,PMC7321988,pnas.1916206117.sapp.pdf,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,36,data_leukemia,PMC8532198,10.1182-2020009871_blood_bld2020009871_s2.xlsx,dataset_large,yes,primary (duplicate of #31),"single rater (assistant), saw machine fields",no
+2,37,data_leukemia,PMC9523374,10.1182-2022016033_bloodbld2022016033-suppl8.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,38,data_leukemia,PMC9051098,42003_2022_3340_MOESM8_ESM.xlsx,dataset_medium,yes,derived,"single rater (assistant), saw machine fields",no
+2,39,data_leukemia,PMC9523374,10.1182-2022016033_bloodbld2022016033-suppl7.xlsx,dataset_large,yes,primary,"single rater (assistant), saw machine fields",no
+2,40,data_leukemia,PMC4948888,pone.0158649.s012.xls,dataset_medium,yes,primary,"single rater (assistant), saw machine fields",no
+2,41,data_leukemia,PMC9327550,advancesADV2022007197-suppl1.pdf,document,correct_reject,small demographics table,"single rater (assistant), saw machine fields",no
+2,42,data_leukemia,PMC4846597,NIHMS724510-supplement-3.xlsx,empty_or_text,correct_reject,empty xlsx,"single rater (assistant), saw machine fields",no
+2,43,data_leukemia,PMC7956145,41408_2021_436_MOESM1_ESM.docx,document,correct_reject,methods docx,"single rater (assistant), saw machine fields",no
+2,44,data_leukemia,PMC4948888,pone.0158649.s008.pdf,document,correct_reject,small table,"single rater (assistant), saw machine fields",no
+2,45,data_leukemia,PMC4924788,pcbi.1004890.s009.pdf,document,correct_reject,garbled pdf,"single rater (assistant), saw machine fields",no

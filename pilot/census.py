@@ -47,11 +47,15 @@ MEDIA=re.compile(r'<(?:media|graphic|inline-supplementary-material)\b[^>]*?xlink
 MIME=re.compile(r'mimetype="([^"]*)"(?:\s+mime-subtype="([^"]*)")?')
 def parse(xml):
     files=[]
-    for block in HREF.findall(xml):
-        for m in re.finditer(r'<(?:media|graphic|inline-supplementary-material)\b([^>]*)>',block):
+    # v2 (2026-09-23): scan every <media>/<inline-supplementary-material> in the article, not only those wrapped in
+    # <supplementary-material>. Nature Communications "Source Data" and BMC "Additional files" use bare <media> in a <sec>.
+    body=re.sub(r'(?is)<ref-list>.*?</ref-list>','',xml)
+    for block in [body]:
+        for m in re.finditer(r'<(?:media|inline-supplementary-material)\b([^>]*)>',block):
             attrs=m.group(1); h=re.search(r'xlink:href="([^"]+)"',attrs)
             if not h: continue
             fn=h.group(1); ext=os.path.splitext(fn.lower())[1].lstrip(".")
+            if ext in ("jpg","jpeg","gif","png") and "supplement" not in block[max(0,m.start()-300):m.start()].lower(): continue  # inline figure images
             mm=MIME.search(attrs); mime=(mm.group(1)+"/"+(mm.group(2) or "")).strip("/") if mm else ""
             tail=block[m.end():m.end()+1500]
             sz=re.search(r'<\?size (\d+)\?>',tail); cap=re.search(r'<caption>(.*?)</caption>',tail,re.S)
@@ -80,6 +84,22 @@ def cmd_scan(a):
     with cf.ThreadPoolExecutor(a.workers) as ex: list(ex.map(one,todo))
     fh.close(); print("scan complete",flush=True)
 
+def cmd_rescan(a):
+    import concurrent.futures as cf, threading
+    ids=json.load(open(a.ids)); outp=a.out; done=set()
+    if os.path.exists(outp):
+        for line in open(outp): done.add(json.loads(line)["pmcid"])
+    todo=[p for p in ids if p["pmcid"] not in done]; print(f"{len(done)} done, {len(todo)} to rescan",flush=True)
+    lock=threading.Lock(); n=[0]; fh=open(outp,"a")
+    def one(p):
+        t,e=get(f"{EPMC}/{p['pmcid']}/fullTextXML")
+        rec={"pmcid":p["pmcid"],"year":p.get("pubYear"),"journal":p.get("journalTitle"),"err":e,"files":parse(t) if t else []}
+        with lock:
+            fh.write(json.dumps(rec)+"\n"); n[0]+=1
+            if n[0]%50==0: fh.flush(); print(f"{n[0]}/{len(todo)}",flush=True)
+    with cf.ThreadPoolExecutor(a.workers) as ex: list(ex.map(one,todo))
+    fh.close(); print("rescan complete",flush=True)
+
 def cmd_report(a):
     R=[json.loads(l) for l in open(os.path.join(DATA,"census_files.jsonl"))]
     n=len(R); ok=[r for r in R if not r["err"]]; withfiles=[r for r in ok if r["files"]]
@@ -97,5 +117,5 @@ def cmd_report(a):
 
 if __name__=="__main__":
     ap=argparse.ArgumentParser(); s=ap.add_subparsers(dest="c",required=True)
-    s.add_parser("ids").set_defaults(fn=cmd_ids); x=s.add_parser("scan"); x.add_argument("--workers",type=int,default=8); x.set_defaults(fn=cmd_scan); s.add_parser("report").set_defaults(fn=cmd_report)
+    s.add_parser("ids").set_defaults(fn=cmd_ids); x=s.add_parser("scan"); x.add_argument("--workers",type=int,default=8); x.set_defaults(fn=cmd_scan); s.add_parser("report").set_defaults(fn=cmd_report); r=s.add_parser("rescan"); r.add_argument("--ids",required=True); r.add_argument("--out",required=True); r.add_argument("--workers",type=int,default=6); r.set_defaults(fn=cmd_rescan)
     a=ap.parse_args(); a.fn(a)

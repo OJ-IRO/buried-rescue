@@ -9,7 +9,7 @@ PMC8183210,J Immunother Cancer,2021,cc by,ok,11,0,0,0,11,no_tabular_data,,Deep i
 PMC5708878,NPJ Precis Oncol,2017,cc by,ok,1,0,1,0,0,small_table,,Early changes in glioblastoma metabolism measured by MR spectroscopic imaging during combination of anti-angiogenic cediranib and chemoradiation therapy are associated with survival.
 PMC7516378,Mol Syst Biol,2020,cc by,ok,5,2,0,0,3,dataset_medium,omics,Integrated regulatory models for inference of subtype-specific susceptibilities in glioblastoma.
 PMC8455367,Mol Ther Oncolytics,2021,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,MicroRNA-detargeting proves more effective than <i>leader</i> gene deletion for improving safety of oncolytic Mengovirus in a nude mouse model.
-PMC7705378,Front Oncol,2020,cc by,ok,1,0,1,0,0,small_table,,Assessment of Prognostic Value of Cystic Features in Glioblastoma Relative to Sex and Treatment With Standard-of-Care.
+PMC7705378,Front Oncol,2020,cc by,ok,1,0,0,0,0,tables_only,,Assessment of Prognostic Value of Cystic Features in Glioblastoma Relative to Sex and Treatment With Standard-of-Care.
 PMC8938495,Nat Commun,2022,cc by,ok,4,0,0,0,3,no_tabular_data,,Fatty acid oxidation fuels glioblastoma radioresistance with CD47-mediated immune evasion.
 PMC9415780,Metabolites,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Effect of Expression of Nuclear-Encoded Cytochrome C Oxidase Subunit 4 Isoforms on Metabolic Profiles of Glioma Cells.
 PMC6938467,J Neurooncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,"A Phase Ib/II, open-label, multicenter study of INC280 (capmatinib) alone and in combination with buparlisib (BKM120) in adult patients with recurrent glioblastoma."
@@ -92,7 +92,7 @@ PMC6925027,Oncotarget,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,EGFR806-CAR T cel
 PMC6066211,PLoS One,2018,cc0,ok,4,0,0,0,3,no_tabular_data,,Bayesian variable selection with graphical structure learning: Applications in integrative genomics.
 PMC8566473,Nat Commun,2021,cc by,ok,6,1,1,0,3,dataset_large,numeric,Competitive binding of E3 ligases TRIM26 and WWP2 controls SOX2 in glioblastoma.
 PMC4763994,PLoS One,2016,cc by,ok,2,0,0,1,1,no_tabular_data,,Comparative Analysis of Technologies for Quantifying Extracellular Vesicles (EVs) in Clinical Cerebrospinal Fluids (CSF).
-PMC6531306,Theranostics,2019,cc by-nc,ok,1,1,0,0,0,dataset_medium,omics,Inhibition of protein disulfide isomerase in glioblastoma causes marked downregulation of DNA repair and DNA damage response genes.
+PMC6531306,Theranostics,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Inhibition of protein disulfide isomerase in glioblastoma causes marked downregulation of DNA repair and DNA damage response genes.
 PMC6979491,Neurooncol Adv,2020,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,MCT4 regulates de novo pyrimidine biosynthesis in GBM in a lactate-independent manner.
 PMC9676504,J Extracell Vesicles,2022,cc by-nc,ok,6,4,0,0,2,dataset_large,mixed;omics,Glioblastoma-derived extracellular vesicle subpopulations following 5-aminolevulinic acid treatment bear diagnostic implications.
 PMC8186561,Radiother Oncol,2021,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Intravoxel incoherent motion (IVIM) modeling of diffusion MRI during chemoradiation predicts therapeutic response in IDH wildtype glioblastoma.
@@ -100,7 +100,7 @@ PMC5374737,BMC Med Genomics,2017,cc by,ok,15,1,2,11,1,dataset_large,omics,Reveal
 PMC7239929,Sci Rep,2020,cc by,ok,2,0,0,0,1,tables_only,,IRE1α and IGF signaling predict resistance to an endoplasmic reticulum stress-inducing drug in glioblastoma cells.
 PMC8753448,J Immunother Cancer,2022,cc by-nc,ok,8,0,0,0,8,no_tabular_data,,Systemic high-dose dexamethasone treatment may modulate the efficacy of intratumoral viral oncolytic immunotherapy in glioblastoma models.
 PMC7281415,Cancers (Basel),2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Novel Gene Fusions in Glioblastoma Tumor Tissue and Matched Patient Plasma.
-PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,ok,2,0,1,0,0,small_table,,A predictive microfluidic model of human glioblastoma to assess trafficking of blood-brain barrier-penetrant nanoparticles.
+PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,ok,2,0,0,0,0,tables_only,,A predictive microfluidic model of human glioblastoma to assess trafficking of blood-brain barrier-penetrant nanoparticles.
 PMC9743090,J Med Chem,2022,cc by,ok,2,0,0,0,1,no_tabular_data,,Induction of Ferroptosis in Glioblastoma and Ovarian Cancers by a New Pyrrole Tubulin Assembly Inhibitor.
 PMC7408354,Cells,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeted Brain Tumor Therapy by Inhibiting the MDM2 Oncogene: In Vitro and In Vivo Antitumor Activity and Mechanism of Action.
 PMC7464568,Antioxidants (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Oxidative Stress-Part of the Solution or Part of the Problem in the Hypoxic Environment of a Brain Tumor.
@@ -243,7 +243,7 @@ PMC6521049,Cancers (Basel),2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Proteomic An
 PMC5668041,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,"A phase 2 study of the first imipridone ONC201, a selective DRD2 antagonist for oncology, administered every three weeks in recurrent glioblastoma."
 PMC5241103,Tomography,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Simulating the Effect of Spectroscopic MRI as a Metric for Radiation Therapy Planning in Patients with Glioblastoma.
 PMC6881905,Neurooncol Adv,2019,cc by-nc,ok,2,0,0,1,1,no_tabular_data,,Rapid and ultrasensitive digital PCR (dPCR) profiling of EGFRvIII in tumor cells and tissues.
-PMC7831112,Mar Drugs,2021,cc by,ok,1,1,0,0,0,dataset_medium,omics,"Topsentinol L Trisulfate, a Marine Natural Product That Targets Basal-like and Claudin-Low Breast Cancers."
+PMC7831112,Mar Drugs,2021,cc by,ok,1,1,0,0,0,dataset_medium,numeric,"Topsentinol L Trisulfate, a Marine Natural Product That Targets Basal-like and Claudin-Low Breast Cancers."
 PMC5612804,Transl Oncol,2017,cc by-nc-nd,ok,1,0,1,0,0,small_table,,"Characterization of Metabolic, Diffusion, and Perfusion Properties in GBM: Contrast-Enhancing versus Non-Enhancing Tumor."
 PMC9360428,NPJ Precis Oncol,2022,cc by,ok,3,1,0,0,2,dataset_large,omics,A single-cell based precision medicine approach using glioblastoma patient-specific models.
 PMC6843001,Front Oncol,2019,cc by,ok,2,1,1,0,0,dataset_medium,omics,Tissues Harvested Using an Automated Surgical Approach Confirm Molecular Heterogeneity of Glioblastoma and Enhance Specimen's Translational Research Value.
@@ -295,7 +295,7 @@ PMC5361089,Sci Rep,2017,,ok,1,0,0,0,1,no_tabular_data,,Metabolic Profiling of ID
 PMC7229248,Neuro Oncol,2020,,empty,0,0,0,0,0,no_supp_retrieved,,A randomized controlled phase III study of VB-111 combined with bevacizumab vs bevacizumab monotherapy in patients with recurrent glioblastoma (GLOBE).
 PMC5458248,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,"The novel long non-coding RNA TALNEC2, regulates tumor cell growth and the stemness and radiation response of glioma stem cells."
 PMC5889290,Oncoimmunology,2018,,ok,4,2,0,0,1,dataset_large,mixed;omics,Glioblastoma stem cell-derived exosomes induce M2 macrophages and PD-L1 expression on human monocytes.
-PMC7806473,Theranostics,2021,,ok,4,0,1,0,0,small_table,,Structurally symmetric near-infrared fluorophore IRDye78-protein complex enables multimodal cancer imaging.
+PMC7806473,Theranostics,2021,,ok,4,0,0,0,1,no_tabular_data,,Structurally symmetric near-infrared fluorophore IRDye78-protein complex enables multimodal cancer imaging.
 PMC5355046,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,Analysis of the inhibitors of apoptosis identifies BIRC3 as a facilitator of malignant progression in glioma.
 PMC9142563,iScience,2022,,ok,1,0,0,0,1,no_tabular_data,,Agent-based computational modeling of glioblastoma predicts that stromal density is central to oncolytic virus efficacy.
 PMC5454541,Nat Commun,2017,,ok,4,0,1,0,1,small_table,,Surface chemistry governs cellular tropism of nanoparticles in the brain.
