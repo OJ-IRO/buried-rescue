@@ -1,0 +1,143 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (41467_2018_7334_MOESM5_ESM.xlsx) from: Integrated mapping of pharmacokinetics and pharmacodynamics in a patient-derived xenograft model of glioblastoma"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Randall EC"
+  },
+  {
+   "name": "Emdal KB"
+  },
+  {
+   "name": "Laramy JK"
+  },
+  {
+   "name": "Kim M"
+  },
+  {
+   "name": "Roos A"
+  },
+  {
+   "name": "Calligaris D"
+  },
+  {
+   "name": "Regan MS"
+  },
+  {
+   "name": "Gupta SK"
+  },
+  {
+   "name": "Mladek AC"
+  },
+  {
+   "name": "Carlson BL"
+  },
+  {
+   "name": "Johnson AJ"
+  },
+  {
+   "name": "Lu FK"
+  },
+  {
+   "name": "Xie XS"
+  },
+  {
+   "name": "Joughin BA"
+  },
+  {
+   "name": "Reddy RJ"
+  },
+  {
+   "name": "Peng S"
+  },
+  {
+   "name": "Abdelmoula WM"
+  },
+  {
+   "name": "Jackson PR"
+  },
+  {
+   "name": "Kolluri A"
+  },
+  {
+   "name": "Kellersberger KA"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2018",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/s41467-018-07334-3",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC6249307",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 5003 rows x 18 columns. Content type (heuristic): numeric. Sheets: Sheet1"
+  }
+ ],
+ "sizes": [
+  "1017 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "41467_2018_7334_MOESM5_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "Sheet1",
+    "first_cells": [
+     "Ensembl_ID",
+     "GeneSymbol",
+     "P_0005",
+     "P_0006",
+     "P_0007",
+     "P_0008",
+     "U_0010",
+     "U_0011",
+     "U_0012",
+     "U_0013",
+     "L_0014",
+     "L_0015"
+    ]
+   }
+  ]
+ }
+}

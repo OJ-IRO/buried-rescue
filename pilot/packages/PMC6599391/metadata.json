@@ -1,0 +1,266 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (41467_2019_10912_MOESM4_ESM.xlsx) from: A high-throughput screening and computation platform for identifying synthetic promoters with enhanced cell-state specificity (SPECS)"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Wu MR"
+  },
+  {
+   "name": "Nissim L"
+  },
+  {
+   "name": "Stupp D"
+  },
+  {
+   "name": "Pery E"
+  },
+  {
+   "name": "Binder-Nissim A"
+  },
+  {
+   "name": "Weisinger K"
+  },
+  {
+   "name": "Enghuus C"
+  },
+  {
+   "name": "Palacios SR"
+  },
+  {
+   "name": "Humphrey M"
+  },
+  {
+   "name": "Zhang Z"
+  },
+  {
+   "name": "Maria Novoa E"
+  },
+  {
+   "name": "Kellis M"
+  },
+  {
+   "name": "Weiss R"
+  },
+  {
+   "name": "Rabkin SD"
+  },
+  {
+   "name": "Tabach Y"
+  },
+  {
+   "name": "Lu TK"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2019",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/s41467-019-10912-8",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC6599391",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 118273 rows x 15 columns. Content type (heuristic): numeric. Sheets: Library TF annotation; Fig 2a; Fig 2c; Fig 3 count table; Fig 3a; Fig 4 count table; Fig 4; Fig S1; Table S1"
+  }
+ ],
+ "sizes": [
+  "13510 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "41467_2019_10912_MOESM4_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "Library TF annotation",
+    "first_cells": [
+     "ID",
+     "TF",
+     "Species",
+     "consensus",
+     "HESX1_pTH6156_PBM",
+     "AANF",
+     "Acipenser_baerii",
+     "CTAATTAA",
+     "HESX1_pTH6156_PBM",
+     "AANF",
+     "Acipenser_baerii",
+     "TTAATTAG"
+    ]
+   },
+   {
+    "sheet": "Fig 2a",
+    "first_cells": [
+     "bin",
+     "counts",
+     "day",
+     "mean_fluorescence",
+     "pixels",
+     "promoter",
+     "replicate",
+     "total_fluorescence",
+     "plate",
+     "avg_counts",
+     "sum_counts",
+     "sum_avg_counts"
+    ]
+   },
+   {
+    "sheet": "Fig 2c",
+    "first_cells": [
+     "bin",
+     "counts",
+     "day",
+     "mean_fluorescence",
+     "pixels",
+     "promoter",
+     "replicate",
+     "total_fluorescence",
+     "avg_counts",
+     "sum_counts",
+     "sum_avg_counts",
+     "prob_distrib"
+    ]
+   },
+   {
+    "sheet": "Fig 3 count table",
+    "first_cells": [
+     "MDA-453",
+     "MCF-10A",
+     "1A",
+     "1B",
+     "2A",
+     "2B",
+     "1A",
+     "1B",
+     "2A",
+     "2B",
+     "TFBS",
+     "neg"
+    ]
+   },
+   {
+    "sheet": "Fig 3a",
+    "first_cells": [
+     "Median Fluoresence",
+     "Class",
+     "TF Name",
+     "Cell Line",
+     "1st Replicate",
+     "2nd Replicate",
+     "3rd Replicate",
+     "10A Spec.",
+     "RELA v3",
+     "MCF_10A",
+     "67100",
+     "19500"
+    ]
+   },
+   {
+    "sheet": "Fig 4 count table",
+    "first_cells": [
+     "ScGC",
+     "GSC",
+     "1B",
+     "2A",
+     "2B",
+     "1A",
+     "1B",
+     "2A",
+     "2B",
+     "TFBS",
+     "Unsort",
+     "Neg"
+    ]
+   },
+   {
+    "sheet": "Fig 4",
+    "first_cells": [
+     "Median Fluoresence",
+     "Class",
+     "TF Name",
+     "Cell Line",
+     "1st Replicate",
+     "2nd Replicate",
+     "3rd Replicate",
+     "Control",
+     "Neg. Control",
+     "ScGC",
+     "58.3",
+     "64.9"
+    ]
+   },
+   {
+    "sheet": "Fig S1",
+    "first_cells": [
+     "Median Fluoresence",
+     "TF Name",
+     "Cell Line",
+     "1st Replicate",
+     "2nd Replicate",
+     "3rd Replicate",
+     "BCL v1",
+     "MDA_453",
+     "2915",
+     "3530",
+     "3491"
+    ]
+   },
+   {
+    "sheet": "Table S1",
+    "first_cells": [
+     "Predicted",
+     "Meassured ",
+     "Fold",
+     "Class",
+     "TFBS",
+     "MDA-453",
+     "MCF-10A",
+     "MDA-453",
+     "MCF-10A",
+     "MDA-453",
+     "MCF-10A",
+     "10A Spec."
+    ]
+   }
+  ]
+ }
+}

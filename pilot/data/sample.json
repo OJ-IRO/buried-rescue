@@ -1,0 +1,3008 @@
+{
+ "cancer": "glioblastoma",
+ "query": "GRANT_AGENCY:\"NCI NIH HHS\" AND PUB_YEAR:[2016 TO 2022] AND OPEN_ACCESS:y AND HAS_SUPPL:Y AND NOT (ACCESSION_TYPE:gen OR ACCESSION_TYPE:sra OR ACCESSION_TYPE:dbgap OR ACCESSION_TYPE:ega OR ACCESSION_TYPE:arrayexpress OR ACCESSION_TYPE:pride OR ACCESSION_TYPE:bioproject OR ACCESSION_TYPE:metabolights OR ACCESSION_TYPE:pdb) AND (TITLE:\"glioblastoma\" OR ABSTRACT:\"glioblastoma\")",
+ "population": 630,
+ "seed": 20260922,
+ "papers": [
+  {
+   "pmcid": "PMC6294341",
+   "pmid": "30552330",
+   "doi": "10.1038/s41467-018-07659-z",
+   "title": "Drug and disease signature integration identifies synergistic combinations in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Stathias V, Jermakowicz AM, Maloof ME, Forlin M, Walters W, Suter RK, Durante MA, Williams SL, Harbour JW, Volmar CH, Lyons NJ, Wahlestedt C, Graham RM, Ivan ME, Komotar RJ, Sarkaria JN, Subramanian A, Golub TR, Sch\u00fcrer SC, Ayad NG."
+  },
+  {
+   "pmcid": "PMC6303422",
+   "pmid": "29982805",
+   "doi": "10.1093/neuonc/noy091",
+   "title": "Safety and efficacy of depatuxizumab mafodotin + temozolomide in patients with EGFR-amplified, recurrent glioblastoma: results from an international phase I multicenter trial.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Lassman AB, van den Bent MJ, Gan HK, Reardon DA, Kumthekar P, Butowski N, Lwin Z, Mikkelsen T, Nabors LB, Papadopoulos KP, Penas-Prado M, Simes J, Wheeler H, Walbert T, Scott AM, Gomez E, Lee HJ, Roberts-Rapp L, Xiong H, Ansell PJ, Bain E, Holen KD, Maag D, Merrell R."
+  },
+  {
+   "pmcid": "PMC5537714",
+   "pmid": "28500786",
+   "doi": "10.1002/1878-0261.12076",
+   "title": "Dovitinib enhances temozolomide efficacy in glioblastoma cells.",
+   "journalTitle": "Mol Oncol",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Thanasupawat T, Natarajan S, Rommel A, Glogowska A, Bergen H, Krcek J, Pitz M, Beiko J, Krawitz S, Verma IM, Ghavami S, Klonisch T, Hombach-Klonisch S."
+  },
+  {
+   "pmcid": "PMC8694557",
+   "pmid": "34957471",
+   "doi": "10.1158/2767-9764.crc-21-0026",
+   "title": "Sex- and mutation-specific p53 gain-of-function activity in gliomagenesis.",
+   "journalTitle": "Cancer Res Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Rockwell NC, Yang W, Warrington NM, Staller MV, Griffith M, Griffith OL, Gurnett CA, Cohen BA, Baldridge D, Rubin JB."
+  },
+  {
+   "pmcid": "PMC8072233",
+   "pmid": "33850013",
+   "doi": "10.1073/pnas.2017148118",
+   "title": "Brd4-bound enhancers drive cell-intrinsic sex differences in glioblastoma.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Kfoury N, Qi Z, Prager BC, Wilkinson MN, Broestl L, Berrett KC, Moudgil A, Sankararaman S, Chen X, Gertz J, Rich JN, Mitra RD, Rubin JB."
+  },
+  {
+   "pmcid": "PMC5589661",
+   "pmid": "28903422",
+   "doi": "10.18632/oncotarget.19429",
+   "title": "CDK4/6 inhibition is more active against the glioblastoma proneural subtype.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Li M, Xiao A, Floyd D, Olmez I, Lee J, Godlewski J, Bronisz A, Bhat KPL, Sulman EP, Nakano I, Purow B."
+  },
+  {
+   "pmcid": "PMC8183210",
+   "pmid": "34083417",
+   "doi": "10.1136/jitc-2020-002181",
+   "title": "Deep immune profiling reveals targetable mechanisms of immune evasion in immune checkpoint inhibitor-refractory glioblastoma.",
+   "journalTitle": "J Immunother Cancer",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Simonds EF, Lu ED, Badillo O, Karimi S, Liu EV, Tamaki W, Rancan C, Downey KM, Stultz J, Sinha M, McHenry LK, Nasholm NM, Chuntova P, Sundstr\u00f6m A, Genoud V, Shahani SA, Wang LD, Brown CE, Walker PR, Swartling FJ, Fong L, Okada H, Weiss WA, Hellstr\u00f6m M."
+  },
+  {
+   "pmcid": "PMC5708878",
+   "pmid": "29202103",
+   "doi": "10.1038/s41698-017-0020-3",
+   "title": "Early changes in glioblastoma metabolism measured by MR spectroscopic imaging during combination of anti-angiogenic cediranib and chemoradiation therapy are associated with survival.",
+   "journalTitle": "NPJ Precis Oncol",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Andronesi OC, Esmaeili M, Borra RJH, Emblem K, Gerstner ER, Pinho MC, Plotkin SR, Chi AS, Eichler AF, Dietrich J, Ivy SP, Wen PY, Duda DG, Jain R, Rosen BR, Sorensen GA, Batchelor TT."
+  },
+  {
+   "pmcid": "PMC7516378",
+   "pmid": "32974985",
+   "doi": "10.15252/msb.20209506",
+   "title": "Integrated regulatory models for inference of subtype-specific susceptibilities in glioblastoma.",
+   "journalTitle": "Mol Syst Biol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Liu Y, Shi N, Regev A, He S, Hemann MT."
+  },
+  {
+   "pmcid": "PMC8455367",
+   "pmid": "34589580",
+   "doi": "10.1016/j.omto.2021.08.011",
+   "title": "MicroRNA-detargeting proves more effective than <i>leader</i> gene deletion for improving safety of oncolytic Mengovirus in a nude mouse model.",
+   "journalTitle": "Mol Ther Oncolytics",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Suryawanshi YR, Nace RA, Russell SJ, Schulze AJ."
+  },
+  {
+   "pmcid": "PMC7705378",
+   "pmid": "33282737",
+   "doi": "10.3389/fonc.2020.580750",
+   "title": "Assessment of Prognostic Value of Cystic Features in Glioblastoma Relative to Sex and Treatment With Standard-of-Care.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Curtin L, Whitmire P, Rickertsen CR, Mazza GL, Canoll P, Johnston SK, Mrugala MM, Swanson KR, Hu LS."
+  },
+  {
+   "pmcid": "PMC8938495",
+   "pmid": "35314680",
+   "doi": "10.1038/s41467-022-29137-3",
+   "title": "Fatty acid oxidation fuels glioblastoma radioresistance with CD47-mediated immune evasion.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Jiang N, Xie B, Xiao W, Fan M, Xu S, Duan Y, Hamsafar Y, Evans AC, Huang J, Zhou W, Lin X, Ye N, Wanggou S, Chen W, Jing D, Fragoso RC, Dugger BN, Wilson PF, Coleman MA, Xia S, Li X, Sun LQ, Monjazeb AM, Wang A, Murphy WJ, Kung HJ, Lam KS, Chen HW, Li JJ."
+  },
+  {
+   "pmcid": "PMC9415780",
+   "pmid": "36005623",
+   "doi": "10.3390/metabo12080748",
+   "title": "Effect of Expression of Nuclear-Encoded Cytochrome C Oxidase Subunit 4 Isoforms on Metabolic Profiles of Glioma Cells.",
+   "journalTitle": "Metabolites",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Oliva CR, Ali MY, Flor S, Griguer CE."
+  },
+  {
+   "pmcid": "PMC6938467",
+   "pmid": "31776899",
+   "doi": "10.1007/s11060-019-03337-2",
+   "title": "A Phase Ib/II, open-label, multicenter study of INC280 (capmatinib) alone and in combination with buparlisib (BKM120) in adult patients with recurrent glioblastoma.",
+   "journalTitle": "J Neurooncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "van den Bent M, Azaro A, De Vos F, Sepulveda J, Yung WKA, Wen PY, Lassman AB, Joerger M, Tabatabai G, Rodon J, Tiedt R, Zhao S, Kirsilae T, Cheng Y, Vicente S, Balbin OA, Zhang H, Wick W."
+  },
+  {
+   "pmcid": "PMC7680176",
+   "pmid": "33241214",
+   "doi": "10.1093/noajnl/vdaa132",
+   "title": "RNAi technology targeting the &lt;i&gt;FGFR3-TACC3&lt;/i&gt; fusion breakpoint: an opportunity for precision medicine.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Parker Kerrigan BC, Ledbetter D, Kronowitz M, Phillips L, Gumin J, Hossain A, Yang J, Mendt M, Singh S, Cogdell D, Ene C, Shpall E, Lang FF."
+  },
+  {
+   "pmcid": "PMC5858166",
+   "pmid": "29556340",
+   "doi": "10.7150/thno.22952",
+   "title": "The role of PTRF/Cavin1 as a biomarker in both glioma and serum exosomes.",
+   "journalTitle": "Theranostics",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Huang K, Fang C, Yi K, Liu X, Qi H, Tan Y, Zhou J, Li Y, Liu M, Zhang Y, Yang J, Zhang J, Li M, Kang C."
+  },
+  {
+   "pmcid": "PMC7744081",
+   "pmid": "33328224",
+   "doi": "10.1126/sciadv.abc0221",
+   "title": "The nuclear DICER-circular RNA complex drives the deregulation of the glioblastoma cell microRNAome.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Bronisz A, Rooj AK, Krawczy\u0144ski K, Peruzzi P, Sali\u0144ska E, Nakano I, Purow B, Chiocca EA, Godlewski J."
+  },
+  {
+   "pmcid": "PMC9388138",
+   "pmid": "35939683",
+   "doi": "10.1073/pnas.2112006119",
+   "title": "Engineered IL13 variants direct specificity of IL13R\u03b12-targeted CAR T cell therapy.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Stern LA, Gholamin S, Moraga I, Yang X, Saravanakumar S, Cohen JR, Starr R, Aguilar B, Salvary V, Hibbard JC, Kalbasi A, Shepphird JK, O'Hearn J, Garcia KC, Brown CE."
+  },
+  {
+   "pmcid": "PMC6399291",
+   "pmid": "30833542",
+   "doi": "10.1038/s41419-019-1452-1",
+   "title": "Cellular energy stress induces AMPK-mediated regulation of glioblastoma cell proliferation by PIKE-A phosphorylation.",
+   "journalTitle": "Cell Death Dis",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Zhang S, Sheng H, Zhang X, Qi Q, Chan CB, Li L, Shan C, Ye K."
+  },
+  {
+   "pmcid": "PMC7855796",
+   "pmid": "32989283",
+   "doi": "10.1038/s41551-020-00621-9",
+   "title": "A microfluidic cell-migration assay for the prediction of progression-free survival and recurrence time of patients with glioblastoma.",
+   "journalTitle": "Nat Biomed Eng",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Wong BS, Shah SR, Yankaskas CL, Bajpai VK, Wu PH, Chin D, Ifemembi B, ReFaey K, Schiapparelli P, Zheng X, Martin SS, Fan CM, Qui\u00f1ones-Hinojosa A, Konstantopoulos K."
+  },
+  {
+   "pmcid": "PMC8410792",
+   "pmid": "34471141",
+   "doi": "10.1038/s41467-021-25501-x",
+   "title": "Aurora kinase A inhibition reverses the Warburg effect and elicits unique metabolic vulnerabilities in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Nguyen TTT, Shang E, Shu C, Kim S, Mela A, Humala N, Mahajan A, Yang HW, Akman HO, Quinzii CM, Zhang G, Westhoff MA, Karpel-Massler G, Bruce JN, Canoll P, Siegelin MD."
+  },
+  {
+   "pmcid": "PMC6192988",
+   "pmid": "30333482",
+   "doi": "10.1038/s41467-018-06182-5",
+   "title": "Lin<sup>-</sup>CCR2<sup>+</sup> hematopoietic stem and progenitor cells overcome resistance to PD-1 blockade.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Flores CT, Wildes TJ, Drake JA, Moore GL, Dean BD, Abraham RS, Mitchell DA."
+  },
+  {
+   "pmcid": "PMC8953329",
+   "pmid": "35336029",
+   "doi": "10.3390/pharmaceutics14030655",
+   "title": "An Evaluation of CXCR4 Targeting with PAMAM Dendrimer Conjugates for Oncologic Applications.",
+   "journalTitle": "Pharmaceutics",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Lesniak WG, Azad BB, Chatterjee S, Lisok A, Pomper MG."
+  },
+  {
+   "pmcid": "PMC7549116",
+   "pmid": "33083736",
+   "doi": "10.1016/j.isci.2020.101569",
+   "title": "Lipid Droplets Maintain Energy Homeostasis and Glioblastoma Growth via Autophagic Release of Stored Fatty Acids.",
+   "journalTitle": "iScience",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Wu X, Geng F, Cheng X, Guo Q, Zhong Y, Cloughesy TF, Yong WH, Chakravarti A, Guo D."
+  },
+  {
+   "pmcid": "PMC8809358",
+   "pmid": "35112514",
+   "doi": "10.1117/1.jbo.27.2.020501",
+   "title": "First in patient assessment of brain tumor infiltrative margins using simultaneous time-resolved measurements of 5-ALA-induced PpIX fluorescence and tissue autofluorescence.",
+   "journalTitle": "J Biomed Opt",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Alfonso-Garc\u00eda A, Zhou X, Bec J, Anbunesan SN, Fereidouni F, Jin LW, Lee HS, Bloch O, Marcu L."
+  },
+  {
+   "pmcid": "PMC5753254",
+   "pmid": "30053266",
+   "doi": "10.1093/nar/gkx892",
+   "title": "TC3A: The Cancer 3' UTR Atlas.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Feng X, Li L, Wagner EJ, Li W."
+  },
+  {
+   "pmcid": "PMC6987220",
+   "pmid": "31992716",
+   "doi": "10.1038/s41467-020-14312-1",
+   "title": "Longitudinal assessment of tumor development using cancer avatars derived from genetically engineered pluripotent stem cells.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Koga T, Chaim IA, Benitez JA, Markmiller S, Parisian AD, Hevner RF, Turner KM, Hessenauer FM, D'Antonio M, Nguyen ND, Saberi S, Ma J, Miki S, Boyer AD, Ravits J, Frazer KA, Bafna V, Chen CC, Mischel PS, Yeo GW, Furnari FB."
+  },
+  {
+   "pmcid": "PMC5464843",
+   "pmid": "28380429",
+   "doi": "10.18632/oncotarget.16516",
+   "title": "Ccl5 establishes an autocrine high-grade glioma growth regulatory circuit critical for mesenchymal glioblastoma survival.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Pan Y, Smithson LJ, Ma Y, Hambardzumyan D, Gutmann DH."
+  },
+  {
+   "pmcid": "PMC5078085",
+   "pmid": "27120806",
+   "doi": "10.18632/oncotarget.8899",
+   "title": "Targeting of glioblastoma cell lines and glioma stem cells by combined PIM kinase and PI3K-p110\u03b1 inhibition.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Iqbal A, Eckerdt F, Bell J, Nakano I, Giles FJ, Cheng SY, Lulla RR, Goldman S, Platanias LC."
+  },
+  {
+   "pmcid": "PMC5682287",
+   "pmid": "29129908",
+   "doi": "10.1038/s41467-017-01731-w",
+   "title": "TRIM24 is an oncogenic transcriptional co-activator of STAT3 in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Lv D, Li Y, Zhang W, Alvarez AA, Song L, Tang J, Tang J, Gao WQ, Hu B, Cheng SY, Feng H."
+  },
+  {
+   "pmcid": "PMC8865426",
+   "pmid": "35211690",
+   "doi": "10.1016/j.crmeth.2021.100152",
+   "title": "Detecting molecular subtypes from multi-omics datasets using SUMO.",
+   "journalTitle": "Cell Rep Methods",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Sienkiewicz K, Chen J, Chatrath A, Lawson JT, Sheffield NC, Zhang L, Ratan A."
+  },
+  {
+   "pmcid": "PMC9133650",
+   "pmid": "35447113",
+   "doi": "10.1016/j.jbc.2022.101949",
+   "title": "Activation of the adhesion G protein-coupled receptor GPR133 by antibodies targeting its N-terminus.",
+   "journalTitle": "J Biol Chem",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Stephan G, Frenster JD, Liebscher I, Placantonakis DG."
+  },
+  {
+   "pmcid": "PMC8181388",
+   "pmid": "34109119",
+   "doi": "10.3389/fonc.2021.666059",
+   "title": "Label-Free Macroscopic Fluorescence Lifetime Imaging of Brain Tumors.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Lukina M, Yashin K, Kiseleva EE, Alekseeva A, Dudenkova V, Zagaynova EV, Bederina E, Medyanic I, Becker W, Mishra D, Berezin M, Shcheslavskiy VI, Shirmanova M."
+  },
+  {
+   "pmcid": "PMC7464128",
+   "pmid": "32806623",
+   "doi": "10.3390/molecules25163672",
+   "title": "Imaging of Fibroblast Activation Protein Alpha Expression in a Preclinical Mouse Model of Glioma Using Positron Emission Tomography.",
+   "journalTitle": "Molecules",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Pandya DN, Sinha A, Yuan H, Mutkus L, Stumpf K, Marini FC, Wadas TJ."
+  },
+  {
+   "pmcid": "PMC5777496",
+   "pmid": "29016998",
+   "doi": "10.1093/neuonc/nox154",
+   "title": "Phase II study of cabozantinib in patients with progressive glioblastoma: subset analysis of patients naive to antiangiogenic therapy.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Wen PY, Drappatz J, de Groot J, Prados MD, Reardon DA, Schiff D, Chamberlain M, Mikkelsen T, Desjardins A, Holland J, Ping J, Weitzman R, Cloughesy TF."
+  },
+  {
+   "pmcid": "PMC5653749",
+   "pmid": "29062041",
+   "doi": "10.1038/s41598-017-14079-4",
+   "title": "Canonical NF\u03baB signaling in myeloid cells is required for the glioblastoma growth.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Achyut BR, Angara K, Jain M, Borin TF, Rashid MH, Iskander ASM, Ara R, Kolhe R, Howard S, Venugopal N, Rodriguez PC, Bradford JW, Arbab AS."
+  },
+  {
+   "pmcid": "PMC7424213",
+   "pmid": "32795915",
+   "doi": "10.1016/j.isci.2020.101420",
+   "title": "Glioblastoma-Derived Extracellular Vesicles Facilitate Transformation of Astrocytes via Reprogramming Oncogenic Metabolism.",
+   "journalTitle": "iScience",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Zeng A, Wei Z, Rabinovsky R, Jun HJ, El Fatimy R, Deforzh E, Arora R, Yao Y, Yao S, Yan W, Uhlmann EJ, Charest A, You Y, Krichevsky AM."
+  },
+  {
+   "pmcid": "PMC6249307",
+   "pmid": "30464169",
+   "doi": "10.1038/s41467-018-07334-3",
+   "title": "Integrated mapping of pharmacokinetics and pharmacodynamics in a patient-derived xenograft model of glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Randall EC, Emdal KB, Laramy JK, Kim M, Roos A, Calligaris D, Regan MS, Gupta SK, Mladek AC, Carlson BL, Johnson AJ, Lu FK, Xie XS, Joughin BA, Reddy RJ, Peng S, Abdelmoula WM, Jackson PR, Kolluri A, Kellersberger KA, Agar JN, Lauffenburger DA, Swanson KR, Tran NL, Elmquist WF, White FM, Sarkaria JN, Agar NYR."
+  },
+  {
+   "pmcid": "PMC5409528",
+   "pmid": "28453552",
+   "doi": "10.1371/journal.pone.0176599",
+   "title": "Specific blockade of Rictor-mTOR association inhibits mTORC2 activity and is cytotoxic in glioblastoma.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2017",
+   "license": "cc0",
+   "authorString": "Benavides-Serrato A, Lee J, Holmes B, Landon KA, Bashir T, Jung ME, Lichtenstein A, Gera J."
+  },
+  {
+   "pmcid": "PMC8193903",
+   "pmid": "34131648",
+   "doi": "10.1093/noajnl/vdab060",
+   "title": "MR spectroscopic imaging predicts early response to anti-angiogenic therapy in recurrent glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Talati P, El-Abtah M, Kim D, Dietrich J, Fu M, Wenke M, He J, Natheir SN, Vangel M, Rapalino O, Vaynrub A, Arrillaga-Romany I, Forst DA, Yen YF, Andronesi O, Kalpathy-Cramer J, Rosen B, Batchelor TT, Gonzalez RG, Gerstner ER, Ratai EM."
+  },
+  {
+   "pmcid": "PMC5865692",
+   "pmid": "29581866",
+   "doi": "10.18632/oncotarget.24523",
+   "title": "Calpastatin phosphorylation regulates radiation-induced calpain activity in glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Bassett EA, Palanichamy K, Pearson M, McElroy JP, Haque SJ, Bell EH, Chakravarti A."
+  },
+  {
+   "pmcid": "PMC5444266",
+   "pmid": "26944083",
+   "doi": "10.1093/bib/bbw016",
+   "title": "Comparative evaluation of isoform-level gene expression estimation algorithms for RNA-seq and exon-array platforms.",
+   "journalTitle": "Brief Bioinform",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Dapas M, Kandpal M, Bi Y, Davuluri RV."
+  },
+  {
+   "pmcid": "PMC5739739",
+   "pmid": "29290954",
+   "doi": "10.18632/oncotarget.22374",
+   "title": "WEE1 epigenetically modulates 5-hmC levels by pY37-H2B dependent regulation of <i>IDH2</i> gene expression.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Mahajan NP, Malla P, Bhagwat S, Sharma V, Sarnaik A, Kim J, Pilon-Thomas S, Weber J, Mahajan K."
+  },
+  {
+   "pmcid": "PMC7738877",
+   "pmid": "33391535",
+   "doi": "10.7150/thno.50150",
+   "title": "Blocking NHE1 stimulates glioma tumor immunity by restoring OXPHOS function of myeloid cells.",
+   "journalTitle": "Theranostics",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Hasan MN, Luo L, Ding D, Song S, Bhuiyan MIH, Liu R, Foley LM, Guan X, Kohanbash G, Hitchens TK, Castro MG, Zhang Z, Sun D."
+  },
+  {
+   "pmcid": "PMC5384647",
+   "pmid": "26735018",
+   "doi": "10.1038/nature16475",
+   "title": "An ID2-dependent mechanism for VHL inactivation in cancer.",
+   "journalTitle": "Nature",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Lee SB, Frattini V, Bansal M, Castano AM, Sherman D, Hutchinson K, Bruce JN, Califano A, Liu G, Cardozo T, Iavarone A, Lasorella A."
+  },
+  {
+   "pmcid": "PMC9033827",
+   "pmid": "35459228",
+   "doi": "10.1038/s41467-022-29884-3",
+   "title": "ZNF117 regulates glioblastoma stem cell differentiation towards oligodendroglial lineage.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Liu J, Wang X, Chen AT, Gao X, Himes BT, Zhang H, Chen Z, Wang J, Sheu WC, Deng G, Xiao Y, Zou P, Zhang S, Liu F, Zhu Y, Fan R, Patel TR, Saltzman WM, Zhou J."
+  },
+  {
+   "pmcid": "PMC6174845",
+   "pmid": "30306125",
+   "doi": "10.1016/j.omto.2018.08.002",
+   "title": "Checkpoint Blockade Reverses Anergy in IL-13R\u03b12 Humanized scFv-Based CAR T Cells to Treat Murine and Canine Gliomas.",
+   "journalTitle": "Mol Ther Oncolytics",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Yin Y, Boesteanu AC, Binder ZA, Xu C, Reid RA, Rodriguez JL, Cook DR, Thokala R, Blouch K, McGettigan-Croce B, Zhang L, Konradt C, Cogdill AP, Panjwani MK, Jiang S, Migliorini D, Dahmane N, Posey AD, June CH, Mason NJ, Lin Z, O'Rourke DM, Johnson LA."
+  },
+  {
+   "pmcid": "PMC9700385",
+   "pmid": "36452274",
+   "doi": "10.1093/noajnl/vdac172",
+   "title": "Glioma stem cells activate platelets by plasma-independent thrombin production to promote glioblastoma tumorigenesis.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Sloan AR, Lee-Poturalski C, Hoffman HC, Harris PL, Elder TE, Richardson B, Kerstetter-Fogle A, Cioffi G, Schroer J, Desai A, Cameron M, Barnholtz-Sloan J, Rich J, Jankowsky E, Sen Gupta A, Sloan AE."
+  },
+  {
+   "pmcid": "PMC4914999",
+   "pmid": "27325206",
+   "doi": "10.1038/srep28388",
+   "title": "Down-regulation of HSP60 Suppresses the Proliferation of Glioblastoma Cells via the ROS/AMPK/mTOR Pathway.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Tang H, Li J, Liu X, Wang G, Luo M, Deng H."
+  },
+  {
+   "pmcid": "PMC5564707",
+   "pmid": "28596487",
+   "doi": "10.18632/oncotarget.18153",
+   "title": "ZNF131 suppresses centrosome fragmentation in glioblastoma stem-like cells through regulation of HAUS5.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Ding Y, Herman JA, Toledo CM, Lang JM, Corrin P, Girard EJ, Basom R, Delrow JJ, Olson JM, Paddison PJ."
+  },
+  {
+   "pmcid": "PMC6624304",
+   "pmid": "31296889",
+   "doi": "10.1038/s41598-019-46296-4",
+   "title": "Integration of machine learning and mechanistic models accurately predicts variation in cell density of glioblastoma using multiparametric MRI.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Gaw N, Hawkins-Daarud A, Hu LS, Yoon H, Wang L, Xu Y, Jackson PR, Singleton KW, Baxter LC, Eschbacher J, Gonzales A, Nespodzany A, Smith K, Nakaji P, Mitchell JR, Wu T, Swanson KR, Li J."
+  },
+  {
+   "pmcid": "PMC6286748",
+   "pmid": "30595797",
+   "doi": "10.1155/2018/9146528",
+   "title": "NQO1 Is Regulated by PTEN in Glioblastoma, Mediating Cell Proliferation and Oxidative Stress.",
+   "journalTitle": "Oxid Med Cell Longev",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Luo S, Lei K, Xiang D, Ye K."
+  },
+  {
+   "pmcid": "PMC6033343",
+   "pmid": "29983870",
+   "doi": "10.18632/oncotarget.25420",
+   "title": "Comparative molecular characterization of typical and exceptional responders in glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Wipfler K, Cornish AS, Guda C."
+  },
+  {
+   "pmcid": "PMC5042015",
+   "pmid": "27050366",
+   "doi": "10.18632/oncotarget.8471",
+   "title": "Cdc2-like kinase 2 is a key regulator of the cell cycle via FOXO3a/p27 in glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Park SY, Piao Y, Thomas C, Fuller GN, de Groot JF."
+  },
+  {
+   "pmcid": "PMC7083912",
+   "pmid": "32198420",
+   "doi": "10.1038/s41598-020-61736-2",
+   "title": "Glioblastoma infiltration of both tumor- and virus-antigen specific cytotoxic T cells correlates with experimental virotherapy responses.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Alayo QA, Ito H, Passaro C, Zdioruk M, Mahmoud AB, Grauwet K, Zhang X, Lawler SE, Reardon DA, Goins WF, Fernandez S, Chiocca EA, Nakashima H."
+  },
+  {
+   "pmcid": "PMC8136167",
+   "pmid": "34011400",
+   "doi": "10.1186/s13073-021-00906-x",
+   "title": "Single-cell characterization of macrophages in glioblastoma reveals MARCO as a mesenchymal pro-tumor marker.",
+   "journalTitle": "Genome Med",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Chen AX, Gartrell RD, Zhao J, Upadhyayula PS, Zhao W, Yuan J, Minns HE, Dovas A, Bruce JN, Lasorella A, Iavarone A, Canoll P, Sims PA, Rabadan R."
+  },
+  {
+   "pmcid": "PMC8920333",
+   "pmid": "35133980",
+   "doi": "10.1172/jci143397",
+   "title": "ADAR1-mediated RNA editing links ganglioside catabolism to glioblastoma stem cell maintenance.",
+   "journalTitle": "J Clin Invest",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Jiang L, Hao Y, Shao C, Wu Q, Prager BC, Gimple RC, Sulli G, Kim LJ, Zhang G, Qiu Z, Zhu Z, Fu XD, Rich JN."
+  },
+  {
+   "pmcid": "PMC9370342",
+   "pmid": "35957076",
+   "doi": "10.3390/nano12152645",
+   "title": "Anti-Fn14-Conjugated Prussian Blue Nanoparticles as a Targeted Photothermal Therapy Agent for Glioblastoma.",
+   "journalTitle": "Nanomaterials (Basel)",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Bonan NF, Ledezma DK, Tovar MA, Balakrishnan PB, Fernandes R."
+  },
+  {
+   "pmcid": "PMC5854509",
+   "pmid": "29321663",
+   "doi": "10.1038/s41388-017-0049-3",
+   "title": "LPA signaling is regulated through the primary cilium: a novel target in glioblastoma.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Loskutov YV, Griffin CL, Marinak KM, Bobko A, Margaryan NV, Geldenhuys WJ, Sarkaria JN, Pugacheva EN."
+  },
+  {
+   "pmcid": "PMC7162859",
+   "pmid": "32300151",
+   "doi": "10.1038/s41598-020-63494-7",
+   "title": "Enhancing Brain Retention of a KIF11 Inhibitor Significantly Improves its Efficacy in a Mouse Model of Glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Gampa G, Kenchappa RS, Mohammad AS, Parrish KE, Kim M, Crish JF, Luu A, West R, Hinojosa AQ, Sarkaria JN, Rosenfeld SS, Elmquist WF."
+  },
+  {
+   "pmcid": "PMC5696472",
+   "pmid": "29158489",
+   "doi": "10.1038/s41598-017-16066-1",
+   "title": "Yeast display biopanning identifies human antibodies targeting glioblastoma stem-like cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Zorniak M, Clark PA, Umlauf BJ, Cho Y, Shusta EV, Kuo JS."
+  },
+  {
+   "pmcid": "PMC9308199",
+   "pmid": "35869424",
+   "doi": "10.1186/s12880-022-00849-8",
+   "title": "SAFARI: shape analysis for AI-segmented images.",
+   "journalTitle": "BMC Med Imaging",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Fern\u00e1ndez E, Yang S, Chiou SH, Moon C, Zhang C, Yao B, Xiao G, Li Q."
+  },
+  {
+   "pmcid": "PMC9413444",
+   "pmid": "35961653",
+   "doi": "10.1021/acsnano.1c10034",
+   "title": "Signature Effects of Vector-Guided Systemic Nano Bioconjugate Delivery Across Blood-Brain Barrier of Normal, Alzheimer's, and Tumor Mouse Models.",
+   "journalTitle": "ACS Nano",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Israel LL, Galstyan A, Cox A, Shatalova ES, Sun T, Rashid MH, Grodzinski Z, Chiechi A, Fuchs DT, Patil R, Koronyo-Hamaoui M, Black KL, Ljubimova JY, Holler E."
+  },
+  {
+   "pmcid": "PMC6193287",
+   "pmid": "30333046",
+   "doi": "10.1186/s40478-018-0613-2",
+   "title": "TERT promoter wild-type glioblastomas show distinct clinical features and frequent PI3K pathway mutations.",
+   "journalTitle": "Acta Neuropathol Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Williams EA, Miller JJ, Tummala SS, Penson T, Iafrate AJ, Juratli TA, Cahill DP."
+  },
+  {
+   "pmcid": "PMC5140055",
+   "pmid": "27923049",
+   "doi": "10.1371/journal.pmed.1002192",
+   "title": "Expression of lncRNAs in Low-Grade Gliomas and Glioblastoma Multiforme: An In Silico Analysis.",
+   "journalTitle": "PLoS Med",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Reon BJ, Anaya J, Zhang Y, Mandell J, Purow B, Abounader R, Dutta A."
+  },
+  {
+   "pmcid": "PMC8186478",
+   "pmid": "34101353",
+   "doi": "10.15252/msb.20209522",
+   "title": "Neural G0: a quiescent-like state found in neuroepithelial-derived cells and glioma.",
+   "journalTitle": "Mol Syst Biol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "O'Connor SA, Feldman HM, Arora S, Hoellerbauer P, Toledo CM, Corrin P, Carter L, Kufeld M, Bolouri H, Basom R, Delrow J, McFaline-Figueroa JL, Trapnell C, Pollard SM, Patel A, Paddison PJ, Plaisier CL."
+  },
+  {
+   "pmcid": "PMC6197705",
+   "pmid": "30269995",
+   "doi": "10.1016/j.ebiom.2018.09.019",
+   "title": "Cells isolated from residual intracranial tumors after treatment express iPSC genes and possess neural lineage differentiation plasticity.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Palanichamy K, Jacob JR, Litzenberg KT, Ray-Chaudhury A, Chakravarti A."
+  },
+  {
+   "pmcid": "PMC6478916",
+   "pmid": "31044160",
+   "doi": "10.1038/s42003-019-0369-7",
+   "title": "The combination of neoantigen quality and T lymphocyte infiltrates identifies glioblastomas with the longest survival.",
+   "journalTitle": "Commun Biol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Zhang J, Caruso FP, Sa JK, Justesen S, Nam DH, Sims P, Ceccarelli M, Lasorella A, Iavarone A."
+  },
+  {
+   "pmcid": "PMC8727395",
+   "pmid": "34510238",
+   "doi": "10.1007/s00520-021-06514-0",
+   "title": "Caregiver burden by treatment and clinical characteristics of patients with glioblastoma.",
+   "journalTitle": "Support Care Cancer",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Au TH, Willis C, Reblin M, Peters KB, Nghiemphu PL, Taylor JW, Colman H, Cohen AL, Ormond DR, Chakravarti A, Willmarth N, Menon J, Ma J, Bauer H, Watanabe AH, Ulrich CM, Singh P, Marshall A, Korytowsky B, Stenehjem D, Brixner D."
+  },
+  {
+   "pmcid": "PMC6791439",
+   "pmid": "31646100",
+   "doi": "10.1080/2162402x.2019.1655360",
+   "title": "Human Mesenchymal glioblastomas are characterized by an increased immune cell presence compared to Proneural and Classical tumors.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Kaffes I, Szulzewsky F, Chen Z, Herting CJ, Gabanic B, Vel\u00e1zquez Vega JE, Shelton J, Switchenko JM, Ross JL, McSwain LF, Huse JT, Westermark B, Nelander S, Forsberg-Nilsson K, Uhrbom L, Maturi NP, Cimino PJ, Holland EC, Kettenmann H, Brennan CW, Brat DJ, Hambardzumyan D."
+  },
+  {
+   "pmcid": "PMC6923885",
+   "pmid": "31920606",
+   "doi": "10.3389/fncom.2019.00081",
+   "title": "Multivariate Analysis of Preoperative Magnetic Resonance Imaging Reveals Transcriptomic Classification of <i>de novo</i> Glioblastoma Patients.",
+   "journalTitle": "Front Comput Neurosci",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Rathore S, Akbari H, Bakas S, Pisapia JM, Shukla G, Rudie JD, Da X, Davuluri RV, Dahmane N, O'Rourke DM, Davatzikos C."
+  },
+  {
+   "pmcid": "PMC8783091",
+   "pmid": "35098099",
+   "doi": "10.1016/j.isci.2021.103725",
+   "title": "PEGylated talazoparib enhances therapeutic window of its combination with temozolomide in Ewing sarcoma.",
+   "journalTitle": "iScience",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Del Pozo V, Robles AJ, Fontaine SD, Liu Q, Michalek JE, Houghton PJ, Kurmasheva RT."
+  },
+  {
+   "pmcid": "PMC8826782",
+   "pmid": "35156038",
+   "doi": "10.1093/noajnl/vdac002",
+   "title": "Multivariate analysis of associations between clinical sequencing and outcome in glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Yang PH, Tao Y, Luo J, Paturu M, Lu HC, Ramkissoon S, Heusel JW, Leuthardt EC, Chicoine MR, Dowling JL, Dunn GP, Duncavage E, Dahiya S, Chattherjee AR, Kim AH."
+  },
+  {
+   "pmcid": "PMC4948782",
+   "pmid": "27428049",
+   "doi": "10.1371/journal.pgen.1006162",
+   "title": "Fragment Length of Circulating Tumor DNA.",
+   "journalTitle": "PLoS Genet",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Underhill HR, Kitzman JO, Hellwig S, Welker NC, Daza R, Baker DN, Gligorich KM, Rostomily RC, Bronner MP, Shendure J."
+  },
+  {
+   "pmcid": "PMC6251232",
+   "pmid": "30468988",
+   "doi": "10.1016/j.tranon.2018.10.002",
+   "title": "OKN-007 Increases temozolomide (TMZ) Sensitivity and Suppresses TMZ-Resistant Glioblastoma (GBM) Tumor Growth.",
+   "journalTitle": "Transl Oncol",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Towner RA, Smith N, Saunders D, Brown CA, Cai X, Ziegler J, Mallory S, Dozmorov MG, Coutinho De Souza P, Wiley G, Kim K, Kang S, Kong DS, Kim YT, Fung KM, Wren JD, Battiste J."
+  },
+  {
+   "pmcid": "PMC6158293",
+   "pmid": "30258190",
+   "doi": "10.1038/s41598-018-32397-z",
+   "title": "Longitudinal Patterns in Clinical and Imaging Measurements Predict Residual Survival in Glioblastoma Patients.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Smedley NF, Ellingson BM, Cloughesy TF, Hsu W."
+  },
+  {
+   "pmcid": "PMC6446059",
+   "pmid": "30971917",
+   "doi": "10.3389/fphar.2019.00200",
+   "title": "The Coincidence Between Increasing Age, Immunosuppression, and the Incidence of Patients With Glioblastoma.",
+   "journalTitle": "Front Pharmacol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Ladomersky E, Scholtens DM, Kocherginsky M, Hibler EA, Bartom ET, Otto-Meyer S, Zhai L, Lauing KL, Choi J, Sosman JA, Wu JD, Zhang B, Lukas RV, Wainwright DA."
+  },
+  {
+   "pmcid": "PMC9221513",
+   "pmid": "35740680",
+   "doi": "10.3390/cancers14123015",
+   "title": "Therapeutic Vulnerability to ATR Inhibition in Concurrent &lt;i&gt;NF1&lt;/i&gt; and &lt;i&gt;ATRX&lt;/i&gt;-Deficient/ALT-Positive High-Grade Solid Tumors.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Yuan M, Eberhart CG, Pratilas CA, Blakeley JO, Davis C, Stojanova M, Reilly K, Meeker AK, Heaphy CM, Rodriguez FJ."
+  },
+  {
+   "pmcid": "PMC5361403",
+   "pmid": "27820599",
+   "doi": "10.1038/ncb3429",
+   "title": "Tissue mechanics promote IDH1-dependent HIF1\u03b1-tenascin C feedback to regulate glioblastoma\u00a0aggression.",
+   "journalTitle": "Nat Cell Biol",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Miroshnikova YA, Mouw JK, Barnes JM, Pickup MW, Lakins JN, Kim Y, Lobo K, Persson AI, Reis GF, McKnight TR, Holland EC, Phillips JJ, Weaver VM."
+  },
+  {
+   "pmcid": "PMC8802188",
+   "pmid": "35111901",
+   "doi": "10.1021/acscentsci.1c01193",
+   "title": "Multielectrode Spectroscopy Enables Rapid and Sensitive Molecular Profiling of Extracellular Vesicles.",
+   "journalTitle": "ACS Cent Sci",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Kilic T, Cho YK, Jeong N, Shin IS, Carter BS, Balaj L, Weissleder R, Lee H."
+  },
+  {
+   "pmcid": "PMC6892608",
+   "pmid": "29694897",
+   "doi": "10.1016/j.celrep.2018.03.105",
+   "title": "Glioblastoma Model Using Human Cerebral Organoids.",
+   "journalTitle": "Cell Rep",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Ogawa J, Pao GM, Shokhirev MN, Verma IM."
+  },
+  {
+   "pmcid": "PMC5758516",
+   "pmid": "29311558",
+   "doi": "10.1038/s41598-017-18310-0",
+   "title": "Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Beig N, Patel J, Prasanna P, Hill V, Gupta A, Correa R, Bera K, Singh S, Partovi S, Varadan V, Ahluwalia M, Madabhushi A, Tiwari P."
+  },
+  {
+   "pmcid": "PMC5308671",
+   "pmid": "27557495",
+   "doi": "10.18632/oncotarget.11399",
+   "title": "Therapeutic relevance of the protein phosphatase 2A in cancer.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Cunningham CE, Li S, Vizeacoumar FS, Bhanumathy KK, Lee JS, Parameswaran S, Furber L, Abuhussein O, Paul JM, McDonald M, Templeton SD, Shukla H, El Zawily AM, Boyd F, Alli N, Mousseau DD, Geyer R, Bonham K, Anderson DH, Yan J, Yu-Lee LY, Weaver BA, Uppalapati M, Ruppin E, Sablina A, Freywald A, Vizeacoumar FJ."
+  },
+  {
+   "pmcid": "PMC8424128",
+   "pmid": "34514102",
+   "doi": "10.1016/j.omto.2021.06.003",
+   "title": "Diversity in responses to oncolytic Lassa-vesicular stomatitis virus in patient-derived glioblastoma cells.",
+   "journalTitle": "Mol Ther Oncolytics",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Kim TE, Puckett S, Zhang K, Herpai DM, Ornelles DA, Davis JN, van den Pol AN, Debinski W, Lyles DS."
+  },
+  {
+   "pmcid": "PMC4615268",
+   "pmid": "25893308",
+   "doi": "10.1038/onc.2015.131",
+   "title": "IGFBP2 potentiates nuclear EGFR-STAT3 signaling.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Chua CY, Liu Y, Granberg KJ, Hu L, Haapasalo H, Annala MJ, Cogdell DE, Verploegen M, Moore LM, Fuller GN, Nykter M, Cavenee WK, Zhang W."
+  },
+  {
+   "pmcid": "PMC5863989",
+   "pmid": "29566069",
+   "doi": "10.1371/journal.pone.0194183",
+   "title": "Presence of stromal cells in a bioengineered tumor microenvironment alters glioblastoma migration and response to STAT3 inhibition.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Herrera-Perez RM, Voytik-Harbin SL, Sarkaria JN, Pollok KE, Fishel ML, Rickus JL."
+  },
+  {
+   "pmcid": "PMC7718261",
+   "pmid": "33277589",
+   "doi": "10.1038/s41598-020-78126-3",
+   "title": "An integrated approach to biomarker discovery reveals gene signatures highly predictive of cancer progression.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Sheng KL, Kang L, Pridham KJ, Dunkenberger LE, Sheng Z, Varghese RT."
+  },
+  {
+   "pmcid": "PMC7376246",
+   "pmid": "32699356",
+   "doi": "10.1038/s41467-020-17382-3",
+   "title": "Murine models of IDH-wild-type glioblastoma exhibit spatial segregation of tumor initiation and manifestation during evolution.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Li Y, Li B, Li W, Wang Y, Akg\u00fcl S, Treisman DM, Heist KA, Pierce BR, Hoff B, Ho CY, Ferguson DO, Rehemtulla A, Zheng S, Ross BD, Li JZ, Zhu Y."
+  },
+  {
+   "pmcid": "PMC7707548",
+   "pmid": "33201894",
+   "doi": "10.1371/journal.pgen.1009117",
+   "title": "Inhibition of the de novo pyrimidine biosynthesis pathway limits ribosomal RNA transcription causing nucleolar stress in glioblastoma cells.",
+   "journalTitle": "PLoS Genet",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Lafita-Navarro MC, Venkateswaran N, Kilgore JA, Kanji S, Han J, Barnes S, Williams NS, Buszczak M, Burma S, Conacci-Sorrell M."
+  },
+  {
+   "pmcid": "PMC6925027",
+   "pmid": "31903167",
+   "doi": "10.18632/oncotarget.27389",
+   "title": "EGFR806-CAR T cells selectively target a tumor-restricted EGFR epitope in glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Ravanpay AC, Gust J, Johnson AJ, Rolczynski LS, Cecchini M, Chang CA, Hoglund VJ, Mukherjee R, Vitanza NA, Orentas RJ, Jensen MC."
+  },
+  {
+   "pmcid": "PMC6066211",
+   "pmid": "30059495",
+   "doi": "10.1371/journal.pone.0195070",
+   "title": "Bayesian variable selection with graphical structure learning: Applications in integrative genomics.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "cc0",
+   "authorString": "Kundu S, Cheng Y, Shin M, Manyam G, Mallick BK, Baladandayuthapani V."
+  },
+  {
+   "pmcid": "PMC8566473",
+   "pmid": "34732716",
+   "doi": "10.1038/s41467-021-26653-6",
+   "title": "Competitive binding of E3 ligases TRIM26 and WWP2 controls SOX2 in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Mahlokozera T, Patel B, Chen H, Desouza P, Qu X, Mao DD, Hafez D, Yang W, Taiwo R, Paturu M, Salehi A, Gujar AD, Dunn GP, Mosammaparast N, Petti AA, Yano H, Kim AH."
+  },
+  {
+   "pmcid": "PMC4763994",
+   "pmid": "26901428",
+   "doi": "10.1371/journal.pone.0149866",
+   "title": "Comparative Analysis of Technologies for Quantifying Extracellular Vesicles (EVs) in Clinical Cerebrospinal Fluids (CSF).",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Akers JC, Ramakrishnan V, Nolan JP, Duggan E, Fu CC, Hochberg FH, Chen CC, Carter BS."
+  },
+  {
+   "pmcid": "PMC6531306",
+   "pmid": "31149044",
+   "doi": "10.7150/thno.30621",
+   "title": "Inhibition of protein disulfide isomerase in glioblastoma causes marked downregulation of DNA repair and DNA damage response genes.",
+   "journalTitle": "Theranostics",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Xu S, Liu Y, Yang K, Wang H, Shergalis A, Kyani A, Bankhead A, Tamura S, Yang S, Wang X, Wang CC, Rehemtulla A, Ljungman M, Neamati N."
+  },
+  {
+   "pmcid": "PMC6979491",
+   "pmid": "32002519",
+   "doi": "10.1093/noajnl/vdz062",
+   "title": "MCT4 regulates de novo pyrimidine biosynthesis in GBM in a lactate-independent manner.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Spina R, Voss DM, Yang X, Sohn JW, Vinkler R, Schraner J, Sloan A, Welford SM, Avril N, Ames HM, Woodworth GF, Bar EE."
+  },
+  {
+   "pmcid": "PMC9676504",
+   "pmid": "36404434",
+   "doi": "10.1002/jev2.12278",
+   "title": "Glioblastoma-derived extracellular vesicle subpopulations following 5-aminolevulinic acid treatment bear diagnostic implications.",
+   "journalTitle": "J Extracell Vesicles",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Hsia T, Yekula A, Batool SM, Rosenfeld YB, You DG, Weissleder R, Lee H, Carter BS, Balaj L."
+  },
+  {
+   "pmcid": "PMC8186561",
+   "pmid": "33418005",
+   "doi": "10.1016/j.radonc.2020.12.037",
+   "title": "Intravoxel incoherent motion (IVIM) modeling of diffusion MRI during chemoradiation predicts therapeutic response in IDH wildtype glioblastoma.",
+   "journalTitle": "Radiother Oncol",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Jabehdar Maralani P, Myrehaug S, Mehrabian H, Chan AKM, Wintermark M, Heyn C, Conklin J, Ellingson BM, Rahimi S, Lau AZ, Tseng CL, Soliman H, Detsky J, Daghighi S, Keith J, Munoz DG, Das S, Atenafu EG, Lipsman N, Perry J, Stanisz G, Sahgal A."
+  },
+  {
+   "pmcid": "PMC5374737",
+   "pmid": "28359308",
+   "doi": "10.1186/s12920-017-0256-3",
+   "title": "Revealing cancer subtypes with higher-order correlations applied to imaging and omics data.",
+   "journalTitle": "BMC Med Genomics",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Graim K, Liu TT, Achrol AS, Paull EO, Newton Y, Chang SD, Harsh GR, Cordero SP, Rubin DL, Stuart JM."
+  },
+  {
+   "pmcid": "PMC7239929",
+   "pmid": "32433555",
+   "doi": "10.1038/s41598-020-65320-6",
+   "title": "IRE1\u03b1 and IGF signaling predict resistance to an endoplasmic reticulum stress-inducing drug in glioblastoma cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Rodvold JJ, Xian S, Nussbacher J, Tsui B, Cameron Waller T, Searles SC, Lew A, Jiang P, Babic I, Nomura N, Lin JH, Kesari S, Carter H, Zanetti M."
+  },
+  {
+   "pmcid": "PMC8753448",
+   "pmid": "35017150",
+   "doi": "10.1136/jitc-2021-003368",
+   "title": "Systemic high-dose dexamethasone treatment may modulate the efficacy of intratumoral viral oncolytic immunotherapy in glioblastoma models.",
+   "journalTitle": "J Immunother Cancer",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Koch MS, Zdioruk M, Nowicki MO, Griffith AM, Aguilar E, Aguilar LK, Guzik BW, Barone F, Tak PP, Tabatabai G, Lederer JA, Chiocca EA, Lawler S."
+  },
+  {
+   "pmcid": "PMC7281415",
+   "pmid": "32414213",
+   "doi": "10.3390/cancers12051219",
+   "title": "Novel Gene Fusions in Glioblastoma Tumor Tissue and Matched Patient Plasma.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Wang L, Yekula A, Muralidharan K, Small JL, Rosh ZS, Kang KM, Carter BS, Balaj L."
+  },
+  {
+   "pmcid": "PMC9191661",
+   "pmid": "35648828",
+   "doi": "10.1073/pnas.2118697119",
+   "title": "A predictive microfluidic model of human glioblastoma to assess trafficking of blood-brain barrier-penetrant nanoparticles.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Straehla JP, Hajal C, Safford HC, Offeddu GS, Boehnke N, Dacoba TG, Wyckoff J, Kamm RD, Hammond PT."
+  },
+  {
+   "pmcid": "PMC9743090",
+   "pmid": "36395526",
+   "doi": "10.1021/acs.jmedchem.2c01457",
+   "title": "Induction of Ferroptosis in Glioblastoma and Ovarian Cancers by a New Pyrrole Tubulin Assembly Inhibitor.",
+   "journalTitle": "J Med Chem",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Puxeddu M, Wu J, Bai R, D'Ambrosio M, Nalli M, Coluccia A, Manetto S, Ciogli A, Masci D, Urbani A, Fionda C, Coni S, Bordone R, Canettieri G, Bigogno C, Dondio G, Hamel E, Liu T, Silvestri R, La Regina G."
+  },
+  {
+   "pmcid": "PMC7408354",
+   "pmid": "32630235",
+   "doi": "10.3390/cells9071592",
+   "title": "Targeted Brain Tumor Therapy by Inhibiting the MDM2 Oncogene: In Vitro and In Vivo Antitumor Activity and Mechanism of Action.",
+   "journalTitle": "Cells",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Punganuru SR, Artula V, Zhao W, Rajaei M, Deokar H, Zhang R, Buolamwini JK, Srivenugopal KS, Wang W."
+  },
+  {
+   "pmcid": "PMC7464568",
+   "pmid": "32823815",
+   "doi": "10.3390/antiox9080747",
+   "title": "Oxidative Stress-Part of the Solution or Part of the Problem in the Hypoxic Environment of a Brain Tumor.",
+   "journalTitle": "Antioxidants (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Krawczynski K, Godlewski J, Bronisz A."
+  },
+  {
+   "pmcid": "PMC6952969",
+   "pmid": "31766580",
+   "doi": "10.3390/cells8121487",
+   "title": "Mechanism-Specific Pharmacodynamics of a Novel Complex-I Inhibitor Quantified by Imaging Reversal of Consumptive Hypoxia with [<sup>18</sup>F]FAZA PET <i>In Vivo</i>.",
+   "journalTitle": "Cells",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Gammon ST, Pisaneschi F, Bandi ML, Smith MG, Sun Y, Rao Y, Muller F, Wong F, De Groot J, Ackroyd J, Mawlawi O, Davies MA, Gopal YNV, Di Francesco ME, Marszalek JR, Dewhirst M, Piwnica-Worms D."
+  },
+  {
+   "pmcid": "PMC6604352",
+   "pmid": "31316566",
+   "doi": "10.1155/2019/6107456",
+   "title": "Chemotherapeutic Stress Induces Transdifferentiation of Glioblastoma Cells to Endothelial Cells and Promotes Vascular Mimicry.",
+   "journalTitle": "Stem Cells Int",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Baisiwala S, Auffinger B, Caragher SP, Shireman JM, Ahsan R, Lee G, Hasan T, Park C, Saathoff MR, Christensen AC, Ahmed AU."
+  },
+  {
+   "pmcid": "PMC4991399",
+   "pmid": "26799668",
+   "doi": "10.18632/oncotarget.6968",
+   "title": "miR-340 predicts glioblastoma survival and modulates key cancer hallmarks through down-regulation of NRAS.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Fiore D, Donnarumma E, Roscigno G, Iaboni M, Russo V, Affinito A, Adamo A, De Martino F, Quintavalle C, Romano G, Greco A, Soini Y, Brunetti A, Croce CM, Condorelli G."
+  },
+  {
+   "pmcid": "PMC9617949",
+   "pmid": "36309495",
+   "doi": "10.1038/s41467-022-34175-y",
+   "title": "Neuronal CaMKK2 promotes immunosuppression and checkpoint blockade resistance in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Tomaszewski WH, Waibl-Polania J, Chakraborty M, Perera J, Ratiu J, Miggelbrink A, McDonnell DP, Khasraw M, Ashley DM, Fecci PE, Racioppi L, Sanchez-Perez L, Gunn MD, Sampson JH."
+  },
+  {
+   "pmcid": "PMC5342491",
+   "pmid": "27579614",
+   "doi": "10.18632/oncotarget.11617",
+   "title": "GBM-associated mutations and altered protein expression are more common in young patients.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Ferguson SD, Xiu J, Weathers SP, Zhou S, Kesari S, Weiss SE, Verhaak RG, Hohl RJ, Barger GR, Reddy SK, Heimberger AB."
+  },
+  {
+   "pmcid": "PMC9092641",
+   "pmid": "35571988",
+   "doi": "10.1093/noajnl/vdac045",
+   "title": "Mitochondrial 1555 G&gt;A variant as a potential risk factor for childhood glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Li S, Gai X, Myint SS, Arroyo K, Morimoto L, Metayer C, de Smith AJ, Walsh KM, Wiemels JL."
+  },
+  {
+   "pmcid": "PMC5133638",
+   "pmid": "27886174",
+   "doi": "10.1038/ncomms13177",
+   "title": "5-Hydroxymethylcytosine localizes to enhancer elements and is associated with survival in glioblastoma patients.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Johnson KC, Houseman EA, King JE, von Herrmann KM, Fadul CE, Christensen BC."
+  },
+  {
+   "pmcid": "PMC9134932",
+   "pmid": "35575067",
+   "doi": "10.2217/cns-2022-0005",
+   "title": "A first-in-human Phase I trial of the oral p-STAT3 inhibitor WP1066 in patients with recurrent malignant glioma.",
+   "journalTitle": "CNS Oncol",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Groot J, Ott M, Wei J, Kassab C, Fang D, Najem H, O'Brien B, Weathers SP, Matsouka CK, Majd NK, Harrison RA, Fuller GN, Huse JT, Long JP, Sawaya R, Rao G, MacDonald TJ, Priebe W, DeCuypere M, Heimberger AB."
+  },
+  {
+   "pmcid": "PMC7083893",
+   "pmid": "32198351",
+   "doi": "10.1038/s41467-020-15129-8",
+   "title": "Therapeutic modulation of phagocytosis in glioblastoma can activate both innate and adaptive antitumour immunity.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "von Roemeling CA, Wang Y, Qie Y, Yuan H, Zhao H, Liu X, Yang Z, Yang M, Deng W, Bruno KA, Chan CK, Lee AS, Rosenfeld SS, Yun K, Johnson AJ, Mitchell DA, Jiang W, Kim BYS."
+  },
+  {
+   "pmcid": "PMC8452737",
+   "pmid": "34545087",
+   "doi": "10.1038/s41467-021-25744-8",
+   "title": "Peak learning of mass spectrometry imaging data using artificial neural networks.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Abdelmoula WM, Lopez BG, Randall EC, Kapur T, Sarkaria JN, White FM, Agar JN, Wells WM, Agar NYR."
+  },
+  {
+   "pmcid": "PMC4891078",
+   "pmid": "26848768",
+   "doi": "10.18632/oncotarget.7110",
+   "title": "Detection rate of actionable mutations in diverse cancers using a biopsy-free (blood) circulating tumor cell DNA assay.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Schwaederle M, Husain H, Fanta PT, Piccioni DE, Kesari S, Schwab RB, Banks KC, Lanman RB, Talasaz A, Parker BA, Kurzrock R."
+  },
+  {
+   "pmcid": "PMC7747479",
+   "pmid": "33391732",
+   "doi": "10.1039/d0ra07245a",
+   "title": "Targeting intracranial patient-derived glioblastoma (GBM) with a NIR-I fluorescent immunoconjugate for facilitating its image-guided resection.",
+   "journalTitle": "RSC Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Hettie KS, Teraphongphom NT, Ertsey RD, Rosenthal EL, Chin FT."
+  },
+  {
+   "pmcid": "PMC8215292",
+   "pmid": "34022221",
+   "doi": "10.1016/j.jbc.2021.100798",
+   "title": "Functional impact of intramolecular cleavage and dissociation of adhesion G protein-coupled receptor GPR133 (ADGRD1) on canonical signaling.",
+   "journalTitle": "J Biol Chem",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Frenster JD, Stephan G, Ravn-Boess N, Bready D, Wilcox J, Kieslich B, Wilde C, Str\u00e4ter N, Wiggin GR, Liebscher I, Sch\u00f6neberg T, Placantonakis DG."
+  },
+  {
+   "pmcid": "PMC5292791",
+   "pmid": "28166733",
+   "doi": "10.1186/s12864-017-3519-7",
+   "title": "A machine learning classifier trained on cancer transcriptomes detects NF1 inactivation signal in glioblastoma.",
+   "journalTitle": "BMC Genomics",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Way GP, Allaway RJ, Bouley SJ, Fadul CE, Sanchez Y, Greene CS."
+  },
+  {
+   "pmcid": "PMC5865162",
+   "pmid": "29572492",
+   "doi": "10.1038/s41598-018-22739-2",
+   "title": "Radiomic MRI signature reveals three distinct subtypes of glioblastoma with different clinical and molecular characteristics, offering prognostic value beyond IDH1.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Rathore S, Akbari H, Rozycki M, Abdullah KG, Nasrallah MP, Binder ZA, Davuluri RV, Lustig RA, Dahmane N, Bilello M, O'Rourke DM, Davatzikos C."
+  },
+  {
+   "pmcid": "PMC8246372",
+   "pmid": "34193567",
+   "doi": "10.1136/jitc-2021-002426",
+   "title": "IFN-\u03b3- and IL-17-producing CD8<sup>+</sup> T (Tc17-1) cells in combination with poly-ICLC and peptide vaccine exhibit antiglioma activity.",
+   "journalTitle": "J Immunother Cancer",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Ohkuri T, Kosaka A, Ikeura M, Salazar AM, Okada H."
+  },
+  {
+   "pmcid": "PMC6742368",
+   "pmid": "31513636",
+   "doi": "10.1371/journal.pone.0222435",
+   "title": "PRC2 activates interferon-stimulated genes indirectly by repressing miRNAs in glioblastoma.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Shivram H, Le SV, Iyer VR."
+  },
+  {
+   "pmcid": "PMC8471762",
+   "pmid": "34572751",
+   "doi": "10.3390/cancers13184525",
+   "title": "The Translocator Protein (<i>TSPO</i>) Genetic Polymorphism A147T Is Associated with Worse Survival in Male Glioblastoma Patients.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Troike KM, Acanda de la Rocha AM, Alban TJ, Grabowski MM, Otvos B, Cioffi G, Waite KA, Barnholtz Sloan JS, Lathia JD, Guilarte TR, Azzam DJ."
+  },
+  {
+   "pmcid": "PMC7345837",
+   "pmid": "32666048",
+   "doi": "10.1093/noajnl/vdaa069",
+   "title": "Current usage of tumor treating fields for glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Lassman AB, Joanta-Gomez AE, Pan PC, Wick W."
+  },
+  {
+   "pmcid": "PMC5630302",
+   "pmid": "29029402",
+   "doi": "10.18632/oncotarget.18117",
+   "title": "Notch signaling regulates metabolic heterogeneity in glioblastoma stem cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Bayin NS, Frenster JD, Sen R, Si S, Modrek AS, Galifianakis N, Dolgalev I, Ortenzi V, Illa-Bochaca I, Khahera A, Serrano J, Chiriboga L, Zagzag D, Golfinos JG, Doyle W, Tsirigos A, Heguy A, Chesler M, Barcellos-Hoff MH, Snuderl M, Placantonakis DG."
+  },
+  {
+   "pmcid": "PMC6219037",
+   "pmid": "30410731",
+   "doi": "10.1186/s13630-018-0060-5",
+   "title": "Glioma cell proliferation is enhanced in the presence of tumor-derived cilia vesicles.",
+   "journalTitle": "Cilia",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Hoang-Minh LB, Dutra-Clarke M, Breunig JJ, Sarkisian MR."
+  },
+  {
+   "pmcid": "PMC7471621",
+   "pmid": "32861192",
+   "doi": "10.1016/j.isci.2020.101453",
+   "title": "Glioblastoma Utilizes Fatty Acids and Ketone Bodies for Growth Allowing Progression during Ketogenic Diet Therapy.",
+   "journalTitle": "iScience",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Sperry J, Condro MC, Guo L, Braas D, Vanderveer-Harris N, Kim KKO, Pope WB, Divakaruni AS, Lai A, Christofk H, Castro MG, Lowenstein PR, Le Belle JE, Kornblum HI."
+  },
+  {
+   "pmcid": "PMC9220673",
+   "pmid": "35740406",
+   "doi": "10.3390/biomedicines10061384",
+   "title": "High-Frequency Irreversible Electroporation (H-FIRE) Induced Blood-Brain Barrier Disruption Is Mediated by Cytoskeletal Remodeling and Changes in Tight Junction Protein Regulation.",
+   "journalTitle": "Biomedicines",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Partridge BR, Kani Y, Lorenzo MF, Campelo SN, Allen IC, Hinckley J, Hsu FC, Verbridge SS, Robertson JL, Davalos RV, Rossmeisl JH."
+  },
+  {
+   "pmcid": "PMC6441047",
+   "pmid": "30926789",
+   "doi": "10.1038/s41419-019-1387-6",
+   "title": "Interleukin-8/CXCR2 signaling regulates therapy-induced plasticity and enhances tumorigenicity in glioblastoma.",
+   "journalTitle": "Cell Death Dis",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Hasan T, Caragher SP, Shireman JM, Park CH, Atashi F, Baisiwala S, Lee G, Guo D, Wang JY, Dey M, Wu M, Lesniak MS, Horbinski CM, James CD, Ahmed AU."
+  },
+  {
+   "pmcid": "PMC7195524",
+   "pmid": "32361246",
+   "doi": "10.1016/j.ebiom.2020.102736",
+   "title": "Radiation-induced extracellular vesicle (EV) release of miR-603 promotes IGF1-mediated stem cell state in glioblastomas.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Ramakrishnan V, Xu B, Akers J, Nguyen T, Ma J, Dhawan S, Ning J, Mao Y, Hua W, Kokkoli E, Furnari F, Carter BS, Chen CC."
+  },
+  {
+   "pmcid": "PMC6874607",
+   "pmid": "31758030",
+   "doi": "10.1038/s41598-019-53850-7",
+   "title": "A new model isolates glioblastoma clonal interactions and reveals unexpected modes for regulating motility, proliferation, and drug resistance.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Davis JB, Krishna SS, Abi Jomaa R, Duong CT, Espina V, Liotta LA, Mueller C."
+  },
+  {
+   "pmcid": "PMC8974362",
+   "pmid": "35387234",
+   "doi": "10.1093/pnasnexus/pgac013",
+   "title": "The endosomal pH regulator NHE9 is a driver of stemness in glioblastoma.",
+   "journalTitle": "PNAS Nexus",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Ko M, Makena MR, Schiapparelli P, Suarez-Meade P, Mekile AX, Lal B, Lopez-Bertoni H, Kozielski KL, Green JJ, Laterra J, Qui\u00f1ones-Hinojosa A, Rao R."
+  },
+  {
+   "pmcid": "PMC7281616",
+   "pmid": "32413951",
+   "doi": "10.3390/cancers12051213",
+   "title": "Hypoxic Roadmap of Glioblastoma-Learning about Directions and Distances in the Brain Tumor Environment.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Bronisz A, Sali\u0144ska E, Chiocca EA, Godlewski J."
+  },
+  {
+   "pmcid": "PMC8187342",
+   "pmid": "34103524",
+   "doi": "10.1038/s41467-021-23832-3",
+   "title": "Synergistic immunotherapy of glioblastoma by dual targeting of IL-6 and CD40.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Yang F, He Z, Duan H, Zhang D, Li J, Yang H, Dorsey JF, Zou W, Nabavizadeh SA, Bagley SJ, Abdullah K, Brem S, Zhang L, Xu X, Byrne KT, Vonderheide RH, Gong Y, Fan Y."
+  },
+  {
+   "pmcid": "PMC5762567",
+   "pmid": "29348882",
+   "doi": "10.18632/oncotarget.22945",
+   "title": "MicroRNA203a suppresses glioma tumorigenesis through an ATM-dependent interferon response pathway.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Yang CH, Wang Y, Sims M, Cai C, He P, H\u00e4cker H, Yue J, Cheng J, Boop FA, Pfeffer LM."
+  },
+  {
+   "pmcid": "PMC7458656",
+   "pmid": "32923170",
+   "doi": "10.1080/2162402x.2020.1806662",
+   "title": "IDH-mutant gliomas harbor fewer regulatory T cells in humans and mice.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Richardson LG, Nieman LT, Stemmer-Rachamimov AO, Zheng XS, Stafford K, Nagashima H, Miller JJ, Kiyokawa J, Ting DT, Wakimoto H, Cahill DP, Choi BD, Curry WT."
+  },
+  {
+   "pmcid": "PMC7688136",
+   "pmid": "33237934",
+   "doi": "10.1371/journal.pone.0242793",
+   "title": "Correlation of genetic alterations by whole-exome sequencing with clinical outcomes of glioblastoma patients from the Lebanese population.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Saadeh FS, Morsi RZ, El-Kurdi A, Nemer G, Mahfouz R, Charafeddine M, Khoury J, Najjar MW, Khoueiry P, Assi HI."
+  },
+  {
+   "pmcid": "PMC7727139",
+   "pmid": "33302912",
+   "doi": "10.1186/s12885-020-07694-4",
+   "title": "Semaphorin 3A mediated brain tumor stem cell proliferation and invasion in EGFRviii mutant gliomas.",
+   "journalTitle": "BMC Cancer",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Higgins DMO, Caliva M, Schroeder M, Carlson B, Upadhyayula PS, Milligan BD, Cheshier SH, Weissman IL, Sarkaria JN, Meyer FB, Henley JR."
+  },
+  {
+   "pmcid": "PMC8987098",
+   "pmid": "35388070",
+   "doi": "10.1038/s41598-022-09614-x",
+   "title": "Mismatch repair proteins play a role in ATR activation upon temozolomide treatment in MGMT-methylated glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Ganesa S, Sule A, Sundaram RK, Bindra RS."
+  },
+  {
+   "pmcid": "PMC9365362",
+   "pmid": "35176144",
+   "doi": "10.1158/1078-0432.ccr-21-3324",
+   "title": "Convection Enhanced Delivery of the Oncolytic Adenovirus Delta24-RGD in Patients with Recurrent GBM: A Phase I Clinical Trial Including Correlative Studies.",
+   "journalTitle": "Clin Cancer Res",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "van Putten EHP, Kleijn A, van Beusechem VW, Noske D, Lamers CHJ, de Goede AL, Idema S, Hoefnagel D, Kloezeman JJ, Fueyo J, Lang FF, Teunissen CE, Vernhout RM, Bakker C, Gerritsen W, Curiel DT, Vulto A, Lamfers MLM, Dirven CMF."
+  },
+  {
+   "pmcid": "PMC7034640",
+   "pmid": "32118206",
+   "doi": "10.1093/noajnl/vdaa009",
+   "title": "Targeted next-generation sequencing of 565 neuro-oncology patients at UCLA: A single-institution experience.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Ji MS, Eldred BSC, Liu R, Pianka ST, Molaie D, Kevan B, Pan S, Lai TJ, Nguyen NT, Chow FE, Yong WH, Cox CD, Reeh DN, Li T, Liau LM, Nghiemphu PL, Cloughesy TF, Li G, Lai A."
+  },
+  {
+   "pmcid": "PMC7229257",
+   "pmid": "31844886",
+   "doi": "10.1093/neuonc/noz231",
+   "title": "Safety and efficacy of VB-111, an anticancer gene therapy, in patients with recurrent glioblastoma: results of a phase I/II study.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Brenner AJ, Peters KB, Vredenburgh J, Bokstein F, Blumenthal DT, Yust-Katz S, Peretz I, Oberman B, Freedman LS, Ellingson BM, Cloughesy TF, Sher N, Cohen YC, Lowenton-Spier N, Rachmilewitz Minei T, Yakov N, Mendel I, Breitbart E, Wen PY."
+  },
+  {
+   "pmcid": "PMC6491796",
+   "pmid": "30952620",
+   "doi": "10.1016/j.ebiom.2019.03.064",
+   "title": "Gene signatures of quiescent glioblastoma cells reveal mesenchymal shift and interactions with niche microenvironment.",
+   "journalTitle": "EBioMedicine",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Tejero R, Huang Y, Katsyv I, Kluge M, Lin JY, Tome-Garcia J, Daviaud N, Wang Y, Zhang B, Tsankova NM, Friedel CC, Zou H, Friedel RH."
+  },
+  {
+   "pmcid": "PMC6362117",
+   "pmid": "30718547",
+   "doi": "10.1038/s41598-018-37615-2",
+   "title": "Mass Effect Deformation Heterogeneity (MEDH) on Gadolinium-contrast T1-weighted MRI is associated with decreased survival in patients with right cerebral hemisphere Glioblastoma: A feasibility study.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Prasanna P, Mitra J, Beig N, Nayate A, Patel J, Ghose S, Thawani R, Partovi S, Madabhushi A, Tiwari P."
+  },
+  {
+   "pmcid": "PMC8043167",
+   "pmid": "33843470",
+   "doi": "10.1080/19336918.2021.1903684",
+   "title": "A role for GLUT3 in glioblastoma cell invasion that is not recapitulated by GLUT1.",
+   "journalTitle": "Cell Adh Migr",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Libby CJ, Gc S, Benavides GA, Fisher JL, Williford SE, Zhang S, Tran AN, Gordon ER, Jones AB, Tuy K, Flavahan W, Gordillo J, Long A, Cooper SJ, Lasseigne BN, Augelli-Szafran CE, Darley-Usmar V, Hjelmeland AB."
+  },
+  {
+   "pmcid": "PMC6872651",
+   "pmid": "31754127",
+   "doi": "10.1038/s41598-019-53463-0",
+   "title": "Phosphorylation of PD-1-Y248 is a marker of PD-1-mediated inhibitory function in human T cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Bardhan K, Aksoylar HI, Le Bourgeois T, Strauss L, Weaver JD, Delcuze B, Charest A, Patsoukis N, Boussiotis VA."
+  },
+  {
+   "pmcid": "PMC8036803",
+   "pmid": "33804958",
+   "doi": "10.3390/cancers13071494",
+   "title": "Musashi1 Contribution to Glioblastoma Development via Regulation of a Network of DNA Replication, Cell Cycle and Division Genes.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Baroni M, Yi C, Choudhary S, Lei X, Kosti A, Grieshober D, Velasco M, Qiao M, Burns SS, Araujo PR, DeLambre T, Son MY, Plateroti M, Ferreira MAR, Hasty P, Penalva LOF."
+  },
+  {
+   "pmcid": "PMC8694207",
+   "pmid": "34988450",
+   "doi": "10.1093/noajnl/vdab164",
+   "title": "A phase II study of laser interstitial thermal therapy combined with doxorubicin in patients with recurrent glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Butt OH, Zhou AY, Huang J, Leidig WA, Silberstein AE, Chheda MG, Johanns TM, Ansstas G, Liu J, Talcott G, Nakiwala R, Shimony JS, Kim AH, Leuthardt EC, Tran DD, Campian JL."
+  },
+  {
+   "pmcid": "PMC8857594",
+   "pmid": "35182954",
+   "doi": "10.1016/j.tranon.2022.101368",
+   "title": "Synergistic anti-tumor efficacy of mutant isocitrate dehydrogenase 1 inhibitor SYC-435 with standard therapy in patient-derived xenograft mouse models of glioma.",
+   "journalTitle": "Transl Oncol",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Kogiso M, Qi L, Du Y, Braun FK, Zhang H, Huang LF, Guo L, Huang Y, Teo WY, Lindsay H, Zhao S, Injac SG, Liu Z, Mehta V, Tran D, Li F, Baxter PA, Su JM, Perlaky L, Parsons DW, Chintagumpala M, Adesina A, Song Y, Li XN."
+  },
+  {
+   "pmcid": "PMC9406858",
+   "pmid": "36010673",
+   "doi": "10.3390/cells11162597",
+   "title": "GPT2 Is Induced by Hypoxia-Inducible Factor (HIF)-2 and Promotes Glioblastoma Growth.",
+   "journalTitle": "Cells",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Zhang B, Chen Y, Bao L, Luo W."
+  },
+  {
+   "pmcid": "PMC8711129",
+   "pmid": "34039636",
+   "doi": "10.1158/2159-8290.cd-20-1437",
+   "title": "Medium-Chain Acyl-CoA Dehydrogenase Protects Mitochondria from Lipid Peroxidation in Glioblastoma.",
+   "journalTitle": "Cancer Discov",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Puca F, Yu F, Bartolacci C, Pettazzoni P, Carugo A, Huang-Hobbs E, Liu J, Zanca C, Carbone F, Del Poggetto E, Gumin J, Dasgupta P, Seth S, Srinivasan S, Lang FF, Sulman EP, Lorenzi PL, Tan L, Shan M, Tolstyka ZP, Kachman M, Zhang L, Gao S, Deem AK, Genovese G, Scaglioni PP, Lyssiotis CA, Viale A, Draetta GF."
+  },
+  {
+   "pmcid": "PMC8013708",
+   "pmid": "33854293",
+   "doi": "10.1177/11772719211006666",
+   "title": "Cytokine Profiling in Plasma from Patients with Brain Tumors Versus Healthy Individuals using 2 Different Multiplex Immunoassay Platforms.",
+   "journalTitle": "Biomark Insights",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Bender DE, Schaettler MO, Sheehan KC, Johanns TM, Dunn GP."
+  },
+  {
+   "pmcid": "PMC4742861",
+   "pmid": "26846842",
+   "doi": "10.1038/srep20189",
+   "title": "BKM-120 (Buparlisib): A Phosphatidyl-Inositol-3 Kinase Inhibitor with Anti-Invasive Properties in Glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Speranza MC, Nowicki MO, Behera P, Cho CF, Chiocca EA, Lawler SE."
+  },
+  {
+   "pmcid": "PMC5799201",
+   "pmid": "29402980",
+   "doi": "10.1038/s41598-018-20844-w",
+   "title": "Mendelian randomisation study of the relationship between vitamin D and risk of glioma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Takahashi H, Cornish AJ, Sud A, Law PJ, Kinnersley B, Ostrom QT, Labreche K, Labreche K, Eckel-Passow JE, Armstrong GN, Claus EB, Il'yasova D, Schildkraut J, Barnholtz-Sloan JS, Olson SH, Bernstein JL, Lai RK, Schoemaker MJ, Simon M, Hoffmann P, N\u00f6then MM, J\u00f6ckel KH, Chanock S, Rajaraman P, Johansen C, Jenkins RB, Melin BS, Wrensch MR, Sanson M, Bondy ML, Turnbull C, Houlston RS."
+  },
+  {
+   "pmcid": "PMC5737541",
+   "pmid": "28531272",
+   "doi": "10.1093/nar/gkx435",
+   "title": "A novel isoform of TET1 that lacks a CXXC domain is overexpressed in cancer.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2017",
+   "license": "cc by-nc",
+   "authorString": "Good CR, Madzo J, Patel B, Maegawa S, Engel N, Jelinek J, Issa JJ."
+  },
+  {
+   "pmcid": "PMC7465678",
+   "pmid": "32731514",
+   "doi": "10.3390/cancers12082097",
+   "title": "Omeprazole Inhibits Glioblastoma Cell Invasion and Tumor Growth.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Jin UH, Michelhaugh SK, Polin LA, Shrestha R, Mittal S, Safe S."
+  },
+  {
+   "pmcid": "PMC5342330",
+   "pmid": "27472461",
+   "doi": "10.18632/oncotarget.10851",
+   "title": "Novel function of MDA-9/Syntenin (SDCBP) as a regulator of survival and stemness in glioma stem cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Talukdar S, Das SK, Pradhan AK, Emdad L, Shen XN, Windle JJ, Sarkar D, Fisher PB."
+  },
+  {
+   "pmcid": "PMC8809511",
+   "pmid": "35121864",
+   "doi": "10.1038/s43018-021-00238-0",
+   "title": "Targeting PUS7 suppresses tRNA pseudouridylation and glioblastoma tumorigenesis.",
+   "journalTitle": "Nat Cancer",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Cui Q, Yin K, Zhang X, Ye P, Chen X, Chao J, Meng H, Wei J, Roeth D, Li L, Qin Y, Sun G, Zhang M, Klein J, Huynhle M, Wang C, Zhang L, Badie B, Kalkum M, He C, Yi C, Shi Y."
+  },
+  {
+   "pmcid": "PMC6333836",
+   "pmid": "30644426",
+   "doi": "10.1038/s41598-018-37437-2",
+   "title": "Genetically distinct glioma stem-like cell xenografts established from paired glioblastoma samples harvested before and after molecularly targeted therapy.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Tanaka S, Luk S, Kiyokawa J, Onozato ML, Iafrate AJ, Shah K, Martuza RL, Rabkin SD, Batchelor TT, Cahill DP, Chi AS, Wakimoto H."
+  },
+  {
+   "pmcid": "PMC5087864",
+   "pmid": "27798635",
+   "doi": "10.1371/journal.pone.0164546",
+   "title": "Platform-Independent Genome-Wide Pattern of DNA Copy-Number Alterations Predicting Astrocytoma Survival and Response to Treatment Revealed by the GSVD Formulated as a Comparative Spectral Decomposition.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Aiello KA, Alter O."
+  },
+  {
+   "pmcid": "PMC5342536",
+   "pmid": "27661120",
+   "doi": "10.18632/oncotarget.12148",
+   "title": "FRMD6 inhibits human glioblastoma growth and progression by negatively regulating activity of receptor tyrosine kinases.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Xu Y, Wang K, Yu Q."
+  },
+  {
+   "pmcid": "PMC5454031",
+   "pmid": "28572590",
+   "doi": "10.1038/s41598-017-02483-9",
+   "title": "Bi-specific molecule against EGFR and death receptors simultaneously targets proliferation and death pathways in tumors.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Zhu Y, Bassoff N, Reinshagen C, Bhere D, Nowicki MO, Lawler SE, Roux J, Shah K."
+  },
+  {
+   "pmcid": "PMC9446677",
+   "pmid": "36071927",
+   "doi": "10.1093/noajnl/vdac128",
+   "title": "Magnetic resonance spectroscopy outperforms perfusion in distinguishing between pseudoprogression and disease progression in patients with glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "El-Abtah ME, Talati P, Fu M, Chun B, Chun B, Clark P, Peters A, Ranasinghe A, He J, Rapalino O, Batchelor TT, Gilberto Gonzalez R, Curry WT, Dietrich J, Gerstner ER, Ratai EM."
+  },
+  {
+   "pmcid": "PMC8277421",
+   "pmid": "34268110",
+   "doi": "10.3389/fonc.2021.650316",
+   "title": "Glioblastoma Proximity to the Lateral Ventricle Alters Neurogenic Cell Populations of the Subventricular Zone.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Ripari LB, Norton ES, Bodoque-Villar R, Jeanneret S, Lara-Velazquez M, Carrano A, Zarco N, Vazquez-Ramos CA, Qui\u00f1ones-Hinojosa A, de la Rosa-Prieto C, Guerrero-C\u00e1zares H."
+  },
+  {
+   "pmcid": "PMC7992880",
+   "pmid": "32789494",
+   "doi": "10.1093/neuonc/noaa189",
+   "title": "Functional connectivity within glioblastoma impacts overall survival.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Daniel AGS, Park KY, Roland JL, Dierker D, Gross J, Humphries JB, Hacker CD, Snyder AZ, Shimony JS, Leuthardt EC."
+  },
+  {
+   "pmcid": "PMC9252128",
+   "pmid": "35795471",
+   "doi": "10.1093/noajnl/vdac076",
+   "title": "Detection of temozolomide-induced hypermutation and response to PD-1 checkpoint inhibitor in recurrent glioblastoma.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Daniel P, Meehan B, Sabri S, Jamali F, Sarkaria JN, Choi D, Garnier D, Kitange G, Glennon KI, Paccard A, Karamchandani J, Riazalhosseini Y, Rak J, Abdulkarim B."
+  },
+  {
+   "pmcid": "PMC6116191",
+   "pmid": "30044378",
+   "doi": "10.3390/cancers10080243",
+   "title": "Activation of ERBB4 in Glioblastoma Can Contribute to Increased Tumorigenicity and Influence Therapeutic Response.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Donoghue JF, Kerr LT, Alexander NW, Greenall SA, Longano AB, Gottardo NG, Wang R, Tabar V, Adams TE, Mischel PS, Johns TG."
+  },
+  {
+   "pmcid": "PMC5552427",
+   "pmid": "28368403",
+   "doi": "10.1038/onc.2017.83",
+   "title": "HBEGF promotes gliomagenesis in the context of Ink4a/Arf and Pten loss.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Shin CH, Robinson JP, Sonnen JA, Welker AE, Yu DX, VanBrocklin MW, Holmen SL."
+  },
+  {
+   "pmcid": "PMC6971446",
+   "pmid": "31989037",
+   "doi": "10.1002/btm2.10148",
+   "title": "2D or 3D? How cell motility measurements are conserved across dimensions <i>in vitro</i> and translate <i>in vivo</i>.",
+   "journalTitle": "Bioeng Transl Med",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Galarza S, Kim H, Atay N, Peyton SR, Munson JM."
+  },
+  {
+   "pmcid": "PMC8810630",
+   "pmid": "34728525",
+   "doi": "10.1158/1078-0432.ccr-21-2225",
+   "title": "A Phase II Study of the Efficacy and Safety of Oral Selinexor in Recurrent Glioblastoma.",
+   "journalTitle": "Clin Cancer Res",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Lassman AB, Wen PY, van den Bent MJ, Plotkin SR, Walenkamp AME, Green AL, Li K, Walker CJ, Chang H, Tamir S, Henegar L, Shen Y, Alvarez MJ, Califano A, Landesman Y, Kauffman MG, Shacham S, Mau-S\u00f8rensen M."
+  },
+  {
+   "pmcid": "PMC7236386",
+   "pmid": "32642703",
+   "doi": "10.1093/noajnl/vdaa050",
+   "title": "Value of [<sup>18</sup>F]-FDG positron emission tomography in patients with recurrent glioblastoma receiving bevacizumab.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Graham MS, Krebs S, Bale T, Domfe K, Lobaugh SM, Zhang Z, Dunphy MP, Kaley T, Young RJ."
+  },
+  {
+   "pmcid": "PMC5053413",
+   "pmid": "27711187",
+   "doi": "10.1371/journal.pone.0162978",
+   "title": "Anti-Epidermal Growth Factor Receptor Gene Therapy for Glioblastoma.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Hicks MJ, Chiuchiolo MJ, Ballon D, Dyke JP, Aronowitz E, Funato K, Tabar V, Havlicek D, Fan F, Sondhi D, Kaminsky SM, Crystal RG."
+  },
+  {
+   "pmcid": "PMC9536293",
+   "pmid": "36212741",
+   "doi": "10.1093/noajnl/vdac147",
+   "title": "Targeting extracellular matrix remodeling sensitizes glioblastoma to ionizing radiation.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Thakur V, Thakur VS, Aguila B, Slepak TI, Wang M, Song W, Konai M, Mobashery S, Chang M, Rana AB, Wang D, de Freitas JT, Humayun Gultekin S, Welford SM, Ivan ME, Bedogni B."
+  },
+  {
+   "pmcid": "PMC9389424",
+   "pmid": "35990705",
+   "doi": "10.1093/noajnl/vdac111",
+   "title": "Prognostic risk stratification of gliomas using deep learning in digital pathology images.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Chunduru P, Phillips JJ, Molinaro AM."
+  },
+  {
+   "pmcid": "PMC6408961",
+   "pmid": "30742122",
+   "doi": "10.1038/s41591-018-0337-7",
+   "title": "Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma.",
+   "journalTitle": "Nat Med",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Cloughesy TF, Mochizuki AY, Orpilla JR, Hugo W, Lee AH, Davidson TB, Wang AC, Ellingson BM, Rytlewski JA, Sanders CM, Kawaguchi ES, Du L, Li G, Yong WH, Gaffey SC, Cohen AL, Mellinghoff IK, Lee EQ, Reardon DA, O'Brien BJ, Butowski NA, Nghiemphu PL, Clarke JL, Arrillaga-Romany IC, Colman H, Kaley TJ, de Groot JF, Liau LM, Wen PY, Prins RM."
+  },
+  {
+   "pmcid": "PMC7855963",
+   "pmid": "33552963",
+   "doi": "10.3389/fonc.2020.585961",
+   "title": "Prognostic Implications of Pan-Cancer CMTM6 Expression and Its Relationship with the Immune Microenvironment.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Zhao Y, Zhang M, Pu H, Guo S, Zhang S, Wang Y."
+  },
+  {
+   "pmcid": "PMC5766611",
+   "pmid": "29330365",
+   "doi": "10.1038/s41467-017-02261-1",
+   "title": "Engineered nanointerfaces for microfluidic isolation and molecular profiling of tumor-specific extracellular vesicles.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Re\u00e1tegui E, van der Vos KE, Lai CP, Zeinali M, Atai NA, Aldikacti B, Floyd FP, H Khankhel A, Thapar V, Hochberg FH, Sequist LV, Nahed BV, S Carter B, Toner M, Balaj L, T Ting D, Breakefield XO, Stott SL."
+  },
+  {
+   "pmcid": "PMC6588602",
+   "pmid": "31227783",
+   "doi": "10.1038/s41598-019-45535-y",
+   "title": "Endothelial cells promote 3D invasion of GBM by IL-8-dependent induction of cancer stem cell properties.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "McCoy MG, Nyanyo D, Hung CK, Goerger JP, R Zipfel W, Williams RM, Nishimura N, Fischbach C."
+  },
+  {
+   "pmcid": "PMC5685212",
+   "pmid": "28872634",
+   "doi": "10.1038/sdata.2017.117",
+   "title": "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features.",
+   "journalTitle": "Sci Data",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Bakas S, Akbari H, Sotiras A, Bilello M, Rozycki M, Kirby JS, Freymann JB, Farahani K, Davatzikos C."
+  },
+  {
+   "pmcid": "PMC8268924",
+   "pmid": "34244307",
+   "doi": "10.1136/jitc-2020-002267",
+   "title": "Combinatorial immunotherapy of N-803 (IL-15 superagonist) and dinutuximab with ex vivo expanded natural killer cells significantly enhances in vitro cytotoxicity against GD2<sup>+</sup> pediatric solid tumors and in vivo survival of xenografted immunodeficient NSG mice.",
+   "journalTitle": "J Immunother Cancer",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Chu Y, Nayyar G, Jiang S, Rosenblum JM, Soon-Shiong P, Safrit JT, Lee DA, Cairo MS."
+  },
+  {
+   "pmcid": "PMC8166002",
+   "pmid": "34059134",
+   "doi": "10.1186/s40478-021-01205-7",
+   "title": "Altered lipid metabolism marks glioblastoma stem and non-stem cells in separate tumor niches.",
+   "journalTitle": "Acta Neuropathol Commun",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Shakya S, Gromovsky AD, Hale JS, Knudsen AM, Prager B, Wallace LC, Penalva LOF, Brown HA, Kristensen BW, Rich JN, Lathia JD, Brown JM, Hubert CG."
+  },
+  {
+   "pmcid": "PMC7295765",
+   "pmid": "32541784",
+   "doi": "10.1038/s41467-020-16827-z",
+   "title": "Dual Role of WISP1 in maintaining glioma stem cells and tumor-supportive macrophages in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Tao W, Chu C, Zhou W, Huang Z, Zhai K, Fang X, Huang Q, Zhang A, Wang X, Yu X, Huang H, Wu Q, Sloan AE, Yu JS, Li X, Stark GR, Rich JN, Bao S."
+  },
+  {
+   "pmcid": "PMC8990014",
+   "pmid": "35393416",
+   "doi": "10.1038/s41467-022-29469-0",
+   "title": "CHMP2A regulates tumor sensitivity to natural killer cell-mediated cytotoxicity.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Bernareggi D, Xie Q, Prager BC, Yun J, Cruz LS, Pham TV, Kim W, Lee X, Coffey M, Zalfa C, Azmoon P, Zhu H, Tamayo P, Rich JN, Kaufman DS."
+  },
+  {
+   "pmcid": "PMC5976646",
+   "pmid": "29849102",
+   "doi": "10.1038/s41598-018-26840-4",
+   "title": "Combinatorial Drug Testing in 3D Microtumors Derived from GBM Patient-Derived Xenografts Reveals Cytotoxic Synergy in Pharmacokinomics-informed Pathway Interactions.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Gilbert AN, Anderson JC, Duarte CW, Shevin RS, Langford CP, Singh R, Gillespie GY, Willey CD."
+  },
+  {
+   "pmcid": "PMC7021896",
+   "pmid": "32060308",
+   "doi": "10.1038/s41598-020-59468-4",
+   "title": "Inhibition of autophagic flux differently modulates cannabidiol-induced death in 2D and 3D glioblastoma cell cultures.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Ivanov VN, Grabham PW, Wu CC, Hei TK."
+  },
+  {
+   "pmcid": "PMC6356940",
+   "pmid": "30646520",
+   "doi": "10.3390/cancers11010085",
+   "title": "Bortezomib Augments Natural Killer Cell Targeting of Stem-Like Tumor Cells.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Luna JI, Grossenbacher SK, Sturgill IR, Ames E, Judge SJ, Bouzid LA, Darrow MA, Murphy WJ, Canter RJ."
+  },
+  {
+   "pmcid": "PMC8807082",
+   "pmid": "35118381",
+   "doi": "10.1093/noajnl/vdab184",
+   "title": "Neutrophil depletion enhanced the &lt;i&gt;Clostridium novyi&lt;/i&gt;-NT therapy in mouse and rabbit tumor models.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Staedtke V, Gray-Bethke T, Liu G, Liapi E, Riggins GJ, Bai RY."
+  },
+  {
+   "pmcid": "PMC5896562",
+   "pmid": "28678782",
+   "doi": "10.1038/nature23000",
+   "title": "Transcription elongation factors represent in vivo cancer dependencies in glioblastoma.",
+   "journalTitle": "Nature",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Miller TE, Liau BB, Wallace LC, Morton AR, Xie Q, Dixit D, Factor DC, Kim LJY, Morrow JJ, Wu Q, Mack SC, Hubert CG, Gillespie SM, Flavahan WA, Hoffmann T, Thummalapalli R, Hemann MT, Paddison PJ, Horbinski CM, Zuber J, Scacheri PC, Bernstein BE, Tesar PJ, Rich JN."
+  },
+  {
+   "pmcid": "PMC6363013",
+   "pmid": "30774763",
+   "doi": "10.18632/oncotarget.26578",
+   "title": "Preoperative MRI-radiomics features improve prediction of survival in glioblastoma patients over MGMT methylation status alone.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Tixier F, Um H, Bermudez D, Iyer A, Apte A, Graham MS, Nevel KS, Deasy JO, Young RJ, Veeraraghavan H."
+  },
+  {
+   "pmcid": "PMC7416393",
+   "pmid": "32789014",
+   "doi": "10.1186/s40170-020-00215-8",
+   "title": "Glutamine uptake and utilization of human mesenchymal glioblastoma in orthotopic mouse model.",
+   "journalTitle": "Cancer Metab",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Oizel K, Yang C, Renoult O, Gautier F, Do QN, Joalland N, Gao X, Ko B, Vallette F, Ge WP, Paris F, DeBerardinis RJ, Pecqueur C."
+  },
+  {
+   "pmcid": "PMC7034639",
+   "pmid": "32118205",
+   "doi": "10.1093/noajnl/vdaa006",
+   "title": "Noninvasive quantification of SIRT1 expression-activity and pharmacologic inhibition in a rat model of intracerebral glioma using 2-[<sup>18</sup>F]BzAHA PET/CT/MRI.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Laws MT, Bonomi RE, Gelovani DJ, Llaniguez J, Lu X, Mangner T, Gelovani JG."
+  },
+  {
+   "pmcid": "PMC7060061",
+   "pmid": "32181351",
+   "doi": "10.1126/sciadv.aay7513",
+   "title": "High-resolution tomographic analysis of in vitro 3D glioblastoma tumor model under long-term drug treatment.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Ozturk MS, Lee VK, Zou H, Friedel RH, Intes X, Dai G."
+  },
+  {
+   "pmcid": "PMC6468936",
+   "pmid": "30875963",
+   "doi": "10.3390/ncrna5010025",
+   "title": "MicroRNA-451 Inhibits Migration of Glioblastoma while Making It More Susceptible to Conventional Therapy.",
+   "journalTitle": "Noncoding RNA",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Ogawa D, Ansari K, Nowicki MO, Sali\u0144ska E, Bronisz A, Godlewski J."
+  },
+  {
+   "pmcid": "PMC5345755",
+   "pmid": "28282372",
+   "doi": "10.1371/journal.pone.0170991",
+   "title": "Automated fluorescent miscroscopic image analysis of PTBP1 expression in glioma.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Kaya B, Goceri E, Becker A, Elder B, Puduvalli V, Winter J, Gurcan M, Otero JJ."
+  },
+  {
+   "pmcid": "PMC6338433",
+   "pmid": "30662373",
+   "doi": null,
+   "title": "Simultaneous Clustering and Estimation of Heterogeneous Graphical Models.",
+   "journalTitle": "J Mach Learn Res",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Hao B, Sun WW, Liu Y, Cheng G."
+  },
+  {
+   "pmcid": "PMC5081168",
+   "pmid": "27783662",
+   "doi": "10.1371/journal.pone.0165107",
+   "title": "MERTK Inhibition Induces Polyploidy and Promotes Cell Death and Cellular Senescence in Glioblastoma Multiforme.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Sufit A, Lee-Sherick AB, DeRyckere D, Rupji M, Dwivedi B, Varella-Garcia M, Pierce AM, Kowalski J, Wang X, Frye SV, Earp HS, Keating AK, Graham DK."
+  },
+  {
+   "pmcid": "PMC5986644",
+   "pmid": "29876004",
+   "doi": "10.18632/oncotarget.25347",
+   "title": "NEDD9 stimulated MMP9 secretion is required for invadopodia formation in oral squamous cell carcinoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Grauzam S, Brock AM, Holmes CO, Tiedeken JA, Boniface SG, Pierson BN, Patterson DG, Coaxum SD, Neskey DM, Rosenzweig SA."
+  },
+  {
+   "pmcid": "PMC9631060",
+   "pmid": "36109186",
+   "doi": "10.1002/advs.202201888",
+   "title": "Perivascular Stromal Cells Instruct Glioblastoma Invasion, Proliferation, and Therapeutic Response within an Engineered Brain Perivascular Niche Model.",
+   "journalTitle": "Adv Sci (Weinh)",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Ngo MT, Sarkaria JN, Harley BAC."
+  },
+  {
+   "pmcid": "PMC8500868",
+   "pmid": "34417833",
+   "doi": "10.1007/s00401-021-02354-8",
+   "title": "PATZ1 fusions define a novel molecularly distinct neuroepithelial tumor entity with a broad histological spectrum.",
+   "journalTitle": "Acta Neuropathol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Alhalabi KT, Stichel D, Sievers P, Peterziel H, Sommerkamp AC, Sturm D, Wittmann A, Sill M, J\u00e4ger N, Beck P, Pajtler KW, Snuderl M, Jour G, Delorenzo M, Martin AM, Levy A, Dalvi N, Hansford JR, Gottardo NG, Uro-Coste E, Maurage CA, Godfraind C, Vandenbos F, Pietsch T, Kramm C, Filippidou M, Kattamis A, Jones C, \u00d8ra I, Mikkelsen TS, Zapotocky M, Sumerauer D, Scheie D, McCabe M, Wesseling P, Tops BBJ, Kranendonk MEG, Karajannis MA, Bouvier N, Papaemmanuil E, Dohmen H, Acker T, von Hoff K, Schmid S, Miele E, Filipski K, Kitanovski L, Krskova L, Gojo J, Haberler C, Alvaro F, Ecker J, Selt F, Milde T, Witt O, Oehme I, Kool M, von Deimling A, Korshunov A, Pfister SM, Sahm F, Jones DTW."
+  },
+  {
+   "pmcid": "PMC5766249",
+   "pmid": "29293494",
+   "doi": "10.1371/journal.pcbi.1005924",
+   "title": "Mathematical modeling identifies optimum lapatinib dosing schedules for the treatment of glioblastoma patients.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Stein S, Zhao R, Haeno H, Vivanco I, Michor F."
+  },
+  {
+   "pmcid": "PMC6461515",
+   "pmid": "30542117",
+   "doi": "10.1038/s41388-018-0626-0",
+   "title": "Inhibition of TAZ contributes radiation-induced senescence and growth arrest in glioma cells.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Zhang L, Cheng F, Wei Y, Zhang L, Guo D, Wang B, Li W."
+  },
+  {
+   "pmcid": "PMC9282249",
+   "pmid": "35787058",
+   "doi": "10.1073/pnas.2111003119",
+   "title": "STING activation promotes robust immune response and NK cell-mediated tumor regression in glioblastoma models.",
+   "journalTitle": "Proc Natl Acad Sci U S A",
+   "pubYear": "2022",
+   "license": "cc by-nc-nd",
+   "authorString": "Berger G, Knelson EH, Jimenez-Macias JL, Nowicki MO, Han S, Panagioti E, Lizotte PH, Adu-Berchie K, Stafford A, Dimitrakakis N, Zhou L, Chiocca EA, Mooney DJ, Barbie DA, Lawler SE."
+  },
+  {
+   "pmcid": "PMC6838141",
+   "pmid": "31723547",
+   "doi": "10.7150/ntno.35342",
+   "title": "Theranostic nanoparticles enhance the response of glioblastomas to radiation.",
+   "journalTitle": "Nanotheranostics",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Wu W, Klockow JL, Mohanty S, Ku KS, Aghighi M, Melemenidis S, Chen Z, Li K, Morais GR, Zhao N, Schlegel J, Graves EE, Rao J, Loadman PM, Falconer RA, Mukherjee S, Chin FT, Daldrup-Link HE."
+  },
+  {
+   "pmcid": "PMC4839722",
+   "pmid": "27100869",
+   "doi": "10.1371/journal.pcbi.1004892",
+   "title": "Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes.",
+   "journalTitle": "PLoS Comput Biol",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Wang J, Xia S, Arand B, Zhu H, Machiraju R, Huang K, Ji H, Qian J."
+  },
+  {
+   "pmcid": "PMC4801467",
+   "pmid": "27057463",
+   "doi": "10.1080/2162402x.2015.1082027",
+   "title": "Immunotherapy for cancer in the central nervous system: Current and future directions.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Binder DC, Davis AA, Wainwright DA."
+  },
+  {
+   "pmcid": "PMC6169574",
+   "pmid": "30288347",
+   "doi": "10.1080/2162402x.2018.1484982",
+   "title": "Combination with SGT-53 overcomes tumor resistance to a checkpoint inhibitor.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2018",
+   "license": "cc by-nc-nd",
+   "authorString": "Kim SS, Harford JB, Moghe M, Rait A, Chang EH."
+  },
+  {
+   "pmcid": "PMC6063898",
+   "pmid": "30054476",
+   "doi": "10.1038/s41467-018-05373-4",
+   "title": "A novel enhancer regulates MGMT expression and promotes temozolomide resistance in glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Chen X, Zhang M, Gan H, Wang H, Lee JH, Fang D, Kitange GJ, He L, Hu Z, Parney IF, Meyer FB, Giannini C, Sarkaria JN, Zhang Z."
+  },
+  {
+   "pmcid": "PMC9527525",
+   "pmid": "35395677",
+   "doi": "10.1093/neuonc/noac089",
+   "title": "Prospective genomically guided identification of \"early/evolving\" and \"undersampled\" IDH-wildtype glioblastoma leads to improved clinical outcomes.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Zhang Y, Lucas CG, Young JS, Morshed RA, McCoy L, Oberheim Bush NA, Taylor JW, Daras M, Butowski NA, Villanueva-Meyer JE, Cha S, Wrensch M, Wiencke JK, Lee JC, Pekmezci M, Phillips JJ, Perry A, Bollen AW, Aghi MK, Theodosopoulos P, Chang EF, Hervey-Jumper SL, Berger MS, Clarke JL, Chang SM, Molinaro AM, Solomon DA."
+  },
+  {
+   "pmcid": "PMC8534002",
+   "pmid": "34685601",
+   "doi": "10.3390/cells10102621",
+   "title": "Measuring the Metabolic Evolution of Glioblastoma throughout Tumor Development, Regression, and Recurrence with Hyperpolarized Magnetic Resonance.",
+   "journalTitle": "Cells",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Salzillo TC, Mawoneke V, Weygand J, Shetty A, Gumin J, Zacharias NM, Gammon ST, Piwnica-Worms D, Fuller GN, Logothetis CJ, Lang FF, Bhattacharya PK."
+  },
+  {
+   "pmcid": "PMC5059456",
+   "pmid": "27698350",
+   "doi": "10.1038/ncomms12885",
+   "title": "A regulatory circuit of miR-125b/miR-20b and Wnt signalling controls glioblastoma phenotypes through FZD6-modulated pathways.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Huang T, Alvarez AA, Pangeni RP, Horbinski CM, Lu S, Kim SH, James CD, J Raizer J, A Kessler J, Brenann CW, Sulman EP, Finocchiaro G, Tan M, Nishikawa R, Lu X, Nakano I, Hu B, Cheng SY."
+  },
+  {
+   "pmcid": "PMC5400565",
+   "pmid": "28416744",
+   "doi": "10.18632/oncotarget.15486",
+   "title": "Real-time near-infrared fluorescence imaging using cRGD-ZW800-1 for intraoperative visualization of multiple cancer types.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Handgraaf HJM, Boonstra MC, Prevoo HAJM, Kuil J, Bordo MW, Boogerd LSF, Sibinga Mulder BG, Sier CFM, Vinkenburg-van Slooten ML, Valentijn ARPM, Burggraaf J, van de Velde CJH, Frangioni JV, Vahrmeijer AL."
+  },
+  {
+   "pmcid": "PMC5597577",
+   "pmid": "28904399",
+   "doi": "10.1038/s41598-017-11914-6",
+   "title": "Semaphorin 3\u2009C drives epithelial-to-mesenchymal transition, invasiveness, and stem-like characteristics in prostate cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Tam KJ, Hui DHF, Lee WW, Dong M, Tombe T, Jiao IZF, Khosravi S, Takeuchi A, Peacock JW, Ivanova L, Moskalev I, Gleave ME, Buttyan R, Cox ME, Ong CJ."
+  },
+  {
+   "pmcid": "PMC9629431",
+   "pmid": "35511454",
+   "doi": "10.1093/neuonc/noac116",
+   "title": "Phase III trial of chemoradiotherapy with temozolomide plus nivolumab or placebo for newly diagnosed glioblastoma with methylated MGMT promoter.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Lim M, Weller M, Idbaih A, Steinbach J, Finocchiaro G, Raval RR, Ansstas G, Baehring J, Taylor JW, Honnorat J, Petrecca K, De Vos F, Wick A, Sumrall A, Sahebjam S, Mellinghoff IK, Kinoshita M, Roberts M, Slepetis R, Warad D, Leung D, Lee M, Reardon DA, Omuro A."
+  },
+  {
+   "pmcid": "PMC7903462",
+   "pmid": "33665625",
+   "doi": "10.1016/j.xpro.2021.100345",
+   "title": "Generation of glioblastoma patient-derived organoids and mouse brain orthotopic xenografts for drug screening.",
+   "journalTitle": "STAR Protoc",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Gamboa CM, Jara K, Pamarthy S, Liu L, Aiken R, Xiong Z, Danish S, Sabaawy HE."
+  },
+  {
+   "pmcid": "PMC5887505",
+   "pmid": "29529299",
+   "doi": "10.1093/nar/gky131",
+   "title": "The association between copy number aberration, DNA methylation and gene expression in tumor samples.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Sun W, Bunn P, Jin C, Little P, Zhabotynsky V, Perou CM, Hayes DN, Chen M, Lin DY."
+  },
+  {
+   "pmcid": "PMC6685102",
+   "pmid": "31417550",
+   "doi": "10.3389/fimmu.2019.01767",
+   "title": "Examining Peripheral and Tumor Cellular Immunome in Patients With Cancer.",
+   "journalTitle": "Front Immunol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Holl EK, Frazier VN, Landa K, Beasley GM, Hwang ES, Nair SK."
+  },
+  {
+   "pmcid": "PMC7677841",
+   "pmid": "33208156",
+   "doi": "10.1186/s12974-020-02026-6",
+   "title": "Crosstalk between microglia and patient-derived glioblastoma cells inhibit invasion in a three-dimensional gelatin hydrogel model.",
+   "journalTitle": "J Neuroinflammation",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Chen JE, Lumibao J, Leary S, Sarkaria JN, Steelman AJ, Gaskins HR, Harley BAC."
+  },
+  {
+   "pmcid": "PMC6829263",
+   "pmid": "31590360",
+   "doi": "10.3390/cells8101203",
+   "title": "Acetylcholine Receptor Activation as a Modulator of Glioblastoma Invasion.",
+   "journalTitle": "Cells",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Thompson EG, Sontheimer H."
+  },
+  {
+   "pmcid": "PMC5815062",
+   "pmid": "29202181",
+   "doi": "10.1093/nar/gkx1221",
+   "title": "Targeted nanocomplex carrying siRNA against MALAT1 sensitizes glioblastoma to temozolomide.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Kim SS, Harford JB, Moghe M, Rait A, Pirollo KF, Chang EH."
+  },
+  {
+   "pmcid": "PMC9005724",
+   "pmid": "35414673",
+   "doi": "10.1038/s41598-022-10129-8",
+   "title": "Separation of U87 glioblastoma cell-derived small and medium extracellular vesicles using elasto-inertial flow focusing (a spiral channel).",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Shiri F, Feng H, Petersen KE, Sant H, Bardi GT, Schroeder LA, Merchant ML, Gale BK, Hood JL."
+  },
+  {
+   "pmcid": "PMC9468105",
+   "pmid": "35945463",
+   "doi": "10.1007/s00401-022-02478-5",
+   "title": "Multiplatform molecular analyses refine classification of gliomas arising in patients with neurofibromatosis type 1.",
+   "journalTitle": "Acta Neuropathol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Lucas CG, Sloan EA, Gupta R, Wu J, Pratt D, Vasudevan HN, Ravindranathan A, Barreto J, Williams EA, Shai A, Whipple NS, Bruggers CS, Maher O, Nabors B, Rodriguez M, Samuel D, Brown M, Carmichael J, Lu R, Mirchia K, Sullivan DV, Pekmezci M, Tihan T, Bollen AW, Perry A, Banerjee A, Mueller S, Gupta N, Hervey-Jumper SL, Oberheim Bush NA, Daras M, Taylor JW, Butowski NA, de Groot J, Clarke JL, Raleigh DR, Costello JF, Phillips JJ, Reddy AT, Chang SM, Berger MS, Solomon DA."
+  },
+  {
+   "pmcid": "PMC8699921",
+   "pmid": "34943886",
+   "doi": "10.3390/cells10123378",
+   "title": "Proliferating CD8<sup>+</sup> T Cell Infiltrates Are Associated with Improved Survival in Glioblastoma.",
+   "journalTitle": "Cells",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Mauldin IS, Jo J, Wages NA, Yogendran LV, Mahmutovic A, Young SJ, Lopes MB, Slingluff CL, Erickson LD, Fadul CE."
+  },
+  {
+   "pmcid": "PMC4976202",
+   "pmid": "27485204",
+   "doi": "10.1038/ncomms12431",
+   "title": "PKM2 dephosphorylation by Cdc25A promotes the Warburg effect and tumorigenesis.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Liang J, Cao R, Zhang Y, Xia Y, Zheng Y, Li X, Wang L, Yang W, Lu Z."
+  },
+  {
+   "pmcid": "PMC6777503",
+   "pmid": "31608328",
+   "doi": "10.1093/noajnl/vdz009",
+   "title": "GITRL-armed Delta-24-RGD oncolytic adenovirus prolongs survival and induces anti-glioma immune memory.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Rivera-Molina Y, Jiang H, Fueyo J, Nguyen T, Shin DH, Youssef G, Fan X, Gumin J, Alonso MM, Phadnis S, Lang FF, Gomez-Manzano C."
+  },
+  {
+   "pmcid": "PMC5882303",
+   "pmid": "29662612",
+   "doi": "10.18632/oncotarget.19335",
+   "title": "Exploiting mitochondrial and metabolic homeostasis as a vulnerability in NF1 deficient cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Allaway RJ, Wood MD, Downey SL, Bouley SJ, Traphagen NA, Wells JD, Batra J, Melancon SN, Ringelberg C, Seibel W, Ratner N, Sanchez Y."
+  },
+  {
+   "pmcid": "PMC7337927",
+   "pmid": "32463457",
+   "doi": "10.1093/nar/gkaa398",
+   "title": "PolyA-miner: accurate assessment of differential alternative poly-adenylation from 3'Seq data using vector projections and non-negative matrix factorization.",
+   "journalTitle": "Nucleic Acids Res",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Yalamanchili HK, Alcott CE, Ji P, Wagner EJ, Zoghbi HY, Liu Z."
+  },
+  {
+   "pmcid": "PMC6450460",
+   "pmid": "30930246",
+   "doi": "10.1016/j.stemcr.2019.02.012",
+   "title": "Stearoyl CoA Desaturase Is Essential for Regulation of Endoplasmic Reticulum Homeostasis and Tumor Growth in Glioblastoma Cancer Stem\u00a0Cells.",
+   "journalTitle": "Stem Cell Reports",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Pinkham K, Park DJ, Hashemiaghdam A, Kirov AB, Adam I, Rosiak K, da Hora CC, Teng J, Cheah PS, Carvalho L, Ganguli-Indra G, Kelly A, Indra AK, Badr CE."
+  },
+  {
+   "pmcid": "PMC6904446",
+   "pmid": "31822682",
+   "doi": "10.1038/s41598-019-54286-9",
+   "title": "Genomic Landscape of Intramedullary Spinal Cord Gliomas.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Zhang M, Iyer RR, Azad TD, Wang Q, Garzon-Muvdi T, Wang J, Liu A, Burger P, Eberhart C, Rodriguez FJ, Sciubba DM, Wolinsky JP, Gokaslan Z, Groves ML, Jallo GI, Bettegowda C."
+  },
+  {
+   "pmcid": "PMC8301402",
+   "pmid": "34356844",
+   "doi": "10.3390/biomedicines9070780",
+   "title": "MicroRNA-138 Increases Chemo-Sensitivity of Glioblastoma through Downregulation of Survivin.",
+   "journalTitle": "Biomedicines",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Yoo JY, Yeh M, Wang YY, Oh C, Zhao ZM, Kaur B, Lee TJ."
+  },
+  {
+   "pmcid": "PMC4730860",
+   "pmid": "26824076",
+   "doi": "10.1126/sciadv.1501292",
+   "title": "Targeting NF-\u03baB in glioblastoma: A therapeutic approach.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2016",
+   "license": "cc by-nc",
+   "authorString": "Friedmann-Morvinski D, Narasimamurthy R, Xia Y, Myskiw C, Soda Y, Verma IM."
+  },
+  {
+   "pmcid": "PMC5760520",
+   "pmid": "29317703",
+   "doi": "10.1038/s41598-017-18540-2",
+   "title": "Modeling tumor immunity of mouse glioblastoma by exhausted CD8<sup>+</sup> T cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Nakashima H, Alayo QA, Penaloza-MacMaster P, Freeman GJ, Kuchroo VK, Reardon DA, Fernandez S, Caligiuri M, Chiocca EA."
+  },
+  {
+   "pmcid": "PMC4726202",
+   "pmid": "26804704",
+   "doi": "10.1038/srep18953",
+   "title": "Induction of cell death by the novel proteasome inhibitor marizomib in glioblastoma in vitro and in vivo.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Manton CA, Johnson B, Singh M, Bailey CP, Bouchier-Hayes L, Chandra J."
+  },
+  {
+   "pmcid": "PMC5238458",
+   "pmid": "28092823",
+   "doi": "10.1016/j.neo.2016.12.011",
+   "title": "pH, Lactate, and Hypoxia: Reciprocity in Regulating High-Affinity Monocarboxylate Transporter Expression in Glioblastoma.",
+   "journalTitle": "Neoplasia",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Caruso JP, Koch BJ, Benson PD, Varughese E, Monterey MD, Lee AE, Dave AM, Kiousis S, Sloan AE, Mathupala SP."
+  },
+  {
+   "pmcid": "PMC8856626",
+   "pmid": "34731610",
+   "doi": "10.1016/j.celrep.2021.109957",
+   "title": "Targeting glioblastoma signaling and metabolism with a re-purposed brain-penetrant drug.",
+   "journalTitle": "Cell Rep",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Bi J, Khan A, Tang J, Armando AM, Wu S, Zhang W, Gimple RC, Reed A, Jing H, Koga T, Wong IT, Gu Y, Miki S, Yang H, Prager B, Curtis EJ, Wainwright DA, Furnari FB, Rich JN, Cloughesy TF, Kornblum HI, Quehenberger O, Rzhetsky A, Cravatt BF, Mischel PS."
+  },
+  {
+   "pmcid": "PMC5902741",
+   "pmid": "29692731",
+   "doi": "10.3389/fphar.2018.00340",
+   "title": "Differential Toxicity of mDia Formin-Directed Functional Agonists and Antagonists in Developing Zebrafish.",
+   "journalTitle": "Front Pharmacol",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "LeCorgne H, Tudosie AM, Lavik K, Su R, Becker KN, Moore S, Walia Y, Wisner A, Koehler D, Alberts AS, Williams FE, Eisenmann KM."
+  },
+  {
+   "pmcid": "PMC4808011",
+   "pmid": "26575950",
+   "doi": "10.18632/oncotarget.6314",
+   "title": "Atracurium Besylate and other neuromuscular blocking agents promote astroglial differentiation and deplete glioblastoma stem cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Spina R, Voss DM, Asnaghi L, Sloan A, Bar EE."
+  },
+  {
+   "pmcid": "PMC7289245",
+   "pmid": "32548292",
+   "doi": "10.18383/j.tom.2019.00029",
+   "title": "Radiomic Features of Multiparametric MRI Present Stable Associations With Analogous Histological Features in Patients With Brain Cancer.",
+   "journalTitle": "Tomography",
+   "pubYear": "2020",
+   "license": "cc by-nc-nd",
+   "authorString": "Bobholz SA, Lowman AK, Barrington A, Brehler M, McGarry S, Cochran EJ, Connelly J, Mueller WM, Agarwal M, O'Neill D, Nencka AS, Banerjee A, LaViolette PS."
+  },
+  {
+   "pmcid": "PMC7005303",
+   "pmid": "32029822",
+   "doi": "10.1038/s41598-020-58919-2",
+   "title": "Screening of potential miRNA therapeutics for the prevention of multi-drug resistance in cancer cells.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Medarova Z, Pantazopoulos P, Yoo B."
+  },
+  {
+   "pmcid": "PMC5666319",
+   "pmid": "28759044",
+   "doi": "10.1038/onc.2017.261",
+   "title": "Inhibition of colony stimulating factor-1 receptor abrogates microenvironment-mediated therapeutic resistance in gliomas.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Yan D, Kowal J, Akkari L, Schuhmacher AJ, Huse JT, West BL, Joyce JA."
+  },
+  {
+   "pmcid": "PMC6535376",
+   "pmid": "30475349",
+   "doi": "10.1038/nbt.4302",
+   "title": "An oncolytic herpesvirus expressing E-cadherin improves survival in mouse models of glioblastoma.",
+   "journalTitle": "Nat Biotechnol",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Xu B, Ma R, Russell L, Yoo JY, Han J, Cui H, Yi P, Zhang J, Nakashima H, Dai H, Chiocca EA, Kaur B, Caligiuri MA, Yu J."
+  },
+  {
+   "pmcid": "PMC6521049",
+   "pmid": "30987208",
+   "doi": "10.3390/cancers11040466",
+   "title": "Proteomic Analysis Implicates Vimentin in Glioblastoma Cell Migration.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Nowicki MO, Hayes JL, Chiocca EA, Lawler SE."
+  },
+  {
+   "pmcid": "PMC5668041",
+   "pmid": "29108308",
+   "doi": "10.18632/oncotarget.17837",
+   "title": "A phase 2 study of the first imipridone ONC201, a selective DRD2 antagonist for oncology, administered every three weeks in recurrent glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Arrillaga-Romany I, Chi AS, Allen JE, Oster W, Wen PY, Batchelor TT."
+  },
+  {
+   "pmcid": "PMC5241103",
+   "pmid": "28105468",
+   "doi": "10.18383/j.tom.2016.00187",
+   "title": "Simulating the Effect of Spectroscopic MRI as a Metric for Radiation Therapy Planning in Patients with Glioblastoma.",
+   "journalTitle": "Tomography",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Cordova JS, Kandula S, Gurbani S, Zhong J, Tejani M, Kayode O, Patel K, Prabhu R, Schreibmann E, Crocker I, Holder CA, Shim H, Shu HK."
+  },
+  {
+   "pmcid": "PMC6881905",
+   "pmid": "31807732",
+   "doi": "10.1093/noajnl/vdz030",
+   "title": "Rapid and ultrasensitive digital PCR (dPCR) profiling of EGFRvIII in tumor cells and tissues.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Saxena D, Sheikh S, Kao G, Binder ZA, Alonso-Basanta M, O'Rourke DM, Nasrallah MP, Dorsey JF."
+  },
+  {
+   "pmcid": "PMC7831112",
+   "pmid": "33477536",
+   "doi": "10.3390/md19010041",
+   "title": "Topsentinol L Trisulfate, a Marine Natural Product That Targets Basal-like and Claudin-Low Breast Cancers.",
+   "journalTitle": "Mar Drugs",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "El-Chaar NN, Smith TE, Shrestha G, Piccolo SR, Harper MK, Van Wagoner RM, Lu Z, Venancio AR, Ireland CM, Bild AH, Moos PJ."
+  },
+  {
+   "pmcid": "PMC5612804",
+   "pmid": "28942218",
+   "doi": "10.1016/j.tranon.2017.08.009",
+   "title": "Characterization of Metabolic, Diffusion, and Perfusion Properties in GBM: Contrast-Enhancing versus Non-Enhancing Tumor.",
+   "journalTitle": "Transl Oncol",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Autry A, Phillips JJ, Maleschlijski S, Roy R, Molinaro AM, Chang SM, Cha S, Lupo JM, Nelson SJ."
+  },
+  {
+   "pmcid": "PMC9360428",
+   "pmid": "35941215",
+   "doi": "10.1038/s41698-022-00294-4",
+   "title": "A single-cell based precision medicine approach using glioblastoma patient-specific models.",
+   "journalTitle": "NPJ Precis Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Park JH, Feroze AH, Emerson SN, Mihalas AB, Keene CD, Cimino PJ, de Lomana ALG, Kannan K, Wu WJ, Turkarslan S, Baliga NS, Patel AP."
+  },
+  {
+   "pmcid": "PMC6843001",
+   "pmid": "31750239",
+   "doi": "10.3389/fonc.2019.01119",
+   "title": "Tissues Harvested Using an Automated Surgical Approach Confirm Molecular Heterogeneity of Glioblastoma and Enhance Specimen's Translational Research Value.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Zusman E, Sidorov M, Ayala A, Chang J, Singer E, Chen M, Desprez PY, McAllister S, Salomonis N, Chetal K, Prasad G, Kang T, Mark J, Dickinson L, Soroceanu L."
+  },
+  {
+   "pmcid": "PMC6770789",
+   "pmid": "31540485",
+   "doi": "10.3390/cancers11091392",
+   "title": "TWIST1 Heterodimerization with E12 Requires Coordinated Protein Phosphorylation to Regulate Periostin Expression.",
+   "journalTitle": "Cancers (Basel)",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Mikheeva SA, Camp ND, Huang L, Jain A, Jung SY, Avci NG, Tokita M, Wolf-Yadlin A, Zhang J, Tapscott SJ, Rostomily RC, Mikheev AM."
+  },
+  {
+   "pmcid": "PMC8192788",
+   "pmid": "34112916",
+   "doi": "10.1038/s42003-021-02258-z",
+   "title": "Macropinocytosis requires Gal-3 in a subset of patient-derived glioblastoma stem cells.",
+   "journalTitle": "Commun Biol",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Seguin L, Odouard S, Corlazzoli F, Haddad SA, Moindrot L, Calvo Tard\u00f3n M, Yebra M, Koval A, Marinari E, Bes V, Gu\u00e9rin A, Allard M, Ilmj\u00e4rv S, Katanaev VL, Walker PR, Krause KH, Dutoit V, Sarkaria JN, Dietrich PY, Cosset \u00c9."
+  },
+  {
+   "pmcid": "PMC5311075",
+   "pmid": "27524414",
+   "doi": "10.1038/onc.2016.271",
+   "title": "Stat3 contributes to cancer progression by regulating Jab1/Csn5 expression.",
+   "journalTitle": "Oncogene",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Pan Y, Wang S, Su B, Zhou F, Zhang R, Xu T, Zhang R, Leventaki V, Drakos E, Liu W, Claret FX."
+  },
+  {
+   "pmcid": "PMC9154335",
+   "pmid": "35664553",
+   "doi": "10.1093/noajnl/vdac041",
+   "title": "Phase I/randomized phase II trial of TRC105 plus bevacizumab versus bevacizumab in recurrent glioblastoma: North Central Cancer Treatment Group N1174 (Alliance).",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "cc by-nc",
+   "authorString": "Galanis E, Anderson SK, Twohy E, Butowski NA, Hormigo A, Schiff D, Omuro A, Jaeckle KA, Kumar S, Kaufmann TJ, Geyer S, Kumthekar PU, Campian J, Giannini C, Buckner JC, Wen PY."
+  },
+  {
+   "pmcid": "PMC8690937",
+   "pmid": "34987650",
+   "doi": "10.7150/thno.65597",
+   "title": "Sonobiopsy for minimally invasive, spatiotemporally-controlled, and sensitive detection of glioblastoma-derived circulating tumor DNA.",
+   "journalTitle": "Theranostics",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Pacia CP, Yuan J, Yue Y, Xu L, Nazeri A, Desai R, Gach HM, Wang X, Talcott MR, Chaudhuri AA, Dunn GP, Leuthardt EC, Chen H."
+  },
+  {
+   "pmcid": "PMC5470095",
+   "pmid": "28528698",
+   "doi": "10.1016/j.stemcr.2017.04.024",
+   "title": "MicroRNA Signatures and Molecular Subtypes of Glioblastoma: The Role of Extracellular Transfer.",
+   "journalTitle": "Stem Cell Reports",
+   "pubYear": "2017",
+   "license": "cc by-nc-nd",
+   "authorString": "Godlewski J, Ferrer-Luna R, Rooj AK, Mineo M, Ricklefs F, Takeda YS, Nowicki MO, Sali\u0144ska E, Nakano I, Lee H, Weissleder R, Beroukhim R, Chiocca EA, Bronisz A."
+  },
+  {
+   "pmcid": "PMC5400620",
+   "pmid": "28423515",
+   "doi": "10.18632/oncotarget.15566",
+   "title": "Preclinical therapeutic efficacy of a novel blood-brain barrier-penetrant dual PI3K/mTOR inhibitor with preferential response in PI3K/PTEN mutant glioma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Koul D, Wang S, Wu S, Saito N, Zheng S, Gao F, Kaul I, Setoguchi M, Nakayama K, Koyama K, Shiose Y, Sulman EP, Hirota Y, Yung WKA."
+  },
+  {
+   "pmcid": "PMC8092340",
+   "pmid": "33953843",
+   "doi": "10.18632/oncotarget.27933",
+   "title": "Creation of a new class of radiosensitizers for glioblastoma based on the mibefradil pharmacophore.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2021",
+   "license": "cc by",
+   "authorString": "Paradkar S, Herrington J, Hendricson A, Hewawasam P, Plummer M, Hoyer D, Sundaram RK, Surovtseva YV, Bindra RS."
+  },
+  {
+   "pmcid": "PMC5029636",
+   "pmid": "26981778",
+   "doi": "10.18632/oncotarget.8030",
+   "title": "ABCG1 maintains high-grade glioma survival in vitro and in vivo.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Chen YH, Cimino PJ, Luo J, Dahiya S, Gutmann DH."
+  },
+  {
+   "pmcid": "PMC9575333",
+   "pmid": "35108202",
+   "doi": "10.1109/tmi.2022.3148780",
+   "title": "Radiomic Deformation and Textural Heterogeneity (R-DepTH) Descriptor to Characterize Tumor Field Effect: Application to Survival Prediction in Glioblastoma.",
+   "journalTitle": "IEEE Trans Med Imaging",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Ismail M, Prasanna P, Bera K, Statsevych V, Hill V, Singh G, Partovi S, Beig N, McGarry S, Laviolette P, Ahluwalia M, Madabhushi A, Tiwari P."
+  },
+  {
+   "pmcid": "PMC7746944",
+   "pmid": "32459347",
+   "doi": "10.1093/neuonc/noaa127",
+   "title": "Deregulated expression of the imprinted DLK1-DIO3 region in glioblastoma stemlike cells: tumor suppressor role of lncRNA MEG3.",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2020",
+   "license": "cc by-nc",
+   "authorString": "Buccarelli M, Lulli V, Giuliani A, Signore M, Martini M, D'Alessandris QG, Giannetti S, Novelli A, Ilari R, Giurato G, Boe A, Castellani G, Spartano S, Marangi G, Biffoni M, Genuardi M, Pallini R, Marziali G, Ricci-Vitiani L."
+  },
+  {
+   "pmcid": "PMC7591536",
+   "pmid": "33110073",
+   "doi": "10.1038/s41467-020-19193-y",
+   "title": "Neutrophil-induced ferroptosis promotes tumor necrosis in glioblastoma progression.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Yee PP, Wei Y, Kim SY, Lu T, Chih SY, Lawson C, Tang M, Liu Z, Anderson B, Thamburaj K, Young MM, Aregawi DG, Glantz MJ, Zacharia BE, Specht CS, Wang HG, Li W."
+  },
+  {
+   "pmcid": "PMC4740908",
+   "pmid": "26830441",
+   "doi": "10.1038/ncomms10593",
+   "title": "Therapeutically engineered induced neural stem cells are tumour-homing and inhibit progression of glioblastoma.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2016",
+   "license": "cc by",
+   "authorString": "Bag\u00f3 JR, Alfonso-Pecchio A, Okolie O, Dumitru R, Rinkenbaugh A, Baldwin AS, Miller CR, Magness ST, Hingtgen SD."
+  },
+  {
+   "pmcid": "PMC6019044",
+   "pmid": "28903484",
+   "doi": "10.1093/jnci/djx166",
+   "title": "Novel Role of FBXW7 Circular RNA in Repressing Glioma Tumorigenesis.",
+   "journalTitle": "J Natl Cancer Inst",
+   "pubYear": "2018",
+   "license": "cc by-nc",
+   "authorString": "Yang Y, Gao X, Zhang M, Yan S, Sun C, Xiao F, Huang N, Yang X, Zhao K, Zhou H, Huang S, Xie B, Zhang N."
+  },
+  {
+   "pmcid": "PMC6783693",
+   "pmid": "31468706",
+   "doi": "10.15252/emmm.201910769",
+   "title": "Activation of LXR\u03b2 inhibits tumor respiration and is synthetically lethal with Bcl-xL inhibition.",
+   "journalTitle": "EMBO Mol Med",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Nguyen TTT, Ishida CT, Shang E, Shu C, Torrini C, Zhang Y, Bianchetti E, Sanchez-Quintero MJ, Kleiner G, Quinzii CM, Westhoff MA, Karpel-Massler G, Canoll P, Siegelin MD."
+  },
+  {
+   "pmcid": "PMC6788733",
+   "pmid": "31603915",
+   "doi": "10.1371/journal.pone.0222717",
+   "title": "Adverse prognosis of glioblastoma contacting the subventricular zone: Biological correlates.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Berendsen S, van Bodegraven E, Seute T, Spliet WGM, Geurts M, Hendrikse J, Schoysman L, Huiszoon WB, Varkila M, Rouss S, Bell EH, Kroonen J, Chakravarti A, Bours V, Snijders TJ, Robe PA."
+  },
+  {
+   "pmcid": "PMC6038689",
+   "pmid": "30046513",
+   "doi": "10.1155/2018/5917470",
+   "title": "Metformin Treatment Inhibits Motility and Invasion of Glioblastoma Cancer Cells.",
+   "journalTitle": "Anal Cell Pathol (Amst)",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Al Hassan M, Fakhoury I, El Masri Z, Ghazale N, Dennaoui R, El Atat O, Kanaan A, El-Sibai M."
+  },
+  {
+   "pmcid": "PMC7767991",
+   "pmid": "33381018",
+   "doi": "10.3389/fncom.2020.563439",
+   "title": "Can Tumor Location on Pre-treatment MRI Predict Likelihood of Pseudo-Progression vs. Tumor Recurrence in Glioblastoma?-A Feasibility Study.",
+   "journalTitle": "Front Comput Neurosci",
+   "pubYear": "2020",
+   "license": "cc by",
+   "authorString": "Ismail M, Hill V, Statsevych V, Mason E, Correa R, Prasanna P, Singh G, Bera K, Thawani R, Ahluwalia M, Madabhushi A, Tiwari P."
+  },
+  {
+   "pmcid": "PMC6260722",
+   "pmid": "30482222",
+   "doi": "10.1186/s13059-018-1576-0",
+   "title": "Linking single-cell measurements of mass, growth rate, and gene expression.",
+   "journalTitle": "Genome Biol",
+   "pubYear": "2018",
+   "license": "cc by",
+   "authorString": "Kimmerling RJ, Prakadan SM, Gupta AJ, Calistri NL, Stevens MM, Olcum S, Cermak N, Drake RS, Pelton K, De Smet F, Ligon KL, Shalek AK, Manalis SR."
+  },
+  {
+   "pmcid": "PMC9273968",
+   "pmid": "35837107",
+   "doi": "10.3389/fonc.2022.934638",
+   "title": "A Prospective, Cohort Study of SITOIGANAP to Treat Glioblastoma When Given in Combination With Granulocyte-Macrophage Colony-Stimulating Factor/Cyclophosphamide/Bevacizumab/Nivolumab or Granulocyte-Macrophage Colony-Stimulating Factor/Cyclophosphamide/Bevacizumab/Pembrolizumab in Patients Who Failed Prior Treatment With Surgical Resection, Radiation, and Temozolomide.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Bota DA, Taylor TH, Lomeli N, Kong XT, Fu BD, Sch\u00f6nthal AH, Singer S, Blumenthal DT, Senecal FM, Linardou H, Rokas E, Antoniou DG, Schijns VEJC, Chen TC, Elliot J, Stathopoulos A."
+  },
+  {
+   "pmcid": "PMC8541707",
+   "pmid": "34704036",
+   "doi": "10.1093/noajnl/vdab132",
+   "title": "ELTD1 as a multi-focal target for malignant gliomas: preclinical studies.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Zalles M, Smith N, Saunders D, Guzman M, Lerner M, Fung KM, Babu A, Battiste J, Chung J, Hwang K, Jin J, Towner RA."
+  },
+  {
+   "pmcid": "PMC6916634",
+   "pmid": "31430423",
+   "doi": "10.1002/stem.3081",
+   "title": "Bcl2-Expressing Quiescent Type B Neural Stem Cells in the Ventricular-Subventricular Zone Are Resistant to Concurrent Temozolomide/X-Irradiation.",
+   "journalTitle": "Stem Cells",
+   "pubYear": "2019",
+   "license": "cc by-nc",
+   "authorString": "Cameron BD, Traver G, Roland JT, Brockman AA, Dean D, Johnson L, Boyd K, Ihrie RA, Freeman ML."
+  },
+  {
+   "pmcid": "PMC8430372",
+   "pmid": "34553031",
+   "doi": "10.1016/j.omto.2021.07.009",
+   "title": "Treatment of glioblastoma with current oHSV variants reveals differences in efficacy and immune cell recruitment.",
+   "journalTitle": "Mol Ther Oncolytics",
+   "pubYear": "2021",
+   "license": "cc by-nc-nd",
+   "authorString": "Jackson JW, Hall BL, Marzulli M, Shah VK, Bailey L, Chiocca EA, Goins WF, Kohanbash G, Cohen JB, Glorioso JC."
+  },
+  {
+   "pmcid": "PMC6418088",
+   "pmid": "30872624",
+   "doi": "10.1038/s41598-019-40327-w",
+   "title": "CHD4 regulates the DNA damage response and RAD51 expression in glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "McKenzie LD, LeClair JW, Miller KN, Strong AD, Chan HL, Oates EL, Ligon KL, Brennan CW, Chheda MG."
+  },
+  {
+   "pmcid": "PMC5514897",
+   "pmid": "28415755",
+   "doi": "10.18632/oncotarget.16202",
+   "title": "Mitochondrial matrix chaperone and c-myc inhibition causes enhanced lethality in glioblastoma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "cc by",
+   "authorString": "Ishida CT, Shu C, Halatsch ME, Westhoff MA, Altieri DC, Karpel-Massler G, Siegelin MD."
+  },
+  {
+   "pmcid": "PMC6422384",
+   "pmid": "30906654",
+   "doi": "10.1080/2162402x.2018.1561106",
+   "title": "Detection of neoantigen-specific T cells following a personalized vaccine in a patient with glioblastoma.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2019",
+   "license": "cc by-nc-nd",
+   "authorString": "Johanns TM, Miller CA, Liu CJ, Perrin RJ, Bender D, Kobayashi DK, Campian JL, Chicoine MR, Dacey RG, Huang J, Fritsch EF, Gillanders WE, Artyomov MN, Mardis ER, Schreiber RD, Dunn GP."
+  },
+  {
+   "pmcid": "PMC6599391",
+   "pmid": "31253799",
+   "doi": "10.1038/s41467-019-10912-8",
+   "title": "A high-throughput screening and computation platform for identifying synthetic promoters with enhanced cell-state specificity (SPECS).",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Wu MR, Nissim L, Stupp D, Pery E, Binder-Nissim A, Weisinger K, Enghuus C, Palacios SR, Humphrey M, Zhang Z, Maria Novoa E, Kellis M, Weiss R, Rabkin SD, Tabach Y, Lu TK."
+  },
+  {
+   "pmcid": "PMC8086242",
+   "pmid": "33959716",
+   "doi": "10.1093/noajnl/vdab041",
+   "title": "Temozolomide chronotherapy in patients with glioblastoma: a retrospective single-institute study.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2021",
+   "license": "cc by-nc",
+   "authorString": "Damato AR, Luo J, Katumba RGN, Talcott GR, Rubin JB, Herzog ED, Campian JL."
+  },
+  {
+   "pmcid": "PMC6399311",
+   "pmid": "30854231",
+   "doi": "10.1038/s41420-019-0155-9",
+   "title": "Sustained NF-\u03baB-STAT3 signaling promotes resistance to Smac mimetics in Glioma stem-like cells but creates a vulnerability to EZH2 inhibition.",
+   "journalTitle": "Cell Death Discov",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "da Hora CC, Pinkham K, Carvalho L, Zinter M, Tabet E, Nakano I, Tannous BA, Badr CE."
+  },
+  {
+   "pmcid": "PMC6344513",
+   "pmid": "30674979",
+   "doi": "10.1038/s41598-018-37390-0",
+   "title": "In vivo assessment of increased oxidation of branched-chain amino acids in glioblastoma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "cc by",
+   "authorString": "Suh EH, Hackett EP, Wynn RM, Chuang DT, Zhang B, Luo W, Sherry AD, Park JM."
+  },
+  {
+   "pmcid": "PMC9338058",
+   "pmid": "35906273",
+   "doi": "10.1038/s41698-022-00290-8",
+   "title": "A patient-designed tissue-engineered model of the infiltrative glioblastoma microenvironment.",
+   "journalTitle": "NPJ Precis Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Cornelison RC, Yuan JX, Tate KM, Petrosky A, Beeghly GF, Bloomfield M, Schwager SC, Berr AL, Stine CA, Cimini D, Bafakih FF, Mandell JW, Purow BW, Horton BJ, Munson JM."
+  },
+  {
+   "pmcid": "PMC9196939",
+   "pmid": "35712497",
+   "doi": "10.3389/fonc.2022.885480",
+   "title": "Distinguishing Tumor Admixed in a Radiation Necrosis (RN) Background: <sup>1</sup>H and <sup>2</sup>H MR With a Novel Mouse Brain-Tumor/RN Model.",
+   "journalTitle": "Front Oncol",
+   "pubYear": "2022",
+   "license": "cc by",
+   "authorString": "Ge X, Song KH, Engelbach JA, Yuan L, Gao F, Dahiya S, Rich KM, Ackerman JJH, Garbow JR."
+  },
+  {
+   "pmcid": "PMC8989389",
+   "pmid": "35402914",
+   "doi": "10.1093/noajnl/vdac012",
+   "title": "Malignant glioma subset from actuate 1801: Phase I/II study of 9-ING-41, GSK-3\u03b2 inhibitor, monotherapy or combined with chemotherapy for refractory malignancies.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Odia Y, Cavalcante L, Safran H, Powell SF, Munster PN, Ma WW, Carneiro BA, Bastos BR, Mikrut S, Mikrut W, Giles FJ, Sahebjam S."
+  },
+  {
+   "pmcid": "PMC7920530",
+   "pmid": "33681764",
+   "doi": "10.1093/noajnl/vdaa149",
+   "title": "The glutamine antagonist prodrug JHU-083 slows malignant glioma growth and disrupts mTOR signaling.",
+   "journalTitle": "Neurooncol Adv",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Yamashita AS, da Costa Rosa M, Stumpo V, Rais R, Slusher BS, Riggins GJ."
+  },
+  {
+   "pmcid": "PMC9099860",
+   "pmid": "35563520",
+   "doi": "10.3390/ijms23095129",
+   "title": "Pharmacologic Tumor PDL1 Depletion with Cefepime or Ceftazidime Promotes DNA Damage and Sensitivity to DNA-Damaging Agents.",
+   "journalTitle": "Int J Mol Sci",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Murray C, Galvan E, Ontiveros C, Deng Y, Bai H, Padron AS, Hinchee-Rodriguez K, Garcia MG, Kornepati A, Conejo-Garcia J, Curiel TJ."
+  },
+  {
+   "pmcid": "PMC8773151",
+   "pmid": "35052688",
+   "doi": "10.3390/biomedicines10010009",
+   "title": "Drug Resistance in Glioma Cells Induced by a Mesenchymal-Amoeboid Migratory Switch.",
+   "journalTitle": "Biomedicines",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Ketchen SE, Gamboa-Esteves FO, Lawler SE, Nowicki MO, Rohwedder A, Knipp S, Prior S, Short SC, Ladbury JE, Br\u00fcning-Richardson A."
+  },
+  {
+   "pmcid": "PMC8113440",
+   "pmid": "33976133",
+   "doi": "10.1038/s41467-021-22885-8",
+   "title": "Targeting Treg cells with GITR activation alleviates resistance to immunotherapy in murine glioblastomas.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Amoozgar Z, Kloepper J, Ren J, Tay RE, Kazer SW, Kiner E, Krishnan S, Posada JM, Ghosh M, Mamessier E, Wong C, Ferraro GB, Batista A, Wang N, Badeaux M, Roberge S, Xu L, Huang P, Shalek AK, Fukumura D, Kim HJ, Jain RK."
+  },
+  {
+   "pmcid": "PMC6637128",
+   "pmid": "31316099",
+   "doi": "10.1038/s41598-019-45902-9",
+   "title": "Speckle modulation enables high-resolution wide-field human brain tumor margin detection and in vivo murine neuroimaging.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2019",
+   "license": "",
+   "authorString": "Yecies D, Liba O, SoRelle ED, Dutta R, Yuan E, Vogel H, Grant GA, de la Zerda A."
+  },
+  {
+   "pmcid": "PMC5842038",
+   "pmid": "29532035",
+   "doi": "10.1126/sciadv.aar2766",
+   "title": "Immune evasion mediated by PD-L1 on glioblastoma-derived extracellular vesicles.",
+   "journalTitle": "Sci Adv",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Ricklefs FL, Alayo Q, Krenzlin H, Mahmoud AB, Speranza MC, Nakashima H, Hayes JL, Lee K, Balaj L, Passaro C, Rooj AK, Krasemann S, Carter BS, Chen CC, Steed T, Treiber J, Rodig S, Yang K, Nakano I, Lee H, Weissleder R, Breakefield XO, Godlewski J, Westphal M, Lamszus K, Freeman GJ, Bronisz A, Lawler SE, Chiocca EA."
+  },
+  {
+   "pmcid": "PMC6251439",
+   "pmid": "30538967",
+   "doi": "10.2147/ov.s179335",
+   "title": "Oncolytic myxoma virus synergizes with standard of care for treatment of glioblastoma multiforme.",
+   "journalTitle": "Oncolytic Virother",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Burton C, Das A, McDonald D, Vandergrift WA, Patel SJ, Cachia D, Bartee E."
+  },
+  {
+   "pmcid": "PMC5813209",
+   "pmid": "29445239",
+   "doi": "10.1038/s41598-018-21358-1",
+   "title": "The Urokinase Receptor Induces a Mesenchymal Gene Expression Signature in Glioblastoma Cells and Promotes Tumor Cell Survival in Neurospheres.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Gilder AS, Natali L, Van Dyk DM, Zalfa C, Banki MA, Pizzo DP, Wang H, Klemke RL, Mantuano E, Gonias SL."
+  },
+  {
+   "pmcid": "PMC8080729",
+   "pmid": "33911148",
+   "doi": "10.1038/s41598-021-88615-8",
+   "title": "MicroRNA-138 suppresses glioblastoma proliferation through downregulation of CD44.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Yeh M, Wang YY, Yoo JY, Oh C, Otani Y, Kang JM, Park ES, Kim E, Chung S, Jeon YJ, Calin GA, Kaur B, Zhao Z, Lee TJ."
+  },
+  {
+   "pmcid": "PMC5342141",
+   "pmid": "27713131",
+   "doi": "10.18632/oncotarget.12458",
+   "title": "Discovery of cell surface vimentin targeting mAb for direct disruption of GBM tumor initiating cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2016",
+   "license": "",
+   "authorString": "Noh H, Yan J, Hong S, Kong LY, Gabrusiewicz K, Xia X, Heimberger AB, Li S."
+  },
+  {
+   "pmcid": "PMC6128481",
+   "pmid": "30192821",
+   "doi": "10.1371/journal.pone.0203290",
+   "title": "Failure to detect functional transfer of active K-Ras protein from extracellular vesicles into recipient cells in culture.",
+   "journalTitle": "PLoS One",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Luhtala N, Hunter T."
+  },
+  {
+   "pmcid": "PMC5361089",
+   "pmid": "28327577",
+   "doi": "10.1038/srep44792",
+   "title": "Metabolic Profiling of IDH Mutation and Malignant Progression in Infiltrating Glioma.",
+   "journalTitle": "Sci Rep",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Jalbert LE, Elkhaled A, Phillips JJ, Neill E, Williams A, Crane JC, Olson MP, Molinaro AM, Berger MS, Kurhanewicz J, Ronen SM, Chang SM, Nelson SJ."
+  },
+  {
+   "pmcid": "PMC7229248",
+   "pmid": "31844890",
+   "doi": "10.1093/neuonc/noz232",
+   "title": "A randomized controlled phase III study of VB-111 combined with bevacizumab vs bevacizumab monotherapy in patients with recurrent glioblastoma (GLOBE).",
+   "journalTitle": "Neuro Oncol",
+   "pubYear": "2020",
+   "license": "",
+   "authorString": "Cloughesy TF, Brenner A, de Groot JF, Butowski NA, Zach L, Campian JL, Ellingson BM, Freedman LS, Cohen YC, Lowenton-Spier N, Rachmilewitz Minei T, Fain Shmueli S, GLOBE Study Investigators, Wen PY."
+  },
+  {
+   "pmcid": "PMC5458248",
+   "pmid": "28423669",
+   "doi": "10.18632/oncotarget.15991",
+   "title": "The novel long non-coding RNA TALNEC2, regulates tumor cell growth and the stemness and radiation response of glioma stem cells.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Brodie S, Lee HK, Jiang W, Cazacu S, Xiang C, Poisson LM, Datta I, Kalkanis S, Ginsberg D, Brodie C."
+  },
+  {
+   "pmcid": "PMC5889290",
+   "pmid": "29632728",
+   "doi": "10.1080/2162402x.2017.1412909",
+   "title": "Glioblastoma stem cell-derived exosomes induce M2 macrophages and PD-L1 expression on human monocytes.",
+   "journalTitle": "Oncoimmunology",
+   "pubYear": "2018",
+   "license": "",
+   "authorString": "Gabrusiewicz K, Li X, Wei J, Hashimoto Y, Marisetty AL, Ott M, Wang F, Hawke D, Yu J, Healy LM, Hossain A, Akers JC, Maiti SN, Yamashita S, Shimizu Y, Dunner K, Zal MA, Burks JK, Gumin J, Nwajei F, Rezavanian A, Zhou S, Rao G, Sawaya R, Fuller GN, Huse JT, Antel JP, Li S, Cooper L, Sulman EP, Chen C, Geula C, Kalluri R, Zal T, Heimberger AB."
+  },
+  {
+   "pmcid": "PMC7806473",
+   "pmid": "33456558",
+   "doi": "10.7150/thno.54928",
+   "title": "Structurally symmetric near-infrared fluorophore IRDye78-protein complex enables multimodal cancer imaging.",
+   "journalTitle": "Theranostics",
+   "pubYear": "2021",
+   "license": "",
+   "authorString": "Yang J, Zhao C, Lim J, Zhao L, Tourneau RL, Zhang Q, Dobson D, Joshi S, Pang J, Zhang X, Pal S, Andreou C, Zhang H, Kircher MF, Schmitthenner H."
+  },
+  {
+   "pmcid": "PMC5355046",
+   "pmid": "27074575",
+   "doi": "10.18632/oncotarget.8657",
+   "title": "Analysis of the inhibitors of apoptosis identifies BIRC3 as a facilitator of malignant progression in glioma.",
+   "journalTitle": "Oncotarget",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Gressot LV, Doucette T, Yang Y, Fuller GN, Manyam G, Rao A, Latha K, Rao G."
+  },
+  {
+   "pmcid": "PMC9142563",
+   "pmid": "35637733",
+   "doi": "10.1016/j.isci.2022.104395",
+   "title": "Agent-based computational modeling of glioblastoma predicts that stromal density is central to oncolytic virus efficacy.",
+   "journalTitle": "iScience",
+   "pubYear": "2022",
+   "license": "",
+   "authorString": "Jenner AL, Smalley M, Goldman D, Goins WF, Cobbs CS, Puchalski RB, Chiocca EA, Lawler S, Macklin P, Goldman A, Craig M."
+  },
+  {
+   "pmcid": "PMC5454541",
+   "pmid": "28524852",
+   "doi": "10.1038/ncomms15322",
+   "title": "Surface chemistry governs cellular tropism of nanoparticles in the brain.",
+   "journalTitle": "Nat Commun",
+   "pubYear": "2017",
+   "license": "",
+   "authorString": "Song E, Gaudin A, King AR, Seo YE, Suh HW, Deng Y, Cui J, Tietjen GT, Huttner A, Saltzman WM."
+  }
+ ]
+}

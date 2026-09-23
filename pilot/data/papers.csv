@@ -1,0 +1,301 @@
+pmcid,journal,year,license,fetch,n_files,n_dataset_files,n_small_tables,n_figures,n_docs,verdict,kinds,title
+PMC6294341,Nat Commun,2018,cc by,ok,10,6,0,0,4,dataset_large,mixed;numeric,Drug and disease signature integration identifies synergistic combinations in glioblastoma.
+PMC6303422,Neuro Oncol,2019,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"Safety and efficacy of depatuxizumab mafodotin + temozolomide in patients with EGFR-amplified, recurrent glioblastoma: results from an international phase I multicenter trial."
+PMC5537714,Mol Oncol,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Dovitinib enhances temozolomide efficacy in glioblastoma cells.
+PMC8694557,Cancer Res Commun,2021,cc by,ok,1,0,1,0,0,small_table,,Sex- and mutation-specific p53 gain-of-function activity in gliomagenesis.
+PMC8072233,Proc Natl Acad Sci U S A,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Brd4-bound enhancers drive cell-intrinsic sex differences in glioblastoma.
+PMC5589661,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,CDK4/6 inhibition is more active against the glioblastoma proneural subtype.
+PMC8183210,J Immunother Cancer,2021,cc by,ok,11,0,0,0,11,no_tabular_data,,Deep immune profiling reveals targetable mechanisms of immune evasion in immune checkpoint inhibitor-refractory glioblastoma.
+PMC5708878,NPJ Precis Oncol,2017,cc by,ok,1,0,1,0,0,small_table,,Early changes in glioblastoma metabolism measured by MR spectroscopic imaging during combination of anti-angiogenic cediranib and chemoradiation therapy are associated with survival.
+PMC7516378,Mol Syst Biol,2020,cc by,ok,5,2,0,0,3,dataset_medium,omics,Integrated regulatory models for inference of subtype-specific susceptibilities in glioblastoma.
+PMC8455367,Mol Ther Oncolytics,2021,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,MicroRNA-detargeting proves more effective than <i>leader</i> gene deletion for improving safety of oncolytic Mengovirus in a nude mouse model.
+PMC7705378,Front Oncol,2020,cc by,ok,1,0,1,0,0,small_table,,Assessment of Prognostic Value of Cystic Features in Glioblastoma Relative to Sex and Treatment With Standard-of-Care.
+PMC8938495,Nat Commun,2022,cc by,ok,4,0,0,0,3,no_tabular_data,,Fatty acid oxidation fuels glioblastoma radioresistance with CD47-mediated immune evasion.
+PMC9415780,Metabolites,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Effect of Expression of Nuclear-Encoded Cytochrome C Oxidase Subunit 4 Isoforms on Metabolic Profiles of Glioma Cells.
+PMC6938467,J Neurooncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,"A Phase Ib/II, open-label, multicenter study of INC280 (capmatinib) alone and in combination with buparlisib (BKM120) in adult patients with recurrent glioblastoma."
+PMC7680176,Neurooncol Adv,2020,cc by-nc,ok,2,1,0,0,1,dataset_medium,mixed,RNAi technology targeting the &lt;i&gt;FGFR3-TACC3&lt;/i&gt; fusion breakpoint: an opportunity for precision medicine.
+PMC5858166,Theranostics,2018,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,The role of PTRF/Cavin1 as a biomarker in both glioma and serum exosomes.
+PMC7744081,Sci Adv,2020,cc by-nc,ok,6,3,0,0,2,dataset_large,numeric;omics,The nuclear DICER-circular RNA complex drives the deregulation of the glioblastoma cell microRNAome.
+PMC9388138,Proc Natl Acad Sci U S A,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Engineered IL13 variants direct specificity of IL13Rα2-targeted CAR T cell therapy.
+PMC6399291,Cell Death Dis,2019,cc by,ok,6,0,0,0,6,no_tabular_data,,Cellular energy stress induces AMPK-mediated regulation of glioblastoma cell proliferation by PIKE-A phosphorylation.
+PMC7855796,Nat Biomed Eng,2021,,ok,1,0,0,0,1,no_tabular_data,,A microfluidic cell-migration assay for the prediction of progression-free survival and recurrence time of patients with glioblastoma.
+PMC8410792,Nat Commun,2021,cc by,ok,4,0,0,0,3,no_tabular_data,,Aurora kinase A inhibition reverses the Warburg effect and elicits unique metabolic vulnerabilities in glioblastoma.
+PMC6192988,Nat Commun,2018,cc by,ok,2,0,0,0,2,no_tabular_data,,Lin<sup>-</sup>CCR2<sup>+</sup> hematopoietic stem and progenitor cells overcome resistance to PD-1 blockade.
+PMC8953329,Pharmaceutics,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,An Evaluation of CXCR4 Targeting with PAMAM Dendrimer Conjugates for Oncologic Applications.
+PMC7549116,iScience,2020,cc by-nc-nd,ok,5,0,0,0,1,no_tabular_data,,Lipid Droplets Maintain Energy Homeostasis and Glioblastoma Growth via Autophagic Release of Stored Fatty Acids.
+PMC8809358,J Biomed Opt,2022,cc by,ok,3,0,0,0,1,no_tabular_data,,First in patient assessment of brain tumor infiltrative margins using simultaneous time-resolved measurements of 5-ALA-induced PpIX fluorescence and tissue autofluorescence.
+PMC5753254,Nucleic Acids Res,2018,cc by-nc,ok,1,0,1,0,0,small_table,,TC3A: The Cancer 3' UTR Atlas.
+PMC6987220,Nat Commun,2020,cc by,ok,8,3,1,0,4,dataset_large,mixed;omics,Longitudinal assessment of tumor development using cancer avatars derived from genetically engineered pluripotent stem cells.
+PMC5464843,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Ccl5 establishes an autocrine high-grade glioma growth regulatory circuit critical for mesenchymal glioblastoma survival.
+PMC5078085,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeting of glioblastoma cell lines and glioma stem cells by combined PIM kinase and PI3K-p110α inhibition.
+PMC5682287,Nat Commun,2017,cc by,ok,2,0,0,0,2,no_tabular_data,,TRIM24 is an oncogenic transcriptional co-activator of STAT3 in glioblastoma.
+PMC8865426,Cell Rep Methods,2022,cc by,ok,3,1,1,0,1,dataset_medium,omics,Detecting molecular subtypes from multi-omics datasets using SUMO.
+PMC9133650,J Biol Chem,2022,cc by,ok,2,0,0,0,2,no_tabular_data,,Activation of the adhesion G protein-coupled receptor GPR133 by antibodies targeting its N-terminus.
+PMC8181388,Front Oncol,2021,cc by,ok,1,0,1,0,0,small_table,,Label-Free Macroscopic Fluorescence Lifetime Imaging of Brain Tumors.
+PMC7464128,Molecules,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Imaging of Fibroblast Activation Protein Alpha Expression in a Preclinical Mouse Model of Glioma Using Positron Emission Tomography.
+PMC5777496,Neuro Oncol,2018,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Phase II study of cabozantinib in patients with progressive glioblastoma: subset analysis of patients naive to antiangiogenic therapy.
+PMC5653749,Sci Rep,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Canonical NFκB signaling in myeloid cells is required for the glioblastoma growth.
+PMC7424213,iScience,2020,cc by-nc-nd,ok,3,1,0,0,1,dataset_medium,numeric,Glioblastoma-Derived Extracellular Vesicles Facilitate Transformation of Astrocytes via Reprogramming Oncogenic Metabolism.
+PMC6249307,Nat Commun,2018,cc by,ok,5,3,0,0,2,dataset_large,numeric;omics,Integrated mapping of pharmacokinetics and pharmacodynamics in a patient-derived xenograft model of glioblastoma.
+PMC5409528,PLoS One,2017,cc0,ok,1,0,0,0,1,no_tabular_data,,Specific blockade of Rictor-mTOR association inhibits mTORC2 activity and is cytotoxic in glioblastoma.
+PMC8193903,Neurooncol Adv,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,MR spectroscopic imaging predicts early response to anti-angiogenic therapy in recurrent glioblastoma.
+PMC5865692,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Calpastatin phosphorylation regulates radiation-induced calpain activity in glioblastoma.
+PMC5444266,Brief Bioinform,2017,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Comparative evaluation of isoform-level gene expression estimation algorithms for RNA-seq and exon-array platforms.
+PMC5739739,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,WEE1 epigenetically modulates 5-hmC levels by pY37-H2B dependent regulation of <i>IDH2</i> gene expression.
+PMC7738877,Theranostics,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Blocking NHE1 stimulates glioma tumor immunity by restoring OXPHOS function of myeloid cells.
+PMC5384647,Nature,2016,,ok,3,1,1,0,1,dataset_medium,mixed,An ID2-dependent mechanism for VHL inactivation in cancer.
+PMC9033827,Nat Commun,2022,cc by,ok,8,5,0,0,3,dataset_large,mixed;numeric;omics,ZNF117 regulates glioblastoma stem cell differentiation towards oligodendroglial lineage.
+PMC6174845,Mol Ther Oncolytics,2018,cc by-nc-nd,ok,4,0,0,0,2,no_tabular_data,,Checkpoint Blockade Reverses Anergy in IL-13Rα2 Humanized scFv-Based CAR T Cells to Treat Murine and Canine Gliomas.
+PMC9700385,Neurooncol Adv,2022,cc by,ok,3,0,0,0,3,no_tabular_data,,Glioma stem cells activate platelets by plasma-independent thrombin production to promote glioblastoma tumorigenesis.
+PMC4914999,Sci Rep,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Down-regulation of HSP60 Suppresses the Proliferation of Glioblastoma Cells via the ROS/AMPK/mTOR Pathway.
+PMC5564707,Oncotarget,2017,cc by,ok,3,1,1,0,1,dataset_large,omics,ZNF131 suppresses centrosome fragmentation in glioblastoma stem-like cells through regulation of HAUS5.
+PMC6624304,Sci Rep,2019,cc by,ok,1,0,1,0,0,small_table,,Integration of machine learning and mechanistic models accurately predicts variation in cell density of glioblastoma using multiparametric MRI.
+PMC6286748,Oxid Med Cell Longev,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,"NQO1 Is Regulated by PTEN in Glioblastoma, Mediating Cell Proliferation and Oxidative Stress."
+PMC6033343,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Comparative molecular characterization of typical and exceptional responders in glioblastoma.
+PMC5042015,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Cdc2-like kinase 2 is a key regulator of the cell cycle via FOXO3a/p27 in glioblastoma.
+PMC7083912,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Glioblastoma infiltration of both tumor- and virus-antigen specific cytotoxic T cells correlates with experimental virotherapy responses.
+PMC8136167,Genome Med,2021,cc by,ok,4,2,1,0,1,dataset_large,omics,Single-cell characterization of macrophages in glioblastoma reveals MARCO as a mesenchymal pro-tumor marker.
+PMC8920333,J Clin Invest,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,ADAR1-mediated RNA editing links ganglioside catabolism to glioblastoma stem cell maintenance.
+PMC9370342,Nanomaterials (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Anti-Fn14-Conjugated Prussian Blue Nanoparticles as a Targeted Photothermal Therapy Agent for Glioblastoma.
+PMC5854509,Oncogene,2018,,ok,1,0,0,0,1,no_tabular_data,,LPA signaling is regulated through the primary cilium: a novel target in glioblastoma.
+PMC7162859,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Enhancing Brain Retention of a KIF11 Inhibitor Significantly Improves its Efficacy in a Mouse Model of Glioblastoma.
+PMC5696472,Sci Rep,2017,cc by,ok,1,1,0,0,0,dataset_medium,numeric,Yeast display biopanning identifies human antibodies targeting glioblastoma stem-like cells.
+PMC9308199,BMC Med Imaging,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,SAFARI: shape analysis for AI-segmented images.
+PMC9413444,ACS Nano,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"Signature Effects of Vector-Guided Systemic Nano Bioconjugate Delivery Across Blood-Brain Barrier of Normal, Alzheimer's, and Tumor Mouse Models."
+PMC6193287,Acta Neuropathol Commun,2018,cc by,ok,3,1,1,0,1,dataset_medium,clinical,TERT promoter wild-type glioblastomas show distinct clinical features and frequent PI3K pathway mutations.
+PMC5140055,PLoS Med,2016,cc by,ok,8,6,1,0,1,dataset_large,numeric;omics,Expression of lncRNAs in Low-Grade Gliomas and Glioblastoma Multiforme: An In Silico Analysis.
+PMC8186478,Mol Syst Biol,2021,cc by,too_large,0,0,0,0,0,no_supp_retrieved,,Neural G0: a quiescent-like state found in neuroepithelial-derived cells and glioma.
+PMC6197705,EBioMedicine,2018,cc by-nc-nd,ok,2,1,0,0,1,dataset_medium,omics,Cells isolated from residual intracranial tumors after treatment express iPSC genes and possess neural lineage differentiation plasticity.
+PMC6478916,Commun Biol,2019,cc by,ok,9,6,0,0,3,dataset_large,clinical;numeric;omics,The combination of neoantigen quality and T lymphocyte infiltrates identifies glioblastomas with the longest survival.
+PMC8727395,Support Care Cancer,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Caregiver burden by treatment and clinical characteristics of patients with glioblastoma.
+PMC6791439,Oncoimmunology,2019,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Human Mesenchymal glioblastomas are characterized by an increased immune cell presence compared to Proneural and Classical tumors.
+PMC6923885,Front Comput Neurosci,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Multivariate Analysis of Preoperative Magnetic Resonance Imaging Reveals Transcriptomic Classification of <i>de novo</i> Glioblastoma Patients.
+PMC8783091,iScience,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,PEGylated talazoparib enhances therapeutic window of its combination with temozolomide in Ewing sarcoma.
+PMC8826782,Neurooncol Adv,2022,cc by,ok,5,1,3,0,1,dataset_medium,omics,Multivariate analysis of associations between clinical sequencing and outcome in glioblastoma.
+PMC4948782,PLoS Genet,2016,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Fragment Length of Circulating Tumor DNA.
+PMC6251232,Transl Oncol,2019,cc by-nc-nd,ok,2,1,0,1,0,dataset_medium,omics,OKN-007 Increases temozolomide (TMZ) Sensitivity and Suppresses TMZ-Resistant Glioblastoma (GBM) Tumor Growth.
+PMC6158293,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Longitudinal Patterns in Clinical and Imaging Measurements Predict Residual Survival in Glioblastoma Patients.
+PMC6446059,Front Pharmacol,2019,cc by,empty,0,0,0,0,0,no_supp_retrieved,,"The Coincidence Between Increasing Age, Immunosuppression, and the Incidence of Patients With Glioblastoma."
+PMC9221513,Cancers (Basel),2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Therapeutic Vulnerability to ATR Inhibition in Concurrent &lt;i&gt;NF1&lt;/i&gt; and &lt;i&gt;ATRX&lt;/i&gt;-Deficient/ALT-Positive High-Grade Solid Tumors.
+PMC5361403,Nat Cell Biol,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Tissue mechanics promote IDH1-dependent HIF1α-tenascin C feedback to regulate glioblastoma aggression.
+PMC8802188,ACS Cent Sci,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Multielectrode Spectroscopy Enables Rapid and Sensitive Molecular Profiling of Extracellular Vesicles.
+PMC6892608,Cell Rep,2018,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Glioblastoma Model Using Human Cerebral Organoids.
+PMC5758516,Sci Rep,2018,cc by,ok,2,1,1,0,0,dataset_medium,mixed,Radiogenomic analysis of hypoxia pathway is predictive of overall survival in Glioblastoma.
+PMC5308671,Oncotarget,2016,cc by,ok,2,1,1,0,0,dataset_medium,omics,Therapeutic relevance of the protein phosphatase 2A in cancer.
+PMC8424128,Mol Ther Oncolytics,2021,cc by-nc-nd,ok,3,2,1,0,0,dataset_large,mixed;numeric,Diversity in responses to oncolytic Lassa-vesicular stomatitis virus in patient-derived glioblastoma cells.
+PMC4615268,Oncogene,2016,,ok,1,0,0,0,1,no_tabular_data,,IGFBP2 potentiates nuclear EGFR-STAT3 signaling.
+PMC5863989,PLoS One,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Presence of stromal cells in a bioengineered tumor microenvironment alters glioblastoma migration and response to STAT3 inhibition.
+PMC7718261,Sci Rep,2020,cc by,ok,1,1,0,0,0,dataset_medium,omics,An integrated approach to biomarker discovery reveals gene signatures highly predictive of cancer progression.
+PMC7376246,Nat Commun,2020,cc by,ok,9,0,0,0,5,no_tabular_data,,Murine models of IDH-wild-type glioblastoma exhibit spatial segregation of tumor initiation and manifestation during evolution.
+PMC7707548,PLoS Genet,2020,cc by,ok,20,4,7,0,8,dataset_medium,numeric,Inhibition of the de novo pyrimidine biosynthesis pathway limits ribosomal RNA transcription causing nucleolar stress in glioblastoma cells.
+PMC6925027,Oncotarget,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,EGFR806-CAR T cells selectively target a tumor-restricted EGFR epitope in glioblastoma.
+PMC6066211,PLoS One,2018,cc0,ok,4,0,0,0,3,no_tabular_data,,Bayesian variable selection with graphical structure learning: Applications in integrative genomics.
+PMC8566473,Nat Commun,2021,cc by,ok,6,1,1,0,3,dataset_large,numeric,Competitive binding of E3 ligases TRIM26 and WWP2 controls SOX2 in glioblastoma.
+PMC4763994,PLoS One,2016,cc by,ok,2,0,0,1,1,no_tabular_data,,Comparative Analysis of Technologies for Quantifying Extracellular Vesicles (EVs) in Clinical Cerebrospinal Fluids (CSF).
+PMC6531306,Theranostics,2019,cc by-nc,ok,1,1,0,0,0,dataset_medium,omics,Inhibition of protein disulfide isomerase in glioblastoma causes marked downregulation of DNA repair and DNA damage response genes.
+PMC6979491,Neurooncol Adv,2020,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,MCT4 regulates de novo pyrimidine biosynthesis in GBM in a lactate-independent manner.
+PMC9676504,J Extracell Vesicles,2022,cc by-nc,ok,6,4,0,0,2,dataset_large,mixed;omics,Glioblastoma-derived extracellular vesicle subpopulations following 5-aminolevulinic acid treatment bear diagnostic implications.
+PMC8186561,Radiother Oncol,2021,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Intravoxel incoherent motion (IVIM) modeling of diffusion MRI during chemoradiation predicts therapeutic response in IDH wildtype glioblastoma.
+PMC5374737,BMC Med Genomics,2017,cc by,ok,15,1,2,11,1,dataset_large,omics,Revealing cancer subtypes with higher-order correlations applied to imaging and omics data.
+PMC7239929,Sci Rep,2020,cc by,ok,2,0,0,0,1,tables_only,,IRE1α and IGF signaling predict resistance to an endoplasmic reticulum stress-inducing drug in glioblastoma cells.
+PMC8753448,J Immunother Cancer,2022,cc by-nc,ok,8,0,0,0,8,no_tabular_data,,Systemic high-dose dexamethasone treatment may modulate the efficacy of intratumoral viral oncolytic immunotherapy in glioblastoma models.
+PMC7281415,Cancers (Basel),2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Novel Gene Fusions in Glioblastoma Tumor Tissue and Matched Patient Plasma.
+PMC9191661,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,ok,2,0,1,0,0,small_table,,A predictive microfluidic model of human glioblastoma to assess trafficking of blood-brain barrier-penetrant nanoparticles.
+PMC9743090,J Med Chem,2022,cc by,ok,2,0,0,0,1,no_tabular_data,,Induction of Ferroptosis in Glioblastoma and Ovarian Cancers by a New Pyrrole Tubulin Assembly Inhibitor.
+PMC7408354,Cells,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeted Brain Tumor Therapy by Inhibiting the MDM2 Oncogene: In Vitro and In Vivo Antitumor Activity and Mechanism of Action.
+PMC7464568,Antioxidants (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Oxidative Stress-Part of the Solution or Part of the Problem in the Hypoxic Environment of a Brain Tumor.
+PMC6952969,Cells,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Mechanism-Specific Pharmacodynamics of a Novel Complex-I Inhibitor Quantified by Imaging Reversal of Consumptive Hypoxia with [<sup>18</sup>F]FAZA PET <i>In Vivo</i>.
+PMC6604352,Stem Cells Int,2019,cc by,ok,1,0,0,0,0,no_tabular_data,,Chemotherapeutic Stress Induces Transdifferentiation of Glioblastoma Cells to Endothelial Cells and Promotes Vascular Mimicry.
+PMC4991399,Oncotarget,2016,cc by,ok,1,0,0,0,0,tables_only,,miR-340 predicts glioblastoma survival and modulates key cancer hallmarks through down-regulation of NRAS.
+PMC9617949,Nat Commun,2022,cc by,ok,13,6,2,0,4,dataset_large,numeric,Neuronal CaMKK2 promotes immunosuppression and checkpoint blockade resistance in glioblastoma.
+PMC5342491,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,GBM-associated mutations and altered protein expression are more common in young patients.
+PMC9092641,Neurooncol Adv,2022,cc by-nc,ok,1,1,0,0,0,dataset_medium,numeric,Mitochondrial 1555 G&gt;A variant as a potential risk factor for childhood glioblastoma.
+PMC5133638,Nat Commun,2016,cc by,ok,8,6,0,0,2,dataset_large,mixed;numeric;omics,5-Hydroxymethylcytosine localizes to enhancer elements and is associated with survival in glioblastoma patients.
+PMC9134932,CNS Oncol,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,A first-in-human Phase I trial of the oral p-STAT3 inhibitor WP1066 in patients with recurrent malignant glioma.
+PMC7083893,Nat Commun,2020,cc by,ok,4,1,0,0,3,dataset_medium,numeric,Therapeutic modulation of phagocytosis in glioblastoma can activate both innate and adaptive antitumour immunity.
+PMC8452737,Nat Commun,2021,cc by,ok,7,3,1,0,3,dataset_medium,numeric,Peak learning of mass spectrometry imaging data using artificial neural networks.
+PMC4891078,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Detection rate of actionable mutations in diverse cancers using a biopsy-free (blood) circulating tumor cell DNA assay.
+PMC7747479,RSC Adv,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Targeting intracranial patient-derived glioblastoma (GBM) with a NIR-I fluorescent immunoconjugate for facilitating its image-guided resection.
+PMC8215292,J Biol Chem,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Functional impact of intramolecular cleavage and dissociation of adhesion G protein-coupled receptor GPR133 (ADGRD1) on canonical signaling.
+PMC5292791,BMC Genomics,2017,cc by,ok,2,1,1,0,0,dataset_medium,omics,A machine learning classifier trained on cancer transcriptomes detects NF1 inactivation signal in glioblastoma.
+PMC5865162,Sci Rep,2018,cc by,ok,1,0,0,0,0,tables_only,,"Radiomic MRI signature reveals three distinct subtypes of glioblastoma with different clinical and molecular characteristics, offering prognostic value beyond IDH1."
+PMC8246372,J Immunother Cancer,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,IFN-γ- and IL-17-producing CD8<sup>+</sup> T (Tc17-1) cells in combination with poly-ICLC and peptide vaccine exhibit antiglioma activity.
+PMC6742368,PLoS One,2019,cc by,ok,2,1,0,0,1,dataset_large,numeric,PRC2 activates interferon-stimulated genes indirectly by repressing miRNAs in glioblastoma.
+PMC8471762,Cancers (Basel),2021,cc by,ok,1,0,0,0,0,no_tabular_data,,The Translocator Protein (<i>TSPO</i>) Genetic Polymorphism A147T Is Associated with Worse Survival in Male Glioblastoma Patients.
+PMC7345837,Neurooncol Adv,2020,cc by-nc,ok,2,0,1,0,1,small_table,,Current usage of tumor treating fields for glioblastoma.
+PMC5630302,Oncotarget,2017,cc by,ok,2,1,0,0,1,dataset_medium,omics,Notch signaling regulates metabolic heterogeneity in glioblastoma stem cells.
+PMC6219037,Cilia,2018,cc by,ok,12,0,0,0,0,no_tabular_data,,Glioma cell proliferation is enhanced in the presence of tumor-derived cilia vesicles.
+PMC7471621,iScience,2020,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Glioblastoma Utilizes Fatty Acids and Ketone Bodies for Growth Allowing Progression during Ketogenic Diet Therapy.
+PMC9220673,Biomedicines,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,High-Frequency Irreversible Electroporation (H-FIRE) Induced Blood-Brain Barrier Disruption Is Mediated by Cytoskeletal Remodeling and Changes in Tight Junction Protein Regulation.
+PMC6441047,Cell Death Dis,2019,cc by,ok,1,1,0,0,0,dataset_medium,omics,Interleukin-8/CXCR2 signaling regulates therapy-induced plasticity and enhances tumorigenicity in glioblastoma.
+PMC7195524,EBioMedicine,2020,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Radiation-induced extracellular vesicle (EV) release of miR-603 promotes IGF1-mediated stem cell state in glioblastomas.
+PMC6874607,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,"A new model isolates glioblastoma clonal interactions and reveals unexpected modes for regulating motility, proliferation, and drug resistance."
+PMC8974362,PNAS Nexus,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,The endosomal pH regulator NHE9 is a driver of stemness in glioblastoma.
+PMC7281616,Cancers (Basel),2020,cc by,ok,1,0,0,0,0,no_tabular_data,,Hypoxic Roadmap of Glioblastoma-Learning about Directions and Distances in the Brain Tumor Environment.
+PMC8187342,Nat Commun,2021,cc by,ok,3,1,0,0,2,dataset_medium,numeric,Synergistic immunotherapy of glioblastoma by dual targeting of IL-6 and CD40.
+PMC5762567,Oncotarget,2017,cc by,ok,2,0,0,0,2,no_tabular_data,,MicroRNA203a suppresses glioma tumorigenesis through an ATM-dependent interferon response pathway.
+PMC7458656,Oncoimmunology,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,IDH-mutant gliomas harbor fewer regulatory T cells in humans and mice.
+PMC7688136,PLoS One,2020,cc by,ok,4,3,0,0,1,dataset_medium,clinical;mixed;numeric,Correlation of genetic alterations by whole-exome sequencing with clinical outcomes of glioblastoma patients from the Lebanese population.
+PMC7727139,BMC Cancer,2020,cc by,ok,8,0,0,0,8,no_tabular_data,,Semaphorin 3A mediated brain tumor stem cell proliferation and invasion in EGFRviii mutant gliomas.
+PMC8987098,Sci Rep,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Mismatch repair proteins play a role in ATR activation upon temozolomide treatment in MGMT-methylated glioblastoma.
+PMC9365362,Clin Cancer Res,2022,cc by-nc-nd,ok,8,0,0,0,8,no_tabular_data,,Convection Enhanced Delivery of the Oncolytic Adenovirus Delta24-RGD in Patients with Recurrent GBM: A Phase I Clinical Trial Including Correlative Studies.
+PMC7034640,Neurooncol Adv,2020,cc by,ok,6,1,0,0,5,dataset_medium,numeric,Targeted next-generation sequencing of 565 neuro-oncology patients at UCLA: A single-institution experience.
+PMC7229257,Neuro Oncol,2020,cc by-nc,empty,0,0,0,0,0,no_supp_retrieved,,"Safety and efficacy of VB-111, an anticancer gene therapy, in patients with recurrent glioblastoma: results of a phase I/II study."
+PMC6491796,EBioMedicine,2019,cc by-nc-nd,ok,6,3,1,0,1,dataset_large,mixed;omics,Gene signatures of quiescent glioblastoma cells reveal mesenchymal shift and interactions with niche microenvironment.
+PMC6362117,Sci Rep,2019,cc by,ok,2,0,1,0,1,small_table,,Mass Effect Deformation Heterogeneity (MEDH) on Gadolinium-contrast T1-weighted MRI is associated with decreased survival in patients with right cerebral hemisphere Glioblastoma: A feasibility study.
+PMC8043167,Cell Adh Migr,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,A role for GLUT3 in glioblastoma cell invasion that is not recapitulated by GLUT1.
+PMC6872651,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Phosphorylation of PD-1-Y248 is a marker of PD-1-mediated inhibitory function in human T cells.
+PMC8036803,Cancers (Basel),2021,cc by,ok,1,0,0,0,0,no_tabular_data,,"Musashi1 Contribution to Glioblastoma Development via Regulation of a Network of DNA Replication, Cell Cycle and Division Genes."
+PMC8694207,Neurooncol Adv,2021,cc by-nc,ok,4,0,1,0,2,small_table,,A phase II study of laser interstitial thermal therapy combined with doxorubicin in patients with recurrent glioblastoma.
+PMC8857594,Transl Oncol,2022,cc by-nc-nd,ok,3,0,0,1,1,tables_only,,Synergistic anti-tumor efficacy of mutant isocitrate dehydrogenase 1 inhibitor SYC-435 with standard therapy in patient-derived xenograft mouse models of glioma.
+PMC9406858,Cells,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,GPT2 Is Induced by Hypoxia-Inducible Factor (HIF)-2 and Promotes Glioblastoma Growth.
+PMC8711129,Cancer Discov,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Medium-Chain Acyl-CoA Dehydrogenase Protects Mitochondria from Lipid Peroxidation in Glioblastoma.
+PMC8013708,Biomark Insights,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Cytokine Profiling in Plasma from Patients with Brain Tumors Versus Healthy Individuals using 2 Different Multiplex Immunoassay Platforms.
+PMC4742861,Sci Rep,2016,cc by,ok,1,1,0,0,0,dataset_medium,omics,BKM-120 (Buparlisib): A Phosphatidyl-Inositol-3 Kinase Inhibitor with Anti-Invasive Properties in Glioblastoma.
+PMC5799201,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Mendelian randomisation study of the relationship between vitamin D and risk of glioma.
+PMC5737541,Nucleic Acids Res,2017,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,A novel isoform of TET1 that lacks a CXXC domain is overexpressed in cancer.
+PMC7465678,Cancers (Basel),2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Omeprazole Inhibits Glioblastoma Cell Invasion and Tumor Growth.
+PMC5342330,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Novel function of MDA-9/Syntenin (SDCBP) as a regulator of survival and stemness in glioma stem cells.
+PMC8809511,Nat Cancer,2021,,ok,1,0,0,0,1,no_tabular_data,,Targeting PUS7 suppresses tRNA pseudouridylation and glioblastoma tumorigenesis.
+PMC6333836,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Genetically distinct glioma stem-like cell xenografts established from paired glioblastoma samples harvested before and after molecularly targeted therapy.
+PMC5087864,PLoS One,2016,cc by,ok,6,0,1,0,0,small_table,,Platform-Independent Genome-Wide Pattern of DNA Copy-Number Alterations Predicting Astrocytoma Survival and Response to Treatment Revealed by the GSVD Formulated as a Comparative Spectral Decomposition.
+PMC5342536,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,FRMD6 inhibits human glioblastoma growth and progression by negatively regulating activity of receptor tyrosine kinases.
+PMC5454031,Sci Rep,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Bi-specific molecule against EGFR and death receptors simultaneously targets proliferation and death pathways in tumors.
+PMC9446677,Neurooncol Adv,2022,cc by-nc,ok,2,0,0,0,2,no_tabular_data,,Magnetic resonance spectroscopy outperforms perfusion in distinguishing between pseudoprogression and disease progression in patients with glioblastoma.
+PMC8277421,Front Oncol,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Glioblastoma Proximity to the Lateral Ventricle Alters Neurogenic Cell Populations of the Subventricular Zone.
+PMC7992880,Neuro Oncol,2021,cc by-nc,ok,3,0,0,0,3,no_tabular_data,,Functional connectivity within glioblastoma impacts overall survival.
+PMC9252128,Neurooncol Adv,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Detection of temozolomide-induced hypermutation and response to PD-1 checkpoint inhibitor in recurrent glioblastoma.
+PMC6116191,Cancers (Basel),2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Activation of ERBB4 in Glioblastoma Can Contribute to Increased Tumorigenicity and Influence Therapeutic Response.
+PMC5552427,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,HBEGF promotes gliomagenesis in the context of Ink4a/Arf and Pten loss.
+PMC6971446,Bioeng Transl Med,2020,cc by,ok,1,0,1,0,0,small_table,,2D or 3D? How cell motility measurements are conserved across dimensions <i>in vitro</i> and translate <i>in vivo</i>.
+PMC8810630,Clin Cancer Res,2022,cc by-nc-nd,ok,1,0,0,0,0,tables_only,,A Phase II Study of the Efficacy and Safety of Oral Selinexor in Recurrent Glioblastoma.
+PMC7236386,Neurooncol Adv,2020,cc by,ok,1,0,1,0,0,small_table,,Value of [<sup>18</sup>F]-FDG positron emission tomography in patients with recurrent glioblastoma receiving bevacizumab.
+PMC5053413,PLoS One,2016,cc by,ok,2,0,0,0,2,no_tabular_data,,Anti-Epidermal Growth Factor Receptor Gene Therapy for Glioblastoma.
+PMC9536293,Neurooncol Adv,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Targeting extracellular matrix remodeling sensitizes glioblastoma to ionizing radiation.
+PMC9389424,Neurooncol Adv,2022,cc by-nc,ok,1,0,1,0,0,small_table,,Prognostic risk stratification of gliomas using deep learning in digital pathology images.
+PMC6408961,Nat Med,2019,,ok,1,0,0,0,1,no_tabular_data,,Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma.
+PMC7855963,Front Oncol,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Prognostic Implications of Pan-Cancer CMTM6 Expression and Its Relationship with the Immune Microenvironment.
+PMC5766611,Nat Commun,2018,cc by,ok,2,0,0,0,2,no_tabular_data,,Engineered nanointerfaces for microfluidic isolation and molecular profiling of tumor-specific extracellular vesicles.
+PMC6588602,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Endothelial cells promote 3D invasion of GBM by IL-8-dependent induction of cancer stem cell properties.
+PMC5685212,Sci Data,2017,cc by,ok,1,0,0,0,0,no_tabular_data,,Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features.
+PMC8268924,J Immunother Cancer,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Combinatorial immunotherapy of N-803 (IL-15 superagonist) and dinutuximab with ex vivo expanded natural killer cells significantly enhances in vitro cytotoxicity against GD2<sup>+</sup> pediatric solid tumors and in vivo survival of xenografted immunodeficient NSG mice.
+PMC8166002,Acta Neuropathol Commun,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Altered lipid metabolism marks glioblastoma stem and non-stem cells in separate tumor niches.
+PMC7295765,Nat Commun,2020,cc by,ok,4,1,0,0,3,dataset_medium,numeric,Dual Role of WISP1 in maintaining glioma stem cells and tumor-supportive macrophages in glioblastoma.
+PMC8990014,Nat Commun,2022,cc by,ok,3,0,0,0,2,no_tabular_data,,CHMP2A regulates tumor sensitivity to natural killer cell-mediated cytotoxicity.
+PMC5976646,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Combinatorial Drug Testing in 3D Microtumors Derived from GBM Patient-Derived Xenografts Reveals Cytotoxic Synergy in Pharmacokinomics-informed Pathway Interactions.
+PMC7021896,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Inhibition of autophagic flux differently modulates cannabidiol-induced death in 2D and 3D glioblastoma cell cultures.
+PMC6356940,Cancers (Basel),2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Bortezomib Augments Natural Killer Cell Targeting of Stem-Like Tumor Cells.
+PMC8807082,Neurooncol Adv,2022,cc by,ok,2,0,0,1,1,no_tabular_data,,Neutrophil depletion enhanced the &lt;i&gt;Clostridium novyi&lt;/i&gt;-NT therapy in mouse and rabbit tumor models.
+PMC5896562,Nature,2017,,ok,1,0,0,0,0,no_tabular_data,,Transcription elongation factors represent in vivo cancer dependencies in glioblastoma.
+PMC6363013,Oncotarget,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Preoperative MRI-radiomics features improve prediction of survival in glioblastoma patients over MGMT methylation status alone.
+PMC7416393,Cancer Metab,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Glutamine uptake and utilization of human mesenchymal glioblastoma in orthotopic mouse model.
+PMC7034639,Neurooncol Adv,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Noninvasive quantification of SIRT1 expression-activity and pharmacologic inhibition in a rat model of intracerebral glioma using 2-[<sup>18</sup>F]BzAHA PET/CT/MRI.
+PMC7060061,Sci Adv,2020,cc by-nc,ok,4,0,0,0,1,no_tabular_data,,High-resolution tomographic analysis of in vitro 3D glioblastoma tumor model under long-term drug treatment.
+PMC6468936,Noncoding RNA,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,MicroRNA-451 Inhibits Migration of Glioblastoma while Making It More Susceptible to Conventional Therapy.
+PMC5345755,PLoS One,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Automated fluorescent miscroscopic image analysis of PTBP1 expression in glioma.
+PMC6338433,J Mach Learn Res,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Simultaneous Clustering and Estimation of Heterogeneous Graphical Models.
+PMC5081168,PLoS One,2016,cc by,empty,0,0,0,0,0,no_supp_retrieved,,MERTK Inhibition Induces Polyploidy and Promotes Cell Death and Cellular Senescence in Glioblastoma Multiforme.
+PMC5986644,Oncotarget,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,NEDD9 stimulated MMP9 secretion is required for invadopodia formation in oral squamous cell carcinoma.
+PMC9631060,Adv Sci (Weinh),2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"Perivascular Stromal Cells Instruct Glioblastoma Invasion, Proliferation, and Therapeutic Response within an Engineered Brain Perivascular Niche Model."
+PMC8500868,Acta Neuropathol,2021,cc by,ok,2,2,0,0,0,dataset_large,clinical;omics,PATZ1 fusions define a novel molecularly distinct neuroepithelial tumor entity with a broad histological spectrum.
+PMC5766249,PLoS Comput Biol,2018,cc by,empty,0,0,0,0,0,no_supp_retrieved,,Mathematical modeling identifies optimum lapatinib dosing schedules for the treatment of glioblastoma patients.
+PMC6461515,Oncogene,2019,,ok,1,0,0,0,1,no_tabular_data,,Inhibition of TAZ contributes radiation-induced senescence and growth arrest in glioma cells.
+PMC9282249,Proc Natl Acad Sci U S A,2022,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,STING activation promotes robust immune response and NK cell-mediated tumor regression in glioblastoma models.
+PMC6838141,Nanotheranostics,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Theranostic nanoparticles enhance the response of glioblastomas to radiation.
+PMC4839722,PLoS Comput Biol,2016,cc by,empty,0,0,0,0,0,no_supp_retrieved,,"Single-Cell Co-expression Analysis Reveals Distinct Functional Modules, Co-regulation Mechanisms and Clinical Outcomes."
+PMC4801467,Oncoimmunology,2016,cc by,ok,1,0,0,0,0,no_tabular_data,,Immunotherapy for cancer in the central nervous system: Current and future directions.
+PMC6169574,Oncoimmunology,2018,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Combination with SGT-53 overcomes tumor resistance to a checkpoint inhibitor.
+PMC6063898,Nat Commun,2018,cc by,ok,4,1,0,0,3,dataset_large,omics,A novel enhancer regulates MGMT expression and promotes temozolomide resistance in glioblastoma.
+PMC9527525,Neuro Oncol,2022,cc by-nc,ok,2,0,1,0,1,small_table,,"Prospective genomically guided identification of ""early/evolving"" and ""undersampled"" IDH-wildtype glioblastoma leads to improved clinical outcomes."
+PMC8534002,Cells,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,"Measuring the Metabolic Evolution of Glioblastoma throughout Tumor Development, Regression, and Recurrence with Hyperpolarized Magnetic Resonance."
+PMC5059456,Nat Commun,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,A regulatory circuit of miR-125b/miR-20b and Wnt signalling controls glioblastoma phenotypes through FZD6-modulated pathways.
+PMC5400565,Oncotarget,2017,cc by,ok,2,0,1,0,0,small_table,,Real-time near-infrared fluorescence imaging using cRGD-ZW800-1 for intraoperative visualization of multiple cancer types.
+PMC5597577,Sci Rep,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,"Semaphorin 3 C drives epithelial-to-mesenchymal transition, invasiveness, and stem-like characteristics in prostate cells."
+PMC9629431,Neuro Oncol,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Phase III trial of chemoradiotherapy with temozolomide plus nivolumab or placebo for newly diagnosed glioblastoma with methylated MGMT promoter.
+PMC7903462,STAR Protoc,2021,cc by-nc-nd,ok,1,0,0,0,0,no_tabular_data,,Generation of glioblastoma patient-derived organoids and mouse brain orthotopic xenografts for drug screening.
+PMC5887505,Nucleic Acids Res,2018,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,"The association between copy number aberration, DNA methylation and gene expression in tumor samples."
+PMC6685102,Front Immunol,2019,cc by,ok,1,1,0,0,0,dataset_medium,mixed,Examining Peripheral and Tumor Cellular Immunome in Patients With Cancer.
+PMC7677841,J Neuroinflammation,2020,cc by,ok,1,0,1,0,0,small_table,,Crosstalk between microglia and patient-derived glioblastoma cells inhibit invasion in a three-dimensional gelatin hydrogel model.
+PMC6829263,Cells,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Acetylcholine Receptor Activation as a Modulator of Glioblastoma Invasion.
+PMC5815062,Nucleic Acids Res,2018,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Targeted nanocomplex carrying siRNA against MALAT1 sensitizes glioblastoma to temozolomide.
+PMC9005724,Sci Rep,2022,cc by,ok,1,0,0,0,0,tables_only,,Separation of U87 glioblastoma cell-derived small and medium extracellular vesicles using elasto-inertial flow focusing (a spiral channel).
+PMC9468105,Acta Neuropathol,2022,cc by,ok,2,1,0,0,1,dataset_large,omics,Multiplatform molecular analyses refine classification of gliomas arising in patients with neurofibromatosis type 1.
+PMC8699921,Cells,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,Proliferating CD8<sup>+</sup> T Cell Infiltrates Are Associated with Improved Survival in Glioblastoma.
+PMC4976202,Nat Commun,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,PKM2 dephosphorylation by Cdc25A promotes the Warburg effect and tumorigenesis.
+PMC6777503,Neurooncol Adv,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,GITRL-armed Delta-24-RGD oncolytic adenovirus prolongs survival and induces anti-glioma immune memory.
+PMC5882303,Oncotarget,2018,cc by,ok,3,2,0,0,1,dataset_large,numeric;omics,Exploiting mitochondrial and metabolic homeostasis as a vulnerability in NF1 deficient cells.
+PMC7337927,Nucleic Acids Res,2020,cc by,ok,1,0,0,0,0,no_tabular_data,,PolyA-miner: accurate assessment of differential alternative poly-adenylation from 3'Seq data using vector projections and non-negative matrix factorization.
+PMC6450460,Stem Cell Reports,2019,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Stearoyl CoA Desaturase Is Essential for Regulation of Endoplasmic Reticulum Homeostasis and Tumor Growth in Glioblastoma Cancer Stem Cells.
+PMC6904446,Sci Rep,2019,cc by,ok,5,1,0,0,4,dataset_medium,clinical,Genomic Landscape of Intramedullary Spinal Cord Gliomas.
+PMC8301402,Biomedicines,2021,cc by,ok,1,0,0,0,0,no_tabular_data,,MicroRNA-138 Increases Chemo-Sensitivity of Glioblastoma through Downregulation of Survivin.
+PMC4730860,Sci Adv,2016,cc by-nc,ok,2,0,0,0,1,no_tabular_data,,Targeting NF-κB in glioblastoma: A therapeutic approach.
+PMC5760520,Sci Rep,2018,cc by,ok,1,0,0,0,1,no_tabular_data,,Modeling tumor immunity of mouse glioblastoma by exhausted CD8<sup>+</sup> T cells.
+PMC4726202,Sci Rep,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Induction of cell death by the novel proteasome inhibitor marizomib in glioblastoma in vitro and in vivo.
+PMC5238458,Neoplasia,2017,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,"pH, Lactate, and Hypoxia: Reciprocity in Regulating High-Affinity Monocarboxylate Transporter Expression in Glioblastoma."
+PMC8856626,Cell Rep,2021,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Targeting glioblastoma signaling and metabolism with a re-purposed brain-penetrant drug.
+PMC5902741,Front Pharmacol,2018,cc by,ok,7,0,0,0,1,no_tabular_data,,Differential Toxicity of mDia Formin-Directed Functional Agonists and Antagonists in Developing Zebrafish.
+PMC4808011,Oncotarget,2016,cc by,ok,1,0,1,0,0,small_table,,Atracurium Besylate and other neuromuscular blocking agents promote astroglial differentiation and deplete glioblastoma stem cells.
+PMC7289245,Tomography,2020,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Radiomic Features of Multiparametric MRI Present Stable Associations With Analogous Histological Features in Patients With Brain Cancer.
+PMC7005303,Sci Rep,2020,cc by,ok,1,0,0,0,1,no_tabular_data,,Screening of potential miRNA therapeutics for the prevention of multi-drug resistance in cancer cells.
+PMC5666319,Oncogene,2017,cc by-nc-nd,ok,1,0,0,0,1,no_tabular_data,,Inhibition of colony stimulating factor-1 receptor abrogates microenvironment-mediated therapeutic resistance in gliomas.
+PMC6535376,Nat Biotechnol,2018,,ok,1,0,0,0,1,no_tabular_data,,An oncolytic herpesvirus expressing E-cadherin improves survival in mouse models of glioblastoma.
+PMC6521049,Cancers (Basel),2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Proteomic Analysis Implicates Vimentin in Glioblastoma Cell Migration.
+PMC5668041,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,"A phase 2 study of the first imipridone ONC201, a selective DRD2 antagonist for oncology, administered every three weeks in recurrent glioblastoma."
+PMC5241103,Tomography,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,Simulating the Effect of Spectroscopic MRI as a Metric for Radiation Therapy Planning in Patients with Glioblastoma.
+PMC6881905,Neurooncol Adv,2019,cc by-nc,ok,2,0,0,1,1,no_tabular_data,,Rapid and ultrasensitive digital PCR (dPCR) profiling of EGFRvIII in tumor cells and tissues.
+PMC7831112,Mar Drugs,2021,cc by,ok,1,1,0,0,0,dataset_medium,omics,"Topsentinol L Trisulfate, a Marine Natural Product That Targets Basal-like and Claudin-Low Breast Cancers."
+PMC5612804,Transl Oncol,2017,cc by-nc-nd,ok,1,0,1,0,0,small_table,,"Characterization of Metabolic, Diffusion, and Perfusion Properties in GBM: Contrast-Enhancing versus Non-Enhancing Tumor."
+PMC9360428,NPJ Precis Oncol,2022,cc by,ok,3,1,0,0,2,dataset_large,omics,A single-cell based precision medicine approach using glioblastoma patient-specific models.
+PMC6843001,Front Oncol,2019,cc by,ok,2,1,1,0,0,dataset_medium,omics,Tissues Harvested Using an Automated Surgical Approach Confirm Molecular Heterogeneity of Glioblastoma and Enhance Specimen's Translational Research Value.
+PMC6770789,Cancers (Basel),2019,cc by,ok,1,0,0,0,0,no_tabular_data,,TWIST1 Heterodimerization with E12 Requires Coordinated Protein Phosphorylation to Regulate Periostin Expression.
+PMC8192788,Commun Biol,2021,cc by,too_large,0,0,0,0,0,no_supp_retrieved,,Macropinocytosis requires Gal-3 in a subset of patient-derived glioblastoma stem cells.
+PMC5311075,Oncogene,2017,,ok,1,0,0,0,1,no_tabular_data,,Stat3 contributes to cancer progression by regulating Jab1/Csn5 expression.
+PMC9154335,Neurooncol Adv,2022,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Phase I/randomized phase II trial of TRC105 plus bevacizumab versus bevacizumab in recurrent glioblastoma: North Central Cancer Treatment Group N1174 (Alliance).
+PMC8690937,Theranostics,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"Sonobiopsy for minimally invasive, spatiotemporally-controlled, and sensitive detection of glioblastoma-derived circulating tumor DNA."
+PMC5470095,Stem Cell Reports,2017,cc by-nc-nd,ok,4,2,0,0,2,dataset_large,mixed;omics,MicroRNA Signatures and Molecular Subtypes of Glioblastoma: The Role of Extracellular Transfer.
+PMC5400620,Oncotarget,2017,cc by,ok,1,0,0,0,1,no_tabular_data,,Preclinical therapeutic efficacy of a novel blood-brain barrier-penetrant dual PI3K/mTOR inhibitor with preferential response in PI3K/PTEN mutant glioma.
+PMC8092340,Oncotarget,2021,cc by,ok,1,0,0,0,1,no_tabular_data,,Creation of a new class of radiosensitizers for glioblastoma based on the mibefradil pharmacophore.
+PMC5029636,Oncotarget,2016,cc by,ok,1,0,0,0,1,no_tabular_data,,ABCG1 maintains high-grade glioma survival in vitro and in vivo.
+PMC9575333,IEEE Trans Med Imaging,2022,cc by,ok,1,0,0,0,0,no_tabular_data,,Radiomic Deformation and Textural Heterogeneity (R-DepTH) Descriptor to Characterize Tumor Field Effect: Application to Survival Prediction in Glioblastoma.
+PMC7746944,Neuro Oncol,2020,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,Deregulated expression of the imprinted DLK1-DIO3 region in glioblastoma stemlike cells: tumor suppressor role of lncRNA MEG3.
+PMC7591536,Nat Commun,2020,cc by,ok,4,0,1,0,3,small_table,,Neutrophil-induced ferroptosis promotes tumor necrosis in glioblastoma progression.
+PMC4740908,Nat Commun,2016,cc by,ok,5,0,0,0,1,no_tabular_data,,Therapeutically engineered induced neural stem cells are tumour-homing and inhibit progression of glioblastoma.
+PMC6019044,J Natl Cancer Inst,2018,cc by-nc,ok,1,0,0,0,0,no_tabular_data,,Novel Role of FBXW7 Circular RNA in Repressing Glioma Tumorigenesis.
+PMC6783693,EMBO Mol Med,2019,cc by,ok,8,0,0,0,6,tables_only,,Activation of LXRβ inhibits tumor respiration and is synthetically lethal with Bcl-xL inhibition.
+PMC6788733,PLoS One,2019,cc by,ok,4,1,1,0,2,dataset_medium,clinical,Adverse prognosis of glioblastoma contacting the subventricular zone: Biological correlates.
+PMC6038689,Anal Cell Pathol (Amst),2018,cc by,ok,6,0,0,0,0,no_tabular_data,,Metformin Treatment Inhibits Motility and Invasion of Glioblastoma Cancer Cells.
+PMC7767991,Front Comput Neurosci,2020,cc by,ok,1,1,0,0,0,dataset_medium,clinical,Can Tumor Location on Pre-treatment MRI Predict Likelihood of Pseudo-Progression vs. Tumor Recurrence in Glioblastoma?-A Feasibility Study.
+PMC6260722,Genome Biol,2018,cc by,ok,11,7,1,0,1,dataset_large,mixed;numeric;omics,"Linking single-cell measurements of mass, growth rate, and gene expression."
+PMC9273968,Front Oncol,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,"A Prospective, Cohort Study of SITOIGANAP to Treat Glioblastoma When Given in Combination With Granulocyte-Macrophage Colony-Stimulating Factor/Cyclophosphamide/Bevacizumab/Nivolumab or Granulocyte-Macrophage Colony-Stimulating Factor/Cyclophosphamide/Bevacizumab/Pembrolizumab in Patients Who Failed Prior Treatment With Surgical Resection, Radiation, and Temozolomide."
+PMC8541707,Neurooncol Adv,2021,cc by-nc,ok,1,0,0,0,1,no_tabular_data,,ELTD1 as a multi-focal target for malignant gliomas: preclinical studies.
+PMC6916634,Stem Cells,2019,cc by-nc,empty,0,0,0,0,0,no_supp_retrieved,,Bcl2-Expressing Quiescent Type B Neural Stem Cells in the Ventricular-Subventricular Zone Are Resistant to Concurrent Temozolomide/X-Irradiation.
+PMC8430372,Mol Ther Oncolytics,2021,cc by-nc-nd,ok,2,0,0,0,2,no_tabular_data,,Treatment of glioblastoma with current oHSV variants reveals differences in efficacy and immune cell recruitment.
+PMC6418088,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,CHD4 regulates the DNA damage response and RAD51 expression in glioblastoma.
+PMC5514897,Oncotarget,2017,cc by,ok,1,0,0,0,0,tables_only,,Mitochondrial matrix chaperone and c-myc inhibition causes enhanced lethality in glioblastoma.
+PMC6422384,Oncoimmunology,2019,cc by-nc-nd,ok,1,1,0,0,0,dataset_large,mixed,Detection of neoantigen-specific T cells following a personalized vaccine in a patient with glioblastoma.
+PMC6599391,Nat Commun,2019,cc by,ok,4,1,0,0,3,dataset_large,numeric,A high-throughput screening and computation platform for identifying synthetic promoters with enhanced cell-state specificity (SPECS).
+PMC8086242,Neurooncol Adv,2021,cc by-nc,ok,3,0,1,0,2,small_table,,Temozolomide chronotherapy in patients with glioblastoma: a retrospective single-institute study.
+PMC6399311,Cell Death Discov,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,Sustained NF-κB-STAT3 signaling promotes resistance to Smac mimetics in Glioma stem-like cells but creates a vulnerability to EZH2 inhibition.
+PMC6344513,Sci Rep,2019,cc by,ok,1,0,0,0,1,no_tabular_data,,In vivo assessment of increased oxidation of branched-chain amino acids in glioblastoma.
+PMC9338058,NPJ Precis Oncol,2022,cc by,ok,2,1,0,0,1,dataset_medium,numeric,A patient-designed tissue-engineered model of the infiltrative glioblastoma microenvironment.
+PMC9196939,Front Oncol,2022,cc by,ok,1,0,0,0,1,no_tabular_data,,Distinguishing Tumor Admixed in a Radiation Necrosis (RN) Background: <sup>1</sup>H and <sup>2</sup>H MR With a Novel Mouse Brain-Tumor/RN Model.
+PMC8989389,Neurooncol Adv,2022,,ok,1,0,0,0,1,no_tabular_data,,"Malignant glioma subset from actuate 1801: Phase I/II study of 9-ING-41, GSK-3β inhibitor, monotherapy or combined with chemotherapy for refractory malignancies."
+PMC7920530,Neurooncol Adv,2021,,ok,2,0,0,0,2,no_tabular_data,,The glutamine antagonist prodrug JHU-083 slows malignant glioma growth and disrupts mTOR signaling.
+PMC9099860,Int J Mol Sci,2022,,ok,1,0,0,0,0,no_tabular_data,,Pharmacologic Tumor PDL1 Depletion with Cefepime or Ceftazidime Promotes DNA Damage and Sensitivity to DNA-Damaging Agents.
+PMC8773151,Biomedicines,2021,,ok,1,0,0,0,0,no_tabular_data,,Drug Resistance in Glioma Cells Induced by a Mesenchymal-Amoeboid Migratory Switch.
+PMC8113440,Nat Commun,2021,,ok,3,1,0,0,2,dataset_large,mixed,Targeting Treg cells with GITR activation alleviates resistance to immunotherapy in murine glioblastomas.
+PMC6637128,Sci Rep,2019,,ok,8,0,0,0,1,no_tabular_data,,Speckle modulation enables high-resolution wide-field human brain tumor margin detection and in vivo murine neuroimaging.
+PMC5842038,Sci Adv,2018,,ok,3,0,1,0,0,small_table,,Immune evasion mediated by PD-L1 on glioblastoma-derived extracellular vesicles.
+PMC6251439,Oncolytic Virother,2018,,empty,0,0,0,0,0,no_supp_retrieved,,Oncolytic myxoma virus synergizes with standard of care for treatment of glioblastoma multiforme.
+PMC5813209,Sci Rep,2018,,ok,1,0,0,0,1,no_tabular_data,,The Urokinase Receptor Induces a Mesenchymal Gene Expression Signature in Glioblastoma Cells and Promotes Tumor Cell Survival in Neurospheres.
+PMC8080729,Sci Rep,2021,,ok,1,0,1,0,0,small_table,,MicroRNA-138 suppresses glioblastoma proliferation through downregulation of CD44.
+PMC5342141,Oncotarget,2016,,ok,1,0,0,0,1,no_tabular_data,,Discovery of cell surface vimentin targeting mAb for direct disruption of GBM tumor initiating cells.
+PMC6128481,PLoS One,2018,,ok,3,0,3,0,0,small_table,,Failure to detect functional transfer of active K-Ras protein from extracellular vesicles into recipient cells in culture.
+PMC5361089,Sci Rep,2017,,ok,1,0,0,0,1,no_tabular_data,,Metabolic Profiling of IDH Mutation and Malignant Progression in Infiltrating Glioma.
+PMC7229248,Neuro Oncol,2020,,empty,0,0,0,0,0,no_supp_retrieved,,A randomized controlled phase III study of VB-111 combined with bevacizumab vs bevacizumab monotherapy in patients with recurrent glioblastoma (GLOBE).
+PMC5458248,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,"The novel long non-coding RNA TALNEC2, regulates tumor cell growth and the stemness and radiation response of glioma stem cells."
+PMC5889290,Oncoimmunology,2018,,ok,4,2,0,0,1,dataset_large,mixed;omics,Glioblastoma stem cell-derived exosomes induce M2 macrophages and PD-L1 expression on human monocytes.
+PMC7806473,Theranostics,2021,,ok,4,0,1,0,0,small_table,,Structurally symmetric near-infrared fluorophore IRDye78-protein complex enables multimodal cancer imaging.
+PMC5355046,Oncotarget,2017,,ok,1,0,0,0,1,no_tabular_data,,Analysis of the inhibitors of apoptosis identifies BIRC3 as a facilitator of malignant progression in glioma.
+PMC9142563,iScience,2022,,ok,1,0,0,0,1,no_tabular_data,,Agent-based computational modeling of glioblastoma predicts that stromal density is central to oncolytic virus efficacy.
+PMC5454541,Nat Commun,2017,,ok,4,0,1,0,1,small_table,,Surface chemistry governs cellular tropism of nanoparticles in the brain.

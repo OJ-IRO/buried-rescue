@@ -1,0 +1,29 @@
+{
+ "population": 30376,
+ "readable": 28949,
+ "attachments": 89820,
+ "papers_with_tabular": 6130,
+ "papers_with_excel": 5870,
+ "tabular_files": 21186,
+ "excel_files": 19818,
+ "free_papers": 4673,
+ "free_files": 16517,
+ "excel_total_gb": 15.3,
+ "licenses": {
+  "cc by": 4572,
+  "cc0": 101,
+  "cc by-nc": 319,
+  "cc by-nc-nd": 665,
+  "cc by-nc-sa": 103,
+  "untagged": 370
+ },
+ "by_year": {
+  "2016": 516,
+  "2017": 656,
+  "2018": 702,
+  "2019": 852,
+  "2020": 987,
+  "2021": 1203,
+  "2022": 1214
+ }
+}

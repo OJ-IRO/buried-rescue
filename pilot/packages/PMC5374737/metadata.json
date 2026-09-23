@@ -1,0 +1,135 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (12920_2017_256_MOESM14_ESM.xlsx) from: Revealing cancer subtypes with higher-order correlations applied to imaging and omics data"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Graim K"
+  },
+  {
+   "name": "Liu TT"
+  },
+  {
+   "name": "Achrol AS"
+  },
+  {
+   "name": "Paull EO"
+  },
+  {
+   "name": "Newton Y"
+  },
+  {
+   "name": "Chang SD"
+  },
+  {
+   "name": "Harsh GR"
+  },
+  {
+   "name": "Cordero SP"
+  },
+  {
+   "name": "Rubin DL"
+  },
+  {
+   "name": "Stuart JM"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: BMC Med Genomics",
+ "publicationYear": "2017",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1186/s12920-017-0256-3",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC5374737",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 8259 rows x 4 columns. Content type (heuristic): omics. Sheets: BLCA Mutations; OV Mutations; GBM Mutations"
+  }
+ ],
+ "sizes": [
+  "610 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "12920_2017_256_MOESM14_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "BLCA Mutations",
+    "first_cells": [
+     "Gene",
+     "P-value",
+     "TTN",
+     "1.28048632166298e-19",
+     "MUC16",
+     "4.10683575041983e-11"
+    ]
+   },
+   {
+    "sheet": "OV Mutations",
+    "first_cells": [
+     "Gene",
+     "Cluster 1 P-value",
+     "Cluster 2 P-value",
+     "Cluster 3 P-value",
+     "BCORL1",
+     "0.00630585612070839",
+     "0.0837743649149179",
+     "0.419080295673793",
+     "AASDH",
+     "0.0299507247135156",
+     "0.185353201536732",
+     "0.605504611718602"
+    ]
+   },
+   {
+    "sheet": "GBM Mutations",
+    "first_cells": [
+     "Gene",
+     "P-value",
+     "PTEN",
+     "4.76390932611382e-59",
+     "TP53",
+     "4.84626219722869e-41"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "pmcid": "PMC6249307",
+  "file": "41467_2018_7334_MOESM5_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "5003",
+  "max_cols": "18",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6478916",
+  "file": "42003_2019_369_MOESM7_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "442",
+  "max_cols": "7",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5133638",
+  "file": "ncomms13177-s4.xls",
+  "class": "dataset_large",
+  "kind": "omics",
+  "max_rows": "2551",
+  "max_cols": "6",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5133638",
+  "file": "ncomms13177-s7.xls",
+  "class": "dataset_medium",
+  "kind": "mixed",
+  "max_rows": "121",
+  "max_cols": "9",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC9617949",
+  "file": "41467_2022_34175_MOESM4_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "3183",
+  "max_cols": "13",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6599391",
+  "file": "41467_2019_10912_MOESM4_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "118273",
+  "max_cols": "15",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC7424213",
+  "file": "mmc3.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "508",
+  "max_cols": "24",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6260722",
+  "file": "13059_2018_1576_MOESM3_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "626",
+  "max_cols": "4",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC8136167",
+  "file": "13073_2021_906_MOESM4_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "omics",
+  "max_rows": "16288",
+  "max_cols": "3",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6441047",
+  "file": "41419_2019_1387_MOESM1_ESM.docx",
+  "class": "dataset_medium",
+  "kind": "omics",
+  "max_rows": "301",
+  "max_cols": "10",
+  "derived": "True",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC9617949",
+  "file": "41467_2022_34175_MOESM5_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "3226",
+  "max_cols": "6",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC8452737",
+  "file": "41467_2021_25744_MOESM4_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "402",
+  "max_cols": "5",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC9676504",
+  "file": "JEV2-11-12278-s004.xlsx",
+  "class": "dataset_large",
+  "kind": "mixed",
+  "max_rows": "466",
+  "max_cols": "6",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6904446",
+  "file": "41598_2019_54286_MOESM2_ESM.pdf",
+  "class": "dataset_medium",
+  "kind": "clinical",
+  "max_rows": "63",
+  "max_cols": "6",
+  "derived": "False",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC6742368",
+  "file": "pone.0222435.s002.txt",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "1368",
+  "max_cols": "9",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC8452737",
+  "file": "41467_2021_25744_MOESM6_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "109",
+  "max_cols": "3",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC8500868",
+  "file": "401_2021_2354_MOESM7_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "clinical",
+  "max_rows": "65",
+  "max_cols": "55",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5882303",
+  "file": "oncotarget-09-15860-s003.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "2016",
+  "max_cols": "17",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5882303",
+  "file": "oncotarget-09-15860-s002.xlsx",
+  "class": "dataset_medium",
+  "kind": "omics",
+  "max_rows": "992",
+  "max_cols": "4",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC7083893",
+  "file": "41467_2020_15129_MOESM4_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "135",
+  "max_cols": "40",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6063898",
+  "file": "41467_2018_5373_MOESM4_ESM.xlsx",
+  "class": "dataset_large",
+  "kind": "omics",
+  "max_rows": "1144",
+  "max_cols": "13",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6843001",
+  "file": "Table_2.XLSX",
+  "class": "dataset_medium",
+  "kind": "omics",
+  "max_rows": "422",
+  "max_cols": "14",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5630302",
+  "file": "oncotarget-08-64932-s002.docx",
+  "class": "dataset_medium",
+  "kind": "omics",
+  "max_rows": "240",
+  "max_cols": "4",
+  "derived": "True",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC9676504",
+  "file": "JEV2-11-12278-s003.xlsx",
+  "class": "dataset_medium",
+  "kind": "omics",
+  "max_rows": "496",
+  "max_cols": "24",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6193287",
+  "file": "40478_2018_613_MOESM2_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "clinical",
+  "max_rows": "122",
+  "max_cols": "12",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC6294341",
+  "file": "41467_2018_7659_MOESM4_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "84",
+  "max_cols": "11",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC9617949",
+  "file": "41467_2022_34175_MOESM13_ESM.xlsx",
+  "class": "dataset_medium",
+  "kind": "numeric",
+  "max_rows": "61",
+  "max_cols": "9",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC7744081",
+  "file": "abc0221_Table_S1.xlsx",
+  "class": "dataset_large",
+  "kind": "numeric",
+  "max_rows": "801",
+  "max_cols": "19",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5384647",
+  "file": "NIHMS740731-supplement-supp_tables1-4.xlsx",
+  "class": "dataset_medium",
+  "kind": "mixed",
+  "max_rows": "266",
+  "max_cols": "15",
+  "derived": "False",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5140055",
+  "file": "pmed.1002192.s006.xlsx",
+  "class": "dataset_large",
+  "kind": "omics",
+  "max_rows": "947",
+  "max_cols": "4",
+  "derived": "True",
+  "native": "True"
+ },
+ {
+  "pmcid": "PMC5454541",
+  "file": "ncomms15322-s1.pdf",
+  "class": "tiny_table",
+  "kind": "mixed",
+  "max_rows": "6",
+  "max_cols": "7",
+  "derived": "False",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5078085",
+  "file": "oncotarget-07-33192-s001.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC9365362",
+  "file": "ccr-21-3324_supplemental_figure_6_supp6.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5537714",
+  "file": "NIHMS886924-supplement-Suppl__1.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5454541",
+  "file": "ncomms15322-s4.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5311075",
+  "file": "NIHMS798271-supplement-1.docx",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5799201",
+  "file": "41598_2018_20844_MOESM1_ESM.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC7005303",
+  "file": "41598_2020_58919_MOESM1_ESM.docx",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC8753448",
+  "file": "jitc-2021-003368supp003.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC6197705",
+  "file": "mmc1.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC7471621",
+  "file": "mmc1.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC6925027",
+  "file": "oncotarget-10-7080-s001.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC5342491",
+  "file": "oncotarget-07-69466-s001.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC7083893",
+  "file": "41467_2020_15129_MOESM3_ESM.pdf",
+  "class": "document",
+  "kind": "",
+  "max_rows": "",
+  "max_cols": "",
+  "derived": "",
+  "native": "False"
+ },
+ {
+  "pmcid": "PMC6128481",
+  "file": "pone.0203290.s005.xlsx",
+  "class": "small_table",
+  "kind": "mixed",
+  "max_rows": "25",
+  "max_cols": "10",
+  "derived": "False",
+  "native": "True"
+ }
+]

@@ -1,0 +1,131 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (41467_2022_29884_MOESM3_ESM.xlsx) from: ZNF117 regulates glioblastoma stem cell differentiation towards oligodendroglial lineage"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Liu J"
+  },
+  {
+   "name": "Wang X"
+  },
+  {
+   "name": "Chen AT"
+  },
+  {
+   "name": "Gao X"
+  },
+  {
+   "name": "Himes BT"
+  },
+  {
+   "name": "Zhang H"
+  },
+  {
+   "name": "Chen Z"
+  },
+  {
+   "name": "Wang J"
+  },
+  {
+   "name": "Sheu WC"
+  },
+  {
+   "name": "Deng G"
+  },
+  {
+   "name": "Xiao Y"
+  },
+  {
+   "name": "Zou P"
+  },
+  {
+   "name": "Zhang S"
+  },
+  {
+   "name": "Liu F"
+  },
+  {
+   "name": "Zhu Y"
+  },
+  {
+   "name": "Fan R"
+  },
+  {
+   "name": "Patel TR"
+  },
+  {
+   "name": "Saltzman WM"
+  },
+  {
+   "name": "Zhou J"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2022",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/s41467-022-29884-3",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC9033827",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 18127 rows x 24 columns. Content type (heuristic): numeric. Sheets: Genome wide screen"
+  }
+ ],
+ "sizes": [
+  "4352 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "41467_2022_29884_MOESM3_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "Genome wide screen",
+    "first_cells": [
+     "Table S1. Genome wide screen",
+     "PlateID: plate barcode",
+     "Cell Count: number of cells"
+    ]
+   }
+  ]
+ }
+}

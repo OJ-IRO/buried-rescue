@@ -1,0 +1,368 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (13073_2021_906_MOESM4_ESM.xlsx) from: Single-cell characterization of macrophages in glioblastoma reveals MARCO as a mesenchymal pro-tumor marker"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Chen AX"
+  },
+  {
+   "name": "Gartrell RD"
+  },
+  {
+   "name": "Zhao J"
+  },
+  {
+   "name": "Upadhyayula PS"
+  },
+  {
+   "name": "Zhao W"
+  },
+  {
+   "name": "Yuan J"
+  },
+  {
+   "name": "Minns HE"
+  },
+  {
+   "name": "Dovas A"
+  },
+  {
+   "name": "Bruce JN"
+  },
+  {
+   "name": "Lasorella A"
+  },
+  {
+   "name": "Iavarone A"
+  },
+  {
+   "name": "Canoll P"
+  },
+  {
+   "name": "Sims PA"
+  },
+  {
+   "name": "Rabadan R"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Genome Med",
+ "publicationYear": "2021",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1186/s13073-021-00906-x",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC8136167",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 16288 rows x 3 columns. Content type (heuristic): omics. Sheets: F1E; F2C-D; F2E; F3B; F3E; F3H; F4A & S10A; F5B; F5C; S3B; S4; S7C; S8; S9; S10B; S12; S13"
+  }
+ ],
+ "sizes": [
+  "918 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "13073_2021_906_MOESM4_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "F1E",
+    "first_cells": [
+     "Path_IDH",
+     "Sample",
+     "MARCO",
+     "CD14",
+     "GBM IDH1Mut",
+     "MGH45",
+     "0.002122432983625947",
+     "1.027300965243984",
+     "MGH57",
+     "0",
+     "0.5900606456018078"
+    ]
+   },
+   {
+    "sheet": "F2C-D",
+    "first_cells": [
+     "MARCO",
+     "Diagnosis Age",
+     "Disease Free (Months)",
+     "Overall Survival (Months)",
+     "Dead",
+     "MGMT_methylated",
+     "IDHmut",
+     "TCGA-02-0001",
+     "3.173970002069497",
+     "44",
+     "4.5",
+     "11.76"
+    ]
+   },
+   {
+    "sheet": "F2E",
+    "first_cells": [
+     "MARCO",
+     "Subtype",
+     "TCGA-02-0001",
+     "3.173970002069497",
+     "NE",
+     "TCGA-02-0003",
+     "2.50309770950084",
+     "PN"
+    ]
+   },
+   {
+    "sheet": "F3B",
+    "first_cells": [
+     "MESENCHYMAL",
+     " CLASSICAL",
+     "NEURAL",
+     "PRONEURAL",
+     "Spearman Rho",
+     "0.40627178",
+     "-0.13501742",
+     "0.11027875",
+     "-0.31184669",
+     "p-value",
+     "0.00839592551",
+     "0.399977666"
+    ]
+   },
+   {
+    "sheet": "F3E",
+    "first_cells": [
+     "Location",
+     "Sample",
+     "Cell",
+     "MARCO",
+     "Tumor",
+     "BT_S2",
+     "1001000173.B6",
+     "0",
+     "1001000173.D11",
+     "0"
+    ]
+   },
+   {
+    "sheet": "F3H",
+    "first_cells": [
+     "Gene",
+     "Differential HLA II Expression",
+     "t-statistic magnitude",
+     "FAM138A",
+     "0.2524371932993862",
+     "4.021709518104363",
+     "OR4F29",
+     "0.1908676332241792",
+     "1.304136901526677"
+    ]
+   },
+   {
+    "sheet": "F4A & S10A",
+    "first_cells": [
+     "Sample ID",
+     "Status (0 = Primary, 1 = Pre-P",
+     "Responder",
+     "MARCO",
+     "3542",
+     "0",
+     "1",
+     "2.352889955045211",
+     "3749",
+     "0",
+     "0",
+     "0.3279879063808861"
+    ]
+   },
+   {
+    "sheet": "F5B",
+    "first_cells": [
+     "Sample",
+     "MARCO",
+     "Macrophage-Microglial Score",
+     "BT_S1",
+     "MARCO+",
+     "0.3210942126099118",
+     "BT_S1",
+     "MARCO-",
+     "-0.02165579972496191"
+    ]
+   },
+   {
+    "sheet": "F5C",
+    "first_cells": [
+     "Sample",
+     "Tumor Chemoattractant Score",
+     "MARCO",
+     "BT_S1",
+     "-0.1384641350610988",
+     "0.01813769367512151",
+     "BT_S2",
+     "0.03678608206905418",
+     "0.04188223453773065"
+    ]
+   },
+   {
+    "sheet": "S3B",
+    "first_cells": [
+     "MARCO",
+     "CD163",
+     "TMEM119",
+     "CD14",
+     "Normalized Dispersion",
+     "1.3199165",
+     "0.22139354",
+     "0.37036213",
+     "0.28921422",
+     "p-value",
+     "0.0042264",
+     "0.4773545"
+    ]
+   },
+   {
+    "sheet": "S4",
+    "first_cells": [
+     "Path_IDH",
+     "Sample",
+     "Library Complexity",
+     "GBM IDH1Mut",
+     "MGH45",
+     "3910.112582781457",
+     "MGH57",
+     "3508.333333333333"
+    ]
+   },
+   {
+    "sheet": "S7C",
+    "first_cells": [
+     "coef",
+     "exp(coef)",
+     "se(coef)",
+     "coef lower 95%",
+     "coef upper 95%",
+     "exp(coef) lower 95%",
+     "exp(coef) upper 95%",
+     "z",
+     "p",
+     "-log2(p)",
+     "MARCO",
+     "0.1653927325513922"
+    ]
+   },
+   {
+    "sheet": "S8",
+    "first_cells": [
+     "Sample",
+     "Subpopulation",
+     "MESENCHYMAL",
+     "BT_S1",
+     "Tumor",
+     "-0.1531267900925257",
+     "BT_S2",
+     "Tumor",
+     "-0.04756359330647445"
+    ]
+   },
+   {
+    "sheet": "S9",
+    "first_cells": [
+     "donor_id",
+     "donor_name",
+     "donor_age",
+     "donor_color",
+     "sample_well",
+     "sample_polygon",
+     "sample_mri_0",
+     "sample_mri_1",
+     "sample_mri_2",
+     "structure_id",
+     "structure_name",
+     "structure_abbreviation"
+    ]
+   },
+   {
+    "sheet": "S10B",
+    "first_cells": [
+     "Recurrent or Untreated",
+     "MARCO",
+     "SNV Pipeline",
+     "Cohorts",
+     "Type",
+     "Non-Surgical Treatment",
+     "TMZ",
+     "Hypermutation",
+     "MGMT_MET_Initial",
+     "MGMT_Recurrence",
+     "Surgical Intervals (months)",
+     "Overall Survival (months)"
+    ]
+   },
+   {
+    "sheet": "S12",
+    "first_cells": [
+     "0",
+     "MARCO",
+     "TCGA-02-0001",
+     "6.328667276721919",
+     "7.80724435754547",
+     "TCGA-02-0003",
+     "6.620692267132276",
+     "7.15848657528246"
+    ]
+   },
+   {
+    "sheet": "S13",
+    "first_cells": [
+     "Tissue",
+     "MARCO",
+     "MKI67",
+     "Cell Count",
+     "GBM",
+     "-",
+     "-",
+     "14280",
+     "+",
+     "760"
+    ]
+   }
+  ]
+ }
+}

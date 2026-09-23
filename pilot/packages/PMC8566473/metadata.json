@@ -1,0 +1,185 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (41467_2021_26653_MOESM4_ESM.xlsx) from: Competitive binding of E3 ligases TRIM26 and WWP2 controls SOX2 in glioblastoma"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Mahlokozera T"
+  },
+  {
+   "name": "Patel B"
+  },
+  {
+   "name": "Chen H"
+  },
+  {
+   "name": "Desouza P"
+  },
+  {
+   "name": "Qu X"
+  },
+  {
+   "name": "Mao DD"
+  },
+  {
+   "name": "Hafez D"
+  },
+  {
+   "name": "Yang W"
+  },
+  {
+   "name": "Taiwo R"
+  },
+  {
+   "name": "Paturu M"
+  },
+  {
+   "name": "Salehi A"
+  },
+  {
+   "name": "Gujar AD"
+  },
+  {
+   "name": "Dunn GP"
+  },
+  {
+   "name": "Mosammaparast N"
+  },
+  {
+   "name": "Petti AA"
+  },
+  {
+   "name": "Yano H"
+  },
+  {
+   "name": "Kim AH"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2021",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/s41467-021-26653-6",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC8566473",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 35684 rows x 24 columns. Content type (heuristic): numeric. Sheets: B67 TRIM26i.1 DEGs; B67 TRIM26i.1 DEGs, FDR < 0.05; B67 TRIM26i.2 DEGs; B67 TRIM26i.2 DEGs, FDR < 0.05"
+  }
+ ],
+ "sizes": [
+  "17846 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "41467_2021_26653_MOESM4_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "B67 TRIM26i.1 DEGs",
+    "first_cells": [
+     "Feature_ID",
+     "entrezgene",
+     "external_gene_name",
+     "gene_biotype",
+     "external_gene_source",
+     "description",
+     "logFC",
+     "CI.L",
+     "CI.R",
+     "AveExpr",
+     "t",
+     "P.Value"
+    ]
+   },
+   {
+    "sheet": "B67 TRIM26i.1 DEGs, FDR < 0.05",
+    "first_cells": [
+     "Feature_ID",
+     "entrezgene",
+     "external_gene_name",
+     "gene_biotype",
+     "external_gene_source",
+     "description",
+     "logFC",
+     "CI.L",
+     "CI.R",
+     "AveExpr",
+     "t",
+     "P.Value"
+    ]
+   },
+   {
+    "sheet": "B67 TRIM26i.2 DEGs",
+    "first_cells": [
+     "Feature_ID",
+     "entrezgene",
+     "external_gene_name",
+     "gene_biotype",
+     "external_gene_source",
+     "description",
+     "logFC",
+     "CI.L",
+     "CI.R",
+     "AveExpr",
+     "t",
+     "P.Value"
+    ]
+   },
+   {
+    "sheet": "B67 TRIM26i.2 DEGs, FDR < 0.05",
+    "first_cells": [
+     "Feature_ID",
+     "entrezgene",
+     "external_gene_name",
+     "gene_biotype",
+     "external_gene_source",
+     "description",
+     "logFC",
+     "CI.L",
+     "CI.R",
+     "AveExpr",
+     "t",
+     "P.Value"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (41467_2018_7659_MOESM6_ESM.xlsx) from: Drug and disease signature integration identifies synergistic combinations in glioblastoma"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Stathias V"
+  },
+  {
+   "name": "Jermakowicz AM"
+  },
+  {
+   "name": "Maloof ME"
+  },
+  {
+   "name": "Forlin M"
+  },
+  {
+   "name": "Walters W"
+  },
+  {
+   "name": "Suter RK"
+  },
+  {
+   "name": "Durante MA"
+  },
+  {
+   "name": "Williams SL"
+  },
+  {
+   "name": "Harbour JW"
+  },
+  {
+   "name": "Volmar CH"
+  },
+  {
+   "name": "Lyons NJ"
+  },
+  {
+   "name": "Wahlestedt C"
+  },
+  {
+   "name": "Graham RM"
+  },
+  {
+   "name": "Ivan ME"
+  },
+  {
+   "name": "Komotar RJ"
+  },
+  {
+   "name": "Sarkaria JN"
+  },
+  {
+   "name": "Subramanian A"
+  },
+  {
+   "name": "Golub TR"
+  },
+  {
+   "name": "Sch\u00fcrer SC"
+  },
+  {
+   "name": "Ayad NG"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2018",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/s41467-018-07659-z",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC6294341",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 5120 rows x 2 columns. Content type (heuristic): mixed. Sheets: Table_BRD_IDs_with_MOAs_09_30_2"
+  }
+ ],
+ "sizes": [
+  "103 KB"
+ ],
+ "formats": [
+  "xlsx"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "41467_2018_7659_MOESM6_ESM.xlsx",
+  "sheets": [
+   {
+    "sheet": "Table_BRD_IDs_with_MOAs_09_30_2",
+    "first_cells": [
+     "BROAD ID",
+     "Curated_MOA",
+     "BRD-A98702003",
+     "11-beta-HSD1 inhibitor",
+     "BRD-K18135438",
+     "11-beta-HSD1 inhibitor"
+    ]
+   }
+  ]
+ }
+}
