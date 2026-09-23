@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><title>Supporting Evidence</title>
 <style>
-@page{size:Letter;margin:0.45in 0.5in}
-body{font-family:Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.18;color:#111;margin:0}
+@page{size:Letter;margin:0.4in 0.45in}
+body{font-family:Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.14;color:#111;margin:0}
 h1{font-size:14pt;margin:0 0 2pt}
 .sub{font-size:11pt;color:#333;margin:0 0 8pt}
 h2{font-size:11pt;margin:6pt 0 2pt;text-transform:uppercase;letter-spacing:.04em}
@@ -23,7 +23,7 @@ a{color:#0a4a80;text-decoration:none}
 <h2>1. Census of the full population (files listed by name, nothing downloaded)</h2>
 <table>
 <tr><th>NCI-funded open-access papers, 2016–2022, with supplementary files and no data-repository accession</th><th class="n">Count</th></tr>
-<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB or GenBank)</td><td class="n">26,228</td></tr>
+<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB, GenBank)</td><td class="n">26,228</td></tr>
 <tr><td>Papers whose full text was readable · attachments listed</td><td class="n">25,138 · 73,795</td></tr>
 <tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
 <tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB)</td><td class="n"><b>15,458</b></td></tr>
@@ -31,7 +31,7 @@ a{color:#0a4a80;text-decoration:none}
 <tr><td>Share of papers with a spreadsheet attachment, by year 2016 → 2022</td><td class="n">14% · 17% · 18% · 20% · 22% · 20% · 19%</td></tr>
 </table>
 
-<h2>2. Four random samples of 300 papers, every attachment downloaded and opened (124 papers later found to carry a GEO accession are excluded)</h2>
+<h2>2. Four random samples of 300 papers, every attachment opened (124 with a GEO accession excluded)</h2>
 <table>
 <tr><th>Cancer type</th><th class="n">Analysed</th><th class="n">Any dataset*</th><th class="n">Native spreadsheet</th><th class="n">CC BY / CC0</th><th class="n">Dataset files</th></tr>
 <tr><td>Glioblastoma</td><td class="n">271</td><td class="n">53 (19.6%)</td><td class="n">41 (15.1%)</td><td class="n">41</td><td class="n">106</td></tr>
@@ -40,18 +40,18 @@ a{color:#0a4a80;text-decoration:none}
 <tr><td>Leukemia</td><td class="n">261</td><td class="n">45 (17.2%)</td><td class="n">33 (12.6%)</td><td class="n">33</td><td class="n">112</td></tr>
 <tr><td><b>Pooled</b></td><td class="n"><b>1,076</b></td><td class="n"><b>202 (18.8%)</b></td><td class="n"><b>156 (14.5%</b>, CI 12–17%)</td><td class="n"><b>167 (83%)</b></td><td class="n"><b>462</b></td></tr>
 </table>
-<p class="small">*Dataset = largest table ≥ 50 rows × 3 columns, or ≥ 1,000 rows; PDF/Word tables count only as numeric grids; peer-review files, reporting summaries and figures excluded. Largest table: 152,683 rows. Hand check of 105 machine decisions (verdicts published): 60/60 "dataset" calls were real data tables; every miss was a table under 50 rows. About half of rescued tables are primary measurements, half derived results. Filter check on 500 random population papers: 15% reference a repository somewhere; 13.5% of spreadsheet papers already have a Figshare identifier. Netting those out: roughly 2,800 to 3,900 papers, 8,000 to 11,000 buried dataset files.</p>
+<p class="small">*Dataset = largest table ≥ 50 rows × 3 cols, or ≥ 1,000 rows; PDF/Word tables only as numeric grids; review files, reporting summaries and figures excluded. Largest table 152,683 rows. Hand check of 105 machine decisions (verdicts published): 60/60 "dataset" calls real; every miss under 50 rows. About half primary measurements, half derived results. Filter check on 500 random papers: 15% reference a repository somewhere; 13.5% of spreadsheet papers already have a Figshare identifier. Net estimate: 2,800–3,900 papers, 8,000–11,000 buried dataset files.</p>
 
 <div class="two">
 <div>
 <h2>3. Two live examples a reviewer can open</h2>
 <ul>
-<li><b>121-patient glioblastoma cohort table</b> (case, sex, age, location, IDH/TERT status, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, file 40478_2018_613_MOESM2_ESM.xlsx. CC BY. Listed in no catalogue.</li>
-<li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391, file 41467_2019_10912_MOESM4_ESM.xlsx. CC BY. Listed in no catalogue.</li>
+<li><b>121-patient glioblastoma cohort table</b> (sex, age, location, IDH/TERT, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, 40478_2018_613_MOESM2_ESM.xlsx. CC BY.</li>
+<li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391, 41467_2019_10912_MOESM4_ESM.xlsx. CC BY.</li>
 </ul>
 <h2>4. Deposit-ready packages</h2>
 <ul>
-<li>8 datasets from CC BY papers, unmodified, each with DataCite-style metadata.json (title, creators, license, article DOI, PMC ID, funder, format, size, sheet names) and README. Not yet uploaded; see governance in Prompt 4.</li>
+<li>8 datasets from CC BY papers, unmodified, each with DataCite-style metadata (title, creators, license, article DOI, PMC ID, funder, format, sheets) and README. Not yet uploaded; see governance in Prompt 4.</li>
 </ul>
 </div>
 <div>
@@ -64,8 +64,8 @@ a{color:#0a4a80;text-decoration:none}
 <ul>
 <li>Gobeill et al., <i>Bioinformatics Advances</i> 2025 — 36.2 M PMC supplementary files extracted and indexed (PMC12371329).</li>
 <li>Federer et al., <i>PLOS ONE</i> 2018 (doi 10.1371/journal.pone.0194768); Colavizza et al., <i>PLOS ONE</i> 2020 (10.1371/journal.pone.0230416); Federer, 2022 (PMC9401135).</li>
-<li>Ghosh et al., <i>JNCI</i> 2025 (PMC12782234); Boja et al., <i>JCO CCI</i> 2026 (PMC13479720); Boyd et al., <i>JNCI</i> 2026 (10.1093/jnci/djag199).</li>
-<li>CBIIT INS-Data pipeline: github.com/CBIIT/INS-Data; INS disease-code mapper: github.com/CBIIT/ccdi-ins-icdo-mapping-llm.</li>
+<li>Ghosh et al., <i>JNCI</i> 2025 (PMC12782234); Boja et al., <i>JCO CCI</i> 2026 (PMC13479720); Boyd et al., <i>JNCI</i> 2026 (djag199).</li>
+<li>CBIIT INS-Data pipeline and INS disease-code mapper: github.com/CBIIT (INS-Data, ccdi-ins-icdo-mapping-llm).</li>
 </ul>
 </div>
 </div>
