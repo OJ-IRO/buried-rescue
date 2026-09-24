@@ -28,9 +28,9 @@ a{color:#0F6E68;text-decoration:none}
 <tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB, GenBank)</td><td class="n">26,228</td></tr>
 <tr><td>Papers whose full text was readable · attachments listed</td><td class="n">25,138 · 73,795</td></tr>
 <tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
-<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB)</td><td class="n"><b>15,458</b></td></tr>
+<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB). By journal: Nat Commun 3,201 · eLife 1,440 · PLoS One 1,052 · Sci Rep 682 (103 journals tabulated)</td><td class="n"><b>15,458</b></td></tr>
 <tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">3,824 (80%)</td></tr>
-<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers</td><td class="n">NIH-wide</td></tr>
+<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers. {{POST2023_EV}}</td><td class="n">NIH-wide</td></tr>
 </table>
 
 <h2>2. Four random samples of 300 papers, every attachment opened (124 with a GEO accession excluded)</h2>
@@ -54,11 +54,12 @@ a{color:#0F6E68;text-decoration:none}
 <h2>4. Rescued tables put back to work</h2>
 <ul>
 <li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 patients reproduce the known IDH survival split (median 88 vs 15 months; validation only). A third rescued table is a 121-patient hospital cohort not found in any catalogue (<span class="mono">demo/</span>).</li>
-<li>Verified patient-level tables in the four samples: ~4,400 patient records, ~500 from institutional cohorts not found in TCGA, GEO, dbGaP or any catalogue. 8 datasets packaged with DataCite metadata, not yet uploaded (Prompt 4).</li>
+<li>Verified patient-level tables in the four samples: ~4,400 patient records, ~500 from institutional cohorts not found in TCGA, GEO, dbGaP or any catalogue. 8 datasets packaged with DataCite metadata (not uploaded). <b>All 462 rescued datasets written to a source file in the Index of NCI Studies' exact 27-column curated-source schema</b> (<span class="mono">deliverable/</span>).</li>
 </ul>
 </div>
 <div>
 <h2>5. Code, data, site (open, MIT)</h2>
+<ul><li>Prior mirrors checked: BioStudies (S-EPMC records, e.g. S-EPMC6193287) and Figshare list the files per article but carry no dataset classification, description or catalogue entry.</li></ul>
 <ul>
 <li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — code, raw census, per-cancer results, hand-check verdicts, packages.</li>
 <li>Public page with searchable list of the 462 dataset files and plain-language descriptions: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>

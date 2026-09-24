@@ -12,7 +12,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 152,683 rows by 13 columns",
+"desc": "Genomic variants or positions (152,683 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14738
 },
 {
@@ -28,7 +29,8 @@
 "cols": 15,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 118,273 rows by 15 columns",
+"desc": "Numeric measurements underlying figures (118,273 rows by 15 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13510
 },
 {
@@ -44,7 +46,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 90,989 rows by 11 columns",
+"desc": "Numeric measurements underlying figures (90,989 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 32108
 },
 {
@@ -60,7 +63,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 72,929 rows by 11 columns",
+"desc": "Numeric measurements underlying figures (72,929 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 38580
 },
 {
@@ -76,7 +80,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 72,929 rows by 14 columns",
+"desc": "Genomic variants or positions (72,929 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 16377
 },
 {
@@ -92,7 +97,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 57,884 rows by 5 columns",
+"desc": "Gene-level table (57,884 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 3552
 },
 {
@@ -108,7 +114,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 57,821 rows by 8 columns",
+"desc": "Gene-level table (57,821 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 6909
 },
 {
@@ -124,7 +131,8 @@
 "cols": 18,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 55,535 rows by 18 columns",
+"desc": "Genomic variants or positions (55,535 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 6096
 },
 {
@@ -140,7 +148,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 53,737 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (53,737 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 4245
 },
 {
@@ -156,7 +165,8 @@
 "cols": 17,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 48,227 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (48,227 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 9872
 },
 {
@@ -172,7 +182,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 46,976 rows by 6 columns",
+"desc": "Genomic variants or positions (46,976 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4486
 },
 {
@@ -188,7 +199,8 @@
 "cols": 24,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 35,684 rows by 24 columns",
+"desc": "Differential expression results (35,684 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 17846
 },
 {
@@ -204,7 +216,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 28,831 rows by 14 columns",
+"desc": "Numeric measurements underlying figures (28,831 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4856
 },
 {
@@ -220,7 +233,8 @@
 "cols": 50,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 26,084 rows by 50 columns",
+"desc": "Genomic variants or positions (26,084 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 927
 },
 {
@@ -236,7 +250,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 25,396 rows by 14 columns",
+"desc": "Genomic variants or positions (25,396 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 36368
 },
 {
@@ -252,7 +267,8 @@
 "cols": 19,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 23,775 rows by 19 columns",
+"desc": "Numeric measurements underlying figures (23,775 rows by 19 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4128
 },
 {
@@ -268,7 +284,8 @@
 "cols": 19,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 23,584 rows by 19 columns",
+"desc": "Numeric measurements underlying figures (23,584 rows by 19 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4072
 },
 {
@@ -284,7 +301,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 21,788 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (21,788 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 3747
 },
 {
@@ -300,7 +318,8 @@
 "cols": 18,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 20,116 rows by 18 columns",
+"desc": "Gene-level table (20,116 genes) with 18 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2788
 },
 {
@@ -316,7 +335,8 @@
 "cols": 36,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 20,106 rows by 36 columns",
+"desc": "Data table (20,106 rows by 36 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 6618
 },
 {
@@ -332,7 +352,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 20,081 rows by 8 columns",
+"desc": "Gene-level table (20,081 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1448
 },
 {
@@ -348,7 +369,8 @@
 "cols": 99,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 19,516 rows by 99 columns",
+"desc": "Proteomics or mass-spectrometry measurements (19,516 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 12288
 },
 {
@@ -364,7 +386,8 @@
 "cols": 99,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 19,516 rows by 99 columns",
+"desc": "Proteomics or mass-spectrometry measurements (19,516 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 12288
 },
 {
@@ -380,7 +403,8 @@
 "cols": 62,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 19,125 rows by 62 columns",
+"desc": "Gene-level table (19,125 genes) with 62 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 15318
 },
 {
@@ -396,7 +420,8 @@
 "cols": 62,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 19,125 rows by 62 columns",
+"desc": "Gene-level table (19,125 genes) with 62 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 15318
 },
 {
@@ -412,7 +437,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 18,866 rows by 13 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (18,866 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 4278
 },
 {
@@ -428,7 +454,8 @@
 "cols": 24,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 18,127 rows by 24 columns",
+"desc": "Numeric measurements underlying figures (18,127 rows by 24 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4352
 },
 {
@@ -444,7 +471,8 @@
 "cols": 30,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 17,369 rows by 30 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Proteomics or mass-spectrometry measurements (17,369 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 3785
 },
 {
@@ -460,7 +488,8 @@
 "cols": 29,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 17,215 rows by 29 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (17,215 rows by 29 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 1761
 },
 {
@@ -476,7 +505,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 16,288 rows by 3 columns",
+"desc": "Gene-level table (16,288 genes) with 3 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 918
 },
 {
@@ -492,7 +522,8 @@
 "cols": 20,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 15,402 rows by 20 columns",
+"desc": "Gene-level table (15,402 genes) with 20 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1995
 },
 {
@@ -508,7 +539,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 14,869 rows by 20 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (14,869 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 9496
 },
 {
@@ -524,7 +556,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 14,540 rows by 8 columns",
+"desc": "Gene-level table (14,540 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1493
 },
 {
@@ -540,7 +573,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 14,158 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (14,158 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 30117
 },
 {
@@ -556,7 +590,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 13,566 rows by 6 columns",
+"desc": "Genomic variants or positions (13,566 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 9626
 },
 {
@@ -572,7 +607,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 13,459 rows by 4 columns",
+"desc": "Gene-level table (13,459 genes) with 4 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 956
 },
 {
@@ -588,7 +624,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 12,537 rows by 5 columns",
+"desc": "Data table (12,537 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1528
 },
 {
@@ -604,7 +641,8 @@
 "cols": 7,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 12,453 rows by 7 columns",
+"desc": "Gene-level table (12,453 genes) with 7 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 389
 },
 {
@@ -620,7 +658,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 12,124 rows by 5 columns",
+"desc": "Data table (12,124 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 402
 },
 {
@@ -636,7 +675,8 @@
 "cols": 15,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 11,704 rows by 15 columns",
+"desc": "Numeric measurements underlying figures (11,704 rows by 15 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2511
 },
 {
@@ -652,7 +692,8 @@
 "cols": 2,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 11,483 rows by 2 columns",
+"desc": "Gene-level table (11,483 genes) with 2 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 216
 },
 {
@@ -668,7 +709,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 11,377 rows by 5 columns",
+"desc": "Data table (11,377 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 377
 },
 {
@@ -684,7 +726,8 @@
 "cols": 16384,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 11,206 rows by 16384 columns",
+"desc": "Genomic variants or positions (11,206 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 819
 },
 {
@@ -700,7 +743,8 @@
 "cols": 24,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 11,025 rows by 24 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (11,025 rows by 24 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 6835
 },
 {
@@ -716,7 +760,8 @@
 "cols": 104,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 10,652 rows by 104 columns",
+"desc": "Proteomics or mass-spectrometry measurements (10,652 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14287
 },
 {
@@ -732,7 +777,8 @@
 "cols": 104,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 10,652 rows by 104 columns",
+"desc": "Proteomics or mass-spectrometry measurements (10,652 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14287
 },
 {
@@ -748,7 +794,8 @@
 "cols": 2,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 10,126 rows by 2 columns",
+"desc": "Proteomics or mass-spectrometry measurements (10,126 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 286
 },
 {
@@ -764,7 +811,8 @@
 "cols": 2,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 10,126 rows by 2 columns",
+"desc": "Proteomics or mass-spectrometry measurements (10,126 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 286
 },
 {
@@ -780,7 +828,8 @@
 "cols": 16,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 10,045 rows by 16 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (10,045 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 3174
 },
 {
@@ -796,7 +845,8 @@
 "cols": 1,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 10,001 rows by 1 columns",
+"desc": "Numeric measurements underlying figures (10,001 rows by 1 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 422
 },
 {
@@ -812,7 +862,8 @@
 "cols": 18,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 9,001 rows by 18 columns",
+"desc": "Numeric measurements underlying figures (9,001 rows by 18 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 10429
 },
 {
@@ -828,7 +879,8 @@
 "cols": 32,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 8,371 rows by 32 columns",
+"desc": "Gene-level table (8,371 genes) with 32 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14793
 },
 {
@@ -844,7 +896,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 8,259 rows by 4 columns",
+"desc": "Differential expression results (8,259 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 610
 },
 {
@@ -860,7 +913,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 8,123 rows by 4 columns",
+"desc": "Data table (8,123 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 462
 },
 {
@@ -876,7 +930,8 @@
 "cols": 7,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 8,075 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (8,075 genes) with 7 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 1818
 },
 {
@@ -892,7 +947,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 7,393 rows by 4 columns",
+"desc": "Data table (7,393 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 557
 },
 {
@@ -908,7 +964,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 7,043 rows by 12 columns",
+"desc": "Gene-level table (7,043 genes) with 12 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1401
 },
 {
@@ -924,7 +981,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 7,013 rows by 9 columns",
+"desc": "Gene-level table (7,013 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 818
 },
 {
@@ -940,7 +998,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 791
 },
 {
@@ -956,7 +1015,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 782
 },
 {
@@ -972,7 +1032,8 @@
 "cols": 12,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 12 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 836
 },
 {
@@ -988,7 +1049,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 785
 },
 {
@@ -1004,7 +1066,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 774
 },
 {
@@ -1020,7 +1083,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 6,840 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (6,840 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 787
 },
 {
@@ -1036,7 +1100,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 6,643 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (6,643 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 395
 },
 {
@@ -1052,7 +1117,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 6,633 rows by 12 columns",
+"desc": "Differential expression results (6,633 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1175
 },
 {
@@ -1068,7 +1134,8 @@
 "cols": 34,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 6,310 rows by 34 columns",
+"desc": "Genomic variants or positions (6,310 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1632
 },
 {
@@ -1084,7 +1151,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 6,306 rows by 7 columns",
+"desc": "Genomic variants or positions (6,306 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 317
 },
 {
@@ -1100,7 +1168,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 6,113 rows by 4 columns",
+"desc": "Genomic variants or positions (6,113 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 212
 },
 {
@@ -1116,7 +1185,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 6,089 rows by 9 columns",
+"desc": "Genomic variants or positions (6,089 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 788
 },
 {
@@ -1132,7 +1202,8 @@
 "cols": 47,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 6,071 rows by 47 columns",
+"desc": "Genomic variants or positions (6,071 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1754
 },
 {
@@ -1148,7 +1219,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 5,426 rows by 13 columns",
+"desc": "Genomic variants or positions (5,426 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 922
 },
 {
@@ -1164,7 +1236,8 @@
 "cols": 2,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 5,120 rows by 2 columns",
+"desc": "Data table (5,120 rows by 2 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 103
 },
 {
@@ -1180,7 +1253,8 @@
 "cols": 18,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 5,003 rows by 18 columns",
+"desc": "Gene-level table (5,003 genes) with 18 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1017
 },
 {
@@ -1196,7 +1270,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 4,702 rows by 10 columns",
+"desc": "Proteomics or mass-spectrometry measurements (4,702 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2396
 },
 {
@@ -1212,7 +1287,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 4,692 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (4,692 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 646
 },
 {
@@ -1228,7 +1304,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 4,669 rows by 6 columns",
+"desc": "Data table (4,669 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 300
 },
 {
@@ -1244,7 +1321,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 4,366 rows by 5 columns",
+"desc": "Gene-level table (4,366 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 474
 },
 {
@@ -1260,7 +1338,8 @@
 "cols": 13,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 4,319 rows by 13 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (4,319 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 980
 },
 {
@@ -1276,7 +1355,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,878 rows by 8 columns",
+"desc": "Numeric measurements underlying figures (3,878 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 624
 },
 {
@@ -1292,7 +1372,8 @@
 "cols": 13,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 3,838 rows by 13 columns",
+"desc": "Data table (3,838 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1378
 },
 {
@@ -1308,7 +1389,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,786 rows by 10 columns",
+"desc": "Gene-level table (3,786 genes) with 10 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 690
 },
 {
@@ -1324,7 +1406,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,783 rows by 3 columns",
+"desc": "Differential expression results (3,783 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 90
 },
 {
@@ -1340,7 +1423,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,773 rows by 20 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Genomic variants or positions (3,773 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 877
 },
 {
@@ -1356,7 +1440,8 @@
 "cols": 36,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,709 rows by 36 columns",
+"desc": "Numeric measurements underlying figures (3,709 rows by 36 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1312
 },
 {
@@ -1372,7 +1457,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,628 rows by 8 columns",
+"desc": "Gene-level table (3,628 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 363
 },
 {
@@ -1388,7 +1474,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,626 rows by 14 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (3,626 genes) with 14 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 892
 },
 {
@@ -1404,7 +1491,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,588 rows by 17 columns",
+"desc": "Proteomics or mass-spectrometry measurements (3,588 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 404
 },
 {
@@ -1420,7 +1508,8 @@
 "cols": 4,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,371 rows by 4 columns",
+"desc": "Numeric measurements underlying figures (3,371 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 138
 },
 {
@@ -1436,7 +1525,8 @@
 "cols": 33,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 3,313 rows by 33 columns",
+"desc": "Genomic variants or positions (3,313 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 357
 },
 {
@@ -1452,7 +1542,8 @@
 "cols": 32,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,288 rows by 32 columns",
+"desc": "Genomic variants or positions (3,288 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1509
 },
 {
@@ -1468,7 +1559,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,226 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (3,226 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 903
 },
 {
@@ -1484,7 +1576,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,183 rows by 13 columns",
+"desc": "Numeric measurements underlying figures (3,183 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4207
 },
 {
@@ -1500,7 +1593,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 3,096 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (3,096 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 527
 },
 {
@@ -1516,7 +1610,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 3,076 rows by 9 columns",
+"desc": "Gene-level table (3,076 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 603
 },
 {
@@ -1532,7 +1627,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,850 rows by 19 columns",
+"desc": "Proteomics or mass-spectrometry measurements (2,850 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 651
 },
 {
@@ -1548,7 +1644,8 @@
 "cols": 30,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 2,793 rows by 30 columns",
+"desc": "Genomic variants or positions (2,793 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 526
 },
 {
@@ -1564,7 +1661,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 2,742 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (2,742 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 708
 },
 {
@@ -1580,7 +1678,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 2,719 rows by 5 columns",
+"desc": "Numeric measurements underlying figures (2,719 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 351
 },
 {
@@ -1596,7 +1695,8 @@
 "cols": 32,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,681 rows by 32 columns",
+"desc": "Genomic variants or positions (2,681 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1430
 },
 {
@@ -1612,7 +1712,8 @@
 "cols": 4,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 2,579 rows by 4 columns",
+"desc": "Numeric measurements underlying figures (2,579 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 91
 },
 {
@@ -1628,7 +1729,8 @@
 "cols": 2,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 2,579 rows by 2 columns",
+"desc": "Data table (2,579 rows by 2 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 53
 },
 {
@@ -1644,7 +1746,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,551 rows by 6 columns",
+"desc": "Gene-level table (2,551 genes) with 6 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 310
 },
 {
@@ -1660,7 +1763,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,485 rows by 10 columns",
+"desc": "Gene-level table (2,485 genes) with 10 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 634
 },
 {
@@ -1676,7 +1780,8 @@
 "cols": 23,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,405 rows by 23 columns",
+"desc": "Genomic variants or positions (2,405 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1496
 },
 {
@@ -1692,7 +1797,8 @@
 "cols": 37,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,339 rows by 37 columns",
+"desc": "Gene-level table (2,339 genes) with 37 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1279
 },
 {
@@ -1708,7 +1814,8 @@
 "cols": 24,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,209 rows by 24 columns",
+"desc": "Proteomics or mass-spectrometry measurements (2,209 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 813
 },
 {
@@ -1724,7 +1831,8 @@
 "cols": 24,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 2,209 rows by 24 columns",
+"desc": "Proteomics or mass-spectrometry measurements (2,209 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 813
 },
 {
@@ -1740,7 +1848,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 2,190 rows by 7 columns",
+"desc": "Numeric measurements underlying figures (2,190 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 115
 },
 {
@@ -1756,7 +1865,8 @@
 "cols": 26,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 2,107 rows by 26 columns",
+"desc": "Data table (2,107 rows by 26 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 93
 },
 {
@@ -1772,7 +1882,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 2,045 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (2,045 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 226
 },
 {
@@ -1788,7 +1899,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 2,005 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (2,005 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 146
 },
 {
@@ -1804,7 +1916,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,824 rows by 9 columns",
+"desc": "Gene-level table (1,824 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 251
 },
 {
@@ -1820,7 +1933,8 @@
 "cols": 41,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,792 rows by 41 columns",
+"desc": "Numeric measurements underlying figures (1,792 rows by 41 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 459
 },
 {
@@ -1836,7 +1950,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,778 rows by 11 columns",
+"desc": "Data table (1,778 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 479
 },
 {
@@ -1852,7 +1967,8 @@
 "cols": 170,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,739 rows by 170 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (1,739 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 396
 },
 {
@@ -1868,7 +1984,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,707 rows by 9 columns",
+"desc": "Genomic variants or positions (1,707 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 20778
 },
 {
@@ -1884,7 +2001,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,706 rows by 14 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (1,706 genes) with 14 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 482
 },
 {
@@ -1900,7 +2018,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,698 rows by 8 columns",
+"desc": "Gene-level table (1,698 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 87
 },
 {
@@ -1916,7 +2035,8 @@
 "cols": 26,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,681 rows by 26 columns",
+"desc": "Numeric measurements underlying figures (1,681 rows by 26 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 439
 },
 {
@@ -1932,7 +2052,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,675 rows by 5 columns",
+"desc": "Gene-level table (1,675 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 117
 },
 {
@@ -1948,7 +2069,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,617 rows by 10 columns",
+"desc": "Genomic variants or positions (1,617 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 481
 },
 {
@@ -1964,7 +2086,8 @@
 "cols": 5,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,595 rows by 5 columns",
+"desc": "Data table (1,595 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 114
 },
 {
@@ -1980,7 +2103,8 @@
 "cols": 3,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,589 rows by 3 columns",
+"desc": "Data table (1,589 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 50
 },
 {
@@ -1996,7 +2120,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,583 rows by 14 columns",
+"desc": "Numeric measurements underlying figures (1,583 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 662
 },
 {
@@ -2012,7 +2137,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,564 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (1,564 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 298
 },
 {
@@ -2028,7 +2154,8 @@
 "cols": 1433,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,504 rows by 1433 columns",
+"desc": "Gene-level table (1,504 genes) with 1433 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 6719
 },
 {
@@ -2044,7 +2171,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,415 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (1,415 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 270
 },
 {
@@ -2060,7 +2188,8 @@
 "cols": 29,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,383 rows by 29 columns",
+"desc": "Gene-level table (1,383 genes) with 29 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 205
 },
 {
@@ -2076,7 +2205,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,368 rows by 9 columns",
+"desc": "Differential expression results (1,368 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 100
 },
 {
@@ -2092,7 +2222,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,358 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (1,358 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 256
 },
 {
@@ -2108,7 +2239,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,338 rows by 5 columns",
+"desc": "Gene-level table (1,338 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 105
 },
 {
@@ -2124,7 +2256,8 @@
 "cols": 5,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,333 rows by 5 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (1,333 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 103
 },
 {
@@ -2140,7 +2273,8 @@
 "cols": 15,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,299 rows by 15 columns",
+"desc": "Pathway or gene-set enrichment results (1,299 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 103
 },
 {
@@ -2156,7 +2290,8 @@
 "cols": 1,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,284 rows by 1 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (1,284 genes) with 1 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 53
 },
 {
@@ -2172,7 +2307,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,260 rows by 9 columns",
+"desc": "Numeric measurements underlying figures (1,260 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 612
 },
 {
@@ -2188,7 +2324,8 @@
 "cols": 25,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,245 rows by 25 columns",
+"desc": "Proteomics or mass-spectrometry measurements (1,245 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 444
 },
 {
@@ -2204,7 +2341,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,213 rows by 14 columns",
+"desc": "Numeric measurements underlying figures (1,213 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 91
 },
 {
@@ -2220,7 +2358,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,206 rows by 9 columns",
+"desc": "Gene-level table (1,206 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 176
 },
 {
@@ -2236,7 +2375,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,203 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (1,203 genes) with 6 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 2867
 },
 {
@@ -2252,7 +2392,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,196 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (1,196 rows by 10 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 89
 },
 {
@@ -2268,7 +2409,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,190 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (1,190 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 206
 },
 {
@@ -2284,7 +2426,8 @@
 "cols": 14,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,182 rows by 14 columns",
+"desc": "Genomic variants or positions (1,182 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 430
 },
 {
@@ -2300,7 +2443,8 @@
 "cols": 8,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,173 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (1,173 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 3653
 },
 {
@@ -2316,7 +2460,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,155 rows by 4 columns",
+"desc": "Data table (1,155 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 75
 },
 {
@@ -2332,7 +2477,8 @@
 "cols": 56,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,154 rows by 56 columns",
+"desc": "Proteomics or mass-spectrometry measurements (1,154 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 117
 },
 {
@@ -2348,7 +2494,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,130 rows by 13 columns",
+"desc": "Numeric measurements underlying figures (1,130 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 667
 },
 {
@@ -2364,7 +2511,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,128 rows by 9 columns",
+"desc": "Gene-level table (1,128 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 227
 },
 {
@@ -2380,7 +2528,8 @@
 "cols": 5,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,121 rows by 5 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (1,121 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 78
 },
 {
@@ -2396,7 +2545,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,097 rows by 5 columns",
+"desc": "Numeric measurements underlying figures (1,097 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 154
 },
 {
@@ -2412,7 +2562,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,076 rows by 6 columns",
+"desc": "Gene-level table (1,076 genes) with 6 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 212
 },
 {
@@ -2428,7 +2579,8 @@
 "cols": 145,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 1,072 rows by 145 columns",
+"desc": "One row per patient or sample (1,072 rows), with her2. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2265
 },
 {
@@ -2444,7 +2596,8 @@
 "cols": 1024,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 1,060 rows by 1024 columns",
+"desc": "Gene-level table (1,060 genes) with 1024 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1716
 },
 {
@@ -2460,7 +2613,8 @@
 "cols": 15,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 1,022 rows by 15 columns",
+"desc": "Gene-level table (1,022 genes) with 15 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 189
 },
 {
@@ -2476,7 +2630,8 @@
 "cols": 15,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 1,019 rows by 15 columns",
+"desc": "One row per patient or sample (1,019 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 86
 },
 {
@@ -2492,7 +2647,8 @@
 "cols": 122,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,002 rows by 122 columns",
+"desc": "Gene-level table (1,002 genes) with 122 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2709
 },
 {
@@ -2508,7 +2664,8 @@
 "cols": 122,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 1,002 rows by 122 columns",
+"desc": "Gene-level table (1,002 genes) with 122 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2583
 },
 {
@@ -2524,7 +2681,8 @@
 "cols": 28,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 997 rows by 28 columns",
+"desc": "Genomic variants or positions (997 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 199
 },
 {
@@ -2540,7 +2698,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 997 rows by 4 columns",
+"desc": "Gene-level table (997 genes) with 4 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 23
 },
 {
@@ -2556,7 +2715,8 @@
 "cols": 23,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 973 rows by 23 columns",
+"desc": "Data table (973 rows by 23 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 53
 },
 {
@@ -2572,7 +2732,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 947 rows by 4 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Genomic variants or positions (947 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 265
 },
 {
@@ -2588,7 +2749,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 943 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (943 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 191
 },
 {
@@ -2604,7 +2766,8 @@
 "cols": 20,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 889 rows by 20 columns",
+"desc": "Genomic variants or positions (889 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 165
 },
 {
@@ -2620,7 +2783,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 884 rows by 3 columns",
+"desc": "Data table (884 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 92
 },
 {
@@ -2636,7 +2800,8 @@
 "cols": 3,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 866 rows by 3 columns",
+"desc": "Numeric measurements underlying figures (866 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 66
 },
 {
@@ -2652,7 +2817,8 @@
 "cols": 17,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 815 rows by 17 columns",
+"desc": "One row per patient or sample (815 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 97
 },
 {
@@ -2668,7 +2834,8 @@
 "cols": 157,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 813 rows by 157 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (813 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 234
 },
 {
@@ -2684,7 +2851,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 806 rows by 20 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (806 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 126
 },
 {
@@ -2700,7 +2868,8 @@
 "cols": 19,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 801 rows by 19 columns",
+"desc": "Gene-level table (801 genes) with 19 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 307
 },
 {
@@ -2716,7 +2885,8 @@
 "cols": 75,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 795 rows by 75 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (795 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 153
 },
 {
@@ -2732,7 +2902,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 795 rows by 11 columns",
+"desc": "Data table (795 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 87
 },
 {
@@ -2748,7 +2919,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 794 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (794 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 362
 },
 {
@@ -2764,7 +2936,8 @@
 "cols": 152,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 791 rows by 152 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (791 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 217
 },
 {
@@ -2780,7 +2953,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 786 rows by 10 columns",
+"desc": "Numeric measurements underlying figures (786 rows by 10 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 81
 },
 {
@@ -2796,7 +2970,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 745 rows by 9 columns",
+"desc": "Data table (745 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 268
 },
 {
@@ -2812,7 +2987,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 735 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (735 rows by 17 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 170
 },
 {
@@ -2828,7 +3004,8 @@
 "cols": 21,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 691 rows by 21 columns",
+"desc": "Pathway or gene-set enrichment results (691 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 254
 },
 {
@@ -2844,7 +3021,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 680 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (680 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 56
 },
 {
@@ -2860,7 +3038,8 @@
 "cols": 21,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 671 rows by 21 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (671 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 54
 },
 {
@@ -2876,7 +3055,8 @@
 "cols": 1024,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 670 rows by 1024 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (670 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 2022
 },
 {
@@ -2892,7 +3072,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 633 rows by 6 columns",
+"desc": "Pathway or gene-set enrichment results (633 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -2908,7 +3089,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 607 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (607 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 114
 },
 {
@@ -2924,7 +3106,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 606 rows by 11 columns",
+"desc": "Numeric measurements underlying figures (606 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 49
 },
 {
@@ -2940,7 +3123,8 @@
 "cols": 17,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 605 rows by 17 columns",
+"desc": "Proteomics or mass-spectrometry measurements (605 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 143
 },
 {
@@ -2956,7 +3140,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 602 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (602 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 838
 },
 {
@@ -2972,7 +3157,8 @@
 "cols": 13,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 598 rows by 13 columns",
+"desc": "Data table (598 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 67
 },
 {
@@ -2988,7 +3174,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 573 rows by 13 columns",
+"desc": "Gene-level table (573 genes) with 13 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 669
 },
 {
@@ -3004,7 +3191,8 @@
 "cols": 19,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 548 rows by 19 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (548 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 332
 },
 {
@@ -3020,7 +3208,8 @@
 "cols": 33,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 531 rows by 33 columns",
+"desc": "Genomic variants or positions (531 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 48
 },
 {
@@ -3036,7 +3225,8 @@
 "cols": 53,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 529 rows by 53 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (529 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 259
 },
 {
@@ -3052,7 +3242,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 529 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (529 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 81
 },
 {
@@ -3068,7 +3259,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 513 rows by 4 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Genomic variants or positions (513 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 78
 },
 {
@@ -3084,7 +3276,8 @@
 "cols": 144,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 513 rows by 144 columns",
+"desc": "One row per patient or sample (513 rows), with her2. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1100
 },
 {
@@ -3100,7 +3293,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 511 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (511 genes) with 9 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 146
 },
 {
@@ -3116,7 +3310,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 508 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (508 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 35
 },
 {
@@ -3132,7 +3327,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 506 rows by 4 columns",
+"desc": "Data table (506 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 37
 },
 {
@@ -3148,7 +3344,8 @@
 "cols": 22,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 504 rows by 22 columns",
+"desc": "Numeric measurements underlying figures (504 rows by 22 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 158
 },
 {
@@ -3164,7 +3361,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 503 rows by 7 columns",
+"desc": "Gene-level table (503 genes) with 7 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -3180,7 +3378,8 @@
 "cols": 24,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 496 rows by 24 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (496 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 78
 },
 {
@@ -3196,7 +3395,8 @@
 "cols": 29,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 489 rows by 29 columns",
+"desc": "Numeric measurements underlying figures (489 rows by 29 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 111
 },
 {
@@ -3212,7 +3412,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 474 rows by 11 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (474 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 54
 },
 {
@@ -3228,7 +3429,8 @@
 "cols": 10,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 468 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (468 rows by 10 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 51
 },
 {
@@ -3244,7 +3446,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 466 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (466 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 221
 },
 {
@@ -3260,7 +3463,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 463 rows by 5 columns",
+"desc": "Differential expression results (463 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 29
 },
 {
@@ -3276,7 +3480,8 @@
 "cols": 33,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 460 rows by 33 columns",
+"desc": "Genomic variants or positions (460 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 170
 },
 {
@@ -3292,7 +3497,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 442 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (442 genes) with 7 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 121
 },
 {
@@ -3308,7 +3514,8 @@
 "cols": 75,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 427 rows by 75 columns",
+"desc": "Data table (427 rows by 75 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 683
 },
 {
@@ -3324,7 +3531,8 @@
 "cols": 23,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 427 rows by 23 columns",
+"desc": "Pathway or gene-set enrichment results (427 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 45
 },
 {
@@ -3340,7 +3548,8 @@
 "cols": 21,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 425 rows by 21 columns",
+"desc": "Genomic variants or positions (425 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 149
 },
 {
@@ -3356,7 +3565,8 @@
 "cols": 17,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 425 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (425 rows by 17 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 144
 },
 {
@@ -3372,7 +3582,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 423 rows by 8 columns",
+"desc": "Data table (423 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 28
 },
 {
@@ -3388,7 +3599,8 @@
 "cols": 14,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 422 rows by 14 columns",
+"desc": "Data table (422 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 61
 },
 {
@@ -3404,7 +3616,8 @@
 "cols": 20,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 418 rows by 20 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (418 genes) with 20 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 101
 },
 {
@@ -3420,7 +3633,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 412 rows by 6 columns",
+"desc": "Gene-level table (412 genes) with 6 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 31
 },
 {
@@ -3436,7 +3650,8 @@
 "cols": 27,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 411 rows by 27 columns",
+"desc": "Data table (411 rows by 27 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 153
 },
 {
@@ -3452,7 +3667,8 @@
 "cols": 7,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 407 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (407 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 85
 },
 {
@@ -3468,7 +3684,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 402 rows by 5 columns",
+"desc": "Proteomics or mass-spectrometry measurements (402 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18225
 },
 {
@@ -3484,7 +3701,8 @@
 "cols": 37,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 386 rows by 37 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (386 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 69
 },
 {
@@ -3500,7 +3718,8 @@
 "cols": 20,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 386 rows by 20 columns",
+"desc": "Genomic variants or positions (386 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 175
 },
 {
@@ -3516,7 +3735,8 @@
 "cols": 64,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 386 rows by 64 columns",
+"desc": "Data table (386 rows by 64 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 313
 },
 {
@@ -3532,7 +3752,8 @@
 "cols": 24,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 386 rows by 24 columns",
+"desc": "Data table (386 rows by 24 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 118
 },
 {
@@ -3548,7 +3769,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 386 rows by 20 columns",
+"desc": "Data table (386 rows by 20 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 93
 },
 {
@@ -3564,7 +3786,8 @@
 "cols": 13,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 385 rows by 13 columns",
+"desc": "Data table (385 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 50
 },
 {
@@ -3580,7 +3803,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 383 rows by 4 columns",
+"desc": "Gene-level table (383 genes) with 4 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 31
 },
 {
@@ -3596,7 +3820,8 @@
 "cols": 13,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 381 rows by 13 columns",
+"desc": "Data table (381 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 146
 },
 {
@@ -3612,7 +3837,8 @@
 "cols": 27,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 380 rows by 27 columns",
+"desc": "Data table (380 rows by 27 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 70
 },
 {
@@ -3628,7 +3854,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 367 rows by 13 columns",
+"desc": "Proteomics or mass-spectrometry measurements (367 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 55
 },
 {
@@ -3644,7 +3871,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 365 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (365 rows by 7 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 264
 },
 {
@@ -3660,7 +3888,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 365 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (365 rows by 7 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 258
 },
 {
@@ -3676,7 +3905,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 365 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (365 rows by 7 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 264
 },
 {
@@ -3692,7 +3922,8 @@
 "cols": 20,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 361 rows by 20 columns",
+"desc": "One row per patient or sample (361 rows), with age, gender, recurrence. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -3708,7 +3939,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 361 rows by 9 columns",
+"desc": "Genomic variants or positions (361 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 102
 },
 {
@@ -3724,7 +3956,8 @@
 "cols": 42,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 360 rows by 42 columns",
+"desc": "Genomic variants or positions (360 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 91
 },
 {
@@ -3740,7 +3973,8 @@
 "cols": 27,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 359 rows by 27 columns",
+"desc": "Genomic variants or positions (359 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 468
 },
 {
@@ -3756,7 +3990,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 354 rows by 6 columns",
+"desc": "Genomic variants or positions (354 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 95
 },
 {
@@ -3772,7 +4007,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 353 rows by 11 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (353 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 42
 },
 {
@@ -3788,7 +4024,8 @@
 "cols": 3,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 345 rows by 3 columns",
+"desc": "Data table (345 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 24
 },
 {
@@ -3804,7 +4041,8 @@
 "cols": 11,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 339 rows by 11 columns",
+"desc": "One row per patient or sample (339 rows), with recurrence. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 31
 },
 {
@@ -3820,7 +4058,8 @@
 "cols": 20,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 334 rows by 20 columns",
+"desc": "Data table (334 rows by 20 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -3836,7 +4075,8 @@
 "cols": 17,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 330 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (330 rows by 17 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 38
 },
 {
@@ -3852,7 +4092,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 323 rows by 9 columns",
+"desc": "Genomic variants or positions (323 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 25
 },
 {
@@ -3868,7 +4109,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 322 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (322 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 61
 },
 {
@@ -3884,7 +4126,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 317 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (317 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 37
 },
 {
@@ -3900,7 +4143,8 @@
 "cols": 3,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 316 rows by 3 columns",
+"desc": "Numeric measurements underlying figures (316 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 33
 },
 {
@@ -3916,7 +4160,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 315 rows by 9 columns",
+"desc": "Genomic variants or positions (315 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 617
 },
 {
@@ -3932,7 +4177,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 309 rows by 5 columns",
+"desc": "Data table (309 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 64
 },
 {
@@ -3948,7 +4194,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 302 rows by 4 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (302 rows by 4 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 85
 },
 {
@@ -3964,7 +4211,8 @@
 "cols": 10,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 301 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (301 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 2955
 },
 {
@@ -3980,7 +4228,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 301 rows by 8 columns",
+"desc": "Gene-level table (301 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 29
 },
 {
@@ -3996,7 +4245,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 297 rows by 7 columns",
+"desc": "Data table (297 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 60
 },
 {
@@ -4012,7 +4262,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 296 rows by 12 columns",
+"desc": "Numeric measurements underlying figures (296 rows by 12 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 28
 },
 {
@@ -4028,7 +4279,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 294 rows by 11 columns",
+"desc": "Data table (294 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 68
 },
 {
@@ -4044,7 +4296,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 294 rows by 6 columns",
+"desc": "Differential expression results (294 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 24
 },
 {
@@ -4060,7 +4313,8 @@
 "cols": 7,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 293 rows by 7 columns",
+"desc": "Gene-level table (293 genes) with 7 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 27
 },
 {
@@ -4076,7 +4330,8 @@
 "cols": 53,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 291 rows by 53 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (291 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 182
 },
 {
@@ -4092,7 +4347,8 @@
 "cols": 17,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 291 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (291 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 61
 },
 {
@@ -4108,7 +4364,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 291 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (291 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 37
 },
 {
@@ -4124,7 +4381,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 282 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (282 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 33
 },
 {
@@ -4140,7 +4398,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 278 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Gene-level table (278 genes) with 7 measurement columns; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 86
 },
 {
@@ -4156,7 +4415,8 @@
 "cols": 54,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 277 rows by 54 columns",
+"desc": "Numeric measurements underlying figures (277 rows by 54 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 3996
 },
 {
@@ -4172,7 +4432,8 @@
 "cols": 19,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 273 rows by 19 columns",
+"desc": "Numeric measurements underlying figures (273 rows by 19 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 66
 },
 {
@@ -4188,7 +4449,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 271 rows by 4 columns",
+"desc": "Data table (271 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -4204,7 +4466,8 @@
 "cols": 15,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 266 rows by 15 columns",
+"desc": "Proteomics or mass-spectrometry measurements (266 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 12515
 },
 {
@@ -4220,7 +4483,8 @@
 "cols": 12,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 265 rows by 12 columns",
+"desc": "Proteomics or mass-spectrometry measurements (265 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -4236,7 +4500,8 @@
 "cols": 45,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 263 rows by 45 columns",
+"desc": "Genomic variants or positions (263 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 143
 },
 {
@@ -4252,7 +4517,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 259 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Proteomics or mass-spectrometry measurements (259 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 31
 },
 {
@@ -4268,7 +4534,8 @@
 "cols": 5,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 259 rows by 5 columns",
+"desc": "Numeric measurements underlying figures (259 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -4284,7 +4551,8 @@
 "cols": 4,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 259 rows by 4 columns",
+"desc": "Numeric measurements underlying figures (259 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -4300,7 +4568,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 258 rows by 11 columns",
+"desc": "Proteomics or mass-spectrometry measurements (258 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 859
 },
 {
@@ -4316,7 +4585,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 256 rows by 14 columns",
+"desc": "Numeric measurements underlying figures (256 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 41
 },
 {
@@ -4332,7 +4602,8 @@
 "cols": 21,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 251 rows by 21 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (251 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 53
 },
 {
@@ -4348,7 +4619,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 247 rows by 7 columns",
+"desc": "Numeric measurements underlying figures (247 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -4364,7 +4636,8 @@
 "cols": 4,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 240 rows by 4 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (240 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 140
 },
 {
@@ -4380,7 +4653,8 @@
 "cols": 18,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 238 rows by 18 columns",
+"desc": "Numeric measurements underlying figures (238 rows by 18 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 7863
 },
 {
@@ -4396,7 +4670,8 @@
 "cols": 21,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 232 rows by 21 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Proteomics or mass-spectrometry measurements (232 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 443
 },
 {
@@ -4412,7 +4687,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 227 rows by 13 columns",
+"desc": "Numeric measurements underlying figures (227 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 80
 },
 {
@@ -4428,7 +4704,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 218 rows by 4 columns",
+"desc": "Data table (218 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -4444,7 +4721,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 216 rows by 4 columns",
+"desc": "Gene-level table (216 genes) with 4 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 29
 },
 {
@@ -4460,7 +4738,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 216 rows by 8 columns",
+"desc": "Gene-level table (216 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -4476,7 +4755,8 @@
 "cols": 16,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 216 rows by 16 columns",
+"desc": "Pathway or gene-set enrichment results (216 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 53
 },
 {
@@ -4492,7 +4772,8 @@
 "cols": 15,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 216 rows by 15 columns",
+"desc": "Pathway or gene-set enrichment results (216 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 39
 },
 {
@@ -4508,7 +4789,8 @@
 "cols": 94,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 215 rows by 94 columns",
+"desc": "Genomic variants or positions (215 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 207
 },
 {
@@ -4524,7 +4806,8 @@
 "cols": 8,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 214 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "One row per patient or sample (214 rows); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 61
 },
 {
@@ -4540,7 +4823,8 @@
 "cols": 26,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 214 rows by 26 columns",
+"desc": "One row per patient or sample (214 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 65
 },
 {
@@ -4556,7 +4840,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 212 rows by 8 columns",
+"desc": "Numeric measurements underlying figures (212 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 88
 },
 {
@@ -4572,7 +4857,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 212 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (212 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 30
 },
 {
@@ -4588,7 +4874,8 @@
 "cols": 48,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 211 rows by 48 columns",
+"desc": "Proteomics or mass-spectrometry measurements (211 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 173
 },
 {
@@ -4604,7 +4891,8 @@
 "cols": 18,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 211 rows by 18 columns",
+"desc": "Proteomics or mass-spectrometry measurements (211 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -4620,7 +4908,8 @@
 "cols": 11,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 211 rows by 11 columns",
+"desc": "Pathway or gene-set enrichment results (211 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 41
 },
 {
@@ -4636,7 +4925,8 @@
 "cols": 18,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 211 rows by 18 columns",
+"desc": "Genomic variants or positions (211 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 40
 },
 {
@@ -4652,7 +4942,8 @@
 "cols": 41,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 211 rows by 41 columns",
+"desc": "Genomic variants or positions (211 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 75
 },
 {
@@ -4668,7 +4959,8 @@
 "cols": 12,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 211 rows by 12 columns",
+"desc": "Genomic variants or positions (211 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -4684,7 +4976,8 @@
 "cols": 28,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 210 rows by 28 columns",
+"desc": "Numeric measurements underlying figures (210 rows by 28 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 42
 },
 {
@@ -4700,7 +4993,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 208 rows by 9 columns",
+"desc": "Data table (208 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 28
 },
 {
@@ -4716,7 +5010,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 206 rows by 4 columns",
+"desc": "Data table (206 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 35
 },
 {
@@ -4732,7 +5027,8 @@
 "cols": 5,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 206 rows by 5 columns",
+"desc": "One row per patient or sample (206 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 24
 },
 {
@@ -4748,7 +5044,8 @@
 "cols": 12,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 204 rows by 12 columns",
+"desc": "Proteomics or mass-spectrometry measurements (204 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -4764,7 +5061,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 200 rows by 4 columns",
+"desc": "Data table (200 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 22
 },
 {
@@ -4780,7 +5078,8 @@
 "cols": 15,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 199 rows by 15 columns",
+"desc": "Numeric measurements underlying figures (199 rows by 15 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 115
 },
 {
@@ -4796,7 +5095,8 @@
 "cols": 10,
 "kind": "clinical",
 "native": false,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 196 rows by 10 columns",
+"desc": "One row per patient or sample (196 rows), with age, sex, stage. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -4812,7 +5112,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 194 rows by 10 columns",
+"desc": "Numeric measurements underlying figures (194 rows by 10 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 32
 },
 {
@@ -4828,7 +5129,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 193 rows by 9 columns",
+"desc": "Data table (193 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -4844,7 +5146,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 192 rows by 5 columns",
+"desc": "Pathway or gene-set enrichment results (192 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 17
 },
 {
@@ -4860,7 +5163,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 191 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (191 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 24
 },
 {
@@ -4876,7 +5180,8 @@
 "cols": 22,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 189 rows by 22 columns",
+"desc": "Genomic variants or positions (189 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 611
 },
 {
@@ -4892,7 +5197,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 187 rows by 6 columns",
+"desc": "Proteomics or mass-spectrometry measurements (187 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 8725
 },
 {
@@ -4908,7 +5214,8 @@
 "cols": 76,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 187 rows by 76 columns",
+"desc": "Gene-level table (187 genes) with 76 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 278
 },
 {
@@ -4924,7 +5231,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 184 rows by 8 columns",
+"desc": "Data table (184 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 26
 },
 {
@@ -4940,7 +5248,8 @@
 "cols": 13,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 183 rows by 13 columns",
+"desc": "Data table (183 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 26
 },
 {
@@ -4956,7 +5265,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 181 rows by 17 columns",
+"desc": "Genomic variants or positions (181 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1117
 },
 {
@@ -4972,7 +5282,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 178 rows by 3 columns",
+"desc": "Differential expression results (178 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 56
 },
 {
@@ -4988,7 +5299,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 177 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (177 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 23
 },
 {
@@ -5004,7 +5316,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 174 rows by 17 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (174 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 38
 },
 {
@@ -5020,7 +5333,8 @@
 "cols": 11,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 172 rows by 11 columns",
+"desc": "Genomic variants or positions (172 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 27
 },
 {
@@ -5036,7 +5350,8 @@
 "cols": 11,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 172 rows by 11 columns",
+"desc": "Genomic variants or positions (172 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 22
 },
 {
@@ -5052,7 +5367,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 171 rows by 8 columns",
+"desc": "Data table (171 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -5068,7 +5384,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 165 rows by 7 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Numeric measurements underlying figures (165 rows by 7 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 24
 },
 {
@@ -5084,7 +5401,8 @@
 "cols": 5,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 159 rows by 5 columns",
+"desc": "Data table (159 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 34
 },
 {
@@ -5100,7 +5418,8 @@
 "cols": 70,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 158 rows by 70 columns",
+"desc": "Numeric measurements underlying figures (158 rows by 70 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 611
 },
 {
@@ -5116,7 +5435,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 157 rows by 5 columns",
+"desc": "Gene-level table (157 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 23
 },
 {
@@ -5132,7 +5452,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 156 rows by 4 columns",
+"desc": "Data table (156 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -5148,7 +5469,8 @@
 "cols": 20,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 156 rows by 20 columns",
+"desc": "Data table (156 rows by 20 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 51
 },
 {
@@ -5164,7 +5486,8 @@
 "cols": 5,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 152 rows by 5 columns",
+"desc": "Data table (152 rows by 5 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 23
 },
 {
@@ -5180,7 +5503,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 151 rows by 12 columns",
+"desc": "Numeric measurements underlying figures (151 rows by 12 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 24
 },
 {
@@ -5196,7 +5520,8 @@
 "cols": 17,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 150 rows by 17 columns",
+"desc": "Numeric measurements underlying figures (150 rows by 17 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 11
 },
 {
@@ -5212,7 +5537,8 @@
 "cols": 9,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 150 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (150 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 37
 },
 {
@@ -5228,7 +5554,8 @@
 "cols": 34,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 145 rows by 34 columns",
+"desc": "One row per patient or sample (145 rows), with age, response. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 48
 },
 {
@@ -5244,7 +5571,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 144 rows by 8 columns",
+"desc": "Numeric measurements underlying figures (144 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 187
 },
 {
@@ -5260,7 +5588,8 @@
 "cols": 6,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 143 rows by 6 columns",
+"desc": "Data table (143 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 3930
 },
 {
@@ -5276,7 +5605,8 @@
 "cols": 34,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 141 rows by 34 columns",
+"desc": "Gene-level table (141 genes) with 34 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -5292,7 +5622,8 @@
 "cols": 35,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 141 rows by 35 columns",
+"desc": "Data table (141 rows by 35 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 237
 },
 {
@@ -5308,7 +5639,8 @@
 "cols": 6,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 140 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (140 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 25
 },
 {
@@ -5324,7 +5656,8 @@
 "cols": 9,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 140 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (140 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 36
 },
 {
@@ -5340,7 +5673,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 138 rows by 9 columns",
+"desc": "Differential expression results (138 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 23
 },
 {
@@ -5356,7 +5690,8 @@
 "cols": 41,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 136 rows by 41 columns",
+"desc": "Data table (136 rows by 41 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 37
 },
 {
@@ -5372,7 +5707,8 @@
 "cols": 40,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 135 rows by 40 columns",
+"desc": "Numeric measurements underlying figures (135 rows by 40 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 58
 },
 {
@@ -5388,7 +5724,8 @@
 "cols": 120,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 135 rows by 120 columns",
+"desc": "One row per patient or sample (135 rows), with age, sex. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 270
 },
 {
@@ -5404,7 +5741,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 132 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (132 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 27
 },
 {
@@ -5420,7 +5758,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 132 rows by 9 columns",
+"desc": "Genomic variants or positions (132 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -5436,7 +5775,8 @@
 "cols": 14,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 132 rows by 14 columns",
+"desc": "Data table (132 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 84
 },
 {
@@ -5452,7 +5792,8 @@
 "cols": 10,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 132 rows by 10 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (132 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 33
 },
 {
@@ -5468,7 +5809,8 @@
 "cols": 11,
 "kind": "clinical",
 "native": false,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 130 rows by 11 columns",
+"desc": "One row per patient or sample (130 rows), with age, sex. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 42
 },
 {
@@ -5484,7 +5826,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 128 rows by 20 columns",
+"desc": "Gene-level table (128 genes) with 20 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 183
 },
 {
@@ -5500,7 +5843,8 @@
 "cols": 38,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 127 rows by 38 columns",
+"desc": "Data table (127 rows by 38 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 31
 },
 {
@@ -5516,7 +5860,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 125 rows by 8 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (125 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 186
 },
 {
@@ -5532,7 +5877,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 124 rows by 9 columns",
+"desc": "Gene-level table (124 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -5548,7 +5894,8 @@
 "cols": 12,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 122 rows by 12 columns (analysis results such as gene lists or pathway scores)",
+"desc": "One row per patient or sample (122 rows), with age, sex, idh, mgmt; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 20
 },
 {
@@ -5564,7 +5911,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 121 rows by 9 columns",
+"desc": "Gene-level table (121 genes) with 9 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 49
 },
 {
@@ -5580,7 +5928,8 @@
 "cols": 20,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 120 rows by 20 columns",
+"desc": "Data table (120 rows by 20 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -5596,7 +5945,8 @@
 "cols": 24,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 120 rows by 24 columns",
+"desc": "Data table (120 rows by 24 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -5612,7 +5962,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 118 rows by 12 columns",
+"desc": "Gene-level table (118 genes) with 12 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1258
 },
 {
@@ -5628,7 +5979,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 117 rows by 10 columns",
+"desc": "Genomic variants or positions (117 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 9
 },
 {
@@ -5644,7 +5996,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 116 rows by 3 columns",
+"desc": "Pathway or gene-set enrichment results (116 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13
 },
 {
@@ -5660,7 +6013,8 @@
 "cols": 31,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 115 rows by 31 columns",
+"desc": "Genomic variants or positions (115 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 206
 },
 {
@@ -5676,7 +6030,8 @@
 "cols": 13,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 114 rows by 13 columns",
+"desc": "Gene-level table (114 genes) with 13 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -5692,7 +6047,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 111 rows by 10 columns",
+"desc": "Differential expression results (111 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 20
 },
 {
@@ -5708,7 +6064,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 110 rows by 4 columns",
+"desc": "Data table (110 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 176
 },
 {
@@ -5724,7 +6081,8 @@
 "cols": 3,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 109 rows by 3 columns",
+"desc": "Numeric measurements underlying figures (109 rows by 3 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 11
 },
 {
@@ -5740,7 +6098,8 @@
 "cols": 35,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 109 rows by 35 columns",
+"desc": "Numeric measurements underlying figures (109 rows by 35 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 38
 },
 {
@@ -5756,7 +6115,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 108 rows by 8 columns",
+"desc": "Data table (108 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 101
 },
 {
@@ -5772,7 +6132,8 @@
 "cols": 6,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 108 rows by 6 columns",
+"desc": "Gene-level table (108 genes) with 6 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 59
 },
 {
@@ -5788,7 +6149,8 @@
 "cols": 8,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 108 rows by 8 columns",
+"desc": "Genomic variants or positions (108 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 42
 },
 {
@@ -5804,7 +6166,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 107 rows by 10 columns",
+"desc": "Differential expression results (107 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 23
 },
 {
@@ -5820,7 +6183,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 106 rows by 9 columns",
+"desc": "Data table (106 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 49
 },
 {
@@ -5836,7 +6200,8 @@
 "cols": 8,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 101 rows by 8 columns",
+"desc": "Differential expression results (101 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 30
 },
 {
@@ -5852,7 +6217,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 100 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (100 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 18
 },
 {
@@ -5868,7 +6234,8 @@
 "cols": 3,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 100 rows by 3 columns",
+"desc": "Gene-level table (100 genes) with 3 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1
 },
 {
@@ -5884,7 +6251,8 @@
 "cols": 23,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 98 rows by 23 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (98 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 37
 },
 {
@@ -5900,7 +6268,8 @@
 "cols": 13,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 98 rows by 13 columns",
+"desc": "Numeric measurements underlying figures (98 rows by 13 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -5916,7 +6285,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 97 rows by 7 columns",
+"desc": "Numeric measurements underlying figures (97 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -5932,7 +6302,8 @@
 "cols": 3,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 97 rows by 3 columns",
+"desc": "Genomic variants or positions (97 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 32
 },
 {
@@ -5948,7 +6319,8 @@
 "cols": 3,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 97 rows by 3 columns",
+"desc": "Genomic variants or positions (97 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 110
 },
 {
@@ -5964,7 +6336,8 @@
 "cols": 17,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 97 rows by 17 columns",
+"desc": "Data table (97 rows by 17 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 43
 },
 {
@@ -5980,7 +6353,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 96 rows by 11 columns",
+"desc": "Genomic variants or positions (96 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 53
 },
 {
@@ -5996,7 +6370,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 96 rows by 11 columns",
+"desc": "Genomic variants or positions (96 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -6012,7 +6387,8 @@
 "cols": 11,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 96 rows by 11 columns",
+"desc": "Genomic variants or positions (96 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 52
 },
 {
@@ -6028,7 +6404,8 @@
 "cols": 11,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 95 rows by 11 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (95 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 75
 },
 {
@@ -6044,7 +6421,8 @@
 "cols": 16,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 95 rows by 16 columns",
+"desc": "Proteomics or mass-spectrometry measurements (95 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 80
 },
 {
@@ -6060,7 +6438,8 @@
 "cols": 3,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 94 rows by 3 columns",
+"desc": "Gene-level table (94 genes) with 3 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 12
 },
 {
@@ -6076,7 +6455,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 93 rows by 5 columns",
+"desc": "Genomic variants or positions (93 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13
 },
 {
@@ -6092,7 +6472,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 93 rows by 9 columns",
+"desc": "Numeric measurements underlying figures (93 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 316
 },
 {
@@ -6108,7 +6489,8 @@
 "cols": 25,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 92 rows by 25 columns",
+"desc": "Data table (92 rows by 25 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -6124,7 +6506,8 @@
 "cols": 27,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 92 rows by 27 columns",
+"desc": "Data table (92 rows by 27 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -6140,7 +6523,8 @@
 "cols": 15,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 91 rows by 15 columns",
+"desc": "Genomic variants or positions (91 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 15
 },
 {
@@ -6156,7 +6540,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 91 rows by 7 columns",
+"desc": "Genomic variants or positions (91 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 96
 },
 {
@@ -6172,7 +6557,8 @@
 "cols": 36,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 88 rows by 36 columns",
+"desc": "Genomic variants or positions (88 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 151
 },
 {
@@ -6188,7 +6574,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 87 rows by 9 columns",
+"desc": "Data table (87 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 4837
 },
 {
@@ -6204,7 +6591,8 @@
 "cols": 21,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 86 rows by 21 columns",
+"desc": "Genomic variants or positions (86 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -6220,7 +6608,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 86 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (86 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 25
 },
 {
@@ -6236,7 +6625,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 86 rows by 7 columns",
+"desc": "Gene-level table (86 genes) with 7 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 24
 },
 {
@@ -6252,7 +6642,8 @@
 "cols": 10,
 "kind": "clinical",
 "native": false,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 85 rows by 10 columns",
+"desc": "One row per patient or sample (85 rows), with age, gender, treatment. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 32
 },
 {
@@ -6268,7 +6659,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 84 rows by 11 columns",
+"desc": "Numeric measurements underlying figures (84 rows by 11 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 48
 },
 {
@@ -6284,7 +6676,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 84 rows by 7 columns",
+"desc": "Data table (84 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 215
 },
 {
@@ -6300,7 +6693,8 @@
 "cols": 54,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 84 rows by 54 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (84 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 49
 },
 {
@@ -6316,7 +6710,8 @@
 "cols": 7,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 84 rows by 7 columns",
+"desc": "Data table (84 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 215
 },
 {
@@ -6332,7 +6727,8 @@
 "cols": 22,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 83 rows by 22 columns",
+"desc": "Data table (83 rows by 22 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 30
 },
 {
@@ -6348,7 +6744,8 @@
 "cols": 1024,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 83 rows by 1024 columns",
+"desc": "Data table (83 rows by 1024 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -6364,7 +6761,8 @@
 "cols": 1025,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 82 rows by 1025 columns",
+"desc": "Data table (82 rows by 1025 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 107
 },
 {
@@ -6380,7 +6778,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 81 rows by 8 columns",
+"desc": "Gene-level table (81 genes) with 8 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 16
 },
 {
@@ -6396,7 +6795,8 @@
 "cols": 15,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 81 rows by 15 columns",
+"desc": "Data table (81 rows by 15 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 21
 },
 {
@@ -6412,7 +6812,8 @@
 "cols": 6,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 80 rows by 6 columns",
+"desc": "Data table (80 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1260
 },
 {
@@ -6428,7 +6829,8 @@
 "cols": 8,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 77 rows by 8 columns",
+"desc": "Data table (77 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 253
 },
 {
@@ -6444,7 +6846,8 @@
 "cols": 7,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 76 rows by 7 columns",
+"desc": "Data table (76 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 40
 },
 {
@@ -6460,7 +6863,8 @@
 "cols": 16,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 76 rows by 16 columns",
+"desc": "Genomic variants or positions (76 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 49
 },
 {
@@ -6476,7 +6880,8 @@
 "cols": 7,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 75 rows by 7 columns",
+"desc": "One row per patient or sample (75 rows), with age, gender, treatment. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13
 },
 {
@@ -6492,7 +6897,8 @@
 "cols": 9,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 75 rows by 9 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Differential expression results (75 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 27
 },
 {
@@ -6508,7 +6914,8 @@
 "cols": 18,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 73 rows by 18 columns",
+"desc": "One row per patient or sample (73 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 17
 },
 {
@@ -6524,7 +6931,8 @@
 "cols": 9,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 72 rows by 9 columns",
+"desc": "Genomic variants or positions (72 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 20
 },
 {
@@ -6540,7 +6948,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 72 rows by 4 columns",
+"desc": "Data table (72 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 11
 },
 {
@@ -6556,7 +6965,8 @@
 "cols": 62,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 71 rows by 62 columns",
+"desc": "Numeric measurements underlying figures (71 rows by 62 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 79
 },
 {
@@ -6572,7 +6982,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 69 rows by 10 columns",
+"desc": "Differential expression results (69 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 16
 },
 {
@@ -6588,7 +6999,8 @@
 "cols": 5,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 69 rows by 5 columns",
+"desc": "Differential expression results (69 genes or features): fold changes and significance between conditions. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 75
 },
 {
@@ -6604,7 +7016,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 69 rows by 8 columns",
+"desc": "Data table (69 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -6620,7 +7033,8 @@
 "cols": 10,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 69 rows by 10 columns",
+"desc": "Data table (69 rows by 10 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -6636,7 +7050,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 68 rows by 14 columns",
+"desc": "Genomic variants or positions (68 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 27
 },
 {
@@ -6652,7 +7067,8 @@
 "cols": 157,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 68 rows by 157 columns",
+"desc": "Numeric measurements underlying figures (68 rows by 157 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -6668,7 +7084,8 @@
 "cols": 93,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 68 rows by 93 columns",
+"desc": "Data table (68 rows by 93 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 2407
 },
 {
@@ -6684,7 +7101,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 67 rows by 5 columns",
+"desc": "Gene-level table (67 genes) with 5 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 29
 },
 {
@@ -6700,7 +7118,8 @@
 "cols": 4,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 67 rows by 4 columns",
+"desc": "Data table (67 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 12
 },
 {
@@ -6716,7 +7135,8 @@
 "cols": 36,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 67 rows by 36 columns",
+"desc": "Genomic variants or positions (67 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 88
 },
 {
@@ -6732,7 +7152,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 66 rows by 12 columns",
+"desc": "Numeric measurements underlying figures (66 rows by 12 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 57
 },
 {
@@ -6748,7 +7169,8 @@
 "cols": 28,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 66 rows by 28 columns",
+"desc": "Data table (66 rows by 28 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 66
 },
 {
@@ -6764,7 +7186,8 @@
 "cols": 7,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 66 rows by 7 columns",
+"desc": "Numeric measurements underlying figures (66 rows by 7 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 95
 },
 {
@@ -6780,7 +7203,8 @@
 "cols": 30,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 65 rows by 30 columns",
+"desc": "Numeric measurements underlying figures (65 rows by 30 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 15945
 },
 {
@@ -6796,7 +7220,8 @@
 "cols": 55,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 65 rows by 55 columns",
+"desc": "One row per patient or sample (65 rows), with age, sex, treatment, recurrence. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 9176
 },
 {
@@ -6812,7 +7237,8 @@
 "cols": 23,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 65 rows by 23 columns",
+"desc": "One row per patient or sample (65 rows), with age, stage, grade, er, pr, her2. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 50
 },
 {
@@ -6828,7 +7254,8 @@
 "cols": 23,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 65 rows by 23 columns",
+"desc": "Data table (65 rows by 23 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1074
 },
 {
@@ -6844,7 +7271,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 64 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (64 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 11
 },
 {
@@ -6860,7 +7288,8 @@
 "cols": 6,
 "kind": "clinical",
 "native": false,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 63 rows by 6 columns",
+"desc": "One row per patient or sample (63 rows), with age, sex. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 99
 },
 {
@@ -6876,7 +7305,8 @@
 "cols": 23,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 62 rows by 23 columns",
+"desc": "Numeric measurements underlying figures (62 rows by 23 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 36
 },
 {
@@ -6892,7 +7322,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 61 rows by 9 columns",
+"desc": "Numeric measurements underlying figures (61 rows by 9 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 149
 },
 {
@@ -6908,7 +7339,8 @@
 "cols": 11,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 61 rows by 11 columns",
+"desc": "Genomic variants or positions (61 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13
 },
 {
@@ -6924,7 +7356,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 61 rows by 5 columns",
+"desc": "One row per patient or sample (61 rows), with age. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 377
 },
 {
@@ -6940,7 +7373,8 @@
 "cols": 10,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 60 rows by 10 columns",
+"desc": "Numeric measurements underlying figures (60 rows by 10 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 27
 },
 {
@@ -6956,7 +7390,8 @@
 "cols": 201,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 60 rows by 201 columns",
+"desc": "Data table (60 rows by 201 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 712
 },
 {
@@ -6972,7 +7407,8 @@
 "cols": 11,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 60 rows by 11 columns",
+"desc": "Genomic variants or positions (60 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1118
 },
 {
@@ -6988,7 +7424,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 58 rows by 12 columns",
+"desc": "Numeric measurements underlying figures (58 rows by 12 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1517
 },
 {
@@ -7004,7 +7441,8 @@
 "cols": 34,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 57 rows by 34 columns",
+"desc": "Gene-level table (57 genes) with 34 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 44
 },
 {
@@ -7020,7 +7458,8 @@
 "cols": 4,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 57 rows by 4 columns",
+"desc": "Data table (57 rows by 4 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 17
 },
 {
@@ -7036,7 +7475,8 @@
 "cols": 257,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 55 rows by 257 columns",
+"desc": "Data table (55 rows by 257 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -7052,7 +7492,8 @@
 "cols": 16,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 55 rows by 16 columns",
+"desc": "Numeric measurements underlying figures (55 rows by 16 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -7068,7 +7509,8 @@
 "cols": 78,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 55 rows by 78 columns",
+"desc": "Data table (55 rows by 78 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 138
 },
 {
@@ -7084,7 +7526,8 @@
 "cols": 27,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 54 rows by 27 columns",
+"desc": "Data table (54 rows by 27 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -7100,7 +7543,8 @@
 "cols": 9,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 54 rows by 9 columns",
+"desc": "Genomic variants or positions (54 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 37
 },
 {
@@ -7116,7 +7560,8 @@
 "cols": 8,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 54 rows by 8 columns",
+"desc": "Data table (54 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 14
 },
 {
@@ -7132,7 +7577,8 @@
 "cols": 9,
 "kind": "omics",
 "native": false,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 53 rows by 9 columns",
+"desc": "Proteomics or mass-spectrometry measurements (53 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1419
 },
 {
@@ -7148,7 +7594,8 @@
 "cols": 14,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 53 rows by 14 columns",
+"desc": "Numeric measurements underlying figures (53 rows by 14 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 49
 },
 {
@@ -7164,7 +7611,8 @@
 "cols": 6,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 53 rows by 6 columns",
+"desc": "Numeric measurements underlying figures (53 rows by 6 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 13
 },
 {
@@ -7180,7 +7628,8 @@
 "cols": 12,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 53 rows by 12 columns",
+"desc": "Numeric measurements underlying figures (53 rows by 12 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 1606
 },
 {
@@ -7196,7 +7645,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 52 rows by 8 columns",
+"desc": "Data table (52 rows by 8 columns). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 47
 },
 {
@@ -7212,7 +7662,8 @@
 "cols": 34,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 52 rows by 34 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (52 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 87
 },
 {
@@ -7228,7 +7679,8 @@
 "cols": 5,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 51 rows by 5 columns",
+"desc": "Genomic variants or positions (51 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 47
 },
 {
@@ -7244,7 +7696,8 @@
 "cols": 6,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 51 rows by 6 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Data table (51 rows by 6 columns); analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 13
 },
 {
@@ -7260,7 +7713,8 @@
 "cols": 8,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 51 rows by 8 columns",
+"desc": "Genomic variants or positions (51 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 30
 },
 {
@@ -7276,7 +7730,8 @@
 "cols": 34,
 "kind": "mixed",
 "native": false,
-"desc": "a mixed table of labels and numbers, 51 rows by 34 columns",
+"desc": "Gene-level table (51 genes) with 34 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 98
 },
 {
@@ -7292,7 +7747,8 @@
 "cols": 4,
 "kind": "numeric",
 "native": false,
-"desc": "a table of numeric measurements, 50 rows by 4 columns",
+"desc": "Gene-level table (50 genes) with 4 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 19
 },
 {
@@ -7308,7 +7764,8 @@
 "cols": 18,
 "kind": "numeric",
 "native": true,
-"desc": "a table of numeric measurements, 50 rows by 18 columns (analysis results such as gene lists or pathway scores)",
+"desc": "Pathway or gene-set enrichment results (50 rows): which biological processes were over-represented. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 39
 },
 {
@@ -7324,7 +7781,8 @@
 "cols": 3,
 "kind": "mixed",
 "native": true,
-"desc": "a mixed table of labels and numbers, 50 rows by 3 columns",
+"desc": "Gene-level table (50 genes) with 3 measurement columns. Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 15
 },
 {
@@ -7340,7 +7798,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 50 rows by 10 columns",
+"desc": "Proteomics or mass-spectrometry measurements (50 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -7356,7 +7815,8 @@
 "cols": 10,
 "kind": "omics",
 "native": true,
-"desc": "a gene-level or probe-level table (one row per gene, transcript or site), 50 rows by 10 columns",
+"desc": "Proteomics or mass-spectrometry measurements (50 rows). Description generated automatically from column headers; not yet curated.",
+"derived": false,
 "size_kb": 18
 },
 {
@@ -7372,7 +7832,8 @@
 "cols": 1997,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 45 rows by 1997 columns (analysis results such as gene lists or pathway scores)",
+"desc": "One row per patient or sample (45 rows), with age, sex; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 69
 },
 {
@@ -7388,7 +7849,8 @@
 "cols": 1997,
 "kind": "clinical",
 "native": true,
-"desc": "a patient or sample table with clinical fields such as age, sex, stage or survival, 45 rows by 1997 columns (analysis results such as gene lists or pathway scores)",
+"desc": "One row per patient or sample (45 rows), with age, sex; analysis results rather than raw measurements. Description generated automatically from column headers; not yet curated.",
+"derived": true,
 "size_kb": 69
 }
 ]

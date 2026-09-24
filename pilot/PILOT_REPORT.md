@@ -220,3 +220,21 @@ random 300-paper samples, 2016–2022, open access, supplementary files, no acce
 
 The five non-cancer populations total 63,043 papers. The pattern is a property of how biomedicine published
 before 2023, not of cancer research.
+
+---
+
+# Gap-analysis follow-ups (2026-09-24, later)
+
+- **BioStudies.** EMBL-EBI BioStudies holds one record per Europe PMC open-access article (accession `S-EPMC<pmcid>`,
+  verified for PMC6193287: 4 files listed under the article title and abstract). It is a per-article file mirror with no
+  dataset classification, per-file description, dataset identifier, or NCI catalogue entry. Added to prior art.
+- **Catalogue-ready file.** `deliverable/ins_source_pmc_supplementary_datasets.tsv`: all 462 rescued datasets in the
+  27-column schema of INS-Data's curated sources (header taken from `cedcd_datasets_curated.tsv`, release 2.4.1).
+- **Plain-language descriptions** regenerated from column headers and sheet names for all 462 files (site and TSV);
+  each states that it is automatically generated and not yet curated.
+- **Buried-data index by journal.** `data/buried_index_by_journal.json`, 103 journals with ≥40 papers. Top by files:
+  Nat Commun 3,201 (889 papers, 60%), eLife 1,440 (66%), PLoS One 1,052 (30%), Sci Rep 682 (14%), PLoS Genet 472 (51%).
+- **Data-availability statements** (from `das_check`, 483 readable papers): 17% say data is in the paper/supplement,
+  15% say available on request, 13% name a repository, 51% have no statement.
+- **Post-2023 census.** {{POST2023_REPORT}}
+- **Funding mechanisms.** {{MECH_REPORT}}

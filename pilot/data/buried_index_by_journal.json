@@ -1,0 +1,723 @@
+[
+ {
+  "journal": "Nat Commun",
+  "papers": 1494,
+  "with_spreadsheet": 889,
+  "share": 59.5,
+  "spreadsheet_files": 3201
+ },
+ {
+  "journal": "Elife",
+  "papers": 343,
+  "with_spreadsheet": 226,
+  "share": 65.9,
+  "spreadsheet_files": 1440
+ },
+ {
+  "journal": "PLoS One",
+  "papers": 1383,
+  "with_spreadsheet": 412,
+  "share": 29.8,
+  "spreadsheet_files": 1052
+ },
+ {
+  "journal": "Sci Rep",
+  "papers": 1897,
+  "with_spreadsheet": 271,
+  "share": 14.3,
+  "spreadsheet_files": 682
+ },
+ {
+  "journal": "PLoS Genet",
+  "papers": 193,
+  "with_spreadsheet": 99,
+  "share": 51.3,
+  "spreadsheet_files": 472
+ },
+ {
+  "journal": "Oncotarget",
+  "papers": 1196,
+  "with_spreadsheet": 148,
+  "share": 12.4,
+  "spreadsheet_files": 416
+ },
+ {
+  "journal": "Nature",
+  "papers": 94,
+  "with_spreadsheet": 52,
+  "share": 55.3,
+  "spreadsheet_files": 331
+ },
+ {
+  "journal": "Genome Biol",
+  "papers": 108,
+  "with_spreadsheet": 71,
+  "share": 65.7,
+  "spreadsheet_files": 327
+ },
+ {
+  "journal": "Commun Biol",
+  "papers": 139,
+  "with_spreadsheet": 106,
+  "share": 76.3,
+  "spreadsheet_files": 309
+ },
+ {
+  "journal": "Proc Natl Acad Sci U S A",
+  "papers": 345,
+  "with_spreadsheet": 79,
+  "share": 22.9,
+  "spreadsheet_files": 298
+ },
+ {
+  "journal": "PLoS Comput Biol",
+  "papers": 172,
+  "with_spreadsheet": 65,
+  "share": 37.8,
+  "spreadsheet_files": 257
+ },
+ {
+  "journal": "iScience",
+  "papers": 157,
+  "with_spreadsheet": 42,
+  "share": 26.8,
+  "spreadsheet_files": 178
+ },
+ {
+  "journal": "PLoS Biol",
+  "papers": 47,
+  "with_spreadsheet": 41,
+  "share": 87.2,
+  "spreadsheet_files": 160
+ },
+ {
+  "journal": "Mol Cell Proteomics",
+  "papers": 40,
+  "with_spreadsheet": 30,
+  "share": 75.0,
+  "spreadsheet_files": 158
+ },
+ {
+  "journal": "Life Sci Alliance",
+  "papers": 48,
+  "with_spreadsheet": 27,
+  "share": 56.2,
+  "spreadsheet_files": 145
+ },
+ {
+  "journal": "Genome Med",
+  "papers": 71,
+  "with_spreadsheet": 46,
+  "share": 64.8,
+  "spreadsheet_files": 135
+ },
+ {
+  "journal": "Sci Adv",
+  "papers": 325,
+  "with_spreadsheet": 49,
+  "share": 15.1,
+  "spreadsheet_files": 122
+ },
+ {
+  "journal": "Cell Rep",
+  "papers": 129,
+  "with_spreadsheet": 41,
+  "share": 31.8,
+  "spreadsheet_files": 121
+ },
+ {
+  "journal": "Nat Genet",
+  "papers": 46,
+  "with_spreadsheet": 35,
+  "share": 76.1,
+  "spreadsheet_files": 111
+ },
+ {
+  "journal": "Oncogene",
+  "papers": 258,
+  "with_spreadsheet": 38,
+  "share": 14.7,
+  "spreadsheet_files": 106
+ },
+ {
+  "journal": "PLoS Pathog",
+  "papers": 171,
+  "with_spreadsheet": 36,
+  "share": 21.1,
+  "spreadsheet_files": 100
+ },
+ {
+  "journal": "Br J Cancer",
+  "papers": 234,
+  "with_spreadsheet": 33,
+  "share": 14.1,
+  "spreadsheet_files": 97
+ },
+ {
+  "journal": "PLoS Med",
+  "papers": 44,
+  "with_spreadsheet": 11,
+  "share": 25.0,
+  "spreadsheet_files": 90
+ },
+ {
+  "journal": "BMC Genomics",
+  "papers": 48,
+  "with_spreadsheet": 26,
+  "share": 54.2,
+  "spreadsheet_files": 90
+ },
+ {
+  "journal": "Breast Cancer Res",
+  "papers": 184,
+  "with_spreadsheet": 35,
+  "share": 19.0,
+  "spreadsheet_files": 82
+ },
+ {
+  "journal": "Genes Dev",
+  "papers": 95,
+  "with_spreadsheet": 24,
+  "share": 25.3,
+  "spreadsheet_files": 78
+ },
+ {
+  "journal": "Front Oncol",
+  "papers": 254,
+  "with_spreadsheet": 32,
+  "share": 12.6,
+  "spreadsheet_files": 75
+ },
+ {
+  "journal": "Clin Epigenetics",
+  "papers": 45,
+  "with_spreadsheet": 19,
+  "share": 42.2,
+  "spreadsheet_files": 75
+ },
+ {
+  "journal": "Stem Cell Reports",
+  "papers": 95,
+  "with_spreadsheet": 36,
+  "share": 37.9,
+  "spreadsheet_files": 74
+ },
+ {
+  "journal": "J Exp Med",
+  "papers": 115,
+  "with_spreadsheet": 27,
+  "share": 23.5,
+  "spreadsheet_files": 73
+ },
+ {
+  "journal": "J Immunother Cancer",
+  "papers": 381,
+  "with_spreadsheet": 41,
+  "share": 10.8,
+  "spreadsheet_files": 71
+ },
+ {
+  "journal": "BMC Bioinformatics",
+  "papers": 88,
+  "with_spreadsheet": 22,
+  "share": 25.0,
+  "spreadsheet_files": 70
+ },
+ {
+  "journal": "BMC Cancer",
+  "papers": 183,
+  "with_spreadsheet": 33,
+  "share": 18.0,
+  "spreadsheet_files": 70
+ },
+ {
+  "journal": "J Biol Chem",
+  "papers": 129,
+  "with_spreadsheet": 29,
+  "share": 22.5,
+  "spreadsheet_files": 70
+ },
+ {
+  "journal": "Front Immunol",
+  "papers": 288,
+  "with_spreadsheet": 35,
+  "share": 12.2,
+  "spreadsheet_files": 69
+ },
+ {
+  "journal": "NPJ Precis Oncol",
+  "papers": 84,
+  "with_spreadsheet": 19,
+  "share": 22.6,
+  "spreadsheet_files": 61
+ },
+ {
+  "journal": "mBio",
+  "papers": 110,
+  "with_spreadsheet": 31,
+  "share": 28.2,
+  "spreadsheet_files": 56
+ },
+ {
+  "journal": "Leukemia",
+  "papers": 149,
+  "with_spreadsheet": 22,
+  "share": 14.8,
+  "spreadsheet_files": 54
+ },
+ {
+  "journal": "Mol Oncol",
+  "papers": 81,
+  "with_spreadsheet": 21,
+  "share": 25.9,
+  "spreadsheet_files": 52
+ },
+ {
+  "journal": "Neoplasia",
+  "papers": 87,
+  "with_spreadsheet": 16,
+  "share": 18.4,
+  "spreadsheet_files": 50
+ },
+ {
+  "journal": "Cell Death Dis",
+  "papers": 162,
+  "with_spreadsheet": 22,
+  "share": 13.6,
+  "spreadsheet_files": 49
+ },
+ {
+  "journal": "Front Genet",
+  "papers": 53,
+  "with_spreadsheet": 23,
+  "share": 43.4,
+  "spreadsheet_files": 47
+ },
+ {
+  "journal": "Blood Cancer J",
+  "papers": 177,
+  "with_spreadsheet": 16,
+  "share": 9.0,
+  "spreadsheet_files": 46
+ },
+ {
+  "journal": "Front Cell Dev Biol",
+  "papers": 54,
+  "with_spreadsheet": 14,
+  "share": 25.9,
+  "spreadsheet_files": 44
+ },
+ {
+  "journal": "J Cell Biol",
+  "papers": 123,
+  "with_spreadsheet": 30,
+  "share": 24.4,
+  "spreadsheet_files": 43
+ },
+ {
+  "journal": "Cancer Med",
+  "papers": 219,
+  "with_spreadsheet": 18,
+  "share": 8.2,
+  "spreadsheet_files": 42
+ },
+ {
+  "journal": "NPJ Breast Cancer",
+  "papers": 164,
+  "with_spreadsheet": 19,
+  "share": 11.6,
+  "spreadsheet_files": 38
+ },
+ {
+  "journal": "Oncogenesis",
+  "papers": 67,
+  "with_spreadsheet": 12,
+  "share": 17.9,
+  "spreadsheet_files": 35
+ },
+ {
+  "journal": "Aging Cell",
+  "papers": 58,
+  "with_spreadsheet": 12,
+  "share": 20.7,
+  "spreadsheet_files": 34
+ },
+ {
+  "journal": "Nucleic Acids Res",
+  "papers": 303,
+  "with_spreadsheet": 22,
+  "share": 7.3,
+  "spreadsheet_files": 32
+ },
+ {
+  "journal": "JCI Insight",
+  "papers": 117,
+  "with_spreadsheet": 13,
+  "share": 11.1,
+  "spreadsheet_files": 30
+ },
+ {
+  "journal": "EBioMedicine",
+  "papers": 94,
+  "with_spreadsheet": 16,
+  "share": 17.0,
+  "spreadsheet_files": 29
+ },
+ {
+  "journal": "J Transl Med",
+  "papers": 50,
+  "with_spreadsheet": 12,
+  "share": 24.0,
+  "spreadsheet_files": 25
+ },
+ {
+  "journal": "Mod Pathol",
+  "papers": 56,
+  "with_spreadsheet": 13,
+  "share": 23.2,
+  "spreadsheet_files": 24
+ },
+ {
+  "journal": "Aging (Albany NY)",
+  "papers": 41,
+  "with_spreadsheet": 6,
+  "share": 14.6,
+  "spreadsheet_files": 23
+ },
+ {
+  "journal": "Blood Adv",
+  "papers": 157,
+  "with_spreadsheet": 10,
+  "share": 6.4,
+  "spreadsheet_files": 18
+ },
+ {
+  "journal": "Mol Biol Cell",
+  "papers": 153,
+  "with_spreadsheet": 12,
+  "share": 7.8,
+  "spreadsheet_files": 16
+ },
+ {
+  "journal": "Transl Oncol",
+  "papers": 60,
+  "with_spreadsheet": 10,
+  "share": 16.7,
+  "spreadsheet_files": 16
+ },
+ {
+  "journal": "Neurooncol Adv",
+  "papers": 87,
+  "with_spreadsheet": 11,
+  "share": 12.6,
+  "spreadsheet_files": 16
+ },
+ {
+  "journal": "Redox Biol",
+  "papers": 44,
+  "with_spreadsheet": 6,
+  "share": 13.6,
+  "spreadsheet_files": 14
+ },
+ {
+  "journal": "J Hematol Oncol",
+  "papers": 65,
+  "with_spreadsheet": 6,
+  "share": 9.2,
+  "spreadsheet_files": 14
+ },
+ {
+  "journal": "Clin Cancer Res",
+  "papers": 48,
+  "with_spreadsheet": 7,
+  "share": 14.6,
+  "spreadsheet_files": 13
+ },
+ {
+  "journal": "Int J Cancer",
+  "papers": 42,
+  "with_spreadsheet": 7,
+  "share": 16.7,
+  "spreadsheet_files": 12
+ },
+ {
+  "journal": "Ann Oncol",
+  "papers": 46,
+  "with_spreadsheet": 1,
+  "share": 2.2,
+  "spreadsheet_files": 11
+ },
+ {
+  "journal": "Mol Ther Methods Clin Dev",
+  "papers": 42,
+  "with_spreadsheet": 3,
+  "share": 7.1,
+  "spreadsheet_files": 10
+ },
+ {
+  "journal": "Mol Ther Nucleic Acids",
+  "papers": 52,
+  "with_spreadsheet": 5,
+  "share": 9.6,
+  "spreadsheet_files": 10
+ },
+ {
+  "journal": "Haematologica",
+  "papers": 168,
+  "with_spreadsheet": 6,
+  "share": 3.6,
+  "spreadsheet_files": 9
+ },
+ {
+  "journal": "Mol Ther Oncolytics",
+  "papers": 59,
+  "with_spreadsheet": 4,
+  "share": 6.8,
+  "spreadsheet_files": 8
+ },
+ {
+  "journal": "Chem Sci",
+  "papers": 67,
+  "with_spreadsheet": 5,
+  "share": 7.5,
+  "spreadsheet_files": 8
+ },
+ {
+  "journal": "ACS Cent Sci",
+  "papers": 48,
+  "with_spreadsheet": 4,
+  "share": 8.3,
+  "spreadsheet_files": 7
+ },
+ {
+  "journal": "Theranostics",
+  "papers": 161,
+  "with_spreadsheet": 4,
+  "share": 2.5,
+  "spreadsheet_files": 6
+ },
+ {
+  "journal": "Oncologist",
+  "papers": 70,
+  "with_spreadsheet": 4,
+  "share": 5.7,
+  "spreadsheet_files": 6
+ },
+ {
+  "journal": "Oncoimmunology",
+  "papers": 109,
+  "with_spreadsheet": 4,
+  "share": 3.7,
+  "spreadsheet_files": 5
+ },
+ {
+  "journal": "ACS Omega",
+  "papers": 47,
+  "with_spreadsheet": 5,
+  "share": 10.6,
+  "spreadsheet_files": 5
+ },
+ {
+  "journal": "Hepatol Commun",
+  "papers": 47,
+  "with_spreadsheet": 3,
+  "share": 6.4,
+  "spreadsheet_files": 5
+ },
+ {
+  "journal": "Adv Radiat Oncol",
+  "papers": 71,
+  "with_spreadsheet": 3,
+  "share": 4.2,
+  "spreadsheet_files": 4
+ },
+ {
+  "journal": "Bioinformatics",
+  "papers": 94,
+  "with_spreadsheet": 2,
+  "share": 2.1,
+  "spreadsheet_files": 4
+ },
+ {
+  "journal": "Adv Sci (Weinh)",
+  "papers": 68,
+  "with_spreadsheet": 4,
+  "share": 5.9,
+  "spreadsheet_files": 4
+ },
+ {
+  "journal": "J Med Internet Res",
+  "papers": 84,
+  "with_spreadsheet": 2,
+  "share": 2.4,
+  "spreadsheet_files": 3
+ },
+ {
+  "journal": "Tomography",
+  "papers": 49,
+  "with_spreadsheet": 1,
+  "share": 2.0,
+  "spreadsheet_files": 2
+ },
+ {
+  "journal": "Genes (Basel)",
+  "papers": 43,
+  "with_spreadsheet": 2,
+  "share": 4.7,
+  "spreadsheet_files": 2
+ },
+ {
+  "journal": "Breast Cancer Res Treat",
+  "papers": 42,
+  "with_spreadsheet": 2,
+  "share": 4.8,
+  "spreadsheet_files": 2
+ },
+ {
+  "journal": "Int J Environ Res Public Health",
+  "papers": 132,
+  "with_spreadsheet": 1,
+  "share": 0.8,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "J Am Heart Assoc",
+  "papers": 58,
+  "with_spreadsheet": 1,
+  "share": 1.7,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "BMC Public Health",
+  "papers": 65,
+  "with_spreadsheet": 1,
+  "share": 1.5,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "Prev Med Rep",
+  "papers": 58,
+  "with_spreadsheet": 1,
+  "share": 1.7,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "Open Forum Infect Dis",
+  "papers": 41,
+  "with_spreadsheet": 1,
+  "share": 2.4,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "Viruses",
+  "papers": 40,
+  "with_spreadsheet": 1,
+  "share": 2.5,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "Cancers (Basel)",
+  "papers": 707,
+  "with_spreadsheet": 1,
+  "share": 0.1,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "Cancer",
+  "papers": 53,
+  "with_spreadsheet": 1,
+  "share": 1.9,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "JNCI Cancer Spectr",
+  "papers": 143,
+  "with_spreadsheet": 1,
+  "share": 0.7,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "JAMA Netw Open",
+  "papers": 324,
+  "with_spreadsheet": 1,
+  "share": 0.3,
+  "spreadsheet_files": 1
+ },
+ {
+  "journal": "JMIR Res Protoc",
+  "papers": 42,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Nutrients",
+  "papers": 80,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Metabolites",
+  "papers": 61,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Int J Mol Sci",
+  "papers": 201,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "J Natl Cancer Inst",
+  "papers": 65,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "BMJ Open",
+  "papers": 151,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Environ Health Perspect",
+  "papers": 45,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Molecules",
+  "papers": 57,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Nicotine Tob Res",
+  "papers": 41,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "J Biomed Opt",
+  "papers": 43,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ },
+ {
+  "journal": "Cells",
+  "papers": 108,
+  "with_spreadsheet": 0,
+  "share": 0.0,
+  "spreadsheet_files": 0
+ }
+]
