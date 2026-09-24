@@ -48,12 +48,12 @@ ax[1].set_title(f"MARCO macrophage score (paper B)\nby DNA-methylation subtype (
 stats["marco_by_meth"]={o:{"n":int(len(d)),"median":float(np.median(d))} for o,d in zip(order,data)}
 # --- independent institutional cohort (MGH): death at follow-up by IDH/TERT status
 s=C["IDH/TERT status"].astype(str).str.lower().str.strip()
-C["grp"]=np.where(s.str.contains("double wild"),"double wild-type",np.where(s.str.contains("mut"),"IDH/TERT-mutant",None)); C=C.dropna(subset=["grp"])
+C["grp"]=np.where(s.str.contains("double wild"),"double wild-type",np.where(s.str.contains("mut"),"IDH or TERT mutated",None)); C=C.dropna(subset=["grp"])
 C["dead"]=C["Follow up status"].astype(str).str.contains("deceased|dead",case=False)
 tab=C.groupby("grp")["dead"].agg(["sum","count"]); tab["rate"]=tab["sum"]/tab["count"]
 stats["mgh"]={g:{"n":int(r["count"]),"deceased":int(r["sum"]),"death_rate":round(float(r["rate"]),3)} for g,r in tab.iterrows()}
-order_c=[g for g in ("double wild-type","IDH/TERT-mutant") if g in tab.index]
+order_c=[g for g in ("double wild-type","IDH or TERT mutated") if g in tab.index]
 ax[2].bar([f"{g}\n(n={int(tab.loc[g,'count'])})" for g in order_c],[tab.loc[g,"rate"] for g in order_c],color=["#0F6E68","#B8860B"][:len(order_c)])
-ax[2].set_ylim(0,1); ax[2].set_ylabel("Share deceased at follow-up"); ax[2].set_title("Independent MGH cohort (paper C), n=121:\ndirection consistent with the pooled result (small n)",fontsize=10)
+ax[2].set_ylim(0,1); ax[2].set_ylabel("Share deceased at follow-up"); ax[2].set_title("Independent MGH cohort (paper C), n=121: descriptive only\n(grouping differs from the IDH split; no follow-up time)",fontsize=10)
 plt.tight_layout(); plt.savefig("figure.png",dpi=160); U[["PatientID","idh","os","dead","age"]].to_csv("pooled_cohort.csv",index=False)
 json.dump(stats,open("join_stats.json","w"),indent=1); print(json.dumps(stats,indent=1))

@@ -17,7 +17,7 @@
   "cancer": "glioblastoma",
   "pmcid": "PMC6478916",
   "table": "TCGA pan-glioma (curated)",
-  "patients": 814,
+  "patients": 812,
   "kind": "TCGA"
  },
  {
@@ -32,13 +32,6 @@
   "pmcid": "PMC7399195",
   "table": "FAK/RON/cMET IHC cohort with PFS",
   "patients": 338,
-  "kind": "original"
- },
- {
-  "cancer": "colorectal cancer",
-  "pmcid": "PMC5499209",
-  "table": "Duke's stage/DFS cohort (GEO-linked)",
-  "patients": 230,
   "kind": "original"
  },
  {

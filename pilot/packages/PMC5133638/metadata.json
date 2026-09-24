@@ -1,0 +1,83 @@
+{
+ "identifier": {
+  "identifier": "TO BE ASSIGNED ON DEPOSIT",
+  "identifierType": "DOI"
+ },
+ "titles": [
+  {
+   "title": "Supplementary dataset (ncomms13177-s2.xls) from: 5-Hydroxymethylcytosine localizes to enhancer elements and is associated with survival in glioblastoma patients"
+  }
+ ],
+ "creators": [
+  {
+   "name": "Johnson KC"
+  },
+  {
+   "name": "Houseman EA"
+  },
+  {
+   "name": "King JE"
+  },
+  {
+   "name": "von Herrmann KM"
+  },
+  {
+   "name": "Fadul CE"
+  },
+  {
+   "name": "Christensen BC"
+  }
+ ],
+ "publisher": "Rescued from PubMed Central open-access article; original publisher: Nat Commun",
+ "publicationYear": "2016",
+ "resourceType": {
+  "resourceTypeGeneral": "Dataset",
+  "resourceType": "Supplementary data table"
+ },
+ "relatedIdentifiers": [
+  {
+   "relatedIdentifier": "10.1038/ncomms13177",
+   "relatedIdentifierType": "DOI",
+   "relationType": "IsSupplementTo"
+  },
+  {
+   "relatedIdentifier": "PMC5133638",
+   "relatedIdentifierType": "PMCID",
+   "relationType": "IsSourceOf"
+  }
+ ],
+ "rightsList": [
+  {
+   "rights": "CC BY",
+   "rightsURI": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "fundingReferences": [
+  {
+   "funderName": "National Cancer Institute"
+  }
+ ],
+ "subjects": [
+  {
+   "subject": "glioblastoma"
+  }
+ ],
+ "descriptions": [
+  {
+   "descriptionType": "Abstract",
+   "description": "Tabular supplementary data file originally attached to the article. Largest table: 3878 rows x 8 columns. Content type (heuristic): numeric. Sheets: "
+  }
+ ],
+ "sizes": [
+  "624 KB"
+ ],
+ "formats": [
+  "xls"
+ ],
+ "provenance": {
+  "source": "Europe PMC supplementaryFiles endpoint",
+  "harvested": "2026-09-22",
+  "original_filename": "ncomms13177-s2.xls",
+  "sheets": []
+ }
+}

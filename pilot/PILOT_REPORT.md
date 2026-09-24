@@ -1,3 +1,9 @@
+> **Read this first (2026-09-24).** The opening sections below are the original 2026-09-22 write-up and carry numbers that
+> were later **corrected downward** after an independent methods review (population 30,376 → 26,228; "one in five" →
+> 18.8% any / 14.5% native spreadsheet; 21,186 → 15,458 files). The current figures are in **"Corrections after an
+> independent methods review"** and **"Three additions"** near the end, and in `data/census_summary_v3.json`,
+> `data/four_cancers_v2.json`, `data/institutes.json`. The original text is kept so the change is auditable.
+
 # Supplementary-data rescue pilot: results (2026-09-22)
 
 **Question.** Of NCI-funded, open-access papers on one cancer type (2016-2022) that have supplementary files but cite no
@@ -144,8 +150,8 @@ seed 77; list in `data/handcheck_sample2.json`), opened and judged by a person w
 - One dataset appeared twice under two filenames in the same paper (Blood, PMC8532198), which is why the pipeline
   de-duplicates by content before deposit.
 
-**Combined across both rounds (105 files): 60 of 60 "dataset" calls were real data tables; 26 of 30 rejections were
-correct, and every miss was a table under 50 rows.** By content, about half of rescued tables are primary measurements
+**Combined across both rounds (90 files: 45 + 45): 60 of 60 "dataset" calls were real data tables; of 30 rejections, 23 were
+correct, 3 were missed small tables, 1 borderline, 3 unreadable; every miss was a table under 50 rows.** By content, about half of rescued tables are primary measurements
 and half derived results.
 
 ---
@@ -165,9 +171,9 @@ below, and the earlier sections above are left as written so the change is visib
 | Census: spreadsheet/CSV files | 21,186 | **15,458** | Corrected population, plus a parser fix (below). |
 | Freely licensed (CC BY / CC0) | 76% of papers | **80% of papers (12,738 files)**; 83% of sampled dataset papers | Unchanged in substance. |
 | "Census and sample agree to a tenth of a point" | 21.2% vs 21.3% | **18.9% vs 17.9%** | Now a like-for-like comparison: both are "any spreadsheet attachment, by filename". The dataset-size rate by opening files is 18.8% any / 14.5% native. |
-| Already mirrored on Figshare | "roughly one in five" (publisher pattern) | **13.5%** (27 of 200 random spreadsheet papers, same-paper match verified) | A raw filename search gave 40%, but generic names like `Table_1` matched unrelated items; only same-DOI or exact-title matches count. |
-| Population filter validity | assumed | **15% of population papers point to a repository somewhere** (71 of 483: 50 with a data accession in the text, mostly GSE/PXD/PRJNA/phs, that the text miner missed; 62 whose data-availability statement names a repository). 17% state the data is "in the paper/supplement"; 15% say "on request". `das_check.py`, `data/das_check_summary.json` | Folded into the estimate range. |
-| Hand check | described in prose | **`data/handcheck_verdicts.csv`**: 105 files, single rater (the assistant), not blind, machine fields visible. 58 clear + 2 weak real tables of 60 positives; of 30 negatives, 23 correct, 3 missed small tables, 1 borderline, 3 unreadable | Limitation stated; a second blind rater is the next step. |
+| Already mirrored on Figshare | "roughly one in five" (publisher pattern) | **13.5%** (27 of 200 random spreadsheet papers, same-paper match verified; all 27 are BMC/Springer Nature titles, no PLOS hit could be confirmed) | A raw filename search gave 40%, but generic names like `Table_1` matched unrelated items; only same-DOI or exact-title matches count. |
+| Population filter validity | assumed | **15% of population papers point to a repository somewhere** (71 of 483: 50 with a data accession in the body text, mostly GSE/PXD/PRJNA/phs, that the text miner missed; 62 whose data-availability statement mentions a deposit repository or accession, 52 of them as the primary statement). 17% state the data is "in the paper/supplement"; 15% say "on request". `das_check.py`, `data/das_check_summary.json` | Folded into the estimate range. |
+| Hand check | described in prose | **`data/handcheck_verdicts.csv`**: 90 files (45 + 45; earlier text said 105 in error), single rater (the AI assistant), not blind, machine fields visible. 58 clear + 2 weak real tables of 60 positives; of 30 negatives, 23 correct, 3 missed small tables, 1 borderline, 3 unreadable | Limitation stated; a second blind rater is the next step. |
 | Threshold sensitivity (native, ≥3 cols) | not reported | ≥20 rows 15.9% · **≥50 rows 14.5%** · ≥100 13.1% · ≥200 11.6% · ≥1,000 rows 7.2% | The claim is not knife-edge on the threshold. |
 | Census parser | `<media>` inside `<supplementary-material>` only | now every `<media>`/`<inline-supplementary-material>` in the article | Nature Communications "Source Data" and BMC "Additional files" use bare `<media>`; 6,891 papers from those publishers were rescanned. Attachments counted: 73,795 (was 72,450 before the parser fix on the same population). |
 | Extrapolation arithmetic | "11,000–12,000 from 21,186 × 70%" (wrong: that product is 14,830) | see below | |
@@ -196,7 +202,7 @@ cohort with no other public home. Two of three tables derive from TCGA, so the s
 rather than adding new biology.
 
 **2. Patients, not files.** `data/patient_tables_verified.json`: ten patient-per-row tables opened and classified.
-About 4,674 patient records, of which 753 (four tables) are institutional cohorts not in TCGA, GEO or dbGaP.
+About 4,440 patient records after dropping PMC5499209 (GEO-flagged, 230 rows) and correcting table A to 812 rows; 523 (three tables) are institutional cohorts not found in TCGA, GEO, dbGaP or any catalogue.
 The earlier keyword heuristic gave 7,034 rows across 25 tables; several of those were summary-statistics or
 per-mutation tables, so only the verified figure is used.
 

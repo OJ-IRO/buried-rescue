@@ -38,7 +38,7 @@
   }
  },
  "mgh": {
-  "IDH/TERT-mutant": {
+  "IDH or TERT mutated": {
    "n": 105,
    "deceased": 18,
    "death_rate": 0.171

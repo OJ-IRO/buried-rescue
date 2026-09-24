@@ -5,7 +5,8 @@ import csv, json, os, zipfile, io, re, collections
 import openpyxl
 HERE=os.path.dirname(os.path.abspath(__file__)); DATA=os.path.join(HERE,"data"); OUT=os.path.join(HERE,"packages")
 S=json.load(open(os.path.join(DATA,"sample.json"))); meta={p["pmcid"]:p for p in S["papers"]}
-F=[f for f in csv.DictReader(open(os.path.join(DATA,"files.csv"))) if f["class"].startswith("dataset") and f["native"]=="True" and f["derived"]!="True" and meta[f["pmcid"]].get("license") in ("cc by","cc0")]
+GEO=set(json.load(open(os.path.join(DATA,"sample_geo_flagged.json"))))
+F=[f for f in csv.DictReader(open(os.path.join(DATA,"files.csv"))) if f["class"].startswith("dataset") and f["native"]=="True" and f["derived"]!="True" and meta[f["pmcid"]].get("license") in ("cc by","cc0") and f["pmcid"] not in GEO]
 F.sort(key=lambda f:-int(f["max_rows"] or 0))
 seen=set(); picks=[]
 for f in F:

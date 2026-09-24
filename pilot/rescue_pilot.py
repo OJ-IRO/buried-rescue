@@ -270,7 +270,7 @@ def cmd_report(a):
     print("\nLICENSES of sampled papers:", dict(collections.Counter(p["license"] or "unknown" for p in P)))
     print("\nTOP JOURNALS among dataset papers:", collections.Counter(p["journal"] for p in ds).most_common(8))
     print(f"\nEXTRAPOLATION (rough): {len(ds)/n:.1%} of {s['population']} {s['cancer']} papers ~= {round(len(ds)/n*s['population'])} papers with rescuable datasets in this cancer alone;")
-    print(f"  applied to the ~32,000 NCI-funded papers with supplements and no accession -> ~{round(len(ds)/n*32000):,} papers (upper-bound heuristic, needs validation)")
+    print(f"  (population-level figures: see data/census_summary_v3.json; extrapolation is done in PILOT_REPORT.md)")
 
 
 if __name__ == "__main__":

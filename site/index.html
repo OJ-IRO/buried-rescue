@@ -74,14 +74,14 @@ footer{padding-top:28px;font-size:14px;color:var(--ink-2);max-width:70ch}
 <header>
   <div class="eyebrow">NCI Office of Data Sharing Impact Prize · Track 1 evidence · updated 2026-09-23</div>
   <h1>Cancer data is buried in the attachments.</h1>
-  <p class="lede">Before 2023, the normal way to share a cancer dataset was to attach a spreadsheet to the paper. Those files still exist, but no catalogue lists them. <strong>We counted every one across 26,228 NCI-funded open-access papers, opened 1,200 papers' worth across four cancers, and packaged the first rescues.</strong></p>
+  <p class="lede">Before 2023, the normal way to share a cancer dataset was to attach a spreadsheet to the paper. Those files still exist, but no catalogue lists them. <strong>We counted every one across 26,228 NCI-funded open-access papers, opened the attachments of 1,200 papers across four cancers (1,076 analysed), and packaged the first rescues.</strong></p>
 
   <div class="stats" role="list">
     <div class="stat" role="listitem"><div class="n">26,228</div><div class="l">NCI-funded open-access papers, 2016–2022, with supplementary files and no text-mined data-repository accession</div></div>
     <div class="stat" role="listitem"><div class="n">4,759</div><div class="l">of them carry at least one spreadsheet or CSV attachment (18.9%)</div></div>
     <div class="stat" role="listitem"><div class="n">15,458</div><div class="l">spreadsheet and CSV files, 15.9 GB of Excel, listed in no dataset catalogue</div></div>
     <div class="stat" role="listitem"><div class="n">80%</div><div class="l">of those papers are CC BY or CC0, so the files can be re-deposited unchanged</div></div>
-    <div class="stat" role="listitem"><div class="n">1 in 6</div><div class="l">papers hold a genuine data table (18.8% any format, 14.5% as a native spreadsheet), confirmed by opening the files in four random samples of 300 papers</div></div>
+    <div class="stat" role="listitem"><div class="n">18.8%</div><div class="l">of papers hold a genuine data table (14.5% as a native spreadsheet), confirmed by opening the files in four random samples of 300 papers</div></div>
   </div>
 </header>
 
@@ -93,7 +93,7 @@ footer{padding-top:28px;font-size:14px;color:var(--ink-2);max-width:70ch}
       <ol class="steps">
         <li><b>01</b><span><strong>Census.</strong> Europe PMC's search finds every NCI-funded open-access paper from 2016 to 2022 that has supplementary files and no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB or GenBank. We read each paper's full text and listed its attachments by filename, size and caption. 73,795 attachments in 25,138 readable papers. Nothing downloaded.</span></li>
         <li><b>02</b><span><strong>Sample.</strong> Four random samples of 300 papers each (glioblastoma, breast, colorectal, leukemia) from that population. Every attachment downloaded, every spreadsheet, CSV, Word and PDF file opened. A file counts as a dataset if its largest table has at least 50 rows and 3 columns, or at least 1,000 rows. Peer-review letters, reporting summaries and figures are excluded automatically.</span></li>
-        <li><b>03</b><span><strong>Hand check.</strong> A person opened 105 of the machine's decisions. All 60 files it called datasets were real data tables; every table it missed was under 50 rows. Verdicts are published file by file.</span></li>
+        <li><b>03</b><span><strong>Re-examination.</strong> 90 of the classifier's decisions were re-examined file by file (with the AI assistant, not blind; verdicts published). All 60 files it called datasets were real data tables; every table it missed was under 50 rows. A blind human check is the next step.</span></li>
         <li><b>04</b><span><strong>Package.</strong> Eight datasets from CC BY papers were packaged unmodified with DataCite-style metadata, ready for deposit in an NIH-recognized repository. Nothing has been uploaded yet.</span></li>
       </ol>
 <div class="tablewrap" style="margin-top:18px"><table style="min-width:520px"><thead><tr><th>Cancer (random sample of 300, GEO papers excluded)</th><th class="num">Analysed</th><th class="num">Papers with a dataset</th><th class="num">Share</th><th class="num">CC BY / CC0</th></tr></thead><tbody><tr><td>Glioblastoma</td><td class="num">271</td><td class="num">53</td><td class="num">19.6%</td><td class="num">41</td></tr><tr><td>Breast cancer</td><td class="num">271</td><td class="num">51</td><td class="num">18.8%</td><td class="num">46</td></tr><tr><td>Colorectal cancer</td><td class="num">273</td><td class="num">53</td><td class="num">19.4%</td><td class="num">47</td></tr><tr><td>Leukemia</td><td class="num">261</td><td class="num">45</td><td class="num">17.2%</td><td class="num">33</td></tr><tr><td><strong>Pooled</strong></td><td class="num"><strong>1,076</strong></td><td class="num"><strong>202 / 1,076</strong></td><td class="num"><strong>18.8%</strong></td><td class="num"><strong>167</strong></td></tr></tbody></table></div>
@@ -132,9 +132,9 @@ footer{padding-top:28px;font-size:14px;color:var(--ink-2);max-width:70ch}
 
 <section>
   <h2>Rescued tables put back to work</h2>
-  <p class="sub">Three rescued glioblastoma spreadsheets, none listed in any catalogue, joined into analyses none of the source papers did. Left: a 1,037-patient pooled cohort built only from rescued files reproduces the known IDH survival split, which validates the data. Middle: a cross-table comparison that exists only because two buried files were put side by side. Right: a 121-patient hospital cohort that has no other public home. Code and outputs are in the repository under <span class="mono">demo/</span>.</p>
+  <p class="sub">Three glioma tables rescued from the glioblastoma sample, none listed in any catalogue, joined into analyses none of the source papers did. Left: two TCGA-derived tables from different papers, pooled to 1,037 patients, reproduce the known IDH survival split, which validates the data. Middle: a cross-table comparison that exists only because two buried files were put side by side. Right: a 121-patient hospital cohort not found in any catalogue, shown descriptively; its grouping (IDH or TERT mutated vs neither) is not the same as the IDH split and the numbers are small. Code and outputs are in the repository under <span class="mono">demo/</span>.</p>
   <img src="demo-figure.png" alt="Three panels: Kaplan-Meier survival by IDH status in a pooled 1,037-patient cohort; MARCO macrophage score by DNA-methylation subtype; share deceased in an independent 121-patient cohort" style="max-width:100%;border:1px solid var(--rule);border-radius:6px;background:#fff">
-  <p class="sub" style="margin-top:14px">Verified patient-level tables across the four samples describe about 4,700 patient records, roughly 750 of them from institutional cohorts with no other public home. Two of the three tables above are curated slices of public TCGA data, so the survival result is a reproduction of known biology, not new evidence.</p>
+  <p class="sub" style="margin-top:14px">Verified patient-level tables across the four samples describe about 4,400 patient records, roughly 500 of them from institutional cohorts not found in TCGA, GEO, dbGaP or any catalogue. Two of the three tables above are curated slices of public TCGA data, so the survival result is a reproduction of known biology, not new evidence.</p>
 </section>
 
 <section>
@@ -147,7 +147,7 @@ footer{padding-top:28px;font-size:14px;color:var(--ink-2);max-width:70ch}
   <ul class="caveats">
     <li>The census counts files by name. The "genuine dataset" rates come from opening files in four cancer types; other fields may differ. An independent methods review on 2026-09-23 found our repository filter had missed GEO; the population and every rate above were corrected downward and the correction is documented in the repository.</li>
     <li>About half of the rescued tables are analysis results (gene lists, pathway scores) rather than raw measurements. Both are reusable; each record says which it is.</li>
-    <li>13.5% of census spreadsheet papers, mostly PLOS and BMC-family journals, already have a publisher-assigned Figshare identifier for their attachments (verified file by file). About 15% of population papers reference a repository somewhere our accession filter missed. Those files still lack a dataset description and a catalogue entry.</li>
+    <li>13.5% of census spreadsheet papers, BMC and other Springer Nature journals in our verified sample, already have a publisher-assigned Figshare identifier for their attachments (verified file by file). About 15% of population papers reference a repository somewhere our accession filter missed. Those files still lack a dataset description and a catalogue entry.</li>
     <li>About 4% of papers could not be read due to server errors and are excluded. Zip archives were not opened.</li>
     <li>Large-scale extraction of supplementary files was done before us (Gobeill et al., 2025, 36 million files). The new step is classifying, describing, depositing and cataloguing them for the funder's own index.</li>
   </ul>
