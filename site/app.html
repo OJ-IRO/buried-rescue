@@ -61,7 +61,7 @@ footer{margin-top:28px;font-size:14px;color:var(--ink-2);max-width:75ch}
   <nav><a href="./">Evidence page</a><a href="https://github.com/OJ-IRO/attachment-rescue" rel="noopener" target="_blank">Code</a></nav>
 </header>
 
-<p class="lede">Every spreadsheet, CSV or tab-delimited file attached to an NCI-funded open-access paper from 2016 to 2022 whose paper cites no data repository. 15,458 files from 4,759 papers, none listed in any dataset catalogue. Search, filter, open the file. Files marked <span class="tag v">verified dataset</span> were opened and confirmed to hold a real data table; the rest are unverified attachments.</p>
+<p class="lede">Every spreadsheet, CSV or tab-delimited file attached to an NCI-funded open-access paper from 2016 to 2022 whose paper cites no data repository. 15,458 files from 4,759 papers in the census, plus every file we verified by opening it, none listed in any dataset catalogue. Search, filter, open the file. Files marked <span class="tag v">verified dataset</span> were opened and confirmed to hold a real data table; the rest are unverified attachments.</p>
 
 <div class="stats" id="stats"></div>
 
@@ -136,7 +136,7 @@ footer{margin-top:28px;font-size:14px;color:var(--ink-2);max-width:75ch}
     Object.keys(years).sort().forEach(function(y){var o=document.createElement('option');o.value=y;o.textContent=y;$('year').appendChild(o)});
     Object.keys(journals).sort(function(a,b){return journals[b]-journals[a]}).slice(0,60).forEach(function(j){var o=document.createElement('option');o.value=j;o.textContent=j+' ('+journals[j]+')';$('journal').appendChild(o)});
     var papers=new Set(rows.map(function(d){return d.p})).size;
-    $('stats').innerHTML=[['15,458','buried spreadsheet files'],[papers.toLocaleString(),'papers, 2016–2022'],[vc.toLocaleString(),'verified real datasets (opened by us)'],[Math.round(free/rows.length*100)+'%','under CC BY or CC0'],[(bytes/1e9).toFixed(1)+' GB','of Excel and CSV']].map(function(s){return '<div class="stat"><div class="n">'+s[0]+'</div><div class="l">'+s[1]+'</div></div>'}).join('');
+    $('stats').innerHTML=[[rows.length.toLocaleString(),'buried spreadsheet files'],[papers.toLocaleString(),'papers, 2016–2022'],[vc.toLocaleString(),'verified real datasets (opened by us)'],[Math.round(free/rows.length*100)+'%','under CC BY or CC0'],[(bytes/1e9).toFixed(1)+' GB','of Excel and CSV']].map(function(s){return '<div class="stat"><div class="n">'+s[0]+'</div><div class="l">'+s[1]+'</div></div>'}).join('');
     apply();
   }).catch(function(){$('results').innerHTML='<div class="empty">Could not load the index.</div>'});
   ['q','year','journal','lic'].forEach(function(id){$(id).addEventListener(id==='q'?'input':'change',apply)});
