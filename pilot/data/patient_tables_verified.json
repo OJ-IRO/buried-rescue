@@ -1,0 +1,72 @@
+[
+ {
+  "cancer": "glioblastoma",
+  "pmcid": "PMC6193287",
+  "table": "MGH glioma cohort",
+  "patients": 121,
+  "kind": "original"
+ },
+ {
+  "cancer": "glioblastoma",
+  "pmcid": "PMC8500868",
+  "table": "MN1/PATZ1 neuroepithelial tumours",
+  "patients": 64,
+  "kind": "original"
+ },
+ {
+  "cancer": "glioblastoma",
+  "pmcid": "PMC6478916",
+  "table": "TCGA pan-glioma (curated)",
+  "patients": 814,
+  "kind": "TCGA"
+ },
+ {
+  "cancer": "glioblastoma",
+  "pmcid": "PMC8136167",
+  "table": "TCGA glioma + MARCO (curated)",
+  "patients": 603,
+  "kind": "TCGA"
+ },
+ {
+  "cancer": "colorectal cancer",
+  "pmcid": "PMC7399195",
+  "table": "FAK/RON/cMET IHC cohort with PFS",
+  "patients": 338,
+  "kind": "original"
+ },
+ {
+  "cancer": "colorectal cancer",
+  "pmcid": "PMC5499209",
+  "table": "Duke's stage/DFS cohort (GEO-linked)",
+  "patients": 230,
+  "kind": "original"
+ },
+ {
+  "cancer": "colorectal cancer",
+  "pmcid": "PMC5141297",
+  "table": "TCGA CRC mutation profiles (curated)",
+  "patients": 212,
+  "kind": "TCGA"
+ },
+ {
+  "cancer": "breast cancer",
+  "pmcid": "PMC5292751",
+  "table": "TCGA BRCA OS tables (curated)",
+  "patients": 1070,
+  "kind": "TCGA"
+ },
+ {
+  "cancer": "breast cancer",
+  "pmcid": "PMC8886672",
+  "table": "TCGA-BRCA cohort characteristics (curated)",
+  "patients": 1017,
+  "kind": "TCGA"
+ },
+ {
+  "cancer": "breast cancer",
+  "pmcid": "PMC4868715",
+  "table": "Invasive breast carcinoma miR-100/OS (curated TCGA)",
+  "patients": 205,
+  "kind": "TCGA"
+ }
+]

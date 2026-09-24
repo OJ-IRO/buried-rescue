@@ -1,0 +1,52 @@
+{
+ "A_rows": 812,
+ "B_rows": 603,
+ "overlap_by_barcode": 244,
+ "only_A": 568,
+ "only_B": 359,
+ "os_agree_within_0.5mo": 239,
+ "idh_agree": 236,
+ "age_agree": 241,
+ "pooled_tcga_patients_with_survival": 1037,
+ "pooled_by_idh": {
+  "IDH-wildtype": 581,
+  "IDH-mutant": 456
+ },
+ "km": {
+  "IDH-wildtype": {
+   "n": 581,
+   "median_os_months": 15.34
+  },
+  "IDH-mutant": {
+   "n": 456,
+   "median_os_months": 88.07
+  }
+ },
+ "logrank_p": 6.49522281606352e-96,
+ "marco_by_meth": {
+  "Classic-like": {
+   "n": 73,
+   "median": -0.4180820326058772
+  },
+  "Mesenchymal-like": {
+   "n": 94,
+   "median": -0.1820132739052388
+  },
+  "LGm6-GBM": {
+   "n": 18,
+   "median": -0.1573388483329625
+  }
+ },
+ "mgh": {
+  "IDH/TERT-mutant": {
+   "n": 105,
+   "deceased": 18,
+   "death_rate": 0.171
+  },
+  "double wild-type": {
+   "n": 16,
+   "deceased": 4,
+   "death_rate": 0.25
+  }
+ }
+}
