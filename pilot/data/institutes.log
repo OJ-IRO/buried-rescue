@@ -1,0 +1,6 @@
+NHLBI (heart, lung, blood) {'population': 16339, 'sampled': 300, 'readable': 295, 'papers_with_spreadsheet': 44, 'share': 14.9, 'spreadsheet_files': 148}
+NIDDK (diabetes, digestive, kidney) {'population': 12954, 'sampled': 300, 'readable': 295, 'papers_with_spreadsheet': 52, 'share': 17.6, 'spreadsheet_files': 164}
+NIMH (mental health) {'population': 9925, 'sampled': 300, 'readable': 284, 'papers_with_spreadsheet': 53, 'share': 18.7, 'spreadsheet_files': 228}
+NIA (aging) {'population': 12459, 'sampled': 300, 'readable': 292, 'papers_with_spreadsheet': 60, 'share': 20.5, 'spreadsheet_files': 186}
+NINDS (neurological) {'population': 11366, 'sampled': 300, 'readable': 281, 'papers_with_spreadsheet': 67, 'share': 23.8, 'spreadsheet_files': 227}
+done

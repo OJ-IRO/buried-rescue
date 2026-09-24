@@ -182,3 +182,35 @@ under CC BY or CC0. The defensible headline is therefore **"roughly one in six s
 **Still open.** The four cancers were chosen for population size, not at random, so the pooled interval is
 indicative rather than a strict population estimate. Only the open-access subset (about 36% of NCI papers)
 was studied; author manuscripts are excluded and may behave differently. Zip archives were not opened.
+
+---
+
+# Three additions (2026-09-24)
+
+**1. Rescued tables put back to work.** See `demo/README.md`. Three rescued glioma tables (PMC6478916, PMC8136167,
+PMC6193287) joined by TCGA barcode: 244 shared patients, survival agrees within 0.5 month in 239, IDH in 236, age in
+241. Pooled union of 1,037 patients with survival reproduces the IDH-mutant vs wildtype split (median 88 vs 15
+months, log-rank p ≈ 6e-96). Cross-table: MARCO macrophage score (paper B) by DNA-methylation subtype (paper A),
+n = 244, higher in Mesenchymal-like and LGm6-GBM than Classic-like. The third table is a 121-patient institutional
+cohort with no other public home. Two of three tables derive from TCGA, so the survival result validates the data
+rather than adding new biology.
+
+**2. Patients, not files.** `data/patient_tables_verified.json`: ten patient-per-row tables opened and classified.
+About 4,674 patient records, of which 753 (four tables) are institutional cohorts not in TCGA, GEO or dbGaP.
+The earlier keyword heuristic gave 7,034 rows across 25 tables; several of those were summary-statistics or
+per-mutation tables, so only the verified figure is used.
+
+**3. NIH-wide.** `institutes.py`, `data/institutes.json`. Same filename census (v2 parser, GEO-corrected filter),
+random 300-paper samples, 2016–2022, open access, supplementary files, no accession:
+
+| Institute | Population | Papers with a spreadsheet attachment |
+|---|--:|--:|
+| NHLBI | 16,339 | 44 / 295 = 14.9% |
+| NIDDK | 12,954 | 52 / 295 = 17.6% |
+| NIMH | 9,925 | 53 / 284 = 18.7% |
+| NIA | 12,459 | 60 / 292 = 20.5% |
+| NINDS | 11,366 | 67 / 281 = 23.8% |
+| NCI (four-cancer samples, same yardstick) | 26,228 | 17.9% |
+
+The five non-cancer populations total 63,043 papers. The pattern is a property of how biomedicine published
+before 2023, not of cancer research.

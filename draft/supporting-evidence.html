@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><title>Supporting Evidence</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&display=swap">
 <style>
-@page{size:Letter;margin:0.4in 0.45in}
+@page{size:Letter;margin:0.35in 0.42in}
 body{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.14;color:#141b19;margin:0}
 h1{font-size:15pt;margin:0 0 1pt;color:#0f1715;letter-spacing:-.01em}
 .sub{font-size:11pt;color:#4a5753;margin:0 0 7pt;padding-bottom:5pt;border-bottom:2px solid #0F6E68}
@@ -17,6 +17,7 @@ ul{margin:2pt 0 0 14pt;padding:0} li{margin:0 0 1.5pt}
 .two{display:flex;gap:14pt} .two>div{flex:1}
 a{color:#0F6E68;text-decoration:none}
 .small{font-size:11pt;color:#4a5753}
+.mono{font-family:"IBM Plex Mono",Menlo,monospace;font-size:10.5pt}
 </style></head><body>
 <h1>Supporting Evidence</h1>
 <p class="sub">Attachment Rescue · Track 1 (Ideas). All figures reproducible from public data with the linked code.</p>
@@ -29,6 +30,7 @@ a{color:#0F6E68;text-decoration:none}
 <tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
 <tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB)</td><td class="n"><b>15,458</b></td></tr>
 <tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">3,824 (80%)</td></tr>
+<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers</td><td class="n">NIH-wide</td></tr>
 </table>
 
 <h2>2. Four random samples of 300 papers, every attachment opened (124 with a GEO accession excluded)</h2>
@@ -49,9 +51,10 @@ a{color:#0F6E68;text-decoration:none}
 <li><b>121-patient glioblastoma cohort table</b> (sex, age, location, IDH/TERT, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, 40478_2018_613_MOESM2_ESM.xlsx. CC BY.</li>
 <li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391, 41467_2019_10912_MOESM4_ESM.xlsx. CC BY.</li>
 </ul>
-<h2>4. Deposit-ready packages</h2>
+<h2>4. Rescued tables put back to work</h2>
 <ul>
-<li>8 datasets from CC BY papers, unmodified, each with DataCite-style metadata (title, creators, license, article DOI, PMC ID, funder, format, sheets) and README. Not yet uploaded; see governance in Prompt 4.</li>
+<li>Three rescued glioma tables joined by TCGA barcode: 244 shared patients agree on survival, IDH and age in &gt;96%. Pooled 1,037-patient cohort reproduces the IDH survival split (median 88 vs 15 months, p&lt;1e-90). One is a 121-patient hospital cohort found nowhere else (<span class="mono">demo/</span>).</li>
+<li>Verified patient-level tables in the four samples: ~4,700 patient records, ~750 from institutional cohorts with no other public home. 8 datasets packaged with DataCite metadata, not yet uploaded (Prompt 4).</li>
 </ul>
 </div>
 <div>
@@ -62,10 +65,10 @@ a{color:#0F6E68;text-decoration:none}
 </ul>
 <h2>6. Prior work cited</h2>
 <ul>
-<li>Gobeill et al., <i>Bioinformatics Advances</i> 2025 — 36.2 M PMC supplementary files extracted and indexed (PMC12371329).</li>
-<li>Federer et al., <i>PLOS ONE</i> 2018 (doi 10.1371/journal.pone.0194768); Colavizza et al., <i>PLOS ONE</i> 2020 (10.1371/journal.pone.0230416); Federer, 2022 (PMC9401135).</li>
-<li>Ghosh et al., <i>JNCI</i> 2025 (PMC12782234); Boja et al., <i>JCO CCI</i> 2026 (PMC13479720); Boyd et al., <i>JNCI</i> 2026 (djag199).</li>
-<li>CBIIT INS-Data pipeline and INS disease-code mapper: github.com/CBIIT (INS-Data, ccdi-ins-icdo-mapping-llm).</li>
+<li>Gobeill et al., <i>Bioinf Adv</i> 2025, 36.2 M PMC supplementary files indexed (PMC12371329).</li>
+<li>Federer 2018 (pone.0194768); Colavizza 2020 (pone.0230416); Federer 2022 (PMC9401135).</li>
+<li>Ghosh 2025 (PMC12782234); Boja 2026 (PMC13479720); Boyd 2026 (jnci/djag199).</li>
+<li>CBIIT: github.com/CBIIT/INS-Data, ccdi-ins-icdo-mapping-llm.</li>
 </ul>
 </div>
 </div>
