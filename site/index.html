@@ -155,7 +155,7 @@ footer{padding-top:28px;font-size:14px;color:var(--ink-2);max-width:70ch}
     <li>About half of the rescued tables are analysis results (gene lists, pathway scores) rather than raw measurements. Both are reusable; each record says which it is.</li>
     <li>The files are already mirrored as files: EMBL-EBI BioStudies keeps one record per Europe PMC article listing its supplementary files, and 13.5% of census spreadsheet papers (BMC and other Springer Nature titles in our verified sample) have a publisher-assigned Figshare identifier. None of those records says which file is a dataset, what it contains, or who is in it, and none reaches NCI's index. About 15% of population papers reference a repository somewhere our accession filter missed.</li>
     <li>About 4% of papers could not be read due to server errors and are excluded. Zip archives were not opened.</li>
-    <li>Large-scale extraction of supplementary files was done before us (Gobeill et al., 2025, 36 million files). The new step is classifying, describing, depositing and cataloguing them for the funder's own index.</li>
+    <li>Large-scale processing of supplementary files was done before us: NLM's FAIR-SMART (Wei, Lu et al., PLOS Biology 2025) aggregates and standardizes PMC supplementary files behind an API, and Gobeill et al. (2025) indexed 36 million of them for text search. Those are retrieval systems. The new step is deciding which files are datasets, describing them, giving them identifiers, and listing them in the funder's own catalogue; FAIR-SMART is a natural upstream, not a substitute.</li>
   </ul>
 </section>
 

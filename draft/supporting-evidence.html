@@ -2,8 +2,8 @@
 <html lang="en"><head><meta charset="utf-8"><title>Supporting Evidence</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&display=swap">
 <style>
-@page{size:Letter;margin:0.35in 0.42in}
-body{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.14;color:#141b19;margin:0}
+@page{size:Letter;margin:0.3in 0.4in}
+body{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.12;color:#141b19;margin:0}
 h1{font-size:15pt;margin:0 0 1pt;color:#0f1715;letter-spacing:-.01em}
 .sub{font-size:11pt;color:#4a5753;margin:0 0 7pt;padding-bottom:5pt;border-bottom:2px solid #0F6E68}
 h2{font-size:11pt;margin:6pt 0 2pt;text-transform:uppercase;letter-spacing:.06em;color:#0F6E68}
@@ -20,7 +20,7 @@ a{color:#0F6E68;text-decoration:none}
 .mono{font-family:"IBM Plex Mono",Menlo,monospace;font-size:10.5pt}
 </style></head><body>
 <h1>Supporting Evidence</h1>
-<p class="sub">Attachment Rescue · Track 1 (Ideas). All figures reproducible from public data with the linked code.</p>
+<p class="sub">Attachment Rescue · Track 1 (Ideas) · Ochiai, Ojiro · all figures reproducible from public data with the linked code</p>
 
 <h2>1. Census of the full population (files listed by name, nothing downloaded)</h2>
 <table>
@@ -28,9 +28,9 @@ a{color:#0F6E68;text-decoration:none}
 <tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB, GenBank)</td><td class="n">26,228</td></tr>
 <tr><td>Papers whose full text was readable · attachments listed</td><td class="n">25,138 · 73,795</td></tr>
 <tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
-<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel alone 14,448; 15.9 GB). By journal: Nat Commun 3,201 · eLife 1,440 · PLoS One 1,052 · Sci Rep 682 (103 journals tabulated)</td><td class="n"><b>15,458</b></td></tr>
+<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel 14,448; 15.9 GB). Nat Commun 3,201 · eLife 1,440 · PLoS One 1,052 · Sci Rep 682</td><td class="n"><b>15,458</b></td></tr>
 <tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">3,824 (80%)</td></tr>
-<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers. {{POST2023_EV}}</td><td class="n">NIH-wide</td></tr>
+<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers. <b>2024–2025 (post-policy), 600-paper sample: 23.2%</b> still carry a spreadsheet with no accession.</td><td class="n">NIH-wide</td></tr>
 </table>
 
 <h2>2. Four random samples of 300 papers, every attachment opened (124 with a GEO accession excluded)</h2>
@@ -48,28 +48,25 @@ a{color:#0F6E68;text-decoration:none}
 <div>
 <h2>3. Two live examples a reviewer can open</h2>
 <ul>
-<li><b>121-patient glioblastoma cohort table</b> (sex, age, location, IDH/TERT, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, 40478_2018_613_MOESM2_ESM.xlsx. CC BY.</li>
-<li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391, 41467_2019_10912_MOESM4_ESM.xlsx. CC BY.</li>
+<li><b>121-patient glioblastoma cohort table</b> (sex, age, IDH/TERT, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287. CC BY.</li>
+<li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391. CC BY.</li>
 </ul>
 <h2>4. Rescued tables put back to work</h2>
 <ul>
-<li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 patients reproduce the known IDH survival split (median 88 vs 15 months; validation only). A third rescued table is a 121-patient hospital cohort not found in any catalogue (<span class="mono">demo/</span>).</li>
-<li>Verified patient-level tables in the four samples: ~4,400 patient records, ~500 from institutional cohorts not found in TCGA, GEO, dbGaP or any catalogue. 8 datasets packaged with DataCite metadata (not uploaded). <b>All 462 rescued datasets written to a source file in the Index of NCI Studies' exact 27-column curated-source schema</b> (<span class="mono">deliverable/</span>).</li>
+<li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 reproduce the known IDH survival split (validation only). A third rescued table is a 121-patient hospital cohort found in no catalogue (<span class="mono">demo/</span>).</li>
+<li>Verified patient-level tables: ~4,400 patient records, ~500 from institutional cohorts found in no catalogue. <b>All 462 rescued datasets written to a source file in the Index of NCI Studies' exact 27-column curated-source schema</b> (<span class="mono">deliverable/</span>); 8 packaged with DataCite metadata (not uploaded).</li>
 </ul>
 </div>
 <div>
 <h2>5. Code, data, site (open, MIT)</h2>
-<ul><li>Prior mirrors checked: BioStudies (S-EPMC records, e.g. S-EPMC6193287) and Figshare list the files per article but carry no dataset classification, description or catalogue entry.</li></ul>
+<ul><li>Mirrors checked: BioStudies (S-EPMC), Figshare, NLM FAIR-SMART. None classifies, describes, assigns identifiers or lists in NCI's index. Mechanisms (8,040 papers): R01-type 47% · P30 45% · cooperative 18% · training 17% · SPORE 9%.</li></ul>
 <ul>
-<li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — code, raw census, per-cancer results, hand-check verdicts, packages.</li>
+<li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — code, raw census, results, verdicts, packages, INS source file.</li>
 <li>Public page with searchable list of the 462 dataset files and plain-language descriptions: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>
 </ul>
 <h2>6. Prior work cited</h2>
 <ul>
-<li>Gobeill et al., <i>Bioinf Adv</i> 2025, 36.2 M PMC supplementary files indexed (PMC12371329).</li>
-<li>Federer 2018 (pone.0194768); Colavizza 2020 (pone.0230416); Federer 2022 (PMC9401135).</li>
-<li>Ghosh 2025 (PMC12782234); Boja 2026 (PMC13479720); Boyd 2026 (jnci/djag199).</li>
-<li>CBIIT: github.com/CBIIT/INS-Data, ccdi-ins-icdo-mapping-llm.</li>
+<li>Wei &amp; Lu, FAIR-SMART, <i>PLOS Biol</i> 2025 (PMID 41066526) · Gobeill 2025 (PMC12371329) · Federer 2018/2022 · Colavizza 2020 · Ghosh 2025 (PMC12782234) · Boja 2026 (PMC13479720) · Boyd 2026 (jnci/djag199) · CBIIT INS-Data, ccdi-ins-icdo-mapping-llm.</li>
 </ul>
 </div>
 </div>

@@ -1,0 +1,52 @@
+{
+ "papers_checked": 8040,
+ "papers_with_nci_activity_code": 7879,
+ "groups": {
+  "R01, R37, R35 investigator-initiated grants": {
+   "papers": 3713,
+   "share": 47.1
+  },
+  "P30 Cancer Center Support Grants": {
+   "papers": 3540,
+   "share": 44.9
+  },
+  "P50 SPOREs": {
+   "papers": 724,
+   "share": 9.2
+  },
+  "P01 program projects": {
+   "papers": 664,
+   "share": 8.4
+  },
+  "U01/U24/U54/UM1/U2C/U19 cooperative agreements and consortia": {
+   "papers": 1389,
+   "share": 17.6
+  },
+  "Training and career awards (T32, F, K, R25)": {
+   "papers": 1336,
+   "share": 17.0
+  },
+  "R21, R03, R00, R50 small awards": {
+   "papers": 853,
+   "share": 10.8
+  },
+  "Intramural (ZIA, ZIC, Z01; CCR and DCEG)": {
+   "papers": 17,
+   "share": 0.2
+  }
+ },
+ "top_codes": {
+  "R01": 3584,
+  "P30": 3540,
+  "P50": 724,
+  "P01": 664,
+  "U01": 632,
+  "R21": 598,
+  "T32": 562,
+  "U54": 428,
+  "R35": 220,
+  "U24": 211,
+  "UM1": 204,
+  "R00": 151
+ }
+}
