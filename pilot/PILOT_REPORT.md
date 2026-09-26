@@ -241,3 +241,18 @@ before 2023, not of cancer research.
 - **NOT-OD-26-100.** From 2026-10-01 recipients report data-sharing progress in RPPR C.5.c. Cited in Prompt 2 as the policy hook for a re-runnable per-grant census.
 - **Post-2023 census.** `post2023.py`, `data/post2023.json`. Random 600 of the 10,874 NCI open-access papers published 2024–2025 with supplementary files and no repository accession: 139 of 599 (23.2%) carry a spreadsheet attachment (433 files). Higher than 2016–2022 (18.9%). The route the DMS policy was meant to close is still open. (2024 is under-represented in the open-access index: 62 of the 599 readable papers.)
 - **Funding mechanisms.** `grants.py`, `data/mechanisms.json` (8,040 of the 26,228 population papers fetched before the run was stopped; 98% carry an NCI activity code). Share of papers acknowledging each mechanism family (papers can count in several): R01, R37, R35 investigator-initiated grants: 47.1%; P30 Cancer Center Support Grants: 44.9%; P50 SPOREs: 9.2%; P01 program projects: 8.4%; U01/U24/U54/UM1/U2C/U19 cooperative agreements and consortia: 17.6%; Training and career awards (T32, F, K, R25): 17.0%; R21, R03, R00, R50 small awards: 10.8%; Intramural (ZIA, ZIC, Z01; CCR and DCEG): 0.2%. Top codes: R01 3,584, P30 3,540, P50 724, P01 664, U01 632, R21 598, T32 562, U54 428, R35 220, U24 211, UM1 204, R00 151.
+
+
+## Correction (2026-09-26): publisher Figshare deposits
+
+A verification pass on the novelty claim found that **BMC/SpringerOpen deposit each "Additional file" to Figshare with its own
+DOI, and PLOS deposits supporting information as one Figshare item per article**; those records reach the NLM Dataset Catalog and
+Google Dataset Search. Our example cohort table (PMC6193287, `40478_2018_613_MOESM2_ESM.xlsx`) therefore already has DOI
+10.6084/m9.figshare.7222268 and an NLM Dataset Catalog record, credited to the Burroughs Wellcome Fund with no NCI grant named.
+By DOI prefix, BMC (10.1186) and PLOS (10.1371) account for about 23% of the files in the app index; the earlier "13.5%" was a
+file-by-file confirmation that missed PLOS's article-level bundles. Nature Portfolio (10.1038, 40% of files), eLife, Elsevier
+and Oncotarget deposit nothing (0 of 32 Nature Communications files matched). Figshare types files by extension, not content.
+None of these records, Figshare-derived or otherwise, appears in the Index of NCI Studies, whose sources remain GEO, SRA,
+dbGaP and curated NCI programs. Wording changed everywhere from "found in no catalogue" to the accurate statement; the net
+estimate now discounts a fifth rather than 13.5% (7,000–11,000 files; 2,500–3,900 papers). DataMed was also found to be
+effectively non-functional and is no longer cited as a live comparator.

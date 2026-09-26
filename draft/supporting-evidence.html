@@ -42,24 +42,24 @@ a{color:#0F6E68;text-decoration:none}
 <tr><td>Leukemia</td><td class="n">261</td><td class="n">45 (17.2%)</td><td class="n">33 (12.6%)</td><td class="n">33</td><td class="n">112</td></tr>
 <tr><td><b>Pooled</b></td><td class="n"><b>1,076</b></td><td class="n"><b>202 (18.8%)</b></td><td class="n"><b>156 (14.5%</b>, CI 12–17%)</td><td class="n"><b>167 (83%)</b></td><td class="n"><b>462</b></td></tr>
 </table>
-<p class="small">*Dataset = largest table ≥ 50 rows × 3 cols, or ≥ 1,000 rows; PDF/Word tables only as numeric grids; review files, reporting summaries and figures excluded. Largest table 152,683 rows. Classifier decisions re-examined on 90 files with the AI assistant, not blind, verdicts published: 60/60 "dataset" calls real; every miss under 50 rows. About half primary measurements, half derived results. Filter check on 500 random papers: 15% reference a repository somewhere; 13.5% of spreadsheet papers already have a Figshare identifier. Net estimate: 2,800–3,900 papers, 8,000–11,000 buried dataset files.</p>
+<p class="small">*Dataset = largest table ≥ 50 rows × 3 cols, or ≥ 1,000 rows; PDF/Word tables only as numeric grids; review files, reporting summaries and figures excluded. Largest table 152,683 rows. Classifier decisions re-examined on 90 files with the AI assistant, not blind, verdicts published: 60/60 "dataset" calls real; every miss under 50 rows. About half primary measurements, half derived results. Filter check on 500 random papers: 15% reference a repository somewhere; about a fifth of files (BMC, PLOS) already have a publisher Figshare DOI. Net estimate: 2,500–3,900 papers, 7,000–11,000 buried dataset files.</p>
 
 <div class="two">
 <div>
 <h2>3. Two live examples a reviewer can open</h2>
 <ul>
-<li><b>121-patient glioblastoma cohort table</b> (sex, age, IDH/TERT, MGMT, ATRX) — <i>Acta Neuropathol Commun</i> 2018, PMC6193287. CC BY.</li>
+<li><b>121-patient glioblastoma cohort table</b> — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, CC BY. Publisher Figshare DOI 10.6084/m9.figshare.7222268 names no NCI grant; absent from NCI's index.</li>
 <li><b>118,273-row drug-screening dataset</b> — <i>Nat Commun</i> 2019, PMC6599391. CC BY.</li>
 </ul>
 <h2>4. Rescued tables put back to work</h2>
 <ul>
-<li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 reproduce the known IDH survival split (validation only). A third rescued table is a 121-patient hospital cohort found in no catalogue (<span class="mono">demo/</span>).</li>
-<li>Verified patient-level tables: ~4,400 patient records, ~500 from institutional cohorts found in no catalogue. <b>All 462 rescued datasets written to a source file in the Index of NCI Studies' exact 27-column curated-source schema</b> (<span class="mono">deliverable/</span>); 8 packaged with DataCite metadata (not uploaded).</li>
+<li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 reproduce the known IDH survival split (validation only); plus the 121-patient hospital cohort (<span class="mono">demo/</span>).</li>
+<li>~4,400 patient records in verified patient-level tables, ~500 from institutional cohorts not in TCGA, GEO or dbGaP. <b>All 462 rescued datasets written to a source file in the Index of NCI Studies' exact 27-column schema</b> (<span class="mono">deliverable/</span>); 8 packaged with DataCite metadata.</li>
 </ul>
 </div>
 <div>
 <h2>5. Code, data, site (open, MIT)</h2>
-<ul><li>Mirrors checked: BioStudies (S-EPMC), Figshare, NLM FAIR-SMART. None classifies, describes, assigns identifiers or lists in NCI's index. Mechanisms (8,040 papers): R01-type 47% · P30 45% · cooperative 18% · training 17% · SPORE 9%.</li></ul>
+<ul><li>Checked: BioStudies, publisher Figshare deposits (BMC, PLOS → NLM Dataset Catalog), NLM FAIR-SMART. None decides dataset-vs-not by content, none is funder-scoped, none reaches NCI's index. Mechanisms (8,040 papers): R01 47% · P30 45% · cooperative 18% · training 17% · SPORE 9%.</li></ul>
 <ul>
 <li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — code, raw census, results, verdicts, packages, INS source file.</li>
 <li><b>Working tool:</b> <a href="https://attachment-rescue.vercel.app/app">attachment-rescue.vercel.app/app</a> — search all 15,458 buried spreadsheets, filter by year/journal/license, look up any PMC ID, open the file. Evidence page: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>

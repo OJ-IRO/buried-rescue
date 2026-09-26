@@ -8,7 +8,7 @@ Outputs: `figure.png`, `pooled_cohort.csv`, `join_stats.json`. Everything runs f
 |---|---|---|
 | A | Commun Biol 2019, PMC6478916, Supplementary Data 1b | 812 TCGA glioma patients: IDH-codel subtype, DNA-methylation subtype, overall survival, vital status, age, grade |
 | B | Genome Med 2021, PMC8136167, sheet F2C-D | 603 TCGA glioma patients: MARCO macrophage expression score, overall survival, death, MGMT, IDH |
-| C | Acta Neuropathol Commun 2018, PMC6193287 | 121 patients from one hospital's own cohort: IDH/TERT status, MGMT, ATRX, follow-up status. Not found in TCGA, GEO, dbGaP or any catalogue. |
+| C | Acta Neuropathol Commun 2018, PMC6193287 | 121 patients from one hospital's own cohort: IDH/TERT status, MGMT, ATRX, follow-up status. Not in TCGA, GEO or dbGaP. Has a publisher-minted Figshare DOI (10.6084/m9.figshare.7222268) whose NLM Dataset Catalog record credits the Burroughs Wellcome Fund, not NCI; absent from the Index of NCI Studies. |
 
 ## What the join shows
 
@@ -22,7 +22,7 @@ Outputs: `figure.png`, `pooled_cohort.csv`, `join_stats.json`. Everything runs f
    DNA-methylation subtypes. Joined, MARCO is higher in Mesenchymal-like and LGm6-GBM tumours than in Classic-like
    ones (n = 197 with both values and a subtype group of at least 8). Modest, but it exists only because two buried files were put side by side.
 4. **An institutional cohort that would otherwise be lost.** Table C is 121 real patients with molecular status and
-   outcome from a single hospital, not found in TCGA, GEO, dbGaP or any catalogue. Its status column groups tumours as
+   outcome from a single hospital, not in TCGA, GEO or dbGaP (it does carry a publisher Figshare DOI, credited to another funder, and is absent from NCI's index). Its status column groups tumours as
    "IDH or TERT mutated" versus "double wild-type", which is a different axis from the IDH split above, and follow-up
    time is not given. 4 of 16 double wild-type versus 18 of 105 mutated patients were deceased at follow-up: too small
    to interpret, shown descriptively only.
