@@ -47,7 +47,7 @@ input[type=search]{flex:1 1 340px;font-size:17px}
 .chip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
 .facets{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;align-items:center}
 .facets .lbl{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);margin-right:4px}
-.count{font-family:var(--mono);font-size:13px;color:var(--ink-2);margin-left:auto}
+.count{font-family:var(--mono);font-size:13px;color:var(--ink-2);margin-left:6px;padding:7px 10px;border:1px dashed var(--rule);border-radius:999px}
 .section-h{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:28px 0 10px;flex-wrap:wrap}
 h2{font-family:var(--display);font-weight:700;font-size:clamp(20px,2.6vw,26px);letter-spacing:-.01em;margin:0}
 .sub{color:var(--ink-2);font-size:15px;margin:0}
@@ -121,11 +121,13 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
 <section class="search" id="search">
   <div class="bar">
     <input id="q" type="search" placeholder="Search buried files… try: survival, proteomics, breast, methylation, cohort" aria-label="Search">
+    <input id="pmc" type="text" placeholder="or a PMC ID, e.g. PMC6193287" aria-label="PMC ID lookup" style="flex:0 1 240px">
+  </div>
+  <div class="bar" style="margin-top:8px">
     <select id="year" aria-label="Year"><option value="">Any year</option></select>
     <select id="lic" aria-label="License"><option value="">Any license</option><option value="CC BY">CC BY</option><option value="CC0">CC0</option><option value="CC BY-NC">CC BY-NC</option><option value="CC BY-NC-ND">CC BY-NC-ND</option></select>
     <select id="sort" aria-label="Sort"><option value="rel">Verified first, then largest</option><option value="size">Largest file</option><option value="new">Newest</option><option value="old">Oldest</option></select>
     <button class="chip" id="onlyv" aria-pressed="false" type="button">Verified only</button>
-    <input id="pmc" type="text" placeholder="PMC ID, e.g. PMC6193287" aria-label="PMC ID lookup" style="flex:0 1 200px">
     <button class="chip" id="clear" type="button">Clear</button>
     <span class="count" id="count"></span>
   </div>
