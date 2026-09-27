@@ -256,3 +256,6 @@ None of these records, Figshare-derived or otherwise, appears in the Index of NC
 dbGaP and curated NCI programs. Wording changed everywhere from "found in no catalogue" to the accurate statement; the net
 estimate now discounts a fifth rather than 13.5% (7,000–11,000 files; 2,500–3,900 papers). DataMed was also found to be
 effectively non-functional and is no longer cited as a live comparator.
+
+
+**Update 2026-09-27:** grant fetch completed for all 26,228 population papers (98% carry an NCI activity code). Full-population mechanism shares: R01, R37, R35 investigator-initiated grants: 42.9%; P30 Cancer Center Support Grants: 46.7%; P50 SPOREs: 8.5%; P01 program projects: 7.2%; U01/U24/U54/UM1/U2C/U19 cooperative agreements and consortia: 19.0%; Training and career awards (T32, F, K, R25): 18.2%; R21, R03, R00, R50 small awards: 10.2%; Intramural (ZIA, ZIC, Z01; CCR and DCEG): 0.1%. `data/mechanisms.json` regenerated.
