@@ -103,7 +103,7 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
 <section class="hero">
   <div>
     <h1>The cancer data is in the <em>attachments.</em></h1>
-    <p class="lede">For years, NCI-funded scientists shared data by attaching spreadsheets to papers. Those files exist, but no catalogue lists them. <strong>This tool searches all of them and opens any one in a click.</strong></p>
+    <p class="lede">For years, NCI-funded scientists shared data by attaching spreadsheets to papers. Those files exist, but no catalogue lists them. <strong>This tool searches all of them, opens any one in a click, and shows what any NCI grant left behind.</strong></p>
     <div class="cta">
       <a class="btn" href="#search">Search the buried data</a>
       <button class="btn sec" id="surprise" type="button">Show me a random verified dataset</button>
@@ -121,7 +121,8 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
 <section class="search" id="search">
   <div class="bar">
     <input id="q" type="search" placeholder="Search buried files… try: survival, proteomics, breast, methylation, cohort" aria-label="Search">
-    <input id="pmc" type="text" placeholder="or a PMC ID, e.g. PMC6193287" aria-label="PMC ID lookup" style="flex:0 1 240px">
+    <input id="pmc" type="text" placeholder="or a PMC ID, e.g. PMC6193287" aria-label="PMC ID lookup" style="flex:0 1 220px">
+    <input id="grant" type="text" placeholder="or an NCI grant, e.g. P30CA016672" aria-label="Grant lookup" style="flex:0 1 240px">
   </div>
   <div class="bar" style="margin-top:8px">
     <select id="year" aria-label="Year"><option value="">Any year</option></select>
@@ -205,7 +206,7 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
     return '<div class="card'+(d.v?' v':'')+'"><div>'+
       '<div class="t">'+esc(d.t||'(untitled)')+'</div>'+
       '<div class="m">'+esc(d.j)+', '+esc(d.y)+' · <span class="mono">'+esc(d.f)+'</span> · '+kb(d.s)+(d.c?' · '+esc(d.c):'')+'</div>'+
-      '<div class="m">'+(d.v?'<span class="tag v">verified dataset</span>':'<span class="tag">unverified attachment</span>')+(d.l?'<span class="tag lic">'+esc(d.l)+'</span>':'')+'<span class="tag">'+esc(d.p)+'</span></div>'+
+      '<div class="m">'+(d.v?'<span class="tag v">verified dataset</span>':'<span class="tag">unverified attachment</span>')+(d.l?'<span class="tag lic">'+esc(d.l)+'</span>':'')+'<span class="tag">'+esc(d.p)+'</span>'+((d.g||[]).slice(0,3).map(function(g){return '<span class="tag">'+esc(g)+'</span>'}).join(''))+'</div>'+
       (d.x?'<div class="x">'+esc(d.x)+'</div>':'')+
       '</div><div class="acts">'+
       '<a class="btn sm" href="'+fileUrl(d.p,d.f)+'" target="_blank" rel="noopener">Open file</a>'+
@@ -221,14 +222,14 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
     $('more').hidden=shown>=filtered.length;
     var papers=new Set(filtered.map(function(d){return d.p})).size;
     $('count').textContent=plural(filtered.length,'file')+' · '+plural(papers,'paper');
-    var pm=$('pmc').value.trim(); $('res-h').textContent=pm?'Buried in '+pm.toUpperCase():($('q').value.trim()?'Results for "'+$('q').value.trim()+'"':'All buried files');
+    var pm=$('pmc').value.trim(), gr=$('grant').value.trim(); $('res-h').textContent=gr?'Left behind by grant '+gr.toUpperCase():(pm?'Buried in '+pm.toUpperCase():($('q').value.trim()?'Results for "'+$('q').value.trim()+'"':'All buried files'));
   }
   function apply(){
-    var q=$('q').value.trim().toLowerCase(), y=$('year').value, l=$('lic').value, ov=$('onlyv').getAttribute('aria-pressed')==='true', pm=$('pmc').value.trim().toUpperCase(), s=$('sort').value;
+    var q=$('q').value.trim().toLowerCase(), y=$('year').value, l=$('lic').value, ov=$('onlyv').getAttribute('aria-pressed')==='true', pm=$('pmc').value.trim().toUpperCase(), s=$('sort').value, gr=$('grant').value.replace(/[\s-]/g,'').toUpperCase();
     if(pm&&!/^PMC/.test(pm))pm='PMC'+pm;
     var terms=q?q.split(/\s+/):[];
     filtered=data.filter(function(d){
-      if(pm&&d.p!==pm)return false; if(ov&&!d.v)return false; if(y&&String(d.y)!==y)return false; if(l&&d.l!==l)return false; if(facetJ&&d.j!==facetJ)return false;
+      if(pm&&d.p!==pm)return false; if(gr&&!(d.g||[]).some(function(x){return x.indexOf(gr)>=0}))return false; if(ov&&!d.v)return false; if(y&&String(d.y)!==y)return false; if(l&&d.l!==l)return false; if(facetJ&&d.j!==facetJ)return false;
       if(terms.length){var hay=(d.t+' '+d.j+' '+d.f+' '+d.c+' '+d.x+' '+d.k).toLowerCase(); for(var i=0;i<terms.length;i++){if(hay.indexOf(terms[i])<0)return false;}}
       return true;
     });
@@ -249,9 +250,9 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
     apply();
   }).catch(function(){$('results').innerHTML='<div class="empty">Could not load the index.</div>'});
   ['q','year','lic','sort'].forEach(function(id){$(id).addEventListener(id==='q'?'input':'change',apply)});
-  $('pmc').addEventListener('input',apply);
+  $('pmc').addEventListener('input',apply); $('grant').addEventListener('input',apply);
   $('onlyv').addEventListener('click',function(){this.setAttribute('aria-pressed',this.getAttribute('aria-pressed')==='true'?'false':'true');apply()});
-  $('clear').addEventListener('click',function(){['q','pmc'].forEach(function(i){$(i).value=''});['year','lic'].forEach(function(i){$(i).value=''});$('sort').value='rel';facetJ='';Array.prototype.forEach.call($('facets').querySelectorAll('.chip'),function(x){x.setAttribute('aria-pressed','false')});$('onlyv').setAttribute('aria-pressed','false');apply()});
+  $('clear').addEventListener('click',function(){['q','pmc','grant'].forEach(function(i){$(i).value=''});['year','lic'].forEach(function(i){$(i).value=''});$('sort').value='rel';facetJ='';Array.prototype.forEach.call($('facets').querySelectorAll('.chip'),function(x){x.setAttribute('aria-pressed','false')});$('onlyv').setAttribute('aria-pressed','false');apply()});
   $('more').addEventListener('click',function(){render(false)});
   $('surprise').addEventListener('click',function(){var v=data.filter(function(d){return d.v}); if(!v.length)return; var d=v[Math.floor(Math.random()*v.length)]; $('clear').click(); $('pmc').value=d.p; apply(); $('search').scrollIntoView({behavior:'smooth'}); var first=$('results').querySelector('.card'); if(first){first.classList.add('hit'); setTimeout(function(){first.classList.remove('hit')},1000);} });
 })();
