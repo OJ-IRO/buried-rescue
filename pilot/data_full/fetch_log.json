@@ -162,5 +162,61 @@
 "PMC5099140": {
 "status": "ok",
 "bytes": 34187
+},
+"PMC5091860": {
+"status": "ok",
+"bytes": 62394
+},
+"PMC5340123": {
+"status": "ok",
+"bytes": 143734
+},
+"PMC5100845": {
+"status": "ok",
+"bytes": 1041932
+},
+"PMC5091766": {
+"status": "ok",
+"bytes": 12510
+},
+"PMC5097387": {
+"status": "ok",
+"bytes": 14119978
+},
+"PMC5094675": {
+"status": "ok",
+"bytes": 4599450
+},
+"PMC5341940": {
+"status": "ok",
+"bytes": 919855
+},
+"PMC5191868": {
+"status": "ok",
+"bytes": 1140630
+},
+"PMC5093336": {
+"status": "ok",
+"bytes": 13851858
+},
+"PMC5346742": {
+"status": "ok",
+"bytes": 2095336
+},
+"PMC5082893": {
+"status": "ok",
+"bytes": 1521345
+},
+"PMC5072613": {
+"status": "ok",
+"bytes": 23077
+},
+"PMC5094737": {
+"status": "ok",
+"bytes": 21723976
+},
+"PMC5087864": {
+"status": "ok",
+"bytes": 5789147
 }
 }
