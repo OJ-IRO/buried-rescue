@@ -218,5 +218,313 @@
 "PMC5087864": {
 "status": "ok",
 "bytes": 5789147
+},
+"PMC5070123": {
+"status": "ok",
+"bytes": 696224
+},
+"PMC5070187": {
+"status": "ok",
+"bytes": 250075
+},
+"PMC5133958": {
+"status": "ok",
+"bytes": 17482
+},
+"PMC5131821": {
+"status": "ok",
+"bytes": 50014827
+},
+"PMC5129827": {
+"status": "ok",
+"bytes": 10475
+},
+"PMC5096717": {
+"status": "ok",
+"bytes": 2363033
+},
+"PMC5051681": {
+"status": "ok",
+"bytes": 2626695
+},
+"PMC5342565": {
+"status": "ok",
+"bytes": 832670
+},
+"PMC5048364": {
+"status": "ok",
+"bytes": 1039618
+},
+"PMC5047744": {
+"status": "ok",
+"bytes": 55859
+},
+"PMC5045598": {
+"status": "ok",
+"bytes": 64869
+},
+"PMC5053503": {
+"status": "ok",
+"bytes": 73697
+},
+"PMC5342598": {
+"status": "ok",
+"bytes": 1030205
+},
+"PMC5051741": {
+"status": "ok",
+"bytes": 87923
+},
+"PMC5341816": {
+"status": "ok",
+"bytes": 1352661
+},
+"PMC5323139": {
+"status": "ok",
+"bytes": 5423739
+},
+"PMC5050262": {
+"status": "ok",
+"bytes": 51799
+},
+"PMC5042546": {
+"status": "ok",
+"bytes": 1989
+},
+"PMC5030764": {
+"status": "ok",
+"bytes": 2199091
+},
+"PMC5030362": {
+"status": "ok",
+"bytes": 199596
+},
+"PMC5026359": {
+"status": "ok",
+"bytes": 78653
+},
+"PMC5295821": {
+"status": "ok",
+"bytes": 194
+},
+"PMC5098034": {
+"status": "ok",
+"bytes": 26163830
+},
+"PMC5036003": {
+"status": "ok",
+"bytes": 3544003
+},
+"PMC5026369": {
+"status": "ok",
+"bytes": 408256
+},
+"PMC5021975": {
+"status": "ok",
+"bytes": 8740
+},
+"PMC5042863": {
+"status": "ok",
+"bytes": 172
+},
+"PMC5094270": {
+"status": "ok",
+"bytes": 44480719
+},
+"PMC5015861": {
+"status": "ok",
+"bytes": 16594
+},
+"PMC5021810": {
+"status": "ok",
+"bytes": 14982513
+},
+"PMC5017699": {
+"status": "ok",
+"bytes": 464398
+},
+"PMC5025164": {
+"status": "ok",
+"bytes": 1917220
+},
+"PMC5021938": {
+"status": "ok",
+"bytes": 11074220
+},
+"PMC5100564": {
+"status": "ok",
+"bytes": 92160
+},
+"PMC5175354": {
+"status": "ok",
+"bytes": 139640
+},
+"PMC5023955": {
+"status": "ok",
+"bytes": 1197761
+},
+"PMC5159542": {
+"status": "ok",
+"bytes": 1165127
+},
+"PMC5016002": {
+"status": "ok",
+"bytes": 450399
+},
+"PMC5015924": {
+"status": "ok",
+"bytes": 75063
+},
+"PMC5094855": {
+"status": "ok",
+"bytes": 117280086
+},
+"PMC5007007": {
+"status": "ok",
+"bytes": 643943
+},
+"PMC5015943": {
+"status": "ok",
+"bytes": 1276546
+},
+"PMC5013668": {
+"status": "ok",
+"bytes": 560463
+},
+"PMC5137434": {
+"status": "ok",
+"bytes": 1639331
+},
+"PMC5288594": {
+"status": "ok",
+"bytes": 5968135
+},
+"PMC5312344": {
+"status": "ok",
+"bytes": 256500
+},
+"PMC5218820": {
+"status": "ok",
+"bytes": 172
+},
+"PMC5066240": {
+"status": "ok",
+"bytes": 33972760
+},
+"PMC5308675": {
+"status": "ok",
+"bytes": 1518827
+},
+"PMC5004806": {
+"status": "ok",
+"bytes": 922957
+},
+"PMC4996454": {
+"status": "ok",
+"bytes": 43943
+},
+"PMC5308647": {
+"status": "ok",
+"bytes": 1476595
+},
+"PMC4996485": {
+"status": "ok",
+"bytes": 593430
+},
+"PMC5000509": {
+"status": "ok",
+"bytes": 414576
+},
+"PMC4999280": {
+"status": "ok",
+"bytes": 3468411
+},
+"PMC4994023": {
+"status": "ok",
+"bytes": 961638
+},
+"PMC4990333": {
+"status": "ok",
+"bytes": 95156
+},
+"PMC5014551": {
+"status": "ok",
+"bytes": 39424
+},
+"PMC5007461": {
+"status": "ok",
+"bytes": 17691305
+},
+"PMC4987139": {
+"status": "ok",
+"bytes": 153830
+},
+"PMC5012858": {
+"status": "ok",
+"bytes": 113946
+},
+"PMC4992167": {
+"status": "ok",
+"bytes": 2570012
+},
+"PMC5042654": {
+"status": "ok",
+"bytes": 239185
+},
+"PMC4990706": {
+"status": "ok",
+"bytes": 15301923
+},
+"PMC5007297": {
+"status": "ok",
+"bytes": 13643076
+},
+"PMC4979999": {
+"status": "ok",
+"bytes": 7689
+},
+"PMC4978920": {
+"status": "ok",
+"bytes": 193617
+},
+"PMC4976927": {
+"status": "ok",
+"bytes": 47988
+},
+"PMC4976892": {
+"status": "ok",
+"bytes": 85511
+},
+"PMC4987297": {
+"status": "ok",
+"bytes": 786367
+},
+"PMC4972316": {
+"status": "ok",
+"bytes": 20064
+},
+"PMC4970746": {
+"status": "ok",
+"bytes": 35961
+},
+"PMC4971524": {
+"status": "ok",
+"bytes": 347915
+},
+"PMC5018094": {
+"status": "ok",
+"bytes": 3562119
+},
+"PMC5226518": {
+"status": "ok",
+"bytes": 112268
+},
+"PMC5288156": {
+"status": "ok",
+"bytes": 1832301
+},
+"PMC5022066": {
+"status": "ok",
+"bytes": 2531715
 }
 }

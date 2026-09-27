@@ -259,3 +259,8 @@ effectively non-functional and is no longer cited as a live comparator.
 
 
 **Update 2026-09-27:** grant fetch completed for all 26,228 population papers (98% carry an NCI activity code). Full-population mechanism shares: R01, R37, R35 investigator-initiated grants: 42.9%; P30 Cancer Center Support Grants: 46.7%; P50 SPOREs: 8.5%; P01 program projects: 7.2%; U01/U24/U54/UM1/U2C/U19 cooperative agreements and consortia: 19.0%; Training and career awards (T32, F, K, R25): 18.2%; R21, R03, R00, R50 small awards: 10.2%; Intramural (ZIA, ZIC, Z01; CCR and DCEG): 0.1%. `data/mechanisms.json` regenerated.
+
+
+## Dollars and NIH-wide scale (2026-09-27)
+
+`reporter_dollars.py`, `data/reporter_dollars.json`, `data/dollars_summary.json`. The 4,759 census papers with a spreadsheet attachment acknowledge **4,242 distinct NCI core projects**; NIH RePORTER parent-award totals for FY2016–2022 sum to **$11.21 billion** (3,433 grants had award rows in that window). Largest: U10CA180886 CHOP $197M (NCTN), U10CA180821 BWH $98M, P30CA008748 MSK $98M, U10CA180868 NRG $97M, P30CA006516 Dana-Farber $90M, P30CA016672 MD Anderson $82M. This is the funding *behind* the papers, not the cost of the datasets; grants fund many outputs. NIH-wide population (same filter, all 24 institutes, 2016–2022): 124,758 papers; at the measured 15–24% spreadsheet rate and 70% dataset threshold, on the order of 50,000 buried dataset files across NIH.
