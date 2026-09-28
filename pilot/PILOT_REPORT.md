@@ -264,3 +264,14 @@ effectively non-functional and is no longer cited as a live comparator.
 ## Dollars and NIH-wide scale (2026-09-27)
 
 `reporter_dollars.py`, `data/reporter_dollars.json`, `data/dollars_summary.json`. The 4,759 census papers with a spreadsheet attachment acknowledge **4,242 distinct NCI core projects**; NIH RePORTER parent-award totals for FY2016–2022 sum to **$11.21 billion** (3,433 grants had award rows in that window). Largest: U10CA180886 CHOP $197M (NCTN), U10CA180821 BWH $98M, P30CA008748 MSK $98M, U10CA180868 NRG $97M, P30CA006516 Dana-Farber $90M, P30CA016672 MD Anderson $82M. This is the funding *behind* the papers, not the cost of the datasets; grants fund many outputs. NIH-wide population (same filter, all 24 institutes, 2016–2022): 124,758 papers; at the measured 15–24% spreadsheet rate and 70% dataset threshold, on the order of 50,000 buried dataset files across NIH.
+
+
+## Full-corpus classification (2026-09-28)
+
+`data_full/`: every attachment of the 4,759 census papers with a spreadsheet was downloaded (4,673 retrieved; 86 over the
+120 MB cap) and classified with the same classifier as the samples. **25,411 files; 9,543 dataset files in 3,736 papers**
+(14.9% of the 25,138 readable population papers, matching the samples' 14.5% native-spreadsheet rate). 7,990 primary,
+1,553 derived; 8,123 (85%) CC BY or CC0. By DOI prefix, 2,208 are in BMC or PLOS papers (publisher Figshare deposit),
+leaving **7,335 with no identifier anywhere**; 3,793 are Nature Portfolio. Largest table 1,321,526 rows. The estimate
+ranges above are superseded by this measurement. The INS deliverable now holds all 9,543 rows; the app marks every
+classified file.

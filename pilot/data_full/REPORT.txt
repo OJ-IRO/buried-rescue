@@ -1,0 +1,40 @@
+
+CANCER: all NCI (full census) | population 4759 papers | sample 4759 | supplements retrieved for 4673
+
+PER PAPER (what is the best thing in its attachments)
+  dataset_large        1927  40.5%
+  dataset_medium       1809  38.0%
+  small_table           602  12.6%
+  no_tabular_data       264   5.5%
+  no_supp_retrieved      86   1.8%
+  tables_only            71   1.5%
+
+  => papers with at least one real dataset file (>=50 rows x 3 cols, or >=1000 rows): 3736 of 4759 = 78.5%
+  => of papers whose supplements were retrieved: 79.9%
+
+PER FILE
+  document              8334  32.8%
+  dataset_medium        5864  23.1%
+  small_table           4262  16.8%
+  dataset_large         3679  14.5%
+  tiny_table             998   3.9%
+  media                  844   3.3%
+  other                  599   2.4%
+  figure_image           395   1.6%
+  empty_or_text          309   1.2%
+  unreadable_table        97   0.4%
+  code                    30   0.1%
+
+DATASET FILES: 9543; kinds: {'numeric': 4273, 'mixed': 2222, 'omics': 2851, 'clinical': 197}
+  largest-table rows: median 395, p90 15861, max 1321526
+  by extension: {'.xlsx': 8235, '.txt': 216, '.xls': 508, '.csv': 377, '.tab': 1, '.docx': 77, '.pdf': 95, '.tsv': 32, '.xlsm': 2}
+  papers with a NATIVE spreadsheet/csv dataset: 3716 (78.1% of sample) | dataset only as a table inside a PDF/DOCX: 20 (0.4%)
+  papers with a PRIMARY-looking dataset (measurements, cohort/sample tables): 3463 (72.8%) | only DERIVED result tables (enrichment, DEG lists, stats): 273 (5.7%)
+  licenses of dataset papers: {'cc by': 3042, 'cc0': 66, 'cc by-nc': 175, 'cc by-nc-nd': 327, 'cc by-nc-sa': 61, 'untagged': 65} | freely re-depositable (cc by / cc0): 3108 of 3736
+
+LICENSES of sampled papers: {'cc by': 3739, 'cc0': 85, 'cc by-nc': 209, 'cc by-nc-nd': 425, 'cc by-nc-sa': 79, 'unknown': 222}
+
+TOP JOURNALS among dataset papers: [('Nat Commun', 745), ('PLoS One', 312), ('Sci Rep', 233), ('Elife', 173), ('Oncotarget', 132), ('PLoS Genet', 87), ('Commun Biol', 84), ('Proc Natl Acad Sci U S A', 74)]
+
+EXTRAPOLATION (rough): 78.5% of 4759 all NCI (full census) papers ~= 3736 papers with rescuable datasets in this cancer alone;
+  (population-level figures: see data/census_summary_v3.json; extrapolation is done in PILOT_REPORT.md)

@@ -208,7 +208,11 @@ def cmd_classify(a):
     s = json.load(open(os.path.join(DATA, "sample.json"))); log = json.load(open(os.path.join(DATA, "fetch_log.json")))
     meta = {p["pmcid"]: p for p in s["papers"]}
     frows = []
-    for pmc, st in log.items():
+    import time as _t; _t0=_t.time(); _n=len(log)
+    for _i,(pmc, st) in enumerate(log.items(),1):
+        if _i % 25 == 0 or _i == _n:
+            _el=_t.time()-_t0; _eta=_el*(_n-_i)/_i/60
+            print(f"[{_i}/{_n}] {_i*100//_n}%  elapsed {int(_el//60)}m  about {int(_eta)}m left", flush=True)
         if st["status"] != "ok": continue
         try: z = zipfile.ZipFile(os.path.join(DATA, "zips", pmc + ".zip"))
         except Exception: continue

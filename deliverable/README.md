@@ -1,6 +1,6 @@
 # Catalogue-ready source file
 
-`ins_source_pmc_supplementary_datasets.tsv` lists the 462 rescued dataset files from the four cancer samples in the
+`ins_source_pmc_supplementary_datasets.tsv` lists all 9,543 dataset files found by classifying every spreadsheet attachment in the full NCI census (4,759 papers; 2026-09-28) in the
 **exact 27-column schema the Index of NCI Studies pipeline (CBIIT/INS-Data) already ingests for its curated sources**
 (same header as `cedcd_datasets_curated.tsv` in INS-Data release 2.4.1). One row per file.
 

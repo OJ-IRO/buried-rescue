@@ -137,7 +137,7 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
   <div class="note">"Open file" goes to the file on PubMed Central (a short "preparing to download" step, then the file). "All files (zip)" fetches the paper's whole supplementary set from Europe PMC. Licenses are the article's as tagged by Europe PMC. Nothing here was uploaded or modified by us.</div>
 </section>
 
-<div class="section-h" id="feat-h"><h2>Three rescues worth a look</h2><p class="sub">Verified by opening the file.</p></div>
+<div class="section-h" id="feat-h"><h2>Three rescues worth a look</h2><p class="sub">Three of 9,543.</p></div>
 <div class="feat" id="feat"></div>
 
 <div class="section-h"><h2 id="res-h">All buried files</h2><p class="sub">Verified datasets first.</p></div>
@@ -149,7 +149,7 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
   <div class="step"><b>01 · Census</b><p>Europe PMC lists every NCI-funded open-access paper from 2016 to 2022 with supplementary files and no text-mined repository accession: 26,228 papers. We read each paper's attachment list. Nothing downloaded.</p></div>
   <div class="step"><b>02 · Open</b><p>Four random samples of 300 papers. Every attachment downloaded and every spreadsheet, CSV, Word and PDF opened. A file counts as a dataset at 50 rows × 3 columns or 1,000 rows.</p></div>
   <div class="step"><b>03 · Check</b><p>90 machine decisions re-examined file by file (not blind; verdicts published). All 60 "dataset" calls were real tables. Five other NIH institutes show the same 15–24% pattern.</p></div>
-  <div class="step"><b>04 · Rescue</b><p>All 462 verified datasets written into the exact 27-column file the Index of NCI Studies loads. Eight packaged with DataCite metadata for deposit. About a fifth of files (BMC, PLOS) already have a publisher Figshare DOI; we link to those rather than duplicate them. The rest of the list is unverified until opened.</p></div>
+  <div class="step"><b>04 · Rescue</b><p>Every attachment of all 4,759 papers opened: 9,543 datasets, all written into the exact 27-column file the Index of NCI Studies loads. About a fifth (BMC, PLOS) already have a publisher Figshare DOI; we link to those rather than duplicate them.</p></div>
 </div>
 
 <footer>Data: Europe PMC full-text attachment lists (census, 2026-09-23) and file-level classification of four 300-paper samples. An independent methods review on 2026-09-23 corrected the population and rates downward; the corrections are documented in the repository. Generative AI assisted with code and text; every number is reproducible.</footer>
@@ -207,7 +207,7 @@ footer{margin-top:32px;font-size:14px;color:var(--ink-2);max-width:78ch}
     return '<div class="card'+(d.v?' v':'')+'"><div>'+
       '<div class="t">'+esc(d.t||'(untitled)')+'</div>'+
       '<div class="m">'+esc(d.j)+', '+esc(d.y)+' · <span class="mono">'+esc(d.f)+'</span> · '+kb(d.s)+(d.c?' · '+esc(d.c):'')+'</div>'+
-      '<div class="m">'+(d.v?'<span class="tag v">verified dataset</span>':'<span class="tag">unverified attachment</span>')+(d.l?'<span class="tag lic">'+esc(d.l)+'</span>':'')+'<span class="tag">'+esc(d.p)+'</span>'+((d.g||[]).slice(0,3).map(function(g){return '<span class="tag">'+esc(g)+'</span>'}).join(''))+'</div>'+
+      '<div class="m">'+(d.v?'<span class="tag v">verified dataset</span>':'<span class="tag">'+(d.x?'not a dataset':'unverified attachment')+'</span>')+(d.l?'<span class="tag lic">'+esc(d.l)+'</span>':'')+'<span class="tag">'+esc(d.p)+'</span>'+((d.g||[]).slice(0,3).map(function(g){return '<span class="tag">'+esc(g)+'</span>'}).join(''))+'</div>'+
       (d.x?'<div class="x">'+esc(d.x)+'</div>':'')+
       '</div><div class="acts">'+
       '<a class="btn sm" href="'+fileUrl(d.p,d.f)+'" target="_blank" rel="noopener">Open file</a>'+
