@@ -286,3 +286,13 @@ machine-negative, order shuffled), extracted locally and judged by the submitter
 proportion table), 1 unsure (#26, a 98-row commercial PCR-array list that would not open; likely a machine false positive).
 Machine-negative: 13 agreed, 2 judged real (#2, #12: tables of 43 and 44 rows, just under the 50-row threshold). The
 classifier errs toward the conservative side, so 9,543 is a floor rather than an overcount.
+
+
+## Second blind human check (2026-09-30)
+
+`human_check_2/`: 30 new files (no overlap with set 1; seed 20260930; 15 machine-positive, 15 machine-negative, shuffled;
+.xls excluded after set 1's unreadable file), judged by hand without the machine labels. **28 of 30 agree (93%; kappa 0.87).**
+Disagreements: #14 (44-row table, machine rejected, rater real) and #29 (53-row pathway-result list, machine real, rater not).
+**Combined with set 1: 54 of 60 agree (90%; kappa 0.83 over the 59 judged).** In 3 of the 5 disagreements the machine was
+stricter. A re-answer of set 1 made after its disputed items had been discussed in the working session is excluded, because
+it was not blind (`human_check/answers_J_same_set.json`, kept for the record).

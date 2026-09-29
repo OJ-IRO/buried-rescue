@@ -22,7 +22,7 @@ We only counted a file as a real dataset if it was big enough for someone to reu
 - **7,335 of them have no permanent link of their own.** Nobody can reliably cite them or find them.
 - The papers they come from credit NCI grants worth **$11.2 billion** (2016 to 2022 awards).
 
-We re-checked 90 of our program's decisions file by file, with our AI assistant. Every file it called a dataset really was one.
+To test our sorting program, we ran two blind checks: a person who was not told its answers judged 60 random files by hand. They agreed with the program on 54 of 60. In most of the disagreements the program had been the stricter one, rejecting tables just short of our size rule, so if anything our count is low.
 
 **It is still happening.** In 2023, NIH introduced a new policy asking scientists to share data properly. But when we checked papers from 2024 and 2025, nearly a quarter still attached spreadsheets instead of putting their data in a proper repository. The problem did not stop. If anything, it is more common.
 
@@ -92,4 +92,4 @@ In short: others describe the problem. We measured it for NCI, prepared the fix 
 
 ## Use of Generative AI
 
-We used generative AI (Anthropic's Claude) to help write and run our analysis code, to help draft and edit this narrative, and to draft the plain-English dataset descriptions. Every number comes from our scripts, which anyone can rerun using public data. The file-by-file check of 90 decisions was done with the AI assistant and is published so others can review it. All decisions about what to claim and recommend are the submitter's own, and the submitter takes full responsibility for the content.
+We used generative AI (Anthropic's Claude) to help write and run our analysis code, to help draft and edit this narrative, and to draft the plain-English dataset descriptions. Every number comes from our scripts, which anyone can rerun using public data. The two blind checks of 60 files were done by hand, by people, without seeing the program's answers; an earlier check of 90 files was done with the AI assistant. All are published so others can review them. All decisions about what to claim and recommend are the submitter's own, and the submitter takes full responsibility for the content.
