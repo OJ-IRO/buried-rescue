@@ -296,3 +296,8 @@ Disagreements: #14 (44-row table, machine rejected, rater real) and #29 (53-row 
 **Combined with set 1: 54 of 60 agree (90%; kappa 0.83 over the 59 judged).** In 3 of the 5 disagreements the machine was
 stricter. A re-answer of set 1 made after its disputed items had been discussed in the working session is excluded, because
 it was not blind (`human_check/answers_J_same_set.json`, kept for the record).
+
+
+## Dollar figure correction (2026-09-30)
+
+The essay attributed $11.2B to the papers the 9,543 datasets come from; $11.2B (4,242 grants) is for all 4,759 spreadsheet papers. For the 3,736 papers that hold a dataset, the grants number 3,598 and their FY2016–2022 parent awards total **$10.27B**. Essay, evidence sheet and site now use $10.3B.
