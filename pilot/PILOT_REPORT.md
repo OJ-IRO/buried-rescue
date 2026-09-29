@@ -275,3 +275,14 @@ effectively non-functional and is no longer cited as a live comparator.
 leaving **7,335 with no identifier anywhere**; 3,793 are Nature Portfolio. Largest table 1,321,526 rows. The estimate
 ranges above are superseded by this measurement. The INS deliverable now holds all 9,543 rows; the app marks every
 classified file.
+
+
+## Blind human check (2026-09-29)
+
+`human_check/`: 30 files drawn at random from the full-corpus classification (seed 20260929; 15 machine-positive, 15
+machine-negative, order shuffled), extracted locally and judged by the submitter without access to the machine labels
+(`key_do_not_open.json`). Answers in `answers_2026-09-29.json`, score in `score.json`.
+**26 of 30 agree (90%); Cohen's kappa 0.79.** Machine-positive: 13 agreed, 1 judged not a dataset (#30, a 74-row cell-type
+proportion table), 1 unsure (#26, a 98-row commercial PCR-array list that would not open; likely a machine false positive).
+Machine-negative: 13 agreed, 2 judged real (#2, #12: tables of 43 and 44 rows, just under the 50-row threshold). The
+classifier errs toward the conservative side, so 9,543 is a floor rather than an overcount.

@@ -9,3 +9,5 @@ __pycache__/
 .vercel/
 human_check/files/
 human_check/key_do_not_open.json
+!human_check/answers_2026-09-29.json
+!human_check/score.json
