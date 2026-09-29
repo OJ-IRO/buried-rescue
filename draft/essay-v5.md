@@ -60,7 +60,13 @@ And we showed the rescued data actually works. We took two hidden tables from tw
 - **Research on the problem.** Earlier studies showed that most papers point to attachments instead of proper repositories, and that permanent links last far longer than ordinary web links.
 - **NCI's own catalogue.** The Index of NCI Studies already collects datasets from major data repositories and already uses automated tools to improve its records. But it collects nothing from paper attachments. Adding one more source is a natural next step for it, not a new system.
 
-**What is new.** No one has taken one funder's published papers, found which attachments are real datasets, described them, given them permanent links, and placed them in that funder's own catalogue. The tools exist. What is new is using them to go back and rescue data that was shared in good faith and then lost.
+**What is new.** Other projects help computers search papers. Ours does three things none of them do.
+
+1. **We measured NCI's own blind spot.** Not "data is hard to find" in general, but a count: NCI grants worth $11.2 billion produced papers holding 9,543 datasets, and 7,335 of them have no permanent link at all. No one has counted this for any funder before. We also showed it is still happening today, and that every NIH institute we checked has the same problem.
+2. **The work is already done, not just proposed.** We opened every file. We proved the rescued data works by combining it into a 1,037-patient result. We built the file NCI's catalogue can load right now. And we put up a live tool where anyone, including a program officer, can type in a grant number and see what data it left behind.
+3. **It is built for NCI.** Other systems serve search engines and programmers. Ours answers the questions NCI's own staff ask: what did our grants produce, where is it, and how do we get it into our own catalogue? And the fix costs almost nothing.
+
+In short: others describe the problem. We measured it for NCI, solved it across every paper, and are handing NCI the result.
 
 **What we are not proposing.** We are not building a new repository or a new catalogue, and we are not replacing NIH's 2023 policy. Attachment Rescue fills in everything published before that policy, and catches what still slips through after it.
 
