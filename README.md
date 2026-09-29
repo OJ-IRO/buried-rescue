@@ -12,7 +12,7 @@ Live site: https://attachment-rescue.vercel.app
 
 | Path | What |
 |---|---|
-| `draft/essay-v4.md`, `draft/Narrative.pdf` | The narrative (four prompts + AI disclosure, ≤2,500 words) |
+| `draft/essay-v5.md`, `draft/Narrative.pdf` | The narrative (four prompts + AI disclosure, ≤2,500 words) |
 | `draft/supporting-evidence.html`, `draft/Supporting_Evidence.pdf` | One-page evidence sheet |
 | `demo/` | Reuse demonstration: three rescued glioma tables joined, pooled survival, cross-table analysis |
 | `pilot/PILOT_REPORT.md` | Method, results, hand check, census, four-cancer replication, corrections after review, NIH-wide census |
