@@ -4,7 +4,7 @@
 
 ---
 
-**In brief.** We checked about 26,000 NCI-funded papers, opened all 25,000 attachments of those carrying spreadsheets, and found 9,543 hidden datasets, 7,335 of them with no permanent link, from papers crediting $10.3 billion in NCI grants. We have already built the fix, a public search tool, and a file NCI's own catalogue can load today.
+**In brief.** We checked about 26,000 NCI-funded papers, opened all 25,000 attachments of those carrying spreadsheets, and found 9,543 hidden datasets, 7,335 of them with no permanent link, from papers crediting $10.3 billion in NCI grants. We have already built the fix, a public search tool, and a file NCI's own catalogue can load today. See it at [attachment-rescue.vercel.app](https://attachment-rescue.vercel.app).
 
 <!--FIG-->
 
@@ -39,7 +39,7 @@ To test our sorting program, we ran two blind checks in which 60 random files we
 5. **List it in NCI's own catalogue**, the Index of NCI Studies, so researchers can search for it.
 6. **Keep it alive** by checking every link each month.
 
-**We already did most of it.** Steps 1 to 3 have been done for every NCI paper we checked. We built a file with all 9,543 datasets in the exact format NCI's catalogue already uses, so adding them is a single upload. We also built a free public search tool, where anyone can look up a paper or an NCI grant and see what data it left behind.
+**We already did most of it.** Steps 1 to 3 have been done for every NCI paper we checked. We built a file with all 9,543 datasets in the exact format NCI's catalogue already uses, so adding them is a single upload. We also built a free public search tool, [attachment-rescue.vercel.app/app](https://attachment-rescue.vercel.app/app), where anyone can look up a paper or an NCI grant and see what data it left behind.
 
 **Intended outcomes.** Every hidden NCI dataset gets a description, a permanent link, and a place in NCI's catalogue; NCI gets a running count of what its grants have shared; and new papers are caught as they appear.
 
@@ -84,7 +84,7 @@ In short: others describe the problem. We measured it for NCI, prepared the fix 
 
 **Partners needed.** Three, all already part of NIH's data ecosystem: NCI's catalogue team at CBIIT, to add the new source; one of the free general-purpose repositories in NIH's Generalist Repository Ecosystem Initiative, to hold copies and issue permanent links; and, optionally, the National Library of Medicine's FAIR-SMART team, whose file conversion could replace ours.
 
-**How others can adopt or adapt it.** The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public.
+**How others can adopt or adapt it.** The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public at [github.com/OJ-IRO/attachment-rescue](https://github.com/OJ-IRO/attachment-rescue).
 
 **Honest limits and how we handle them.**
 

@@ -18,11 +18,12 @@ strong{font-weight:600;color:#0f1715} em{font-style:italic}
 .val{width:88pt;text-align:right;font-size:10.5pt;font-weight:600;font-variant-numeric:tabular-nums}.val span{font-weight:400;color:#4a5753;font-size:9.5pt}
 .gap{height:5pt}.key{display:flex;flex-wrap:wrap;gap:4pt 14pt;margin:4pt 0 0 158pt;font-size:9pt;color:#4a5753}.key i{display:inline-block;width:9pt;height:9pt;border-radius:2px;margin-right:4pt;vertical-align:-1pt}
 .figc{font-size:9pt;color:#4a5753;margin-top:6pt}
+a{color:#0F6E68;text-decoration:underline;text-underline-offset:2px}
 </style></head><body>
 <div class="head"><p class="kicker">NCI Office of Data Sharing Impact Prize · Track 1: Research Output Sharing and Reuse Ideas</p>
 <h1>Attachment Rescue: finding the cancer data NCI already paid for</h1>
 <p class="meta">Submitted by Ochiai, Ojiro · Individual · Narrative, four prompts plus disclosure</p></div>
-<p><strong>In brief.</strong> We checked about 26,000 NCI-funded papers, opened all 25,000 attachments of those carrying spreadsheets, and found 9,543 hidden datasets, 7,335 of them with no permanent link, from papers crediting $10.3 billion in NCI grants. We have already built the fix, a public search tool, and a file NCI's own catalogue can load today.</p>
+<p><strong>In brief.</strong> We checked about 26,000 NCI-funded papers, opened all 25,000 attachments of those carrying spreadsheets, and found 9,543 hidden datasets, 7,335 of them with no permanent link, from papers crediting $10.3 billion in NCI grants. We have already built the fix, a public search tool, and a file NCI's own catalogue can load today. See it at <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a>.</p>
 <div class="fig">
   <div class="figt">What we found</div>
   <div class="row"><div class="lab">NCI papers checked</div><div class="track"><div class="bar b0" style="width:100%"></div></div><div class="val">26,228</div></div>
@@ -56,7 +57,7 @@ strong{font-weight:600;color:#0f1715} em{font-style:italic}
 <li><strong>List it in NCI's own catalogue</strong>, the Index of NCI Studies, so researchers can search for it.</li>
 <li><strong>Keep it alive</strong> by checking every link each month.</li>
 </ol>
-<p><strong>We already did most of it.</strong> Steps 1 to 3 have been done for every NCI paper we checked. We built a file with all 9,543 datasets in the exact format NCI's catalogue already uses, so adding them is a single upload. We also built a free public search tool, where anyone can look up a paper or an NCI grant and see what data it left behind.</p>
+<p><strong>We already did most of it.</strong> Steps 1 to 3 have been done for every NCI paper we checked. We built a file with all 9,543 datasets in the exact format NCI's catalogue already uses, so adding them is a single upload. We also built a free public search tool, <a href="https://attachment-rescue.vercel.app/app">attachment-rescue.vercel.app/app</a>, where anyone can look up a paper or an NCI grant and see what data it left behind.</p>
 <p><strong>Intended outcomes.</strong> Every hidden NCI dataset gets a description, a permanent link, and a place in NCI's catalogue; NCI gets a running count of what its grants have shared; and new papers are caught as they appear.</p>
 <p>And we showed the rescued data actually works. We took two hidden tables from two different papers and joined them into one group of 1,037 patients. The combined data gave the right answer to a well-known question about brain tumor survival. That tells us these files are not junk. They are usable science.</p>
 <h2><span class="eyebrow">Prompt 2</span>Potential Impact on the Cancer Research Community</h2>
@@ -85,7 +86,7 @@ strong{font-weight:600;color:#0f1715} em{font-style:italic}
 <p><strong>How NCI could adopt it.</strong> Every part already exists: the papers are public, free repositories give out permanent links, and NCI's catalogue already accepts new sources. Adopting Attachment Rescue means adding one source. It is a decision, not a construction project.</p>
 <p><strong>What it would cost.</strong> Very little. Our whole run, checking 26,000 papers and opening 25,000 files, took about two days on one laptop. The main human cost is spot-checking descriptions: at about a minute per dataset, the full backlog is roughly 160 hours, or about a tenth of one staff member's year. The catalogue file is already built.</p>
 <p><strong>Partners needed.</strong> Three, all already part of NIH's data ecosystem: NCI's catalogue team at CBIIT, to add the new source; one of the free general-purpose repositories in NIH's Generalist Repository Ecosystem Initiative, to hold copies and issue permanent links; and, optionally, the National Library of Medicine's FAIR-SMART team, whose file conversion could replace ours.</p>
-<p><strong>How others can adopt or adapt it.</strong> The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public.</p>
+<p><strong>How others can adopt or adapt it.</strong> The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public at <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a>.</p>
 <p><strong>Honest limits and how we handle them.</strong></p>
 <ul>
 <li><strong>Permission to copy.</strong> Most of these papers, about four in five, use open licenses that allow copying. For the rest, we link to the original instead of making a copy.</li>
