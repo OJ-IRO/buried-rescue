@@ -7,3 +7,5 @@ __pycache__/
 .DS_Store
 .vercel
 .vercel/
+human_check/files/
+human_check/key_do_not_open.json

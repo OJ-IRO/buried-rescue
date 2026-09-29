@@ -11,14 +11,32 @@ h2{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-weight:700;font-s
 h2 .eyebrow{display:block;font-size:8.5pt;letter-spacing:.12em;text-transform:uppercase;color:#0F6E68;font-weight:600;margin-bottom:2pt}
 p{margin:0 0 8pt;orphans:3;widows:3} ol,ul{margin:0 0 8pt 18pt;padding:0} li{margin:0 0 4pt}
 strong{font-weight:600;color:#0f1715} em{font-style:italic}
+.fig{border:1px solid #cbd2cf;border-radius:6px;padding:9pt 11pt 8pt;margin:4pt 0 12pt;font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;page-break-inside:avoid}
+.figt{font-size:8.5pt;letter-spacing:.12em;text-transform:uppercase;color:#0F6E68;font-weight:600;margin-bottom:6pt}
+.row{display:flex;align-items:center;gap:8pt;margin:3pt 0}.lab{width:150pt;font-size:10pt;color:#141b19}.track{flex:1;display:flex;height:13pt;background:#eef1f0;border-radius:2px;overflow:hidden}
+.bar{height:100%}.b0{background:#9fb3ae}.b1{background:#0F6E68}.b2{background:#0F6E68}.b3{background:#7fb8b3}
+.val{width:88pt;text-align:right;font-size:10.5pt;font-weight:600;font-variant-numeric:tabular-nums}.val span{font-weight:400;color:#4a5753;font-size:9.5pt}
+.gap{height:5pt}.key{display:flex;flex-wrap:wrap;gap:4pt 14pt;margin:4pt 0 0 158pt;font-size:9pt;color:#4a5753}.key i{display:inline-block;width:9pt;height:9pt;border-radius:2px;margin-right:4pt;vertical-align:-1pt}
+.figc{font-size:9pt;color:#4a5753;margin-top:6pt}
 </style></head><body>
 <div class="head"><p class="kicker">NCI Office of Data Sharing Impact Prize · Track 1: Research Output Sharing and Reuse Ideas</p>
 <h1>Attachment Rescue: finding the cancer data NCI already paid for</h1>
 <p class="meta">Submitted by Ochiai, Ojiro · Individual · Narrative, four prompts plus disclosure</p></div>
+<p><strong>In brief.</strong> We checked about 26,000 NCI-funded papers, opened all 25,000 attachments of those carrying spreadsheets, and found 9,543 hidden datasets, 7,335 of them with no permanent link, from papers crediting $11.2 billion in NCI grants. We have already built the fix, a public search tool, and a file NCI's own catalogue can load today.</p>
+<div class="fig">
+  <div class="figt">What we found</div>
+  <div class="row"><div class="lab">NCI papers checked</div><div class="track"><div class="bar b0" style="width:100%"></div></div><div class="val">26,228</div></div>
+  <div class="row"><div class="lab">Papers hiding a real dataset</div><div class="track"><div class="bar b1" style="width:14.2%"></div></div><div class="val">3,736 <span>(1 in 7)</span></div></div>
+  <div class="gap"></div>
+  <div class="row"><div class="lab">Hidden datasets found</div><div class="track"><div class="bar b2" style="width:76.9%"></div><div class="bar b3" style="width:23.1%"></div></div><div class="val">9,543</div></div>
+  <div class="key"><span><i class="b2"></i>7,335 with no permanent link</span><span><i class="b3"></i>2,208 already mirrored by their publisher (BMC, PLOS)</span></div>
+  <div class="figc">Dataset counts come from opening every attachment, not from a sample. None of these 9,543 datasets appears in NCI's catalogue today.</div>
+</div>
+
 <h2><span class="eyebrow">Prompt 1</span>Significance and Approach</h2>
 <p><strong>The problem.</strong> For years, when cancer scientists published a paper, they shared their data by attaching a spreadsheet to it, usually labelled something like "Supplementary Data 3." Patient records, gene measurements, drug test results: all of it went into attachments. Those files still exist. But no data catalogue lists them, no search engine looks inside them, and nothing tells a researcher what they contain. The only way to find one is to already know which paper to open.</p>
 <p>Here is one example. A hospital published a table of 121 brain tumor patients in 2018, with each patient's tumor type and genetic markers. It is exactly what a brain cancer researcher might need. But it sits in an attachment. The publisher did give it a permanent link, yet that record names a different funder, and NCI's own catalogue has never heard of it. Unless you already know that paper exists, you will never find this data.</p>
-<p><strong>How big is it?</strong> We did not guess. We checked every NCI-funded paper from 2016 to 2022 that is free to read and has attachments but does not point to a data repository. That is about 26,000 papers. Then we downloaded their attachments and opened every spreadsheet.</p>
+<p><strong>How big is it?</strong> We did not guess. We checked every NCI-funded paper from 2016 to 2022 that is free to read and has attachments but does not point to a data repository. That is about 26,000 papers. For the 4,759 of them with a spreadsheet attached, we downloaded and opened every attachment, about 25,000 files.</p>
 <p>We only counted a file as a real dataset if it was big enough for someone to reuse, not just the few numbers behind one chart. Even with that strict rule, we found:</p>
 <ul>
 <li><strong>9,543 real datasets</strong>, hidden in about one in seven of those papers.</li>
@@ -27,7 +45,7 @@ strong{font-weight:600;color:#0f1715} em{font-style:italic}
 </ul>
 <p>We re-checked 90 of our program's decisions file by file, with our AI assistant. Every file it called a dataset really was one.</p>
 <p><strong>It is still happening.</strong> In 2023, NIH introduced a new policy asking scientists to share data properly. But when we checked papers from 2024 and 2025, nearly a quarter still attached spreadsheets instead of putting their data in a proper repository. The problem did not stop. If anything, it is more common.</p>
-<p><strong>Who this hurts.</strong> Researchers lose data they could build on. Students, small labs, and newcomers lose most, because they do not have the connections that tell them which paper to open. Patients lose too: the hidden tables in our samples alone describe about 4,400 patients, including about 500 from hospital studies that are not in any major public database. Authors lose credit, because data without a permanent link cannot be cited. And NCI loses the return on research it already paid for.</p>
+<p><strong>Who this hurts.</strong> Researchers lose data they could build on. Students, small labs, and newcomers lose most, because they do not have the connections that tell them which paper to open. Patients lose too: the hidden tables in our samples alone describe about 4,400 patients, including about 500 from hospital studies that are not in the major public cancer databases. Authors lose credit, because data without a permanent link cannot be cited. And NCI loses the return on research it already paid for.</p>
 <p><strong>Why this matters to NCI's goals.</strong> The scientists behind these papers did nothing wrong. They followed the norms of their time. The data still disappeared from view. That is exactly what this challenge means when it says policy alone does not change culture. The Office of Data Sharing has itself named missing descriptions and hard-to-find data as major barriers. An attachment is the clearest example of both: real data with no description, sitting where no one looks. The challenge also says that, for this track, a way to make research outputs publicly available is "explicitly responsive." This is that way.</p>
 <p><strong>Our solution.</strong> We call it Attachment Rescue. It has six steps, and every tool it needs already exists:</p>
 <ol>
@@ -50,17 +68,17 @@ strong{font-weight:600;color:#0f1715} em{font-style:italic}
 <p><strong>What already exists.</strong> We looked hard at what others have built. The pieces exist, but no one has put them together this way.</p>
 <ul>
 <li><strong>Tools that read attachments for computers.</strong> The National Library of Medicine's FAIR-SMART system (2025) collects these attachments and sorts their tables so computer programs can search them. A Swiss team (2025) made 36 million attachments searchable by keyword. These are powerful, but they are built for machines and searches. They do not decide which files are real datasets, do not give them permanent links, and do not put them in NCI's catalogue. FAIR-SMART would make a good starting point for our work, not a replacement.</li>
-<li><strong>Some publishers already give files permanent links.</strong> Two publishers, BMC and PLOS, automatically copy their attachments to a site called Figshare, which gives each one a permanent link. That covers about a fifth of the datasets we found. But those links do not credit NCI grants, and none of them appear in NCI's catalogue. The other publishers, including Nature journals, which hold the largest share, do nothing like this.</li>
+<li><strong>Some publishers already give files permanent links.</strong> Two publishers, BMC and PLOS, automatically copy their attachments to a site called Figshare, which gives each one a permanent link. That covers about a fifth of the datasets we found. But those records carry the publisher's details, which can leave NCI uncredited, as with our brain tumor example, and none of them appear in NCI's catalogue. The other publishers, including Nature journals, which hold the largest share, do nothing like this.</li>
 <li><strong>Research on the problem.</strong> Earlier studies showed that most papers point to attachments instead of proper repositories, and that permanent links last far longer than ordinary web links.</li>
 <li><strong>NCI's own catalogue.</strong> The Index of NCI Studies already collects datasets from major data repositories and already uses automated tools to improve its records. But it collects nothing from paper attachments. Adding one more source is a natural next step for it, not a new system.</li>
 </ul>
 <p><strong>What is new.</strong> Other projects help computers search papers. Ours does three things none of them do.</p>
 <ol>
-<li><strong>We measured NCI's own blind spot.</strong> Not "data is hard to find" in general, but a count: NCI grants worth $11.2 billion produced papers holding 9,543 datasets, and 7,335 of them have no permanent link at all. We could find no one who has counted this for any funder before. We also showed it is still happening today, and that every NIH institute we checked has the same problem.</li>
-<li><strong>The work is already done, not just proposed.</strong> We opened every file. We proved the rescued data works by combining it into a 1,037-patient result. We built the file NCI's catalogue can load right now. And we put up a live tool where anyone, including a program officer, can type in a grant number and see what data it left behind.</li>
+<li><strong>We measured NCI's own blind spot.</strong> Not "data is hard to find" in general, but a count: NCI grants worth $11.2 billion produced papers holding 9,543 datasets, and 7,335 of them have no permanent link of their own. We could find no one who has counted this for any funder before. We also showed it is still happening today, and that every NIH institute we checked has the same problem.</li>
+<li><strong>The work is already done, not just proposed.</strong> We opened all 25,000 attachments. We proved the rescued data works by combining it into a 1,037-patient result. We built the file NCI's catalogue can load right now. And we put up a live tool where anyone, including a program officer, can type in a grant number and see what data it left behind.</li>
 <li><strong>It is built for NCI.</strong> Other systems serve search engines and programmers. Ours answers the questions NCI's own staff ask: what did our grants produce, where is it, and how do we get it into our own catalogue? And the fix costs almost nothing.</li>
 </ol>
-<p>In short: others describe the problem. We measured it for NCI, solved it across every paper, and are handing NCI the result.</p>
+<p>In short: others describe the problem. We measured it for NCI, prepared the fix for every paper, and are handing NCI the result.</p>
 <p><strong>What we are not proposing.</strong> We are not building a new repository or a new catalogue, and we are not replacing NIH's 2023 policy. Attachment Rescue fills in everything published before that policy, and catches what still slips through after it.</p>
 <h2><span class="eyebrow">Prompt 4</span>Transferability, Sustainability, and Feasibility</h2>
 <p><strong>How NCI could adopt it.</strong> Every part already exists and is run by someone else. The papers and attachments are public. Free repositories give out permanent links. NCI's catalogue already accepts new data sources. Adopting Attachment Rescue means adding one new source to that catalogue. It is a decision, not a construction project.</p>
