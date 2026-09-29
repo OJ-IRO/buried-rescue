@@ -2,11 +2,11 @@
 <html lang="en"><head><meta charset="utf-8"><title>Supporting Evidence</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&display=swap">
 <style>
-@page{size:Letter;margin:0.3in 0.4in}
-body{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.12;color:#141b19;margin:0}
+@page{size:Letter;margin:0.28in 0.38in}
+body{font-family:'IBM Plex Sans',Helvetica,Arial,sans-serif;font-size:11pt;line-height:1.1;color:#141b19;margin:0}
 h1{font-size:15pt;margin:0 0 1pt;color:#0f1715;letter-spacing:-.01em}
-.sub{font-size:11pt;color:#4a5753;margin:0 0 7pt;padding-bottom:5pt;border-bottom:2px solid #0F6E68}
-h2{font-size:11pt;margin:6pt 0 2pt;text-transform:uppercase;letter-spacing:.06em;color:#0F6E68}
+.sub{font-size:11pt;color:#4a5753;margin:0 0 4pt;padding-bottom:4pt;border-bottom:2px solid #0F6E68}
+h2{font-size:11pt;margin:5pt 0 2pt;text-transform:uppercase;letter-spacing:.06em;color:#0F6E68}
 table{border-collapse:collapse;width:100%;font-size:11pt}
 th,td{border-bottom:1px solid #d5dbd8;padding:1pt 4pt;text-align:left;vertical-align:top}
 th{font-weight:600;border-bottom:1.5px solid #0f1715;background:#eef4f3}
@@ -20,54 +20,54 @@ a{color:#0F6E68;text-decoration:none}
 .mono{font-family:"IBM Plex Mono",Menlo,monospace;font-size:10.5pt}
 </style></head><body>
 <h1>Supporting Evidence</h1>
-<p class="sub">Attachment Rescue · Track 1 (Ideas) · Ochiai, Ojiro · all figures reproducible from public data with the linked code</p>
+<p class="sub">Attachment Rescue · Track 1 (Ideas) · Ochiai, Ojiro · every figure below can be reproduced from public data with the linked code</p>
 
-<h2>1. Census of the full population (files listed by name, nothing downloaded)</h2>
+<h2>1. The headline: every attachment opened</h2>
 <table>
-<tr><th>NCI-funded open-access papers, 2016–2022, with supplementary files and no data-repository accession</th><th class="n">Count</th></tr>
-<tr><td>Papers in population (Europe PMC, funder "NCI NIH HHS"; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB, GenBank)</td><td class="n">26,228</td></tr>
-<tr><td><b>Papers with at least one spreadsheet / CSV / tab-text attachment</b></td><td class="n"><b>4,759 (18.9%)</b></td></tr>
-<tr><td><b>Spreadsheet / CSV / tab-text files</b> (Excel 14,448; 15.9 GB). Nat Commun 3,201 · eLife 1,440 · PLoS One 1,052 · Sci Rep 682</td><td class="n"><b>15,458</b></td></tr>
-<tr><td>Those papers licensed CC BY or CC0 (files may be re-deposited unchanged)</td><td class="n">3,824 (80%)</td></tr>
-<tr><td><b>Grants behind the spreadsheet papers:</b> 4,242 NCI awards; FY2016–2022 parent awards (NIH RePORTER)</td><td class="n">$11.2B</td></tr>
-<tr><td><b>Same census, 300-paper samples from other institutes:</b> NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI by the same yardstick: 17.9%); those five populations total 63,043 papers; all 24 institutes: 124,758 papers. <b>2024–2025 (post-policy), 600-paper sample: 23.2%</b> still carry a spreadsheet with no accession.</td><td class="n">NIH-wide</td></tr>
+<tr><th>NCI-funded open-access papers, 2016–2022, with attachments and no data-repository accession</th><th class="n">Count</th></tr>
+<tr><td>Papers checked (Europe PMC; no text-mined accession for GEO, SRA, dbGaP, EGA, ArrayExpress, PRIDE, BioProject, MetaboLights, PDB, GenBank)</td><td class="n">26,228</td></tr>
+<tr><td>Papers with a spreadsheet attachment · all their attachments downloaded and opened</td><td class="n">4,759 · 25,411</td></tr>
+<tr><td><b>Real datasets found*</b> (in 3,736 papers, about 1 in 7 of all papers checked; 85% openly licensed)</td><td class="n"><b>9,543</b></td></tr>
+<tr><td><b>…with no permanent identifier of their own</b> (excluding ~2,200 in BMC and PLOS journals, which publishers already mirror to Figshare)</td><td class="n"><b>7,335</b></td></tr>
+<tr><td>NCI grants credited by the papers with spreadsheets · their FY2016–2022 awards (NIH RePORTER)</td><td class="n">4,242 · $11.2B</td></tr>
+<tr><td>Still happening: 2024–2025 papers doing the same (600-paper sample)</td><td class="n">23.2%</td></tr>
+<tr><td>Not just cancer: NHLBI 14.9% · NIDDK 17.6% · NIMH 18.7% · NIA 20.5% · NINDS 23.8% (NCI 17.9%); 124,758 papers across all 24 institutes</td><td class="n">NIH-wide</td></tr>
 </table>
+<p class="small">*Dataset = largest table has at least 50 rows × 3 columns, or 1,000 rows. The strict rule leaves out small tables like the numbers behind one chart.</p>
 
-<h2>2. Four random samples of 300 papers, every attachment opened (124 with a GEO accession excluded)</h2>
+<h2>2. Checking the method: four random samples of 300 papers</h2>
 <table>
-<tr><th>Cancer type</th><th class="n">Analysed</th><th class="n">Any dataset*</th><th class="n">Native spreadsheet</th><th class="n">CC BY / CC0</th><th class="n">Dataset files</th></tr>
-<tr><td>Glioblastoma</td><td class="n">271</td><td class="n">53 (19.6%)</td><td class="n">41 (15.1%)</td><td class="n">41</td><td class="n">106</td></tr>
-<tr><td>Breast cancer</td><td class="n">271</td><td class="n">51 (18.8%)</td><td class="n">41 (15.1%)</td><td class="n">46</td><td class="n">132</td></tr>
-<tr><td>Colorectal cancer</td><td class="n">273</td><td class="n">53 (19.4%)</td><td class="n">41 (15.0%)</td><td class="n">47</td><td class="n">112</td></tr>
-<tr><td>Leukemia</td><td class="n">261</td><td class="n">45 (17.2%)</td><td class="n">33 (12.6%)</td><td class="n">33</td><td class="n">112</td></tr>
-<tr><td><b>Pooled</b></td><td class="n"><b>1,076</b></td><td class="n"><b>202 (18.8%)</b></td><td class="n"><b>156 (14.5%</b>, CI 12–17%)</td><td class="n"><b>167 (83%)</b></td><td class="n"><b>462</b></td></tr>
+<tr><th>Cancer type (papers with a GEO accession excluded)</th><th class="n">Papers</th><th class="n">With a dataset</th><th class="n">As a spreadsheet</th></tr>
+<tr><td>Glioblastoma</td><td class="n">271</td><td class="n">53 (19.6%)</td><td class="n">41 (15.1%)</td></tr>
+<tr><td>Breast cancer</td><td class="n">271</td><td class="n">51 (18.8%)</td><td class="n">41 (15.1%)</td></tr>
+<tr><td>Colorectal cancer</td><td class="n">273</td><td class="n">53 (19.4%)</td><td class="n">41 (15.0%)</td></tr>
+<tr><td>Leukemia</td><td class="n">261</td><td class="n">45 (17.2%)</td><td class="n">33 (12.6%)</td></tr>
+<tr><td><b>All four</b></td><td class="n"><b>1,076</b></td><td class="n"><b>202 (18.8%)</b></td><td class="n"><b>156 (14.5%)</b></td></tr>
 </table>
-<p class="small">*Dataset = largest table ≥ 50 rows × 3 cols, or ≥ 1,000 rows; PDF/Word tables only as numeric grids; review files, reporting summaries and figures excluded. Largest table 152,683 rows. Classifier decisions re-examined on 90 files with the AI assistant, not blind, verdicts published: 60/60 "dataset" calls real; every miss under 50 rows. About half primary measurements, half derived results. Filter check on 500 random papers: 15% reference a repository somewhere; about a fifth of files (BMC, PLOS) already have a publisher Figshare DOI. <b>Full corpus opened: 25,411 attachments → 9,543 dataset files in 3,736 papers; 7,335 with no identifier anywhere.</b></p>
+<p class="small">The four cancers agree within three points; the spreadsheet rate (14.5%) matches the full corpus (14.9%). We re-examined 90 of the classifier's decisions file by file, with the AI assistant, not blind; verdicts are published. All 60 files it called datasets were real data tables; every table it missed was under 50 rows. About half were raw measurements, half analysis results. On 500 random papers, 15% mention a repository the text-mining missed.</p>
 
 <div class="two">
 <div>
-<h2>3. Two examples a reviewer can open</h2>
+<h2>3. Two examples you can open</h2>
 <ul>
-<li><b>121-patient glioblastoma cohort table</b> — <i>Acta Neuropathol Commun</i> 2018, PMC6193287, CC BY. Publisher Figshare DOI 10.6084/m9.figshare.7222268 names no NCI grant; absent from NCI's index.</li>
-<li><b>118,273-row drug screen</b> — <i>Nat Commun</i> 2019, PMC6599391, CC BY; no identifier anywhere.</li>
+<li><b>121-patient brain tumor cohort</b> — <i>Acta Neuropathol Commun</i> 2018, PMC6193287. Publisher Figshare link (10.6084/m9.figshare.7222268) credits a different funder; absent from NCI's index.</li>
+<li><b>118,273-row drug screen</b> — <i>Nat Commun</i> 2019, PMC6599391. No identifier on Figshare or DataCite.</li>
 </ul>
-<h2>4. Rescued tables put back to work</h2>
+<h2>4. Rescued data put back to work</h2>
 <ul>
-<li>Two rescued TCGA-derived glioma tables joined by patient ID: 244 shared patients agree on survival, IDH and age in &gt;96%; pooled 1,037 reproduce the known IDH survival split (validation only) (<span class="mono">demo/</span>).</li>
-<li>~4,400 patient records in verified patient-level tables, ~500 from institutional cohorts not in TCGA, GEO or dbGaP. <b>All 9,543 datasets written to a source file in the Index of NCI Studies' exact 27-column schema</b> (<span class="mono">deliverable/</span>); 8 packaged with DataCite metadata.</li>
+<li>Two rescued brain tumor tables from different papers join on 244 shared patients (over 96% agreement). Pooled to 1,037 patients, they reproduce the known IDH survival difference (validation, not a new finding).</li>
+<li>Sample patient tables: ~4,400 patients, ~500 from hospital cohorts not in TCGA, GEO or dbGaP.</li>
 </ul>
 </div>
 <div>
-<h2>5. Code, data, site (open, MIT)</h2>
-<ul><li>Checked: BioStudies, publisher Figshare deposits (BMC, PLOS → NLM Dataset Catalog), NLM FAIR-SMART. None decides dataset-vs-not by content, none is funder-scoped, none reaches NCI's index. Mechanisms (26,228 papers): R01 43% · P30 47% · cooperative 19% · training 18% · SPORE 9%.</li></ul>
+<h2>5. Built and ready</h2>
 <ul>
-<li>Repository: <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a> — code, raw census, results, verdicts, packages, INS source file.</li>
-<li><b>Working tool:</b> <a href="https://attachment-rescue.vercel.app/app">attachment-rescue.vercel.app/app</a> — search all 15,458 buried spreadsheets, filter by year/journal/license, look up any PMC ID, open the file. Evidence page: <a href="https://attachment-rescue.vercel.app">attachment-rescue.vercel.app</a></li>
-</ul>
-<h2>6. Prior work cited</h2>
-<ul>
-<li>FAIR-SMART (PMID 41066526) · Gobeill 2025 (PMC12371329) · Federer 2018/2022 · Colavizza 2020 · Ghosh 2025 (PMC12782234) · Boja 2026 (PMC13479720) · Boyd 2026 (djag199) · CBIIT INS-Data.</li>
+<li><b>Catalogue file:</b> all 9,543 datasets in the Index of NCI Studies' exact 27-column format (<span class="mono">deliverable/</span>). Eight also packaged with DataCite metadata for deposit.</li>
+<li><b>Working tool:</b> <a href="https://attachment-rescue.vercel.app/app">attachment-rescue.vercel.app/app</a> — search every buried spreadsheet, look up any paper or NCI grant, open the file.</li>
+<li><b>Code and data (MIT):</b> <a href="https://github.com/OJ-IRO/attachment-rescue">github.com/OJ-IRO/attachment-rescue</a></li>
+<li><b>Checked:</b> BioStudies, publisher Figshare deposits, NLM FAIR-SMART, NLM Dataset Catalog. None sorts datasets by content, counts by funder, or reaches NCI's index.</li>
 </ul>
 </div>
 </div>
+<p class="small" style="margin-top:5pt"><b>Cited:</b> FAIR-SMART (PMID 41066526) · Gobeill 2025 (PMC12371329) · Federer 2018, 2022 · Colavizza 2020 · Ghosh 2025 (PMC12782234) · Boja 2026 (PMC13479720) · Boyd 2026 (JNCI djag199) · CBIIT INS-Data.</p>
 </body></html>
