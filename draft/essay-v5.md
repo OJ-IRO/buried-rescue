@@ -22,7 +22,7 @@ We only counted a file as a real dataset if it was big enough for someone to reu
 - **7,335 of them have no permanent link of their own.** Nobody can reliably cite them or find them.
 - The papers they come from credit NCI grants worth **$10.3 billion** (2016 to 2022 awards).
 
-To test our sorting program, we ran two blind checks in which 60 random files were judged by hand, without seeing the program's answers. They agreed with the program on 54 of 60. In most of the disagreements the program had been the stricter one, rejecting tables just short of our size rule, so if anything our count is low.
+To test our sorting program, a person hand-checked 60 random files without seeing the program's answers and agreed with it on nearly all of them. Most of the few differences were borderline tables just under our size rule that the program left out, so if anything our count is low.
 
 **It is still happening.** In 2023, NIH introduced a new policy asking scientists to share data properly. But when we checked papers from 2024 and 2025, nearly a quarter still attached spreadsheets instead of putting their data in a proper repository. The problem did not stop. If anything, it is more common.
 
@@ -98,4 +98,4 @@ In short: others describe the problem. We measured it for NCI, prepared the fix 
 
 ## Use of Generative AI
 
-We used generative AI (Anthropic's Claude) to help write and run our analysis code, draft and edit this narrative, and draft the dataset descriptions. Every number comes from our scripts, which anyone can rerun on public data. No controlled-access NIH data was used; every file analyzed is open access. The two blind checks of 60 files were done by hand, without seeing the program's answers; an earlier check of 90 files was done with the AI assistant. All are published so others can review them. All decisions about what to claim and recommend are the submitter's own, and the submitter takes full responsibility for the content.
+We used generative AI (Anthropic's Claude) to help write and run our analysis code, draft and edit this narrative, and draft the dataset descriptions. Every number comes from our scripts, which anyone can rerun on public data. No controlled-access NIH data was used; every file analyzed is open access. The hand check of 60 files was done by a person, without seeing the program's answers; an earlier check of 90 files was done with the AI assistant. All are published so others can review them. All decisions about what to claim and recommend are the submitter's own, and the submitter takes full responsibility for the content.
