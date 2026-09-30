@@ -1,4 +1,4 @@
-# Attachment Rescue: finding the cancer data NCI already paid for
+# Buried Rescue: finding the cancer data NCI already paid for
 
 **Track 1 (Ideas). Draft v5, 2026-09-29. Not submitted.** Detailed figures and methods are on the Supporting Evidence page and in `pilot/PILOT_REPORT.md`.
 
@@ -30,7 +30,7 @@ To test our sorting program, a person hand-checked 60 random files without seein
 
 **Why this matters to NCI's goals.** The scientists behind these papers followed the norms of their time, and the data still disappeared from view. That is what this challenge means when it says policy alone does not change culture. The Office of Data Sharing has named missing descriptions and hard-to-find data as major barriers. An attachment is the clearest example of both: real data with no description, sitting where no one looks. It also cuts against NCI's commitment to broad, rapid, and equitable sharing. Data that only insiders can find is not broadly shared, it reaches people slowly if at all, and it favors well-connected labs over everyone else. The challenge also says that, for this track, a way to make research outputs publicly available is "explicitly responsive." This is that way.
 
-**Our solution.** We call it Attachment Rescue. It has six steps, and every tool it needs already exists:
+**Our solution.** We call it Buried Rescue. It has six steps, and every tool it needs already exists:
 
 1. **Find** the papers that shared data only as attachments.
 2. **Sort** the attachments into real datasets and everything else.
@@ -66,7 +66,7 @@ And we showed the rescued data works. We joined two hidden tables from two diffe
 - **Research on the problem.** Earlier studies found most papers point to attachments rather than repositories, and that permanent links outlast ordinary web links.
 - **NCI's own catalogue.** The Index of NCI Studies collects datasets from major repositories and already uses automated tools to improve its records, but collects nothing from attachments. Adding one source is a natural next step, not a new system.
 
-**What is new.** Attachment Rescue is a novel combination of existing tools, applied in a new context: one funder's own published record. Other projects help computers search papers. Ours does three things none of them do.
+**What is new.** Buried Rescue is a novel combination of existing tools, applied in a new context: one funder's own published record. Other projects help computers search papers. Ours does three things none of them do.
 
 1. **We measured NCI's own blind spot.** Not "data is hard to find" in general, but a count: NCI grants worth $10.3 billion produced papers holding 9,543 datasets, and 7,335 of them have no permanent link of their own. We could find no one who has counted this for any funder before. We also showed it is still happening today, and that every NIH institute we checked has the same problem.
 2. **The work is already done, not just proposed.** We opened all 25,000 attachments. We proved the rescued data works by combining it into a 1,037-patient result. We built the file NCI's catalogue can load right now. And we put up a live tool where anyone, including a program officer, can type in a grant number and see what data it left behind.
@@ -74,17 +74,17 @@ And we showed the rescued data works. We joined two hidden tables from two diffe
 
 In short: others describe the problem. We measured it for NCI, prepared the fix for every paper, and are handing NCI the result.
 
-**What we are not proposing.** No new repository, no new catalogue, and no replacement for NIH's 2023 policy. Attachment Rescue fills in what came before it and catches what still slips through.
+**What we are not proposing.** No new repository, no new catalogue, and no replacement for NIH's 2023 policy. Buried Rescue fills in what came before it and catches what still slips through.
 
 ## Prompt 4: Transferability, Sustainability, and Feasibility
 
-**How NCI could adopt it.** Every part already exists: the papers are public, free repositories give out permanent links, and NCI's catalogue already accepts new sources. Adopting Attachment Rescue means adding one source. It is a decision, not a construction project.
+**How NCI could adopt it.** Every part already exists: the papers are public, free repositories give out permanent links, and NCI's catalogue already accepts new sources. Adopting Buried Rescue means adding one source. It is a decision, not a construction project.
 
 **What it would cost.** Very little. Our whole run, checking 26,000 papers and opening 25,000 files, took about two days on one laptop. The main human cost is spot-checking descriptions: at about a minute per dataset, the full backlog is roughly 160 hours, or about a tenth of one staff member's year. The catalogue file is already built.
 
 **Partners needed.** Three, all already part of NIH's data ecosystem: NCI's catalogue team at CBIIT, to add the new source; one of the free general-purpose repositories in NIH's Generalist Repository Ecosystem Initiative, to hold copies and issue permanent links; and, optionally, the National Library of Medicine's FAIR-SMART team, whose file conversion could replace ours.
 
-**How others can adopt or adapt it.** The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public at [github.com/OJ-IRO/attachment-rescue](https://github.com/OJ-IRO/attachment-rescue).
+**How others can adopt or adapt it.** The same steps work for any funder or institution by changing one search setting. Another NIH institute can run it on its own grants. A university library can run it on its own researchers' papers. A journal can run it on its back catalogue. Our code and instructions are public at [github.com/OJ-IRO/buried-rescue](https://github.com/OJ-IRO/buried-rescue).
 
 **Honest limits and how we handle them.**
 

@@ -1,4 +1,4 @@
-# Attachment Rescue
+# Buried Rescue
 
 Evidence and working files for a Track 1 (Ideas) entry to the **NCI Office of Data Sharing Impact Prize** (deadline 2026-10-05).
 
